@@ -39,4 +39,4 @@ Giant moray eels reside in the crevices throughout the year. Groups of lionfish 
 
 The coral columns photographed against blue water make attractive wide-angle compositions. The gorgonian fans and moray eel dens reward closer macro work.
 
-*Sources: [Camel Dive Club — Temple Dive Site](https://www.cameldive.com/dive-sites/temple/), [PADI — Temple Dive Site](https://www.padi.com/dive-site/egypt/temple/). Last updated 2026-05-17.*
+*Sources: [Camel Dive Club — Temple Dive Site](https://www.cameldive.com/dive-sites/temple/), [PADI — Temple Dive Site](https://www.padi.com/dive-site/egypt/temple/), [Circle Divers — Temple](https://www.circledivers.com/diving-in-sharm-el-sheikh/dive-sites/temple-local). Re-audited 2026-08-27: added a third independent source (now meets the 3-source validation bar); pinnacle structure, "The Tower" swim-through, and night-diving reputation re-confirmed. Last updated 2026-08-27.*

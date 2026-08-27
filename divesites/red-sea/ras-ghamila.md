@@ -35,4 +35,4 @@ The typical dive begins at the reef edge, works along the plateau at 14–26 m, 
 - Best approached on an incoming tide when plankton-rich water flows onto the reef
 - Combine with other northern Sharm sites on the same boat trip
 
-*Sources: [egypt-liveaboard.com — Ras Ghamila Reef](https://www.egypt-liveaboard.com/dive-sites/ras-ghamila-reef/), [PADI — Ras Ghamila Dive Site](https://www.padi.com/dive-site/egypt/ras-ghamila-2/). Last updated 2026-05-17.*
+*Sources: [egypt-liveaboard.com — Ras Ghamila Reef](https://www.egypt-liveaboard.com/dive-sites/ras-ghamila-reef/), [PADI — Ras Ghamila Dive Site](https://www.padi.com/dive-site/egypt/ras-ghamila-2/), [Camel Dive Club — Ras Ghamila](https://www.cameldive.com/dive-sites/ras-ghamila/). Re-audited 2026-08-27: added a third independent source (now meets the 3-source validation bar); plateau depth, gorgonian density, and current character re-confirmed. Last updated 2026-08-27.*

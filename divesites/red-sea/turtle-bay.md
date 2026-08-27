@@ -40,10 +40,10 @@ The combination of shallow depth, good ambient light, and approachable marine li
 ## Site Information
 
 - **Location**: South of Naama Bay, Sharm El Sheikh area, Gulf of Aqaba
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 26 metres
+- **Maximum Depth**: 26 meters
 
 ---
-*Sources: [Camel Dive Club — Turtle Bay](https://www.cameldive.com/dive-sites/turtle-bay/), [SSI Dive Guide — Turtle Bay](https://www.divessi.com/en/mydiveguide/divesite/turtle-bay-turft-el-shahed-gordon-reef-ras-ghozlani-sheik-coast-diving-center-sharm-sheikh-beach-egypt-10839), [Divers Guide — Turtle Bay Sharm El Sheikh](https://www.divers-guide.com/en/turtle-bay-sharm-el-sheikh). Last updated 2026-05-17.*
+*Sources: [Camel Dive Club — Turtle Bay](https://www.cameldive.com/dive-sites/turtle-bay/), [SSI Dive Guide — Turtle Bay](https://www.divessi.com/en/mydiveguide/divesite/turtle-bay-turft-el-shahed-gordon-reef-ras-ghozlani-sheik-coast-diving-center-sharm-sheikh-beach-egypt-10839), [Divers Guide — Turtle Bay Sharm El Sheikh](https://www.divers-guide.com/en/turtle-bay-sharm-el-sheikh). Re-audited 2026-08-27: fixed an internal contradiction (Site Information listed "Shore entry" while the text and frontmatter correctly describe a boat dive); content re-confirmed. Last updated 2026-08-27.*

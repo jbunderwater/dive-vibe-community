@@ -25,7 +25,7 @@ The Dunraven was an 81.6-metre (267 ft) British steamship of 1,600 GRT, built by
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 28 meters (sources range 25–30m; see Overview)
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: September to May

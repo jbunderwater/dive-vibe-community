@@ -23,7 +23,7 @@ The site takes its name from its role as a calm fallback when the exposed headla
 
 - **Location**: West of Ras Mohammed, Sinai Peninsula, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: Good in calm conditions; can drop sharply in rough weather or southerly current

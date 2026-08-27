@@ -23,9 +23,9 @@ The Canyon is a deep fissure cut into the Sinai reef, running roughly north-sout
 
 - **Location**: Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Cave
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 54 meters (recreational divers should turn around at ~22m; the 52-54m exit is for advanced/guided divers only)
+- **Maximum Depth**: 54 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
 - **Current**: Minimal inside canyon
 - **Best Time**: September to May

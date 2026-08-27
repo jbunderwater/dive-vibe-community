@@ -4562,8 +4562,9 @@
       "sport": "scuba_diving",
       "wreck:date_sunk": "2002-10-17",
       "validated": true,
-      "validation_source": "perplexity_limited",
-      "qa_note": "CORRECTION: Previous description incorrectly stated 'intentionally sunk as artificial reef'. Research indicates vessel caught fire and sank accidentally on 2002-10-17. Not a purpose-scuttled wreck. Remove all references to deliberate scuttling, pre-cut openings, or artificial reef purpose."
+      "validation_source": "divebooker.com,seahorse-marsaalam.com,divechamp.com",
+      "qa_note": "CORRECTION: Previous description incorrectly stated 'intentionally sunk as artificial reef'. Research indicates vessel caught fire and sank accidentally on 2002-10-17. Not a purpose-scuttled wreck. Remove all references to deliberate scuttling, pre-cut openings, or artificial reef purpose.",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -6381,14 +6382,17 @@
     "name": "Marsa Bereika",
     "lat": 27.7874017,
     "lon": 34.2062491,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": true,
+      "validation_source": "redsea-diving.com,dive-the-world.com,cameldive.com",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -6402,7 +6406,10 @@
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": true,
+      "validation_source": "egypt-liveaboard.com,padi.com,cameldive.com",
+      "last_qa_date": "2026-08-27"
     },
     "max_depth": 30
   },
@@ -6424,14 +6431,17 @@
     "name": "Amphoras",
     "lat": 27.8661157,
     "lon": 34.3236011,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": true,
+      "validation_source": "cameldive.com,circledivers.com,divescover.com",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -6452,14 +6462,17 @@
     "name": "Turtle Bay",
     "lat": 27.2695408,
     "lon": 33.8937718,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 26,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": true,
+      "validation_source": "cameldive.com,divessi.com,divers-guide.com",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -6473,7 +6486,10 @@
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": true,
+      "validation_source": "cameldive.com,padi.com,circledivers.com",
+      "last_qa_date": "2026-08-27"
     },
     "max_depth": 20
   },

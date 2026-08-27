@@ -25,7 +25,7 @@ The Salem Express rests on her starboard side on a sandy slope adjacent to Hyndm
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters (sources range 27–32m; see Overview)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)
 - **Current**: Moderate
 - **Best Time**: October to May
