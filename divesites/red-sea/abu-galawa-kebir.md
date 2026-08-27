@@ -32,7 +32,7 @@ Abu Galawa Kebir ("Big Abu Galawa") is a Fury Shoal lagoon site named for the wr
 
 ## Marine Life
 
-The lagoon's calm conditions and the wreck structure create a wildlife-rich environment. Large humphead wrasse frequently shelter near the wreck. Turtles are common lagoon residents. Dense schools of glassfish engulf the wreck superstructure. Grouper, snapper, and moray eels have established territories in the wreck's holds and cavities. The coral garden surrounding the wreck hosts clouds of anthias and butterflyfish.
+Sources describe divers watching for turtles, rays, and octopus in the coral garden on the approach to the wreck, with macro life around the coral-encrusted structure itself. More detailed claims from an earlier version of this page (humphead wrasse, dense glassfish schools, grouper/snapper/moray territories) were not independently confirmed and have been removed.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Penetrating the wreck interior is not recommended without wreck diving certifica
 One of the most photogenic wreck locations in the Red Sea — coral-encrusted wreck in a turquoise lagoon provides extraordinary wide-angle compositions. Glassfish swarming the wreck in sunbeams are an iconic shot. The surrounding coral garden complements the wreck perfectly for a full portfolio. Macro opportunities on the wreck's coral encrustation are also excellent.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Red Sea Diving - Abu Galauwa Small Wreck](https://www.redsea-diving.com/abu-galauwa-small-wreck/), [SeaHorse Diving Club - Abu Galawa Kebir](https://seahorse-marsaalam.com/dive-sites/abu-galawa-kebir/), [Divers Guide - Abu Galawa Kebir](https://www.divers-guide.com/en/abu-galawa-kebir). Re-audited 2026-08-27: this page previously credited a set of generic destination-index links and did not name the wreck. Identified the wreck as the Tien Hsing (Tienstin), a 34m Chinese tugboat that ran aground in 1943; corrected depth to 18m; removed unconfirmed marine life specifics. Last updated 2026-08-27.*
