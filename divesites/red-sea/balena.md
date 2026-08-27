@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Balena
 
-A shallow wreck dive in the Hurghada area of the Egyptian Red Sea, sitting on a sandy seabed at approximately 9 metres.
+The MS Balena is a shallow wreck dive off Hurghada — a former Norwegian mail ship that sank on 12 April 2001 and now rests just a few hundred metres from the beach at a maximum depth of 9 metres.
 
 ## Overview
 
-The Balena wreck rests on a sandy bottom at approximately 9 metres (the OSM record also lists an upper structure at 3 metres, but the confirmed maximum depth per OSM tags is 8.5 metres, here rounded to 9m). The wreck has become encrusted with coral growth and now acts as an artificial reef. The shallow depth means natural light floods the wreck throughout the dive, making it particularly appealing for photography and for divers wanting extended bottom time without decompression concerns. Visibility in the immediate area is typically 10–20 metres. The site is accessed by day boat from Hurghada-area operators.
+Built in Norway in 1952 as a 41-metre mail ship (originally intended for a Djibouti mail route that never materialised due to conflict in Somalia), the vessel was later stationed in Hurghada from 1992 as a liveaboard safari boat. By 1999 she had changed hands again and fallen into disrepair; anchored near the Giftun Village Hotel, she deteriorated further and sank on 12 April 2001. She now rests on a sandy bottom at approximately 9 metres (the OSM record also lists an upper structure at 3 metres). The wreck has become encrusted with coral growth and now acts as an artificial reef, known locally by some operators as "Belinda." The shallow depth means natural light floods the wreck throughout the dive, making it particularly appealing for photography and for divers wanting extended bottom time without decompression concerns. Visibility in the immediate area is typically 10–20 metres. The site is accessed by day boat from Hurghada-area operators.
 
 ## Site Information
 
