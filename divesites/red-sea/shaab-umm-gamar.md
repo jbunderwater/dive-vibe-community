@@ -40,23 +40,18 @@ The dive is generally run along the reef's slope and wall, with the small patrol
 
 ## Entry and Exit
 
-Boat from Hurghada (approximately 60-minute transfer). Combined trips with the main Umm Gamar Island are common — Shaab Umm Gamar is typically the second dive of the day. Entry by giant stride. Current conditions must be assessed before every entry. Deploy an SMB before ascending — current can carry divers away from the reef quickly.
+Boat from Hurghada. Combined trips with the main Umm Gamar Island are common — Shaab Umm Gamar is typically the second dive of the day. Entry by giant stride. Current conditions must be assessed before every entry. Deploy an SMB before ascending — current can carry divers away from the reef quickly.
 
 ## Tips and Recommendations
 
-- Plan this as an afternoon dive for the best chance of grey reef shark encounters — sharks are more active on the reef edge when current is running
-- The patrol boat wreck on the slope is modest in scale but historically interesting and well-colonised
-- Advanced divers with drift experience will find the current-swept eastern wall exceptionally rich in large pelagics
-- In strong current, stay close to the reef rather than drifting into open water
 - Pair with Umm Gamar Island as the first dive of the day for a comprehensive visit to both sites
+- The patrol boat wreck on the slope is modest in scale but historically interesting and well-colonised
+- In strong current, stay close to the reef rather than drifting into open water
+- Advanced Open Water certification and drift-diving comfort are recommended given the site's exposure
 
 ## Safety Considerations
 
-Shaab Umm Gamar is a more demanding dive than the adjacent main island due to its stronger and less predictable currents. Advanced Open Water certification and solid drift diving experience are recommended. The open water around the reef can carry divers significant distances from the boat — SMB use is essential and must be deployed before ascent from any depth. Do not attempt the eastern wall in strong current without drift diving training. Grey reef sharks here are wild and should be observed calmly from a stationary position.
-
-## Photography
-
-Grey reef shark photography in the late afternoon at the reef edge, with current carrying the sharks in a predictable patrol pattern, is the primary photographic attraction. Wide-angle technique with a reef reference in the background and shark in the mid-water is the standard approach. The patrol boat wreck rewards wide-angle shots of the encrusted hull structure with natural light. Free-swimming moray eels actively hunting on the plateau are unusual behaviour that provides compelling action images.
+Shaab Umm Gamar is a more demanding dive than the adjacent main island due to its stronger and less predictable currents. The open water around the reef can carry divers significant distances from the boat — SMB use is essential and must be deployed before ascent from any depth. Do not attempt the wall in strong current without drift diving training.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [PADI - Umm Gamar](https://www.padi.com/dive-site/egypt/umm-gamar/), [Dive the World - Hurghada](https://www.dive-the-world.com/diving-sites-egypt-hurghada.php), [Egypt Liveaboard - Shabruhr/Umm Gamar Reef](https://www.egypt-liveaboard.com/dive-sites/shabruhr-umm-gamar-reef). Re-audited 2026-08-27: this page previously credited a set of generic destination-index links and made specific, unverified claims (grey reef shark timing, moray hunting behaviour, manta timing, plateau depths). Reclassified from "wreck" to "wall" since the patrol boat wreck is a minor feature of a site whose primary character is wall/slope diving; unconfirmed specifics removed. Last updated 2026-08-27.*
