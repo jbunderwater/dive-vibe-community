@@ -32,7 +32,7 @@ Sources describe a wreck at Zabargad Island matching this one's approximate posi
 
 ## Marine Life
 
-Wreck structures in the Red Sea are magnets for marine life, and the Khanka is no exception. Large schools of glassy sweepers fill the interior spaces in shimmering silver clouds. Groupers and humphead wrasse occupy territories around the hull, and moray eels emerge from rusted gaps in the plating. Lionfish are resident along the shaded underside sections. The coral growth across the exterior — soft corals in purple and orange, fan corals, and encrusting hard corals — creates a richly textured surface that attracts nudibranchs, feather stars, and Christmas tree worms visible on close inspection.
+No source consulted confirmed specific marine life for this site. The wreck is reported to be covered in coral and surrounded by reef fish typical of the Zabargad area, but a detailed species list has not been independently verified and is not claimed here.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Wreck penetration should only be attempted by divers with wreck diving training 
 Wide-angle images of the coral-encrusted hull with natural light filtering down from the surface are the signature shot at wreck sites like the Khanka. Schools of glassy sweepers create dramatic interior scenes with a torch for fill light. Close-up shots of the soft coral growth on the hull reveal intricate textures and color.
 
 ---
-*Location corrected to Zabargad Island based on coordinates (23.617°N/36.205°E). Vessel identity unconfirmed — no site-specific sources found. Possible duplicate of "Neptuna" entry at same location. Last updated 2026-06-27.*
+*Sources: [Divingaway - Khanka](https://divingaway.com/en/wreck-88/khanka), [The Scuba News - The Secrets of the Red Sea's Enigmatic Russian Wreck](https://www.thescubanews.com/2023/11/09/the-secrets-of-the-red-seas-enigmatic-russian-wreck/), [Dive the World - Southern Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea-south.php). Re-audited 2026-08-27: location remains Zabargad Island; a probable identification as a Russian MOMA-class (Project 861M) vessel was found in aggregated sources, though this is not confirmed by a single authoritative source, so it is presented as probable, not certain. Possible duplicate of "Neptuna" entry at same location remains unresolved. Last updated 2026-08-27.*
