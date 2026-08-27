@@ -32,7 +32,7 @@ Built by Ardrossan Dockyards Ltd and launched in August 1940 as the Lairds Loch,
 
 ## Marine Life
 
-Schools of glassy sweepers and cardinalfish fill the wreck's interior spaces and overhangs, creating a shimmering silver curtain effect typical of Red Sea wreck diving. Lionfish are consistently present, hovering motionless in the shade of the hull. Large groupers claim the deeper sections. Moray eels are resident throughout the structure, and triggerfish patrol the exterior hull surfaces. The surrounding reef slope hosts the standard Sharm-area community of reef fish, including humphead wrasse and hawksbill turtles grazing the coral nearby.
+No source consulted for this update confirmed specific marine life at this exact site. The destination's regional Red Sea wreck-diving fauna (glassfish, lionfish, moray eels, reef fish) likely applies given the general character of northern Red Sea wrecks, but no site-specific report was found — earlier specific claims have been removed pending confirmation.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Entanglement risks on a degraded wreck include loose metal, netting, and cables.
 The glassy sweeper clouds inside the wreck are excellent wide-angle subjects, especially when backlit by natural light entering from the wreck openings. The exterior hull with coral encrustation provides colourful close-focus wide-angle opportunities. A powerful torch is needed for interior detail shots.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [TourEgypt - The Hey Daroma](https://www.touregypt.net/vdc/heydaroma.htm), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Diving](https://www.redsea-diving.com/sharm-el-sheikh-dive-sites/tiran/). Re-audited 2026-08-27: this page previously credited a set of generic destination-index links and did not identify the ship. Identified as the former Lairds Loch (launched 1940, renamed Hey Daroma 1969), grounded at Nabq in September 1970; removed unconfirmed marine life specifics. Last updated 2026-08-27.*
