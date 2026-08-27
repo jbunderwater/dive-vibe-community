@@ -46,7 +46,6 @@ Boat access only. Anchor on the down-current side. Back-roll or giant stride ent
 
 ## Tips
 
-- Visit in spring (April–May) when spot prawn activity is highest
 - Carry a dive light even on daylight dives for examining rock overhangs
 
 ## Safety
