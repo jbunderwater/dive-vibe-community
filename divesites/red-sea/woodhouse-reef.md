@@ -47,4 +47,4 @@ The "washing machine" downcurrent near the reef saddle can pull divers unexpecte
 - **Maximum Depth**: 28 meters
 
 ---
-*Sources: [Camel Dive Club — Woodhouse Reef](https://www.cameldive.com/dive-sites/woodhouse-reef/), [Seawolf Safari — Woodhouse Reef](https://www.seawolf-safari.de/divesite/woodhouse-reef), [Dive The World — Straits of Tiran](https://www.dive-the-world.com/diving-sites-egypt-straits-of-tiran.php), [Red Sea Diving College — Woodhouse Reef](https://redseacollege.com/%20all-dive-sites/dive-sites/woodhouse-reef-1/). Last updated 2026-05-17.*
+*Sources: [Camel Dive Club — Woodhouse Reef](https://www.cameldive.com/dive-sites/woodhouse-reef/), [Seawolf Safari — Woodhouse Reef](https://www.seawolf-safari.de/divesite/woodhouse-reef), [Dive The World — Straits of Tiran](https://www.dive-the-world.com/diving-sites-egypt-straits-of-tiran.php), [Red Sea Diving College — Woodhouse Reef](https://redseacollege.com/%20all-dive-sites/dive-sites/woodhouse-reef-1/). Re-audited 2026-08-27: no changes needed. Last updated 2026-08-27.*
