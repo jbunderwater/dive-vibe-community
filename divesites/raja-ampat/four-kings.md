@@ -25,7 +25,7 @@ The pinnacles are blanketed in soft coral, sea fans, sponges, and tunicates, pro
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters (shallowest pinnacle top approximately 5–7 meters)
+- **Maximum Depth**: 40 meters
 - **Current**: Can be strong; contributes to the site's productivity
 
 ## Marine Life

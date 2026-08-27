@@ -26,8 +26,8 @@ Lao lao's slope is covered in clusters of pinnacles and coral bommies that offer
 - **Location**: Dampier Strait, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Advanced — strong currents
-- **Maximum Depth**: Sources report a range from 8–25 meters (Raja Ampat Biodiversity Eco Resort) up to 10–36 meters (remoteandafloat.com)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Current**: Strong
 - **Best Time**: October to April; mantas noted "in season" per one source
 

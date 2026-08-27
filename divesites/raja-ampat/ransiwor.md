@@ -25,9 +25,9 @@ Ransiwor is a relaxed site with little to no current and a gentle sloping reef, 
 
 - **Location**: Southern Dampier Strait area, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Sloping reef
-- **Difficulty Level**: Beginner — little to no current, all-levels site
-- **Maximum Depth**: Sources report up to 30 meters
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 30 meters
 - **Current**: Minimal
 - **Best Time**: October to April
 

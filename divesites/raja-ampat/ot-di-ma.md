@@ -28,8 +28,8 @@ This site is described by sources as sitting mid-strait, where tidal currents ca
 - **Location**: Central Dampier Strait, Raja Ampat, West Papua, Indonesia (between Gam and Kri)
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Advanced — sources recommend prior current-diving experience
-- **Maximum Depth**: Sources report 5–25 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 25 meters
 - **Current**: Strong, multi-directional and unpredictable
 - **Best Time**: October to April
 

@@ -25,9 +25,9 @@ Fam Wall drops from a shallow reef crest into a north–south channel roughly 30
 
 - **Location**: Fam Islands, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive (also referred to as Keruo Channel)
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: Sources report 25–30 meters
+- **Maximum Depth**: 25 meters
 - **Current**: Can run strong through the channel; intermediate-to-experienced divers recommended
 - **Best Time**: October to April
 

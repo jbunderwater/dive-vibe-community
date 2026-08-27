@@ -25,9 +25,9 @@ Cross Over sits in the channel between Kri and Koh islands, where currents flowi
 
 - **Location**: Dampier Strait, Raja Ampat, West Papua, Indonesia (between Kri and Koh islands)
 - **Entry Type**: Boat dive
-- **Site Type**: Reef with drift characteristics
-- **Difficulty Level**: Advanced (sources report Intermediate-to-Advanced; currents are unpredictable)
-- **Maximum Depth**: Sources report 5–30 meters
+- **Site Type**: Drift dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Current**: Strong and unpredictable
 - **Best Time**: October to April
 

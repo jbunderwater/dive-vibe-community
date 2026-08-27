@@ -25,9 +25,9 @@ Koh sits close to Cape Kri and shares the productivity of the current-fed Dampie
 
 - **Location**: Dampier Strait, Raja Ampat, West Papua, Indonesia (adjacent to Cape Kri)
 - **Entry Type**: Boat dive
-- **Site Type**: Sloping reef
-- **Difficulty Level**: Beginner — little current
-- **Maximum Depth**: Sources report up to 25–30 meters
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 25 meters
 - **Current**: Mild — notably less current than nearby Cape Kri
 - **Best Time**: October to April
 

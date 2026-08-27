@@ -25,9 +25,9 @@ Chicken Reef is a shallow reef complex that sources rate anywhere from Beginner-
 
 - **Location**: Eastern Dampier Strait, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (divided into four sections)
-- **Difficulty Level**: Intermediate (sources range from Beginner-Intermediate to Intermediate-Advanced depending on section and current)
-- **Maximum Depth**: Sources report up to 30 meters
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 meters
 - **Current**: Variable by section
 - **Best Time**: October to April
 

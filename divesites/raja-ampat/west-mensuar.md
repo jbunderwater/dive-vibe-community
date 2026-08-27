@@ -26,8 +26,8 @@ Sources describe West Mansuar as a deeper dive, with most of the diving concentr
 - **Location**: Western Mansuar Island, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Advanced — deeper dive with current exposure
-- **Maximum Depth**: 35 meters (most diving concentrated 18–25m)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 35 meters
 - **Current**: Current-swept
 - **Best Time**: October to April
 

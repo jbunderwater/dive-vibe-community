@@ -25,9 +25,9 @@ Mayhem delivers its best action when a moderate current is running, bringing lar
 
 - **Location**: Western Dampier Strait, off Gam Island, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount with bommies
-- **Difficulty Level**: Advanced — best dived with moderate current running
-- **Maximum Depth**: Sources report 7–30 meters
+- **Site Type**: Pinnacle/seamount
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Current**: Variable; site is most productive with a little current running
 - **Best Time**: October to April
 

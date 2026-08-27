@@ -28,8 +28,8 @@ Unlike the current-swept pinnacles elsewhere in the eastern Dampier Strait, Mios
 - **Location**: Eastern Dampier Strait, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Beginner — described as an easy, "lazy" all-levels dive
-- **Maximum Depth**: Sources report 2–25 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 25 meters
 - **Current**: Generally mild
 - **Best Time**: October to April
 

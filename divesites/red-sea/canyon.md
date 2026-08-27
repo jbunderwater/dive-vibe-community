@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Canyon
 
-The Canyon is one of Dahab's most celebrated and technically demanding dive sites on the Sinai Peninsula. Located a short distance south of Dahab's famous Blue Hole, the Canyon is a narrow underwater gorge that descends through a labyrinthine passage system down to depths of 45 meters and beyond.
+The Canyon is one of Dahab's most celebrated and technically demanding dive sites on the Sinai Peninsula. Located a short distance south of Dahab's famous Blue Hole, the Canyon is a narrow underwater fissure that descends in stages — through named openings at roughly 14m and 22m — to an exit at 52–54 meters for divers qualified and guided to go that deep.
 
 ## Overview
 
-The Canyon is a complex system of fissures, passages, and chambers cutting through the Sinai reef. Entry is through a narrow entrance on the reef flat, descending rapidly through a chimney to the main canyon floor at around 30–45 meters. The passages twist and open into larger chambers, with dramatic light effects where sunlight penetrates the cracks above. The Canyon is considered a guided dive and should never be attempted without an experienced local guide who knows the specific route. Visibility in the open sections is 20–35 meters; the confined sections require a torch. Water temperatures are 22–28°C.
+The Canyon is a deep fissure cut into the Sinai reef, running roughly north-south and reachable by an easy entry through a shallow sandy lagoon leading to coral gardens. This is a cave/cavern dive, not an open reef dive: divers descend through the entrance at around 20 metres into the fissure and pass a sequence of named openings — a small "forbidden fish bowl" opening at roughly 14 metres, a larger opening around 22 metres, and, for suitably qualified and guided divers, an exit into open water at 52–54 metres. Recreational no-decompression divers typically turn around at the 22-metre opening rather than continuing to the deepest exit. The confined sections are lit by shafts of sunlight penetrating cracks in the reef above, and a large glassfish-filled coral dome sits at the point where the fissure meets the open reef. The Canyon is considered a guided dive and should never be attempted without an experienced local guide who knows the specific route and the correct turnaround point for the diver's certification level. Visibility in the open sections is 20–35 meters; the confined sections require a torch. Water temperatures are 22–28°C.
 
 ## Site Information
 
 - **Location**: Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Cave
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 45 meters
+- **Maximum Depth**: 54 meters (recreational divers should turn around at ~22m; the 52-54m exit is for advanced/guided divers only)
 - **Typical Visibility**: 20–35 meters (65–115 feet)
 - **Current**: Minimal inside canyon
 - **Best Time**: September to May
 
 ## Marine Life
 
-Marine life inside the canyon itself is sparse due to the confined, shaded environment — glassfish swarm in some of the larger chambers, and lionfish inhabit the darker recesses. The reef surrounding the canyon entrance and exit supports the full range of Sinai reef species: anthias, parrotfish, turtles, and moray eels. The sand plateau at depth outside the canyon occasionally hosts rays and crocodilefish.
+The coral dome at the point where the fissure opens is a signature feature, filled with dense clouds of glassfish. Butterflyfish, unicornfish, and Red Sea anthias are found in the coral gardens leading to the entrance. Octopus and pufferfish are reported by local operators around the shallower sections. Marine life inside the confined fissure itself is otherwise sparse, as expected in a shaded, low-light passage — no source consulted confirmed specific pelagic or large-species sightings inside the canyon proper, so none are claimed here.
 
 ## Dive Profile
 
-Shore or boat entry to the reef flat, then descent through the canyon entrance. The classic route follows the main canyon passage down to approximately 30–45 meters, navigates through the connected passages, and exits back to the open reef. Gas management is critical — divers must have sufficient air to complete the passage and ascend. Begin ascent with a minimum 100 bar remaining. Safety stop at 5 meters on the open reef.
+Entry is through a shallow sandy lagoon leading to coral gardens, then descent into the canyon at its largest opening around 20 metres. From there the fissure narrows and deepens: recreational divers typically explore down to the 14m and 22m openings before turning around, while suitably qualified and guided divers can continue to the 52–54 metre exit into open blue water. Gas management is critical — divers must have sufficient air to complete the passage and ascend. Begin ascent with a minimum 100 bar remaining. Safety stop at 5 meters on the open reef.
 
 ## Entry and Exit
 
@@ -59,4 +59,4 @@ The Canyon carries significant hazard risks. Disorientation inside passages, sil
 The canyon interior offers unique photography opportunities — light shafts penetrating cracks, silhouettes in passages, and glassfish clouds in chambers. A wide-angle lens suits the spatial drama. Good torch technique is essential to illuminate subjects without creating backscatter in confined spaces.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [PADI - The Canyon](https://www.padi.com/dive-site/egypt/the-canyon-8/), [Circle Divers - Canyon Dahab](https://www.circledivers.com/diving-in-dahab/dive-sites/canyon), [Girls That Scuba - Best Dive Sites in Dahab](https://www.girlsthatscuba.com/scuba-diving-in-dahab/). Re-audited 2026-08-27: this page previously credited a set of generic destination-index links that were not actually site-specific. Reclassified from "reef" to "cave" (the site is a canyon/fissure dive, not open reef) and corrected the depth profile with the specific named openings (14m, 22m, 52-54m) that sources consistently describe. Last updated 2026-08-27.*
