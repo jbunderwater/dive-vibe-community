@@ -5,7 +5,7 @@ lng: 33.9177183
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: wreck
+siteType: wall
 ref: null
 osmId: 663869804
 addedBy: osm_import
