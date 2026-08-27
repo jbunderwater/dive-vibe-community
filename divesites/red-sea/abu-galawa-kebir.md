@@ -3,7 +3,7 @@ name: Abu Galawa Kebir
 lat: 24.2286658
 lng: 35.5727769
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 18
 entryType: boat
 siteType: wreck
 ref: null
@@ -17,7 +17,7 @@ Abu Galawa Kebir is a wreck dive site in the Fury Shoal area of the southern Red
 
 ## Overview
 
-Abu Galawa Kebir ("Big Abu Galawa") is a Fury Shoal lagoon site containing a historic wreck set within a stunning coral landscape. The wreck at Abu Galawa Kebir rests in a shallow, sheltered lagoon formed by the encircling reef, making this an unusual combination of wreck diving and pristine coral garden in one location. The Fury Shoal lagoons are iconic Red Sea dive sites — the enclosing reefs create glass-calm conditions even when seas outside are rough, and the coral quality inside the lagoon is exceptional. The wreck itself has become heavily colonised by corals and provides a fascinating habitat structure on top of the natural reef appeal.
+Abu Galawa Kebir ("Big Abu Galawa") is a Fury Shoal lagoon site named for the wreck of the Tien Hsing (also recorded as Tienstin), a 34-metre Chinese merchant tugboat that ran aground here in 1943. The wreck rests at an easy 18 metres in the shallow, sheltered lagoon formed by the encircling reef, combining wreck diving with a pristine coral garden in one location. The Fury Shoal lagoons are iconic Red Sea dive sites — the enclosing reefs create calm conditions even when seas outside are rough, and the coral quality inside the lagoon is exceptional, including some of the Red Sea's oldest continuous Porites and tabular Acropora colonies. The wreck itself is now completely encrusted in soft corals.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Abu Galawa Kebir ("Big Abu Galawa") is a Fury Shoal lagoon site containing a his
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 25–40 meters inside lagoon
 - **Current**: Minimal within lagoon; stronger on outer reef
 - **Best Time**: October to April
