@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Hey Daroma
 
-Hey Daroma is a wreck dive in the northern Egyptian Red Sea near Sharm el-Sheikh, the remains of a vessel that foundered in the waters of the Tiran/Sharm corridor and now lies on the reef slope at accessible depths.
+Hey Daroma is a wreck dive near Nabq in the Straits of Tiran area, the remains of a British-built general cargo ship that ran aground in 1970 and now lies on the reef slope in an area considered somewhat off the beaten track.
 
 ## Overview
 
-The northern Red Sea near Sharm el-Sheikh is a historically active shipping lane, and the reefs and shallows have claimed several vessels over the centuries. Hey Daroma is one of these casualties — a wreck that settled on the reef slope at depths of 5–20 meters, accessible to intermediate divers on day trips from Sharm el-Sheikh. The vessel has been encrusted with coral growth over the years, and the structure now functions as an artificial reef that supports a distinct community of wreck-dwelling species. The wreck is positioned so that both the shallow upper sections and the deeper hull base can be explored in a single dive, offering a varied profile.
+Built by Ardrossan Dockyards Ltd and launched in August 1940 as the Lairds Loch, the ship was renamed Hey Daroma in 1969. She displaced 1,736 tonnes and measured 83.8 x 12.5 metres with a 3.6-metre draught. In September 1970 she ran aground on the reef at Nabq; the crew were rescued safely, and several attempts were made to refloat her — including using tractors to try to push the wreck off the reef — before she was abandoned as a constructive total loss. The site is less frequently dived than the major Sharm/Tiran wrecks, and sources note conflicting reports about how consistently diveable it currently is — check current conditions with an operator before planning a dive here.
 
 ## Site Information
 
