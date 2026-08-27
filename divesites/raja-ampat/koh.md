@@ -3,7 +3,7 @@ name: Koh
 lat: -0.5529745
 lng: 130.6979979
 difficulty: Beginner
-maxDepth: 12
+maxDepth: 25
 entryType: boat
 siteType: reef
 ref: null
@@ -13,50 +13,35 @@ addedBy: osm_import
 
 ## Koh
 
-Koh is a shallow reef dive in the eastern Dampier Strait near the Mansuar Island area, an accessible beginner and snorkeler-friendly site offering a sunlit coral garden at modest depths and a pleasant introduction to Raja Ampat reef diving.
+Koh (Koh Island) is a gentle, beginner-friendly sloping reef just off Cape Kri in the Dampier Strait, offering a relaxed alternative to Cape Kri's stronger currents.
 
 ## Overview
 
-Koh is a shallow reef site ideally suited to new divers, snorkelers, and those who simply want to enjoy a relaxed dive in Raja Ampat's extraordinarily biodiverse waters without depth or current challenges. The reef sits in clear, warm water at depths rarely exceeding 12 meters, making it an excellent location for those building experience, for surface intervals, or as a between-dive snorkel for liveaboard guests. Despite its modest depth, the reef reflects Raja Ampat's remarkable marine richness — hard coral coverage is good, and the fish life is diverse. Water temperature averages 27–29°C with excellent visibility in the shallows.
+Koh sits close to Cape Kri and shares the productivity of the current-fed Dampier Strait, but with notably less current than its famous neighbor, making it accessible to less experienced divers. Water temperature averages 27–29°C.
+
+**Correction (2026-08-27 initial validation):** previous content on this page (specific claims about clownfish colony counts, "golden zone" photography detail) was unsourced template text. Maximum depth has been corrected from 12m to 25m to match sourced information — Raja Ampat Biodiversity Eco Resort reports a 5–30m range, and another source specifically cites a 25m maximum; the 12m figure previously listed does not appear in any source found. Difficulty (Beginner) is retained as-is; multiple sources confirm this rating.
 
 ## Site Information
 
-- **Location**: Raja Ampat, West Papua, Indonesia
+- **Location**: Dampier Strait, Raja Ampat, West Papua, Indonesia (adjacent to Cape Kri)
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 15–25 meters (50–80 feet)
-- **Current**: Typically mild; protected location
-- **Best Time**: Year-round; excellent snorkeling site
+- **Site Type**: Sloping reef
+- **Difficulty Level**: Beginner — little current
+- **Maximum Depth**: Sources report up to 25–30 meters
+- **Current**: Mild — notably less current than nearby Cape Kri
+- **Best Time**: October to April
 
 ## Marine Life
 
-The shallow reef supports colorful hard coral formations — branching Acropora, brain corals, and plate corals — with a vibrant community of reef fish. Clownfish are resident in several anemone colonies. Schools of anthias hover above every coral head. Parrotfish, surgeonfish, and butterflyfish pairs are abundant. Sea turtles regularly forage on the reef flat. The shallow water means excellent natural light throughout the dive, making identification and photography easy.
-
-## Dive Profile
-
-A shallow, flat dive profile at 5–12 meters. Begin at the reef edge and drift slowly across the coral garden, spending time at each coral formation before moving on. There is no need to descend deep — the best life is in the 3–10 meter range where light is abundant. Safety stop in the shallows is effortless. Maximum dive time is only limited by air consumption in the shallows, which is typically excellent.
+Sources confirmed at this specific site (dive-the-world.com, rajaampatbiodiversity.com, goatsontheroad.com): peacock mantis shrimp, lobsters, and extensive hard coral cover; large schools of fish, benefiting from the same current system that feeds Cape Kri without the strongest of Cape Kri's currents.
 
 ## Entry and Exit
 
-Boat access from eastern Dampier Strait operators or as an add-on from nearby dive sites. Calm, protected waters make entry and exit easy. The shallow reef top makes back-roll entry important to avoid landing on coral.
-
-## Tips and Recommendations
-
-- Excellent as a surface interval snorkel or as a first dive for beginners in Raja Ampat
-- The shallow conditions make photography easy — natural light is abundant at all depths
-- Look in every anemone for resident clownfish pairs — multiple species are present
-- Sea turtles are often approachable at this site — approach slowly and avoid chasing
-- Combine with deeper sites nearby for a full day of contrasting dive experiences
+Boat access from Dampier Strait operators. Entry via giant stride. Calm conditions relative to Cape Kri make this a good option when currents are running too strong at the marquee sites nearby.
 
 ## Safety Considerations
 
-One of Raja Ampat's safest dive sites. The main consideration is avoiding coral contact on the shallow reef flat during entry and exit. No significant current or depth hazards. Standard safety stop applies even at shallow depths.
-
-## Photography
-
-Excellent conditions for natural light reef photography. The shallow depth (3–12 meters) puts subjects in the "golden zone" for ambient light. Wide-angle coral garden shots, clownfish portraits in their anemones, and sea turtle encounters are the photographic highlights. No strobe is needed in the upper 8 meters on sunny mornings.
+One of the gentler sites in the Cape Kri area. Standard reef-diving protocols apply.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [Dive The World](https://www.dive-the-world.com/diving-sites-indonesia-raja-ampat.php), [Raja Ampat Biodiversity Eco Resort](https://rajaampatbiodiversity.com/raja-ampat-dive-sites/), [Goats On The Road](https://www.goatsontheroad.com/diving-in-raja-ampat/). Last updated 2026-08-27.*
