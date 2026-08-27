@@ -3,9 +3,9 @@ name: Canyon
 lat: 28.554359
 lng: 34.5212059
 difficulty: Advanced
-maxDepth: 45
+maxDepth: 54
 entryType: boat
-siteType: reef
+siteType: cave
 ref: null
 osmId: 663869872
 addedBy: osm_import
