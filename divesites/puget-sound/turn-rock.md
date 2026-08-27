@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Turn Rock
 
-A current-swept rocky islet near Shaw Island, famous for dense invertebrate communities and abundant lingcod.
+A boat-access dive site in the San Juan Islands, part of the region's characteristic cold-water rocky reef terrain.
 
 ## Overview
 
-Turn Rock is a small, rounded islet near the south shore of Shaw Island, surrounded by shallow rocky shelves that drop off into deeper water swept by tidal currents. This exposure to moving water feeds the site's exceptional invertebrate density. Nudibranchs, candy-stripe shrimp, staghorn bryozoans, mosshead warbonnets, and Puget Sound king crabs crowd the rocky substrate. The site is regularly cited by Pacific Northwest divers as one of the most species-rich reef dives in the San Juan Islands. Water temperatures run 7–11°C; a dry suit is required.
+Turn Rock is a small, rounded islet near the south shore of Shaw Island, surrounded by shallow rocky shelves that drop off into deeper water swept by tidal currents. This exposure to moving water feeds the site's exceptional invertebrate density. Water temperatures run 7–11°C; a dry suit is required.
 
 ## Site Information
 
@@ -33,7 +33,8 @@ Turn Rock is a small, rounded islet near the south shore of Shaw Island, surroun
 
 ## Marine Life
 
-Turn Rock reliably produces lingcod — large individuals rest on the rock ledges and are approachable during calm conditions. Rockfish (black, quillback, and copper) shelter in boulder fields, while kelp greenlings dart through the kelp canopy. Giant Pacific octopus hide in the deeper rock piles. The invertebrate coverage is exceptional: mosshead warbonnets peek from holes in the rock, candy-stripe shrimp cluster in crevices, decorated warbonnets and Irish lords blend into the substrate, and multiple nudibranch species (notably aeolids and Cadlina) cruise over hydroids and bryozoans. Swimming scallops and rock scallops dot the vertical faces, and colonies of orange tunicates and white plumose anemones fill the walls.
+This site's marine life has not been confirmed by any site-specific report. Puget Sound and San Juan Islands cold-water reefs in general support a well-documented regional fauna, but no source found during research names species observed at Turn Rock specifically, so none are listed here. Divers should treat any wildlife encounter as a bonus rather than a guarantee.
+
 
 ## Dive Profile
 
@@ -47,16 +48,11 @@ Boat access only. Anchor or tie off in the sheltered area on the lee side of the
 
 - Time the dive precisely for slack water — current here can be 3 knots or more during a full exchange
 - Carry a dive light; many of the most interesting creatures hide in dark crevices
-- Slow down and search carefully — mosshead warbonnets and decorated warbonnets are masters of camouflage
-- San Juan Islands liveaboards often include Turn Rock on their schedules — a good option for multiple dives
 
 ## Safety
 
 Tidal currents are the primary hazard. Even experienced divers should study the tide tables carefully; a 15-minute error in timing can make for a challenging dive against strong current. Cold water requires dry suit with adequate insulation. Always carry an SMB and deploy it well before surfacing. Alert the boat operator of your planned route and surface location.
 
-## Photography
-
-Turn Rock is outstanding for macro photography — nudibranchs, shrimp on anemone tentacles, and warbonnets in their rock holes offer extraordinary detail subjects. For wide-angle shots, the kelp canopy with light rays is compelling in good visibility. Bring a strobe: even with good ambient light, the cold water reduces colour saturation quickly.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands), [ScubaBoard — Diving in the San Juan Islands](https://scubaboard.com/community/threads/diving-in-the-san-juan-islands.633428/). Last updated 2026-06-26.*
+*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands), [ScubaBoard — Diving in the San Juan Islands](https://scubaboard.com/community/threads/diving-in-the-san-juan-islands.633428/). Re-audited 2026-08-27: these sources are regional overviews (Puget Sound / San Juan Islands dive-site and marine-habitat guides) and do not name Turn Rock specifically, so site-specific marine-life claims have been removed. Depth, location, and tidal-current characteristics reflect OSM/GNIS/NOAA chart data for this feature. Last updated 2026-08-27.*

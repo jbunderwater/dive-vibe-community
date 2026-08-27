@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Hey Daroma
 
-Hey Daroma is a wreck dive in the northern Egyptian Red Sea near Sharm el-Sheikh, the remains of a vessel that foundered in the waters of the Tiran/Sharm corridor and now lies on the reef slope at accessible depths.
+Hey Daroma is a wreck dive near Nabq in the Straits of Tiran area, the remains of a British-built general cargo ship that ran aground in 1970 and now lies on the reef slope in an area considered somewhat off the beaten track.
 
 ## Overview
 
-The northern Red Sea near Sharm el-Sheikh is a historically active shipping lane, and the reefs and shallows have claimed several vessels over the centuries. Hey Daroma is one of these casualties — a wreck that settled on the reef slope at depths of 5–20 meters, accessible to intermediate divers on day trips from Sharm el-Sheikh. The vessel has been encrusted with coral growth over the years, and the structure now functions as an artificial reef that supports a distinct community of wreck-dwelling species. The wreck is positioned so that both the shallow upper sections and the deeper hull base can be explored in a single dive, offering a varied profile.
+Built by Ardrossan Dockyards Ltd and launched in August 1940 as the Lairds Loch, the ship was renamed Hey Daroma in 1969. She displaced 1,736 tonnes and measured 83.8 x 12.5 metres with a 3.6-metre draught. In September 1970 she ran aground on the reef at Nabq; the crew were rescued safely, and several attempts were made to refloat her — including using tractors to try to push the wreck off the reef — before she was abandoned as a constructive total loss. The site is less frequently dived than the major Sharm/Tiran wrecks, and sources note conflicting reports about how consistently diveable it currently is — check current conditions with an operator before planning a dive here.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ The northern Red Sea near Sharm el-Sheikh is a historically active shipping lane
 
 ## Marine Life
 
-Schools of glassy sweepers and cardinalfish fill the wreck's interior spaces and overhangs, creating a shimmering silver curtain effect typical of Red Sea wreck diving. Lionfish are consistently present, hovering motionless in the shade of the hull. Large groupers claim the deeper sections. Moray eels are resident throughout the structure, and triggerfish patrol the exterior hull surfaces. The surrounding reef slope hosts the standard Sharm-area community of reef fish, including humphead wrasse and hawksbill turtles grazing the coral nearby.
+No source consulted for this update confirmed specific marine life at this exact site. The destination's regional Red Sea wreck-diving fauna (glassfish, lionfish, moray eels, reef fish) likely applies given the general character of northern Red Sea wrecks, but no site-specific report was found — earlier specific claims have been removed pending confirmation.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Entanglement risks on a degraded wreck include loose metal, netting, and cables.
 The glassy sweeper clouds inside the wreck are excellent wide-angle subjects, especially when backlit by natural light entering from the wreck openings. The exterior hull with coral encrustation provides colourful close-focus wide-angle opportunities. A powerful torch is needed for interior detail shots.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [TourEgypt - The Hey Daroma](https://www.touregypt.net/vdc/heydaroma.htm), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Diving](https://www.redsea-diving.com/sharm-el-sheikh-dive-sites/tiran/). Re-audited 2026-08-27: this page previously credited a set of generic destination-index links and did not identify the ship. Identified as the former Lairds Loch (launched 1940, renamed Hey Daroma 1969), grounded at Nabq in September 1970; removed unconfirmed marine life specifics. Last updated 2026-08-27.*

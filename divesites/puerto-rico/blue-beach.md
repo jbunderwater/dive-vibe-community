@@ -33,7 +33,7 @@ Blue Beach (Playa Azul) is one of the series of beaches on Vieques Island's sout
 
 ## Marine Life
 
-The site is primarily known as a snorkelling and shallow dive location. The reef sections support parrotfish, angelfish, butterfly fish, and hawksbill turtles — the latter are documented at this site by vieques.com and local operators. The southern Vieques coast is significant nesting habitat for hawksbill turtles. Eagle ray sightings are reported. Southern stingrays and spiny lobster are likely on the adjacent sandy and rocky substrate, though specific confirmation for Blue Beach is limited. The shallow reef is described as having a mix of healthy coral on the right side of the bay.
+The site is primarily known as a snorkelling and shallow dive location. Vieques.com identifies Blue Beach as Bahía de la Chiva and describes it as having "waters full of life and a long reef" without naming specific species for this beach; the eagle ray and hawksbill turtle sightings it documents are given for Vieques' snorkeling beaches generally rather than confirmed at Blue Beach specifically. The southern Vieques coast is significant nesting habitat for hawksbill turtles regionally. Southern stingrays and spiny lobster are likely on the adjacent sandy and rocky substrate, though specific confirmation for Blue Beach is limited. The shallow reef is described as having a mix of healthy coral on the right side of the bay.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ Blue Beach's calm, shallow water and reliable turtle encounters make it a simple
 - US Fish and Wildlife Service Vieques National Wildlife Refuge: administers access to the east end beaches
 
 ---
-*Sources: [Vieques.com – Snorkeling](https://vieques.com/island-puerto-rico-snorkeling/), [PRDayTrips – Vieques Scuba Diving](https://www.puertoricodaytrips.com/vieques-scuba-diving/), [Pure Adventure PR – Vieques Snorkel Tour](https://pureadventurepr.com/tour/vieques-island-snorkel-beach-tour/). Last updated 2026-06-26.*
+*Sources: [Vieques.com – Snorkeling](https://vieques.com/island-puerto-rico-snorkeling/), [PRDayTrips – Vieques Scuba Diving](https://www.puertoricodaytrips.com/vieques-scuba-diving/), [Pure Adventure PR – Vieques Snorkel Tour](https://pureadventurepr.com/tour/vieques-island-snorkel-beach-tour/). Re-audited 2026-08-27: clarified that Vieques.com's eagle ray/turtle mentions are general to Vieques snorkeling beaches rather than confirmed at Blue Beach specifically. Last updated 2026-08-27.*

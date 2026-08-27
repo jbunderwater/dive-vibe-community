@@ -11,7 +11,8 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "paradisescubasnorkelingpr.com, zentacle.com, puertoricodaytrips.com, caribdiveguide.com"
+      "validation_source": "paradisescubasnorkelingpr.com, zentacle.com, puertoricodaytrips.com, caribdiveguide.com",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -26,7 +27,8 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "zentacle.com, scubaboard.com, aquaticapr.com, scubadiving.com"
+      "validation_source": "zentacle.com, scubaboard.com, aquaticapr.com, scubadiving.com",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -41,7 +43,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "tainodivers.com, discoverpuertorico.com, scubaboard.com, puertoricodaytrips.com"
+      "validation_source": "tainodivers.com, discoverpuertorico.com, scubaboard.com, puertoricobeachfinder.com",
+      "last_qa_date": "2026-08-27",
+      "qa_note": "2026-08-27 re-audit: prior scubaboard.com and puertoricodaytrips.com citations pointed to threads/pages about La Parguera and a generic PR thread that did not actually discuss Steps/Tres Palmas. Replaced with scubaboard.com/community/threads/rincon-pr.240695/ (confirmed Tres Palmas content) and puertoricobeachfinder.com (Steps Beach specific)."
     }
   },
   {
@@ -56,7 +60,8 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "vieques.com, blackbeardsports.com, pureadventurepr.com"
+      "validation_source": "vieques.com, blackbeardsports.com, pureadventurepr.com",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -71,7 +76,8 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "padi.com, culebradivers.com, aquaadventurepr.com, puertoricodaytrips.com"
+      "validation_source": "padi.com, culebradivers.com, aquaadventurepr.com, puertoricodaytrips.com",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -86,7 +92,8 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "scubadogs.net, padi.com, tritonsrealm.com, discoverpuertorico.com"
+      "validation_source": "scubadogs.net, padi.com, tritonsrealm.com, discoverpuertorico.com",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -100,8 +107,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": "true",
-      "validation_source": "jentheredonethat.com, puertoricodaytrips.com, discoveringpuertorico.com"
+      "validated": "false",
+      "validation_source": "jentheredonethat.com, puertorico.com",
+      "last_qa_date": "2026-08-27",
+      "qa_note": "2026-08-27 re-audit: downgraded from validated=true. Prior discoveringpuertorico.com and puertoricodaytrips.com citations were mismatched — neither page actually discusses Humacao (the PRDayTrips link pointed to the Vieques page, and discoveringpuertorico.com's scuba article only covers Fajardo). Only 2 independent domains (jentheredonethat.com, puertorico.com) could be confirmed as genuinely Humacao-specific — below the 3-domain bar. Content was rewritten using these 2 verified sources; needs a third independent source before re-validating."
     }
   },
   {
@@ -116,7 +125,8 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "zentacle.com, aquaticapr.com, scubaboard.com"
+      "validation_source": "zentacle.com, aquaticapr.com, scubaboard.com",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -131,7 +141,8 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "blackbeardsports.com, sevenseasmedia.org, vieques.com, scubaboard.com"
+      "validation_source": "blackbeardsports.com, sevenseasmedia.org, vieques.com, scubaboard.com",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -146,7 +157,8 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "aquaticapr.com, padi.com, puertoricodaytrips.com, caribdiveguide.com"
+      "validation_source": "aquaticapr.com, padi.com, puertoricodaytrips.com, caribdiveguide.com",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -161,7 +173,8 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "scubadiving.com, caribdiveguide.com, scubaboard.com, julietsailinganddiving.com"
+      "validation_source": "scubadiving.com, caribdiveguide.com, scubaboard.com, julietsailinganddiving.com, puertoricodaytrips.com",
+      "last_qa_date": "2026-08-27"
     }
   }
 ]

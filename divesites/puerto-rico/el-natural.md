@@ -35,7 +35,7 @@ El Natural (locally called "Gas Chamber" — a name whose origin is unclear but 
 
 ## Marine Life
 
-The site supports a typical Caribbean northwest-coast reef community. Regular species include sergeant majors, blue tangs, parrotfish, angelfishes, filefishes, trunkfishes, goatfishes, butterflyfishes, damselfishes, snappers, wrasses, and moray eels. Occasional sightings include sea turtles, octopus, trumpetfish, squids, and flying gurnards. Seahorse sightings have been reported by local divers. The site is particularly noted for its moray eel encounters.
+The site supports a typical Caribbean northwest-coast reef community. Regular species include sergeant majors, blue tangs, parrotfish, angelfishes, filefishes, trunkfishes, goatfishes, butterflyfishes, damselfishes, snappers, wrasses, and moray eels. Aquatica PR specifically documents hawksbill turtles, stingrays, and nurse sharks at El Natural. That said, a diver on ScubaBoard's PR shore-sites thread who dove both beaches in the same trip reported turtles reliably at Crash Boat but never once at El Natural — treat turtle sightings here as possible rather than as reliable as at neighboring Crash Boat Beach. Octopus, trumpetfish, squids, and flying gurnards are occasional sightings; seahorse reports are anecdotal from local divers.
 
 ## Dive Profile
 
@@ -54,4 +54,4 @@ Dive early in the morning to avoid the current shift and to get the best visibil
 Rocky entry requires careful footing — sea urchins are present among the rocks. The current shift after 9 AM can create disorienting conditions for new divers at the site — monitor current and return to the entry area before conditions change. No boat traffic concern at this site. Dive with a buddy and inform someone onshore of plans. This is an unsupervised site.
 
 ---
-*Sources: [Zentacle – Aguadilla Dive Sites](https://www.zentacle.com/loc/pr/aguadilla), [Aquatica Underwater Adventures](https://aquaticapr.com/scuba-diving-in-puerto-rico-exploring-the-best-dive-sites-on-the-west-coast/), [ScubaBoard – PR Shore Sites](https://scubaboard.com/community/threads/p-r-shore-sites.614700/). Last updated 2026-06-26.*
+*Sources: [Zentacle – Aguadilla Dive Sites](https://www.zentacle.com/loc/pr/aguadilla), [Aquatica Underwater Adventures](https://aquaticapr.com/scuba-diving-in-puerto-rico-exploring-the-best-dive-sites-on-the-west-coast/), [ScubaBoard – PR Shore Sites](https://scubaboard.com/community/threads/p-r-shore-sites.614700/). Re-audited 2026-08-27: added nurse sharks and stingrays (confirmed by Aquatica PR) and softened the turtle claim after a ScubaBoard diver reported never seeing turtles at this specific site despite regular sightings at nearby Crash Boat. Last updated 2026-08-27.*

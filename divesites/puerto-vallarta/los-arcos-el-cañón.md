@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Los Arcos — El Cañón
 
-Los Arcos is a protected national marine park approximately 20 minutes south of Puerto Vallarta in Banderas Bay, comprising a cluster of rocky islets with deep tunnels, arches, caves, and one of the most diverse underwater topographies in the bay. El Cañón ("The Canyon") is the advanced wall dive site on the rocky west side of Los Arcos, a 250-metre vertical drop-off accessed by experienced divers.
+Los Arcos is a protected national marine park approximately 20 minutes south of Puerto Vallarta in Banderas Bay, comprising a cluster of rocky islets with deep tunnels, arches, caves, and one of the most diverse underwater topographies in the bay. El Cañón ("The Canyon") is the advanced wall dive site on the rocky west side of Los Arcos, a vertical drop-off accessed by experienced divers.
 
 ## Overview
 
-Los Arcos is the deepest point of Banderas Bay and one of its most biodiverse diving areas. The site features five distinct underwater trail options ranging from beginner to advanced, making it accessible to a wide range of divers. El Cañón specifically refers to the dramatic western wall, where the drop-off begins at around 18 metres and descends to 80–120 feet (25–37 metres) — a vertical face used by advanced divers and those in deep diving training. The site is also notable for its nudibranchs and macro life on the rocky slopes.
+Los Arcos is the deepest point of Banderas Bay and one of its most biodiverse diving areas — the surrounding waters are reported by Wikipedia to reach 480 meters, with dive operators citing comparably deep figures for the offshore canyon (sources vary, and this refers to the surrounding bathymetry, not the depth divers actually reach). The site features five distinct underwater trail options ranging from beginner to advanced, making it accessible to a wide range of divers. El Cañón specifically refers to the dramatic western wall, where the drop-off begins at around 18 metres and descends to 80–120 feet (25–37 metres) for recreational divers — a vertical face used by advanced divers and those in deep diving training. The site is also notable for its nudibranchs and macro life on the rocky slopes.
 
 ## Marine Life
 
@@ -50,4 +50,4 @@ All dives by guided boat trip from Puerto Vallarta. Multiple operators run daily
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Banderas Scuba Republic – Dive Sites Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Puerto Vallarta Net – Los Arcos National Marine Park](https://www.puertovallarta.net/what-to-do/los-arcos-national-marine-park/), [Vallarta Adventures – Los Arcos Scuba Diving](https://www.vallarta-adventures.com/en/tour/scuba-los-arcos), [Divinglore – Scuba Diving Puerto Vallarta](https://www.divinglore.com/scuba-diving-puerto-vallarta/). Last updated 2026-06-26.*
+*Sources: [Banderas Scuba Republic – Dive Sites Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Puerto Vallarta Net – Los Arcos National Marine Park](https://www.puertovallarta.net/what-to-do/los-arcos-national-marine-park/), [Vallarta Adventures – Los Arcos Scuba Diving](https://www.vallarta-adventures.com/en/tour/scuba-los-arcos), [Divinglore – Scuba Diving Puerto Vallarta](https://www.divinglore.com/scuba-diving-puerto-vallarta/), [Los Arcos National Marine Park – Wikipedia](https://en.wikipedia.org/wiki/Los_Arcos_National_Marine_Park). Last updated 2026-08-27.*

@@ -38,4 +38,4 @@ Sources confirmed at this specific site (papua-diving.com, diveconcepts.com, raj
 Advanced rating is firm: strong and unpredictable currents, documented downward-pulling current events. Carry a reef hook and SMB. Do not attempt without advanced open water certification and experience with wall diving in current. Emergency evacuation to Sorong requires significant time; plan conservative profiles.
 
 ---
-*Sources: [Papua Diving](https://papua-diving.com/), [Dive Concepts](https://diveconcepts.com/), [Raja Ampat Biodiversity](https://rajaampatbiodiversity.com/), [Meridian Adventure Dive](https://meridianadventuredive.com/). Last updated 2026-06-27.*
+*Sources: [Papua Diving](https://papua-diving.com/), [Dive Concepts](https://diveconcepts.com/), [Raja Ampat Biodiversity](https://rajaampatbiodiversity.com/), [Meridian Adventure Dive](https://meridianadventuredive.com/). Last updated 2026-08-27.*

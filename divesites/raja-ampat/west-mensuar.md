@@ -2,8 +2,8 @@
 name: West Mensuar
 lat: -0.6087297
 lng: 130.5466783
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 35
 entryType: boat
 siteType: reef
 ref: null
@@ -13,50 +13,35 @@ addedBy: osm_import
 
 ## West Mensuar
 
-West Mensuar is a reef dive site on the western side of Mensuar Island in Raja Ampat, West Papua, Indonesia.
+West Mensuar (also written West Mansuar) is a deeper, current-swept reef on the western side of Mansuar Island, rated for advanced divers by local sources.
 
 ## Overview
 
-Mensuar Island sits in the southern Dampier Strait, and its western face catches the nutrient-rich currents that flow through this part of Raja Ampat. West Mensuar offers a classic Raja Ampat reef dive along a sloping and patchy reef system that drops from shallow coral gardens into deeper rubble and sand. The western exposure means conditions can be influenced by open-water swells and currents, but in calm periods this translates to excellent visibility and productive fish life. The reef supports a healthy mix of hard coral formations interspersed with soft coral patches and encrusting sponges. Water temperatures average 27-29°C.
+Sources describe West Mansuar as a deeper dive, with most of the diving concentrated between 18 and 25 meters and a maximum depth of 35 meters. It is a current-exposed site known for predator encounters rather than a relaxed reef dive. Water temperature averages 27–29°C.
+
+**Correction (2026-08-27 initial validation):** previous content on this page ("bamboo sharks," a detailed shallow-to-deep dive profile) was unsourced template text and has been replaced. Difficulty has been corrected from Intermediate to Advanced, and maximum depth from 25m to 35m, to match Original Diving and Raja Ampat Biodiversity Eco Resort, both of which rate this as a deeper, advanced-diver site.
 
 ## Site Information
 
-- **Location**: Raja Ampat, West Papua, Indonesia
+- **Location**: Western Mansuar Island, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15-30 meters
-- **Current**: Moderate, open-water exposure
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 35 meters
+- **Current**: Current-swept
 - **Best Time**: October to April
 
 ## Marine Life
 
-The western reef edge is a productive hunting ground for trevally, mackerel, and barracuda. Reef sharks patrol the outer drop-off and are commonly seen passing along the deeper reef. Closer to the reef, large schools of fusiliers and anthias swarm over the coral heads. Hawksbill and green turtles are resident, often seen feeding on sponges and soft corals. Wobbegong sharks and bamboo sharks rest on the substrate during the day. The macro life is excellent — nudibranchs, flatworms, and mantis shrimp are found in the reef rubble at depth.
-
-## Dive Profile
-
-Start at the shallow reef crest (5-8 meters) and descend along the reef slope, following the contour around the island's western face. The most productive depths are between 10-20 meters, where coral structure is most complex. At around 20-25 meters the reef gives way to rubble and sand — worth a look for flatfish, garden eels, and sand-dwelling gobies. Return up the slope and finish the dive in the shallows.
+Sources confirmed at this specific site (originaldiving.com, rajaampatbiodiversity.com, dive-the-world.com): wobbegong sharks; barracuda, Spanish mackerel, giant trevally, and various jacks; occasional grey reef sharks; large fish schools over soft and hard corals.
 
 ## Entry and Exit
 
-Access is by dive boat. Entry via giant stride from the boat positioned near the reef top. Western exposure means conditions can deteriorate with afternoon winds — morning dives are generally calmer. Deploy SMB before surfacing for boat pickup.
-
-## Tips and Recommendations
-
-- Morning dives before wind builds offer the best sea conditions
-- Check the deeper rubble for camouflaged species like wobbegong and bamboo sharks
-- Follow the reef slope north or south for the most diverse terrain
-- Bring a wide-angle setup for pelagic action at the reef edge
-- Sun position from the west makes afternoon dives atmospheric but morning light is cleaner
+Boat access from Mansuar-area homestays or liveaboards. Entry via giant stride. Given the depth and current exposure, this is best planned as a dedicated deep/advanced dive rather than paired casually with shallower sites.
 
 ## Safety Considerations
 
-Western exposure can create surge in shallow areas when swells run. Be aware of open-water current at the reef edge. Always carry an SMB and stay with your guide. Dive within your certification limits and be prepared to abort if conditions deteriorate.
-
-## Photography
-
-The open western aspect allows good ambient light through much of the day. Wide-angle compositions along the reef slope with divers and fish in frame work well at this site. The deeper rubble section offers productive macro work in flatter light. Trevally and barracuda hunting over the reef provide dynamic action shots.
+Rated Advanced due to depth (down to 35m) and current exposure. Divers should manage gas and no-decompression limits carefully given the deeper working depth. Carry an SMB and dive within certification limits.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [Original Diving](https://www.originaldiving.com/far-east/indonesia/dive-raja-ampat/diving-mansuar-raja-ampat), [Raja Ampat Biodiversity Eco Resort](https://rajaampatbiodiversity.com/raja-ampat-dive-sites/), [Dive The World](https://www.dive-the-world.com/posts/raja-ampat/diving-in-raja-ampat-9-must-visit-dive-sites.php). Last updated 2026-08-27.*

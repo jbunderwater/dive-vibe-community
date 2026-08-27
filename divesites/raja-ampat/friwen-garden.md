@@ -59,4 +59,4 @@ Friwen Garden is a friendly, beginner-accessible site in calm conditions. The ma
 Hard coral wide-angle photography is outstanding here — tabletop Acropora framing a diver in the background is a classic composition. The gentle slope provides comfortable positioning for macro work without current management challenges. Nudibranch variety is excellent and the calm conditions allow extended close-up photography.
 
 ---
-*Sources: [Raja Ampat Biodiversity](https://rajaampatbiodiversity.com/) (documents 2–35m depth range), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Meridian Adventure Dive](https://meridianadventuredive.com/). Last updated 2026-06-27.*
+*Sources: [Raja Ampat Biodiversity](https://rajaampatbiodiversity.com/) (documents 2–35m depth range), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Meridian Adventure Dive](https://meridianadventuredive.com/). Last updated 2026-08-27.*

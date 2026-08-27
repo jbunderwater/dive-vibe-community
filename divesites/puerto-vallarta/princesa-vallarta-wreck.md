@@ -35,7 +35,7 @@ The wreck is accompanied by 10-14 additional sunken vessels — including sailbo
 
 ## Marine Life
 
-Sea turtles — hawksbill, green, and olive ridley — inhabit the wreck field and are among the most consistent encounters here. Goliath groupers visit the site. Argus and jewel moray eels occupy the interior and hull openings. The structure provides shelter for tropical reef fish that would otherwise lack habitat on the flat sand bottom. The concentration of multiple sunken vessels has accelerated colonization; each auxiliary boat has developed its own resident community.
+Sea turtles — hawksbill, green, and olive ridley — inhabit the wreck field and are among the most consistent encounters here. Goliath groupers visit the site. Argus and jewel moray eels occupy the interior and hull openings. A giant diamond ray, reported at 12-15 feet across, has been documented at the wreck. The structure provides shelter for tropical reef fish that would otherwise lack habitat on the flat sand bottom. The concentration of multiple sunken vessels has accelerated colonization; each auxiliary boat has developed its own resident community.
 
 ## Dive Profile
 
@@ -54,4 +54,4 @@ Access by dive boat from the Puerto Vallarta marina, approximately 15 minutes tr
 - Advanced certification and good buoyancy are recommended; the site attracts strong currents on occasion
 
 ---
-*Sources: [Banderas Scuba Republic – The Story of Princesa Vallarta](https://www.banderas-scuba.com/bebuilder-1333/), [PADI – Princesa Vallarta Shipwreck](https://www.padi.com/dive-site/mexico/princesa-vallarta-shipwreck/), [Vallarta Adventures – Private Princesa Wreck Dive](https://www.vallarta-adventures.com/en/tour/private-scuba-princesa-shipwreck), [Divinglore – Scuba Diving Puerto Vallarta](https://www.divinglore.com/scuba-diving-puerto-vallarta/). Last updated 2026-06-26.*
+*Sources: [Banderas Scuba Republic – The Story of Princesa Vallarta](https://www.banderas-scuba.com/bebuilder-1333/), [PADI – Princesa Vallarta Shipwreck](https://www.padi.com/dive-site/mexico/princesa-vallarta-shipwreck/), [Vallarta Adventures – Private Princesa Wreck Dive](https://www.vallarta-adventures.com/en/tour/private-scuba-princesa-shipwreck), [Divinglore – Scuba Diving Puerto Vallarta](https://www.divinglore.com/scuba-diving-puerto-vallarta/). Grounding (Feb 16, 2017) and scuttling (Oct 24, 2017) dates independently cross-checked against contemporary Mexican press coverage. Last updated 2026-08-27.*

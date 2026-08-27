@@ -59,4 +59,4 @@ No significant hazards beyond standard open-water diving protocols. Carry an SMB
 Sardine Reef is a wildlife spectacle photographer's dream. Wide-angle glass is essential (14–17mm on full frame). The defining shot is positioned below or inside the bait ball, shooting upward toward the surface with the school creating a tunnel or dome effect. Including a diver adds scale. A fast shutter speed (1/200 or faster) freezes the motion of individual fish within the school. Backscatter management is critical — avoid strobe angles that highlight particles in front of the sardines.
 
 ---
-*Sources: [Papua Diving](https://papua-diving.com/), [Dive Concepts](https://diveconcepts.com/), [PADI](https://padi.com/), [Divernet](https://divernet.com/). Last updated 2026-06-27.*
+*Sources: [Papua Diving](https://papua-diving.com/), [Dive Concepts](https://diveconcepts.com/), [PADI](https://padi.com/), [Divernet](https://divernet.com/). Last updated 2026-08-27.*

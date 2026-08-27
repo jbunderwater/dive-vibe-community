@@ -45,11 +45,11 @@ Shore dive using the concrete steps cut into the rocky shoreline on the beach so
 
 ## Tips and Recommendations
 
-The site is inside a marine reserve — no collection of any organisms, no anchoring, no reef contact. Dive at slack tide or low current periods — the northwest coast can develop surge in tradewind conditions. Winter months (December–March) can also bring whale watching from the surface — humpback whales migrate through the Mona Passage seasonally. The elkhorn formations are the primary draw — photograph them carefully without contact.
+The site is inside a marine reserve — no collection of any organisms, no anchoring, no reef contact. Diving here is seasonal: spring and summer bring the calm conditions needed to dive or snorkel Steps and Tres Palmas, while fall and winter swells turn Steps Beach into one of Puerto Rico's biggest surf breaks — divers should check conditions carefully and avoid the site entirely when winter swell is running. Divers on ScubaBoard also flag the sea urchin population immediately south of Steps Beach in the Tres Palmas dive area as dense enough to require care with foot placement and full foot protection. Winter months (December–March) can also bring whale watching from the surface — humpback whales migrate through the Mona Passage seasonally. The elkhorn formations are the primary draw — photograph them carefully without contact.
 
 ## Safety Considerations
 
-Surge against the rocky shoreline can be significant in windy conditions — check conditions before diving and be prepared to abort entry if waves are large. Use the steps carefully in surge. The marine reserve is actively monitored by DRNA rangers — violations are taken seriously. The shallow depth creates no decompression concern.
+Surge against the rocky shoreline can be significant in windy conditions and is severe during fall/winter Atlantic swell — check conditions before diving and be prepared to abort entry if waves are large. Use the steps carefully in surge. Entries and exits are reported as tricky for less experienced divers even in calmer conditions, and closed-toe fins/boots are strongly advised given the dense sea urchin population. The marine reserve is actively monitored by DRNA rangers — violations are taken seriously. The shallow depth creates no decompression concern.
 
 ## Photography
 
@@ -61,4 +61,4 @@ Steps/Tres Palmas is one of Puerto Rico's premier reef photography sites. The he
 - Taíno Divers (Rincón): local operator with deep knowledge of the Steps site
 
 ---
-*Sources: [Taino Divers – Rincon Dive Sites](https://www.tainodivers.com/), [Discover Puerto Rico – Scuba Diving](https://www.discoverpuertorico.com/article/scuba-diving-novice-to-advanced), [PRDayTrips – Rincon Diving](https://www.puertoricodaytrips.com/la-parguera-wall-dive/), [ScubaBoard – Puerto Rico Diving](https://scubaboard.com/community/threads/any-must-dives-in-puerto-rico.660989/). Last updated 2026-06-26.*
+*Sources: [Taino Divers – Rincon](https://www.tainodivers.com/), [Discover Puerto Rico – Scuba Diving](https://www.discoverpuertorico.com/article/scuba-diving-novice-to-advanced), [ScubaBoard – Rincon, PR](https://scubaboard.com/community/threads/rincon-pr.240695/), [Puerto Rico Beach Finder – Steps Beach (Tres Palmas)](https://www.puertoricobeachfinder.com/beach/steps-beach-tres-palmas). Re-audited 2026-08-27: the previous PRDayTrips and ScubaBoard links were mismatched — one pointed to a La Parguera Wall article, the other to a generic PR thread that never mentions Steps or Tres Palmas. Replaced with a ScubaBoard thread that specifically discusses diving Tres Palmas and Puerto Rico Beach Finder's Steps Beach page; added the seasonal surf hazard and urchin/entry difficulty notes those sources raised. Last updated 2026-08-27.*

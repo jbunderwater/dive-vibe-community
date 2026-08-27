@@ -43,4 +43,4 @@ Big waves and strong breezes are common over the exposed open water. Currents al
 
 Do not attempt this site without current-diving experience. Be prepared to abort a dive if conditions change; ascend freely away from the wall if downwelling is encountered. Night diving is strongly discouraged due to the current regime and remote location.
 
-*Sources: [Travel to Dive — Brothers Islands Complete Guide](https://traveltodive.com/destinations-guide/brothers-islands-red-sea-the-complete-diving-guide/), [SCUBA Travel — Brothers Islands](https://www.scubatravel.co.uk/redsea/brothersdive.html), [Dive the World — Brothers Islands](https://www.dive-the-world.com/diving-sites-egypt-brothers-islands.php). Last updated 2026-05-17.*
+*Sources: [Travel to Dive — Brothers Islands Complete Guide](https://traveltodive.com/destinations-guide/brothers-islands-red-sea-the-complete-diving-guide/), [SCUBA Travel — Brothers Islands](https://www.scubatravel.co.uk/redsea/brothersdive.html), [Dive the World — Brothers Islands](https://www.dive-the-world.com/diving-sites-egypt-brothers-islands.php). Re-audited 2026-08-27: no changes needed. Last updated 2026-08-27.*

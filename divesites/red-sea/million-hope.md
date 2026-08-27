@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Million Hope
 
-The Million Hope is a large cargo vessel wreck in the Strait of Tiran, northern Red Sea, Egypt, positioned at approximately 28.06°N, 34.45°E — in the same reef-strewn strait as the famous Tiran island reefs. The vessel ran aground on the reef and sank, adding to the collection of wrecks that have foundered in these notoriously treacherous waters over the decades.
+The Million Hope is one of the largest shipwrecks in Egyptian waters — a 174.6-metre bulk carrier that ran aground and burned in the northern Red Sea on 20 June 1996 while carrying a cargo of fertiliser.
 
 ## Overview
 
-The Million Hope was a substantial cargo ship — reports suggest it was a large bulk carrier — which gives the wreck impressive scale. Lying in waters reaching approximately 20 meters, the upper structure of the vessel may be close to the surface, visible from the dive boat above. The combination of dramatic size, the Tiran Strait setting, and years of coral and sponge encrustation makes the Million Hope one of the more visually arresting wrecks in the northern Red Sea. The site sits within the broader Tiran area ecosystem, so divers may expect encounters typical of the strait — including pelagic species along the open reef edge sections adjacent to the wreck.
+Built in Japan and launched in 1972 as the Ryusei Maru, the ship displaced 26,181 GRT and measured 174.6 x 24.8 metres with a 10-metre draught. She was sold and renamed several times — Pacific Royal (1975), Linngboon (1981), Feng Shun (1987) — before grounding in the Tiran Strait area on 20 June 1996 under the name Million Hope, where she caught fire on impact. All 25 crew were rescued by Egyptian naval and other vessels in an operation that lasted more than 20 hours. The wreck now lies in waters reaching approximately 20 metres, with much of the upper structure well within recreational range. The crew quarters are open for viewing and an onboard workshop with tools is reported to be well preserved. Given the scale of the ship, most operators treat this as a multi-dive wreck.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ The Million Hope was a substantial cargo ship — reports suggest it was a large
 
 ## Marine Life
 
-The hull structure of the Million Hope provides habitat for one of the Red Sea's characteristic wreck marine communities. Massive schools of glassy sweepers fill any interior spaces accessible to divers. Groupers of impressive size occupy the hold areas, and moray eels take up residence in every gap in the corroding hull. Lionfish pose on ledges and overhangs throughout the structure. The soft coral growth on the hull exterior — sea fans, tree corals, and encrusting sponges — creates a colourful artificial reef. Given the Tiran Strait location, grey reef sharks, barracuda, and humphead wrasse may be encountered in the open water alongside the wreck.
+Large schools of batfish, barracuda, and jacks are reported cruising around the wreck structure, alongside a range of colourful reef fish that have colonised the hull. Beyond this, no source consulted confirmed specific additional species for this site, so earlier claims of glassy sweepers, groupers, moray eels, and lionfish throughout the structure — while plausible for a Red Sea wreck in general — have been removed pending site-specific confirmation.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Tidal currents in the Strait of Tiran can be strong and unpredictable. Wreck pen
 The scale of the Million Hope provides wide-angle opportunities to photograph the full hull in profile — a fisheye or very wide zoom is needed to capture the vessel's scale from a reasonable distance. Glassy sweeper schools in torch-lit interior spaces create iconic wreck photography. The hull exterior with coral growth against the blue Tiran water provides dramatic color contrast.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [DeeperBlue - Million Hope, Sunk for a Decade](https://www.deeperblue.com/million-hope-sunk-for-a-decade/), [TourEgypt - The Million Hope Shipwreck](https://www.touregypt.net/vdc/Millionhope.htm), [Emperor Divers - Beyond the Thistlegorm](https://www.emperordivers.com/beyond-the-thistlegorm/). Re-audited 2026-08-27: this page previously credited a set of generic destination-index links and described the ship only vaguely ("reports suggest it was a large bulk carrier"). Replaced with confirmed ship history (built 1972 as Ryusei Maru, renamed three times, 26,181 GRT, grounded and burned 20 June 1996, 25 crew rescued) and removed unconfirmed marine life claims. Last updated 2026-08-27.*

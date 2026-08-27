@@ -44,10 +44,10 @@ Dendronephthya-clad pinnacles offer excellent wide-angle and mid-range reef shot
 ## Site Information
 
 - **Location**: Na'ama Bay coastline, Sharm el-Sheikh, Sinai Peninsula
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 m
+- **Maximum Depth**: 30 meters
 
 ---
-*Sources: [Camel Dive Club — Amphoras](https://www.cameldive.com/dive-sites/amphoras/), [Circle Divers — Amphoras](https://www.circledivers.com/diving-in-sharm-el-sheikh/dive-sites/amphoras-local), [Divescover — Amphoras](https://divescover.com/dive-site/amphoras/19986). Last updated 2026-05-17.*
+*Sources: [Camel Dive Club — Amphoras](https://www.cameldive.com/dive-sites/amphoras/), [Circle Divers — Amphoras](https://www.circledivers.com/diving-in-sharm-el-sheikh/dive-sites/amphoras-local), [Divescover — Amphoras](https://divescover.com/dive-site/amphoras/19986). Re-audited 2026-08-27: fixed an internal contradiction (Site Information listed "Shore entry" while the text and frontmatter correctly describe a boat/drift dive); depth and history details re-confirmed. Last updated 2026-08-27.*

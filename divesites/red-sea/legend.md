@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Legend
 
-The Legend is a shipwreck in the Marsa Alam area of the southern Red Sea, Egypt, lying at approximately 20 metres since its sinking on October 17, 2002.
+The Legend is a sunken cruise ship resting on the south side of Sha'ab Marsa Alam, a 790-metre reef about 4km offshore and 10 minutes by boat from Marsa Alam marina.
 
 ## Overview
 
-The Legend sank on October 17, 2002 — the OSM record notes this date. Research has not confirmed whether the sinking was accidental or a deliberate scuttling; earlier descriptions claiming it was "intentionally sunk as an artificial reef" were not verified by independent sources and have been removed. Having been on the seabed for over two decades, the hull supports established coral and sponge growth. At a maximum depth of approximately 20 metres, the site is within intermediate recreational limits. Vessel identity, size, and sinking history remain unconfirmed pending independent source verification.
+The Legend sank on October 17, 2002 per the OSM record. Sources describing Sha'ab Marsa Alam confirm a wreck named "Legend" — described as a sunken cruise ship — on the reef's south side, alongside a large coral garden on the northwest side and small caverns mid-reef; this corroborates the wreck's existence and general location but does not independently confirm the exact sinking date, vessel dimensions, or whether the sinking was accidental or deliberate. Earlier text claiming it was "intentionally sunk as an artificial reef" was not verified by any source and remains removed. Having been on the seabed for over two decades, the hull supports established coral and sponge growth typical of the reef's general marine life (dolphins, stingrays, sea turtles, scorpionfish, crocodilefish, Napoleon wrasse, and parrotfish have all been reported at Sha'ab Marsa Alam, though not confirmed specifically at the wreck itself). At a maximum depth of approximately 20 metres, the site is within intermediate recreational limits, consistent with the reef's reported 20-30m average depth.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ The Legend sank on October 17, 2002 — the OSM record notes this date. Research
 
 ## Marine Life
 
-After more than twenty years on the seabed, the Legend supports a mature artificial reef community. Soft corals, sea fans, and hard coral encrustation cover exposed surfaces, and the combination of dark interior spaces and complex exterior structure provides habitat for an impressive density of fish. Large schools of glassy sweepers fill the interior spaces, and groupers have established territories in the hold areas. Moray eels are resident in hull crevices, and lionfish pose in characteristic resting positions on ledges. The surrounding sandy seabed often shelters garden eels and flatfish. Sea turtles are possible in the surrounding waters given the Marsa Alam region's healthy turtle populations.
+No source consulted confirmed specific species at the wreck itself. The surrounding Sha'ab Marsa Alam reef is reported to host dolphins, stingrays, sea turtles, scorpionfish, crocodilefish, Napoleon wrasse, and parrotfish — this is the destination's regional fauna rather than a wreck-specific sighting list, and is presented as such.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Wreck penetration should only be undertaken by trained wreck divers with appropr
 The combination of colorful coral growth and the stark geometry of the steel hull makes the Legend an excellent photography site. Natural light filtering through open deck structures creates dramatic light shafts in the interior. The soft coral growth in orange and purple tones on the exterior shoots beautifully with a strobe against the blue water background.
 
 ---
-*"Intentionally sunk" claim removed — not confirmed by independent sources. Sinking date 2002-10-17 per OSM record. Vessel identity and history unverified. No site-specific dive sources found. Last updated 2026-06-27.*
+*Sources: [Divebooker — Shaab Marsa Alam](https://divebooker.com/shaab-marsa-alam-baz10781), [Seahorse Diving Club — Shaab Marsa Alam](https://seahorse-marsaalam.com/dive-sites/shaab-marsa-alam/), [Dive Champ — Sha'ab Marsa Alam](https://divechamp.com/divesite/sha-ab-marsa-alam). Re-audited 2026-08-27: located the wreck within the wider Sha'ab Marsa Alam reef description (south side, sunken cruise ship); vessel-specific history (exact build, dimensions, sinking cause) remains unconfirmed and is not claimed. "Intentionally sunk" claim remains removed — not confirmed by any source. Last updated 2026-08-27.*

@@ -43,4 +43,4 @@ Depths range from the surface (pinnacles break the waterline) to 27 meters at th
 Boat access from the Friwen Island area or from liveaboards operating the northern Raja Ampat itinerary. Entry via giant stride. The site's multiple pinnacle formations provide natural orientation references. Deploy SMB for ascent; assess surface conditions at the exposed location before entry.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Raja Ampat Biodiversity](https://rajaampatbiodiversity.com/). Last updated 2026-06-27.*
+*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Raja Ampat Biodiversity](https://rajaampatbiodiversity.com/). Last updated 2026-08-27.*

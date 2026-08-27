@@ -99,7 +99,7 @@
       "wreck:max_depth": "31",
       "validated": "true",
       "validation_source": "en.wikipedia.org,thethistlegormproject.com,masterliveaboards.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -258,7 +258,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "divezone.net,redsea-diving.com,dahab-diving.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -278,7 +278,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "padi.com,dive-the-world.com,zesea.com",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -297,7 +298,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "padi.com,dive-the-world.com,circledivers.com",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -400,7 +402,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "en.wikipedia.org,cameldivers.com,wrecksatrisk.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -517,7 +519,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "thescubanews.com,pecksen.com,emperordivers.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -810,7 +812,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "cassiopeiasafari.com,adrex.com,divechamp.com",
-      "last_qa_date": "2026-05-25",
+      "last_qa_date": "2026-08-27",
       "depth_range": "21-90m"
     }
   },
@@ -994,7 +996,7 @@
     "lon": 35.5727769,
     "osm_id": 663869765,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 18,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1004,7 +1006,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "redsea-diving.com,seahorse-marsaalam.com,divers-guide.com",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -1156,7 +1159,7 @@
     "lon": 34.0615772,
     "osm_id": 663869778,
     "osm_type": "node",
-    "depth": 27,
+    "depth": 30,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -1169,8 +1172,8 @@
       "sport": "scuba_diving",
       "wreck:date_sunk": "11:13pm on December 14th, 1991",
       "validated": "true",
-      "validation_source": "en.wikipedia.org,indepthmag.com,divernet.com",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "en.wikipedia.org,indepthmag.com,divernet.com,dive-the-world.com",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -1316,7 +1319,7 @@
     "osm_id": 663869793,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "wreck",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -1325,7 +1328,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "padi.com,dive-the-world.com,egypt-liveaboard.com",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -1491,7 +1495,7 @@
     "osm_id": 663869804,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "wreck",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -1507,7 +1511,8 @@
       "sport": "scuba_diving",
       "survey:date": "2015-09-13",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "padi.com,dive-the-world.com,egypt-liveaboard.com",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -1617,7 +1622,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "deepbluediver.uk,thescubanews.com,cdws.travel,seawolf-safari.de,redseawreckproject.com",
-      "last_qa_date": "2026-06-27"
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -1657,7 +1662,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "redseawreckproject.com,redsea-diving.com,oceansoul.blue",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -1743,7 +1748,7 @@
     "lon": 34.1216666,
     "osm_id": 663869819,
     "osm_type": "node",
-    "depth": 18,
+    "depth": 28,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1758,8 +1763,8 @@
       "wikimedia_commons": "Category:Dunraven (ship, 1873)",
       "wikipedia": "en:SS Dunraven",
       "validated": "true",
-      "validation_source": "en.wikipedia.org,dan.org,egypt-liveaboard.com",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "en.wikipedia.org,dan.org,egypt-liveaboard.com,padi.com",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -1906,7 +1911,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "touregypt.net,dive-the-world.com,redsea-diving.com",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -1925,7 +1931,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "deeperblue.com,touregypt.net,emperordivers.com",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -2163,7 +2170,7 @@
       "wikipedia": "en:Blue Hole (Red Sea)",
       "validated": "true",
       "validation_source": "padi.com,divezone.net,scubaboard.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -2189,8 +2196,8 @@
     "lon": 34.5212059,
     "osm_id": 663869872,
     "osm_type": "node",
-    "depth": 45,
-    "site_type": "reef",
+    "depth": 54,
+    "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
@@ -2202,7 +2209,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "padi.com,circledivers.com,girlsthatscuba.com",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -2690,7 +2698,8 @@
       "scuba_diving:type:wall": "yes",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com,redsea-diving.com,egypt-liveaboard.com",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -2816,7 +2825,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "divingaway.com,thescubanews.com,dive-the-world.com",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -2954,7 +2964,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "divezone.net,circledivers.com,sharmscubaservice.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -3646,7 +3656,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "traveltodive.com,scubatravel.co.uk,dive-the-world.com",
+      "last_qa_date": "2026-08-27"
     },
     "max_depth": 40
   },
@@ -3670,7 +3681,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "redseawreckproject.com,dive-the-world.com,egypt-liveaboard.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -3692,7 +3703,8 @@
       "scuba_diving:maxdepth": "8.5",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "pro-taucher.com,zentacle.com,oceansoul.blue",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -3952,7 +3964,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "padi.com,dive-the-world.com,redseawreckproject.com",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -4367,7 +4380,7 @@
       "wreck:date_sunk": "9 June 1940",
       "validated": "true",
       "validation_source": "en.wikipedia.org,divephotoguide.com,dan.org",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -4549,8 +4562,9 @@
       "sport": "scuba_diving",
       "wreck:date_sunk": "2002-10-17",
       "validated": true,
-      "validation_source": "perplexity_limited",
-      "qa_note": "CORRECTION: Previous description incorrectly stated 'intentionally sunk as artificial reef'. Research indicates vessel caught fire and sank accidentally on 2002-10-17. Not a purpose-scuttled wreck. Remove all references to deliberate scuttling, pre-cut openings, or artificial reef purpose."
+      "validation_source": "divebooker.com,seahorse-marsaalam.com,divechamp.com",
+      "qa_note": "CORRECTION: Previous description incorrectly stated 'intentionally sunk as artificial reef'. Research indicates vessel caught fire and sank accidentally on 2002-10-17. Not a purpose-scuttled wreck. Remove all references to deliberate scuttling, pre-cut openings, or artificial reef purpose.",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -4645,7 +4659,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "dive-the-world.com,divezone.net,padi.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -4863,7 +4877,8 @@
       "sport": "scuba_diving",
       "wikidata": "Q14223403",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "cameldive.com,seawolf-safari.de,dive-the-world.com",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -4999,7 +5014,7 @@
       "wikipedia": "de:Elphinstone-Riff",
       "validated": "true",
       "validation_source": "dive-the-world.com,divezone.net,padi.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -5215,17 +5230,18 @@
     "lon": 34.1968345,
     "osm_id": 16662982,
     "osm_type": "relation",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 15,
+    "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Alternatives",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "type": "site",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "thescubadirectory.com,reefoasisdiveclub.com,scubadiving.place",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -6366,14 +6382,17 @@
     "name": "Marsa Bereika",
     "lat": 27.7874017,
     "lon": 34.2062491,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": true,
+      "validation_source": "redsea-diving.com,dive-the-world.com,cameldive.com",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -6387,7 +6406,10 @@
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": true,
+      "validation_source": "egypt-liveaboard.com,padi.com,cameldive.com",
+      "last_qa_date": "2026-08-27"
     },
     "max_depth": 30
   },
@@ -6409,14 +6431,17 @@
     "name": "Amphoras",
     "lat": 27.8661157,
     "lon": 34.3236011,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": true,
+      "validation_source": "cameldive.com,circledivers.com,divescover.com",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -6437,14 +6462,17 @@
     "name": "Turtle Bay",
     "lat": 27.2695408,
     "lon": 33.8937718,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 26,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": true,
+      "validation_source": "cameldive.com,divessi.com,divers-guide.com",
+      "last_qa_date": "2026-08-27"
     }
   },
   {
@@ -6458,7 +6486,10 @@
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": true,
+      "validation_source": "cameldive.com,padi.com,circledivers.com",
+      "last_qa_date": "2026-08-27"
     },
     "max_depth": 20
   },
@@ -6543,7 +6574,10 @@
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": true,
+      "validation_source": "dive-red.com,thescubanews.com,redseawreckproject.com",
+      "last_qa_date": "2026-08-27"
     },
     "max_depth": 22
   },

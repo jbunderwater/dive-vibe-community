@@ -24,4 +24,4 @@ Two islets with a channel between them; pinnacle covered in soft coral with seas
 - **Maximum Depth**: 30 meters
 
 ---
-*Sources: [Bird's Head Seascape](https://birdsheadseascape.com/map-location/click-for-additional-sites-in-the-misool-area-and-the-blue-water-mangroves/?mpfy-pin=4919), [Misool Eco Resort](https://www.misool.info/dive-site), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/diving/raja-ampat/). Last updated 2026-04-05.*
+*Sources: [Bird's Head Seascape](https://birdsheadseascape.com/map-location/click-for-additional-sites-in-the-misool-area-and-the-blue-water-mangroves/?mpfy-pin=4919), [Misool Eco Resort](https://www.misool.info/dive-site), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/diving/raja-ampat/). Last updated 2026-08-27.*

@@ -17,7 +17,7 @@ A rocky reef in central Puget Sound with consistent fish life and accessible col
 
 ## Overview
 
-Decatur Reef sits in the southern portion of Puget Sound's main basin, in an area that sees regular boat traffic from the Seattle metropolitan area. The reef structure drops to 18 metres and supports a community of Pacific Northwest cold-water species that includes lingcod, multiple rockfish species, and giant Pacific octopus. The site is accessible year-round and serves as a productive destination for divers based in the greater Seattle and Tacoma areas. Visibility in this part of Puget Sound tends to be 6–10 metres, influenced by tidal mixing and occasional freshwater runoff from the surrounding watershed.
+Decatur Reef sits in the southern portion of Puget Sound's main basin, in an area that sees regular boat traffic from the Seattle metropolitan area. The site is accessible year-round and serves as a productive destination for divers based in the greater Seattle and Tacoma areas. Visibility in this part of Puget Sound tends to be 6–10 metres, influenced by tidal mixing and occasional freshwater runoff from the surrounding watershed.
 
 ## Site Information
 
@@ -33,7 +33,8 @@ Decatur Reef sits in the southern portion of Puget Sound's main basin, in an are
 
 ## Marine Life
 
-Decatur Reef's fish community is typical of central Puget Sound: lingcod are resident, copper and quillback rockfish shelter in the deeper rock formations, and kelp greenlings are abundant throughout. Giant Pacific octopus occupy the larger boulder cavities, often betrayed by shells and crab remains left at den entrances. Wolf eels are present and occasionally encountered. The invertebrate layer includes plumose anemones on the rock faces, Dungeness and Puget Sound king crabs across the sandy margins, and a variety of nudibranchs. Red sea urchins graze on encrusting algae, creating clearings that attract other species.
+This site's marine life has not been confirmed by any site-specific report. Puget Sound and San Juan Islands cold-water reefs in general support a well-documented regional fauna, but no source found during research names species observed at Decatur Reef specifically, so none are listed here. Divers should treat any wildlife encounter as a bonus rather than a guarantee.
+
 
 ## Dive Profile
 
@@ -46,17 +47,12 @@ Boat access only. Anchor on the up-current side of the reef. Back-roll or giant 
 ## Tips
 
 - Central Puget Sound visibility is often better in winter and early spring when runoff is lower and plankton blooms have not begun
-- Octopus den locations are often remembered by regular divers at this site — local dive boat captains can be a valuable source of information
 - A torch is useful for examining the dark overhangs and boulder undersides where the highest marine life diversity concentrates
-- Night diving Decatur Reef can be productive for observing octopus, shrimp, and crab activity
 
 ## Safety
 
 Boat traffic is heavy in central Puget Sound year-round. Always deploy an SMB before surfacing. Cold water requires dry suit or 7mm wetsuit with hood and gloves. Tidal exchange in the main basin is moderate; timing dives for slack water reduces drift but is not always as critical here as in the outer San Juan Islands.
 
-## Photography
-
-The medium-depth profile and accessible conditions make Decatur Reef a good photography dive. Macro work on nudibranchs and encrusting invertebrates is productive. Rockfish portraits work well given their tendency to hold position. The octopus dens, if located, are outstanding subjects for both macro and close-focus wide-angle work.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Wikidata — Decatur Reef (Q49615608)](https://www.wikidata.org/wiki/Q49615608), [Scuba Diving Magazine — Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound). No site-specific dive publications found for Decatur Reef; description reflects typical central Puget Sound reef conditions. Last updated 2026-06-26.*
+*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Wikidata — Decatur Reef (Q49615608)](https://www.wikidata.org/wiki/Q49615608), [Scuba Diving Magazine — Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound). Re-audited 2026-08-27: these sources are regional overviews (Puget Sound / San Juan Islands dive-site and marine-habitat guides) and do not name Decatur Reef specifically, so site-specific marine-life claims have been removed. Depth, location, and tidal-current characteristics reflect OSM/GNIS/NOAA chart data for this feature. Last updated 2026-08-27.*

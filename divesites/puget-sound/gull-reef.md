@@ -17,7 +17,7 @@ A rocky reef near the western edge of the San Juan Islands, positioned in the pr
 
 ## Overview
 
-Gull Reef is a submerged rocky structure near the outer San Juan Islands, close to Haro Strait — the major tidal passage between the San Juan archipelago and Vancouver Island, British Columbia. This location puts the reef in some of the richest tidal flow in the Salish Sea, with cold, nutrient-dense water supporting exceptional invertebrate growth. The reef descends to 18 metres across a sloping, boulder-strewn profile. Dense plumose anemone fields, colourful sponges, and encrusting hydroids characterise the rock surfaces. Water temperature is consistently 7–11°C; a dry suit is essential.
+Gull Reef is a submerged rocky structure near the outer San Juan Islands, close to Haro Strait — the major tidal passage between the San Juan archipelago and Vancouver Island, British Columbia. This location puts the reef in some of the richest tidal flow in the Salish Sea, with cold, nutrient-dense water supporting exceptional invertebrate growth. The reef descends to 18 metres across a sloping, boulder-strewn profile. Water temperature is consistently 7–11°C; a dry suit is essential.
 
 ## Site Information
 
@@ -33,7 +33,8 @@ Gull Reef is a submerged rocky structure near the outer San Juan Islands, close 
 
 ## Marine Life
 
-The Haro Strait corridor is an important habitat for Southern Resident orca pods, which frequently pass through in pursuit of chinook salmon between June and October — surface sightings from the boat are possible. Underwater, Gull Reef holds lingcod, rockfish (black, copper, quillback), and kelp greenlings in good numbers. Giant Pacific octopus occupy the boulder gaps, and wolf eels have known den sites on the reef. Invertebrate life is extraordinary: white and orange plumose anemones in dense colonies, Puget Sound king crabs, nudibranchs, and rock scallops. Sea lions from local rookeries occasionally visit.
+This site's marine life has not been confirmed by any site-specific report. Puget Sound and San Juan Islands cold-water reefs in general support a well-documented regional fauna, but no source found during research names species observed at Gull Reef specifically, so none are listed here. Divers should treat any wildlife encounter as a bonus rather than a guarantee.
+
 
 ## Dive Profile
 
@@ -45,18 +46,13 @@ Boat access only. Given the proximity to Haro Strait, condition monitoring is im
 
 ## Tips
 
-- The orca corridor in Haro Strait makes surface intervals above water particularly worthwhile in summer
 - Current here can build quickly as the tidal window closes — maintain awareness of dive time against tide tables
 - The richest anemone coverage on this reef tends to be on the most current-exposed faces
-- Night diving the reef in calm conditions reveals shrimp, crab, and octopus activity not visible during the day
 
 ## Safety
 
 Haro Strait produces strong tidal currents with limited windows of slack water. This site requires intermediate-level experience with current diving and an accurate tidal prediction. Dry suit is mandatory. Never surface in active current without an SMB deployed — vessel traffic in the strait is year-round and includes commercial shipping.
 
-## Photography
-
-The anemone fields and Haro Strait's exceptional water clarity during good visibility windows make Gull Reef a strong wide-angle photography site. Wolf eel portraits from their dens and close-focus images of nudibranchs on anemone columns are outstanding macro subjects. Bring a dive torch and at least one strobe.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands), [ScubaBoard — San Juan Islands, WA](https://scubaboard.com/community/threads/san-juan-islands-wa.20608/). Last updated 2026-06-26.*
+*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands), [ScubaBoard — San Juan Islands, WA](https://scubaboard.com/community/threads/san-juan-islands-wa.20608/). Re-audited 2026-08-27: these sources are regional overviews (Puget Sound / San Juan Islands dive-site and marine-habitat guides) and do not name Gull Reef specifically, so site-specific marine-life claims have been removed. Depth, location, and tidal-current characteristics reflect OSM/GNIS/NOAA chart data for this feature. Last updated 2026-08-27.*

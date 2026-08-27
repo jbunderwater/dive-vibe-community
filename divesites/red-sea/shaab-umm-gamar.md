@@ -5,7 +5,7 @@ lng: 33.9177183
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: wreck
+siteType: wall
 ref: null
 osmId: 663869804
 addedBy: osm_import
@@ -13,17 +13,17 @@ addedBy: osm_import
 
 # Shaab Umm Gamar
 
-Little Umm Gamar — the submerged companion reef to Umm Gamar Island — featuring a small Egyptian patrol boat wreck on the slope, grey reef sharks, free-swimming morays, and strong current dives for advanced divers.
+Little Umm Gamar — the submerged companion reef to Umm Gamar Island — a wall/drift dive carrying the remnants of a small patrol boat wreck on its slope.
 
 ## Overview
 
-Shaab Umm Gamar (also known as Shabrur Umm Gamar or "Little Umm Gamar") is a long, narrow submerged reef located just northwest of Umm Gamar Island, approximately 60 minutes northeast of Hurghada. Unlike the main Umm Gamar Island, this reef doesn't break the surface — it remains submerged, visible only as a break in the wave pattern. The reef extends roughly 200 metres with a plateau on the western side starting at 14 metres, sloping to about 30 metres before dropping to a steep eastern wall. The site's most historically interesting feature is the remnants of a small Egyptian patrol boat wreck tucked on the slope, now encrusted and colonised. Strong currents sweep through the reef's exposed position, making it primarily a destination for more advanced divers — but these same currents bring exceptional fish life. It is one of the best sites in the Hurghada area for grey reef shark sightings, particularly later in the day.
+Shaab Umm Gamar (also known as Shabrur Umm Gamar or "Little Umm Gamar") is a submerged reef located just northwest of Umm Gamar Island, offshore Hurghada. Unlike the main Umm Gamar Island, this reef doesn't break the surface. The site is dived primarily for its wall/slope terrain, with the remnants of a small Egyptian patrol boat wreck on the slope as a secondary feature rather than the main attraction — hence the reclassification of this site's primary type from "wreck" to "wall". An earlier version of this page included specific plateau depths, current-timing claims for grey reef shark sightings, and a detailed marine life list that could not be verified against independent sources for this specific reef and have been removed or softened below.
 
 ## Site Information
 
 - **Location**: Northwest of Umm Gamar Island, offshore Hurghada, northern Egyptian Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–25 meters
@@ -32,31 +32,26 @@ Shaab Umm Gamar (also known as Shabrur Umm Gamar or "Little Umm Gamar") is a lon
 
 ## Marine Life
 
-Grey reef sharks are Shaab Umm Gamar's signature species — late-day dives when current is running typically produce the best encounters, with sharks patrolling the reef edge. Free-swimming moray eels actively hunting on the plateau are a distinctive behaviour more commonly seen here than at the main Umm Gamar site. Large goatfish and snapper schools pack the western plateau. Schools of jacks and barracuda patrol the outer reef edge. The patrol boat wreck on the slope is now colonised by soft corals and provides shelter for resident fish. Manta rays visit the island system in February and March.
+This site sits in the same general Hurghada offshore reef system known for reef sharks and current-driven fish activity, but no source consulted confirmed specific species behaviour (shark timing, moray hunting patterns) for this exact reef. The patrol boat wreck on the slope is coral-colonised and provides shelter for resident fish, though a detailed species list for it specifically was not available.
 
 ## Dive Profile
 
-Descent to the western plateau at 14 metres and assess current strength before committing to the full dive. With manageable current, work north or south along the plateau to the patrol boat wreck on the slope at 15–20 metres. Continue to the eastern wall if conditions allow — the wall drops to 30+ metres and carries the strongest current. Grey reef shark activity is highest at the reef edge in the afternoon. Return across the plateau for a safety stop at 5 metres. In strong current, limit the dive to the western plateau section.
+The dive is generally run along the reef's slope and wall, with the small patrol-boat wreck as a point of interest partway through. Currents here are typically stronger and less predictable than at the main Umm Gamar Island, making this a site for more experienced divers. Assess current strength at the start of the dive before committing to the wall section.
 
 ## Entry and Exit
 
-Boat from Hurghada (approximately 60-minute transfer). Combined trips with the main Umm Gamar Island are common — Shaab Umm Gamar is typically the second dive of the day. Entry by giant stride. Current conditions must be assessed before every entry. Deploy an SMB before ascending — current can carry divers away from the reef quickly.
+Boat from Hurghada. Combined trips with the main Umm Gamar Island are common — Shaab Umm Gamar is typically the second dive of the day. Entry by giant stride. Current conditions must be assessed before every entry. Deploy an SMB before ascending — current can carry divers away from the reef quickly.
 
 ## Tips and Recommendations
 
-- Plan this as an afternoon dive for the best chance of grey reef shark encounters — sharks are more active on the reef edge when current is running
-- The patrol boat wreck on the slope is modest in scale but historically interesting and well-colonised
-- Advanced divers with drift experience will find the current-swept eastern wall exceptionally rich in large pelagics
-- In strong current, stay close to the reef rather than drifting into open water
 - Pair with Umm Gamar Island as the first dive of the day for a comprehensive visit to both sites
+- The patrol boat wreck on the slope is modest in scale but historically interesting and well-colonised
+- In strong current, stay close to the reef rather than drifting into open water
+- Advanced Open Water certification and drift-diving comfort are recommended given the site's exposure
 
 ## Safety Considerations
 
-Shaab Umm Gamar is a more demanding dive than the adjacent main island due to its stronger and less predictable currents. Advanced Open Water certification and solid drift diving experience are recommended. The open water around the reef can carry divers significant distances from the boat — SMB use is essential and must be deployed before ascent from any depth. Do not attempt the eastern wall in strong current without drift diving training. Grey reef sharks here are wild and should be observed calmly from a stationary position.
-
-## Photography
-
-Grey reef shark photography in the late afternoon at the reef edge, with current carrying the sharks in a predictable patrol pattern, is the primary photographic attraction. Wide-angle technique with a reef reference in the background and shark in the mid-water is the standard approach. The patrol boat wreck rewards wide-angle shots of the encrusted hull structure with natural light. Free-swimming moray eels actively hunting on the plateau are unusual behaviour that provides compelling action images.
+Shaab Umm Gamar is a more demanding dive than the adjacent main island due to its stronger and less predictable currents. The open water around the reef can carry divers significant distances from the boat — SMB use is essential and must be deployed before ascent from any depth. Do not attempt the wall in strong current without drift diving training.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [PADI - Umm Gamar](https://www.padi.com/dive-site/egypt/umm-gamar/), [Dive the World - Hurghada](https://www.dive-the-world.com/diving-sites-egypt-hurghada.php), [Egypt Liveaboard - Shabruhr/Umm Gamar Reef](https://www.egypt-liveaboard.com/dive-sites/shabruhr-umm-gamar-reef). Re-audited 2026-08-27: this page previously credited a set of generic destination-index links and made specific, unverified claims (grey reef shark timing, moray hunting behaviour, manta timing, plateau depths). Reclassified from "wreck" to "wall" since the patrol boat wreck is a minor feature of a site whose primary character is wall/slope diving; unconfirmed specifics removed. Last updated 2026-08-27.*

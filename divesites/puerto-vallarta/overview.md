@@ -8,14 +8,14 @@ Banderas Bay diving centered on the Los Arcos marine park and granite pinnacles,
 
 ## Description
 
-Puerto Vallarta and Banderas Bay offer dive sites ranging from 10 to 46 meters depth. The area is best known for the Los Arcos marine park — a cluster of granite islets with arches, tunnels, and swim-throughs — and for the offshore pinnacles like El Bajo de Corbeteña, where experienced divers encounter giant manta rays, hammerhead sharks, and whale sharks on seasonal visits. The Marietas Islands, a UNESCO Biosphere Reserve made famous by Jacques Cousteau, provide additional reef and rock diving, while the Princesa Vallarta wreck offers an artificial reef dive at 38 meters. Most inshore sites are reef and rock formations suited to beginners and intermediates; the advanced diving is concentrated at the offshore seamounts that require long boat rides and current experience.
+Puerto Vallarta and Banderas Bay offer dive sites ranging from 10 to 46 meters depth. The area is best known for the Los Arcos marine park — a cluster of granite islets with arches, tunnels, and swim-throughs — and for the offshore pinnacles like El Bajo de Corbeteña, where experienced divers encounter giant manta rays, hammerhead sharks, and whale sharks on seasonal visits. The Marietas Islands, a UNESCO Biosphere Reserve made famous by Jacques Cousteau, provide additional reef and rock diving, while the Princesa Vallarta wreck offers an artificial reef dive at approximately 27 meters. Most inshore sites are reef and rock formations suited to beginners and intermediates; the advanced diving is concentrated at the offshore seamounts that require long boat rides and current experience.
 
 ### Diving Opportunities
 
 - **Reef & Rock Diving**: The core of Banderas Bay diving — Los Arcos Marine Park, Mismaloya (the only shore-access site), Las Caletas, Majahuitas, and deeper reefs at Pizota (40m)
 - **Offshore Pinnacles**: The area's marquee advanced diving — El Bajo de Corbeteña (30m, famous for pelagic encounters), El Morro (46m), El Sequial, and El Malinal. These require 2-3 hour boat rides each way and current experience
 - **Inshore Pinnacles**: Las Gemelas and Los Arcos - El Bajo del Cristo offer pinnacle diving closer to shore at intermediate depths
-- **Wreck Diving**: Princesa Vallarta artificial reef (scuttled 2017) at 38 meters off Playas Gemelas, rated Advanced
+- **Wreck Diving**: Princesa Vallarta artificial reef (scuttled October 24, 2017) at approximately 27 meters off Playas Gemelas, rated Advanced
 - **Swim-throughs & Tunnels**: Los Arcos features natural arches and tunnels; Las Marietas Islands and Los Anegados have cavern-like formations (not true cave diving — no overhead environments requiring cave certification)
 - **Sandy Bottom**: Las Viudas (20m) in the north bay offers macro life on sandy substrate
 
@@ -41,4 +41,4 @@ Puerto Vallarta and Banderas Bay offer dive sites ranging from 10 to 46 meters d
 - **Safety**: Inshore sites like Los Arcos are suitable for all levels. Offshore sites (Corbetena, El Morro, El Sequial) involve long boat rides, strong currents, and deep water -- Advanced certification and current experience required. Jellyfish can be present seasonally. A hyperbaric chamber is available in the Puerto Vallarta area
 
 ---
-*Sources: [Banderas Scuba Republic](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [PADI - Puerto Vallarta Diving](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [Vallarta Adventures](https://www.vallarta-adventures.com/en/tours/scuba-dive-puerto-vallarta), [dive.site - Puerto Vallarta](https://dive.site/destination/puerto-vallarta-m40). Last updated 2026-04-05.*
+*Sources: [Banderas Scuba Republic](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [PADI - Puerto Vallarta Diving](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [Vallarta Adventures](https://www.vallarta-adventures.com/en/tours/scuba-dive-puerto-vallarta), [dive.site - Puerto Vallarta](https://dive.site/destination/puerto-vallarta-m40). Corrected Princesa Vallarta wreck depth (38m to 27m) during 2026-08-27 destination re-audit to match the individually-validated site page. Last updated 2026-08-27.*

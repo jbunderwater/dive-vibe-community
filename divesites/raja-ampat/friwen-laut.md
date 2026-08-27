@@ -35,4 +35,4 @@ Friwen Laut ("sea Friwen") is the sloping reef site of the Friwen Island group, 
 Sources confirmed at this specific site (rajaampatbiodiversity.com, lagaligoliveaboard.com, meridianadventuredive.com): endemic Raja Ampat garden eels, ribbon eels, blue-spotted stingrays, and dense nudibranch populations. The shallow accessible start makes this suitable for snorkeling as well.
 
 ---
-*Sources: [Raja Ampat Biodiversity](https://rajaampatbiodiversity.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Meridian Adventure Dive](https://meridianadventuredive.com/). Last updated 2026-06-27.*
+*Sources: [Raja Ampat Biodiversity](https://rajaampatbiodiversity.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Meridian Adventure Dive](https://meridianadventuredive.com/). Last updated 2026-08-27.*

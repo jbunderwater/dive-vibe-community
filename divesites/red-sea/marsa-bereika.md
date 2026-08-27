@@ -34,9 +34,9 @@ Boat access from Sharm El Sheikh; day-boat trips reach the site in approximately
 ## Site Information
 
 - **Location**: Ras Mohammed National Park, South Sinai
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Maximum Depth**: 25 metres
+- **Maximum Depth**: 25 meters
 - **Difficulty**: Intermediate
 
 ## Additional Resources
@@ -44,4 +44,4 @@ Boat access from Sharm El Sheikh; day-boat trips reach the site in approximately
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Red Sea Diving — Ras Mohamed](https://www.redsea-diving.com/sharm-el-sheikh-dive-sites/ras-mohamed/), [Dive the World — Ras Mohammed](https://www.dive-the-world.com/diving-sites-egypt-ras-mohammed.php), [Red Sea Marine — Ras Mohamed National Park](https://redseamarinesharm.com/ras-mohamed-national-park/). Last updated 2026-05-17.*
+*Sources: [Red Sea Diving — Ras Mohamed](https://www.redsea-diving.com/sharm-el-sheikh-dive-sites/ras-mohamed/), [Dive the World — Ras Mohammed](https://www.dive-the-world.com/diving-sites-egypt-ras-mohammed.php), [Red Sea Marine — Ras Mohamed National Park](https://redseamarinesharm.com/ras-mohamed-national-park/), [Camel Dive Club — Marsa Bareika](https://www.cameldive.com/dive-sites/marsa-bareika/). Re-audited 2026-08-27: fixed an internal contradiction (Site Information listed "Shore entry" while the text and frontmatter correctly describe a boat dive); confirmed the bay's canyon/whale-shark/eagle-ray character against an additional source. Last updated 2026-08-27.*

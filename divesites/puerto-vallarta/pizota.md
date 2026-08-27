@@ -54,4 +54,4 @@ Boat access only from Puerto Vallarta marina, approximately 1 hour and 20 minute
 - Bring a 5mm wetsuit — thermoclines at depth can drop temperatures significantly from the warm surface layer
 
 ---
-*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Puerto Vallarta Net – Scuba Diving](https://www.puertovallarta.net/what-to-do/puerto-vallarta-scuba-diving/), [Boca Divers – Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm). Last updated 2026-06-26.*
+*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Puerto Vallarta Net – Scuba Diving](https://www.puertovallarta.net/what-to-do/puerto-vallarta-scuba-diving/), [Boca Divers – Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm). Re-audited 2026-08-27, no factual changes. Last updated 2026-08-27.*

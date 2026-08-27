@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Dennis Shoal
 
-A current-exposed shallow shoal in the San Juan Islands with dense invertebrate coverage and reliable lingcod.
+A boat-access dive site in the San Juan Islands, part of the region's characteristic cold-water rocky reef terrain.
 
 ## Overview
 
-Dennis Shoal is a submerged rocky plateau positioned to catch tidal exchange in the southern San Juan Islands. Its shallow maximum depth of 15 metres and strong invertebrate community make it a productive site for both wildlife observation and photography. The nutrient-rich tidal flow maintains dense colonies of white plumose anemones, encrusting sponges, and colonial tunicates across the shoal surface. The site is representative of the best accessible boat-dive reefs in this part of Puget Sound, combining a manageable depth profile with exceptional marine life density.
+Dennis Shoal is a submerged rocky plateau positioned to catch tidal exchange in the southern San Juan Islands. Its shallow maximum depth of 15 metres and strong invertebrate community make it a productive site for both wildlife observation and photography. The site is representative of the best accessible boat-dive reefs in this part of Puget Sound, combining a manageable depth profile with exceptional marine life density.
 
 ## Site Information
 
@@ -33,7 +33,8 @@ Dennis Shoal is a submerged rocky plateau positioned to catch tidal exchange in 
 
 ## Marine Life
 
-Lingcod are reliably seen at Dennis Shoal, often occupying the shallowest portions of the rocky structure. Copper and quillback rockfish hover in loose aggregations around the shoal perimeter, and kelp greenlings dart through the kelp fronds. Giant Pacific octopus use the boulder crevices, and the shoal floor is crossed by sea stars, including sunflower sea stars where populations are recovering. Nudibranchs are diverse: aeolids, dorids, and arminids are all recorded. Puget Sound king crabs and rock scallops occupy sheltered positions on the rock faces.
+This site's marine life has not been confirmed by any site-specific report. Puget Sound and San Juan Islands cold-water reefs in general support a well-documented regional fauna, but no source found during research names species observed at Dennis Shoal specifically, so none are listed here. Divers should treat any wildlife encounter as a bonus rather than a guarantee.
+
 
 ## Dive Profile
 
@@ -54,9 +55,6 @@ Boat access only. The shoal is primarily accessed by chartered dive boats from F
 
 Cold water (7–11°C) demands dry suit diving. The shallow maximum depth reduces decompression risk but not cold-water hazard. Tidal timing is important; check both current tables and wind conditions before diving exposed shoal sites. Boat traffic in the San Juan Islands requires an SMB on every ascent.
 
-## Photography
-
-The 15-metre maximum depth keeps subjects within the range of ambient light in summer, making Dennis Shoal a good natural-light photography site for wide-angle work. Lingcod on the shoal crest, plumose anemone fields, and close-up nudibranch images are all excellent subjects. For accurate colour at depth, supplemental strobes are still recommended.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Wikidata — Dennis Shoal (Q49615627)](https://www.wikidata.org/wiki/Q49615627), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands). No site-specific dive publications found for Dennis Shoal; description reflects typical southern San Juan Islands shoal conditions. Last updated 2026-06-26.*
+*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Wikidata — Dennis Shoal (Q49615627)](https://www.wikidata.org/wiki/Q49615627), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands). Re-audited 2026-08-27: these sources are regional overviews (Puget Sound / San Juan Islands dive-site and marine-habitat guides) and do not name Dennis Shoal specifically, so site-specific marine-life claims have been removed. Depth, location, and tidal-current characteristics reflect OSM/GNIS/NOAA chart data for this feature. Last updated 2026-08-27.*

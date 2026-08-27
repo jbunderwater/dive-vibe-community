@@ -58,4 +58,4 @@ Tidal currents in the Strait of Tiran can be significant and change in direction
 Wreck photography at this site benefits from both the structural subjects of the hull and the open-water pelagic encounters possible in the surrounding Tiran waters. Wide-angle shots of the coral-encrusted hull work best in mid-morning light. Schools of glassy sweepers in the interior create atmospheric scenes with a torch fill light.
 
 ---
-*Sources: [The Scuba News - The Loullia](https://www.thescubanews.com/2014/01/27/featured-red-sea-wreck-the-loullia/), [Peter & Karen Pecksen - Louilla on Gordon Reef](https://pecksen.com/20221201-egypt-00055/), [Emperor Divers - Wrecks of the Red Sea](https://www.emperordivers.com/wrecks-of-the-red-sea/). Last updated 2026-05-25.*
+*Sources: [The Scuba News - The Loullia](https://www.thescubanews.com/2014/01/27/featured-red-sea-wreck-the-loullia/), [Peter & Karen Pecksen - Louilla on Gordon Reef](https://pecksen.com/20221201-egypt-00055/), [Emperor Divers - Wrecks of the Red Sea](https://www.emperordivers.com/wrecks-of-the-red-sea/). Re-audited 2026-08-27: no changes needed. Last updated 2026-08-27.*

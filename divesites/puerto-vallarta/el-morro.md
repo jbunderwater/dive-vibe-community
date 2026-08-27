@@ -13,13 +13,13 @@ addedBy: osm_import
 
 # El Morro
 
-Series of rock pinnacles 6 miles west of Las Marietas outside Banderas Bay — a 15-meter submarine tunnel entered at 27-30m, gorgonians, giant oceanic mantas, whale sharks in early summer, and humpback whales in winter; minimum 25 dives required
+Series of rock pinnacles 6 miles west of Las Marietas outside Banderas Bay — a submarine tunnel entered at 27-30m and exiting at 15-18m, gorgonians, giant oceanic mantas, whale sharks in early summer, and humpback whales in winter; minimum 25 dives required
 
 ## Overview
 
 El Morro is a series of rock pinnacles located approximately 6 miles west of Las Marietas Islands, outside the mouth of Banderas Bay in exposed Pacific waters. The 90-minute boat crossing from Puerto Vallarta delivers divers to a site with a completely different character from the sheltered bay: cleaner water, stronger current, and the pelagic marine life that comes with genuine open-ocean exposure.
 
-The defining feature of El Morro is a submarine tunnel that passes completely through the main pinnacle formation, entered at approximately 27-30 meters (90-100 feet) and exiting at approximately 15-18 meters (50-60 feet). Adjacent to the tunnel entrance, a large cavern extends at 21-27 meters — a substantial overhead environment requiring a torch and controlled buoyancy. Outside the cavern and tunnel, the rock walls carry significant growth of gorgonians and sea fans, and the open water around the pinnacles sees regular visits from giant oceanic mantas, seasonal whale sharks, and winter humpback whales. A minimum of 25 logged dives is required by most operators.
+The defining feature of El Morro is a submarine tunnel that passes completely through the main pinnacle formation, entered at approximately 27-30 meters (90-100 feet) and exiting at approximately 15-18 meters (50-60 feet). The tunnel's actual length is reported inconsistently across sources — Banderas Scuba Republic puts it at roughly 40 meters, while other write-ups cite figures that appear to conflate the tunnel's length with its exit depth — so no precise length is asserted here beyond the well-corroborated entry and exit depths. Adjacent to the tunnel entrance, a large cavern extends at 21-27 meters — a substantial overhead environment requiring a torch and controlled buoyancy. Outside the cavern and tunnel, the rock walls carry significant growth of gorgonians and sea fans, and the open water around the pinnacles sees regular visits from giant oceanic mantas, seasonal whale sharks, and winter humpback whales. A minimum of 25 logged dives is required by most operators.
 
 ## Site Information
 
@@ -39,7 +39,7 @@ Giant oceanic manta rays are El Morro's signature encounter, drawn by the curren
 
 ## Dive Profile
 
-Dives at El Morro begin at the cavern at 21-27 meters before navigating the 15-meter submarine tunnel — entering at 27-30 meters and exiting at 18 meters on the other side. A torch is required throughout the tunnel. After the tunnel, divers work the outer walls and watch the blue water for pelagics before ascending. Current around the exposed pinnacle faces requires active management and good trim. The depth range and overhead environment demand Advanced certification; the 25-dive minimum reflects genuine skill requirements rather than a formality.
+Dives at El Morro begin at the cavern at 21-27 meters before navigating the submarine tunnel — entering at 27-30 meters and exiting at 15-18 meters on the other side. A torch is required throughout the tunnel. After the tunnel, divers work the outer walls and watch the blue water for pelagics before ascending. Current around the exposed pinnacle faces requires active management and good trim. The depth range and overhead environment demand Advanced certification; the 25-dive minimum reflects genuine skill requirements rather than a formality.
 
 ## Entry and Exit
 
@@ -54,4 +54,4 @@ Boat access, approximately 90 minutes from Puerto Vallarta marina. Exposed open-
 - The 25-dive minimum is a genuine experience requirement — the tunnel, cavern, open-ocean current, and depth demand solid skills from every diver in the water
 
 ---
-*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Divinglore – Scuba Diving Puerto Vallarta](https://www.divinglore.com/scuba-diving-puerto-vallarta/), [360Mexico – Dive Sites](https://360mexico.org/tours/dive-sites.html), [Sayulita Entourage – El Morro and Los Anegados](https://www.sayulitaentourage.com/services/dive-trips/certified-diver/scuba-diving-in-el-morro-and-los-anegados). Last updated 2026-06-26.*
+*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Divinglore – Scuba Diving Puerto Vallarta](https://www.divinglore.com/scuba-diving-puerto-vallarta/), [360Mexico – Dive Sites](https://360mexico.org/tours/dive-sites.html), [Sayulita Entourage – El Morro and Los Anegados](https://www.sayulitaentourage.com/services/dive-trips/certified-diver/scuba-diving-in-el-morro-and-los-anegados), [Riviera Nayarit – Scuba Diving](https://www.rivieranayarit.com/activity/water/scuba-diving/). Last updated 2026-08-27.*

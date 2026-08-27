@@ -59,4 +59,4 @@ Currents can pick up on the incoming tide and may make holding position at the c
 Manta Point is one of the finest manta photography locations on Earth. Wide-angle glass (10–17mm fisheye or 16–35mm) is ideal. Shoot looking up toward the surface to silhouette the mantas against the light, or position at the same depth for a level profile shot. Mantas circle predictably, so patience yields exceptional close-focus wide-angle images.
 
 ---
-*Sources: [Indonesia Tourism](https://indonesia-tourism.com/), [Dive Concepts](https://diveconcepts.com/), [Raja Ampat Biodiversity](https://rajaampatbiodiversity.com/), [Luxury Raja Ampat](https://luxuryrajaampat.com/). Last updated 2026-06-27.*
+*Sources: [Indonesia Tourism](https://indonesia-tourism.com/), [Dive Concepts](https://diveconcepts.com/), [Raja Ampat Biodiversity](https://rajaampatbiodiversity.com/), [Luxury Raja Ampat](https://luxuryrajaampat.com/). Last updated 2026-08-27.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Lawson Reef
 
-A rocky reef in the southern San Juan Islands offering consistent cold-water diving with lingcod, octopus, and dense plumose anemone communities.
+A boat-access dive site in the San Juan Islands, part of the region's characteristic cold-water rocky reef terrain.
 
 ## Overview
 
-Lawson Reef is a submerged rocky structure in the southern portion of the San Juan Islands, in the channel systems south of Orcas Island. The reef is characterised by sloping rock faces and boulder fields that provide habitat diversity for Pacific Northwest cold-water species. Like most San Juan Islands boat-dive reefs, the site's proximity to tidal exchange corridors ensures a constant supply of cold, oxygen-rich, nutrient-laden water that sustains the dense marine communities that define Pacific Northwest diving. Maximum depth is 18 metres.
+The reef is characterised by sloping rock faces and boulder fields that provide habitat diversity for Pacific Northwest cold-water species. Like most San Juan Islands boat-dive reefs, the site's proximity to tidal exchange corridors ensures a constant supply of cold, oxygen-rich, nutrient-laden water that sustains the dense marine communities that define Pacific Northwest diving. Maximum depth is 18 metres.
 
 ## Site Information
 
@@ -33,11 +33,12 @@ Lawson Reef is a submerged rocky structure in the southern portion of the San Ju
 
 ## Marine Life
 
-Giant Pacific octopus are resident in the boulder fields at the deeper end of the reef. Wolf eels — mated pairs that may remain at the same den for years — are present at known den sites. Lingcod occupy exposed rock perches, while copper and quillback rockfish cluster in the mid-water zones. Kelp greenlings are common and approachable. The rock faces are covered in plumose anemones, colonial tunicates, encrusting sponges, and hydroids. Puget Sound king crabs and red sea urchins are abundant. Nudibranchs (multiple aeolid and dorid species) are found throughout.
+This site's marine life has not been confirmed by any site-specific report. Puget Sound and San Juan Islands cold-water reefs in general support a well-documented regional fauna, but no source found during research names species observed at Lawson Reef specifically, so none are listed here. Divers should treat any wildlife encounter as a bonus rather than a guarantee.
+
 
 ## Dive Profile
 
-Descend to the reef crest and work gradually down to 18 metres, spending time on the most vertically featured rock sections. The boulder base on the deep end is the most productive area for octopus. Ascend back over the reef crest using it as an extended safety stop at 5 metres before surfacing.
+Descend to the reef crest and work gradually down to 18 metres, spending time on the most vertically featured rock sections. Ascend back over the reef crest using it as an extended safety stop at 5 metres before surfacing.
 
 ## Entry and Exit
 
@@ -46,17 +47,12 @@ Boat access only, operated from Friday Harbor or Anacortes-based charter operato
 ## Tips
 
 - The southern San Juan Islands can be reached as a day trip from Anacortes — check charter schedules
-- Look for empty crab and urchin shell debris around boulder gaps as a marker of octopus presence nearby
-- Kelp greenlings will approach divers closely — remain still and they may swim within arm's reach
 - Autumn dives often feature improved visibility as summer plankton blooms diminish
 
 ## Safety
 
 Cold water (7–11°C) requires dry suit and appropriate undergarment. Tidal timing is essential for comfortable diving. Be aware of boat traffic in the channel; always deploy an SMB before surfacing. Use the buddy system and maintain visual contact throughout the dive in the boulder terrain.
 
-## Photography
-
-Lawson Reef offers a full range of photographic subjects. Wide-angle shots of anemone walls, octopus in den entrances, and kelp canopy scenes all work well. Macro photography of nudibranchs and the detailed texture of encrusting sponge communities is equally productive. Strobes and a torch are recommended.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Wikidata — Lawson Reef (Q49618325)](https://www.wikidata.org/wiki/Q49618325), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands). No site-specific dive publications found for Lawson Reef; description reflects typical southern San Juan Islands rocky reef conditions. Last updated 2026-06-26.*
+*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Wikidata — Lawson Reef (Q49618325)](https://www.wikidata.org/wiki/Q49618325), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands). Re-audited 2026-08-27: these sources are regional overviews (Puget Sound / San Juan Islands dive-site and marine-habitat guides) and do not name Lawson Reef specifically, so site-specific marine-life claims have been removed. Depth, location, and tidal-current characteristics reflect OSM/GNIS/NOAA chart data for this feature. Last updated 2026-08-27.*
