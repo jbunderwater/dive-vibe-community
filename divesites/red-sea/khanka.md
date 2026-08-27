@@ -17,7 +17,7 @@ A shipwreck at Zabargad Island in the southern Egyptian Red Sea — depth approx
 
 ## Overview
 
-The Khanka is a steel-hulled cargo or supply vessel resting near Zabargad Island (Abu Zabad), an offshore island in the southern Egyptian Red Sea at approximately 23.6°N. Zabargad is reached exclusively by liveaboard from Marsa Alam or Port Ghalib. The wreck has been colonised by coral growth over the years and now supports a resident fish community. Note: a separate OSM entry named "Neptuna" exists at nearly identical coordinates (~30m away) — these two entries are likely the same wreck recorded twice, and deduplication may be needed. The vessel's identity and sinking history have not been confirmed from independent sources.
+Sources describe a wreck at Zabargad Island matching this one's approximate position and depth as a Russian-built MOMA-class (Project 861M) vessel — sometimes called the "Russian Spy Ship" — a roughly 70-metre transport/surveillance ship that sank upright in about 24 metres of water in the 1970s, with its mast breaking the surface at low tide. This identification comes from aggregated dive-site listings rather than a single authoritative source, so it should be treated as probable rather than certain. Zabargad is reached exclusively by liveaboard from Marsa Alam or Port Ghalib. Note: a separate OSM entry named "Neptuna" exists at nearly identical coordinates (~30m away) — these two entries are likely the same wreck recorded twice, and deduplication may be needed. No independent source confirming a wreck called specifically "Neptuna" at this location was found.
 
 ## Site Information
 

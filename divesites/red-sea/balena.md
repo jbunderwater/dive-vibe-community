@@ -59,4 +59,4 @@ The primary hazard is accidental contact with the wreck structure in such confin
 One of the Red Sea's best naturally lit wreck photography sites. The shallow depth and clear water allow ambient light shooting without strobes. Schools of glassfish inside the hull create atmospheric wide-angle compositions.
 
 ---
-*Depth corrected to 9m (from erroneous 3m) per OSM tag scuba_diving:maxdepth=8.5. No site-specific sources found for vessel identity or history. Last updated 2026-06-27.*
+*Sources: [Pro-Taucher - MS Balena](https://www.pro-taucher.com/dive-sites/africa/egypt/hurghada/ms-balena/), [Zentacle - Balena Wreck](https://www.zentacle.com/Beach/7574/balena-wreck), [OceanSoul - Wrack der MS Balena](https://www.oceansoul.blue/dive-sites/wrack-der-ms-balena/?lang=en). Re-audited 2026-08-27: vessel identity now confirmed (Norwegian-built 1952 mail ship, later a Hurghada liveaboard, sank 12 April 2001) — this page previously stated no site-specific sources were found for the vessel's identity; depth (9m) re-confirmed. Last updated 2026-08-27.*
