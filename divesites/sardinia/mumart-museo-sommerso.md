@@ -22,8 +22,8 @@ MuMart (Maritime Museum of Art) is an underwater sculpture gallery at Golfo Aran
 ## Site Information
 
 - **Location**: Golfo Aranci, Sardinia, Europe
-- **Entry Type**: Shore or boat
-- **Site Type**: Reef (artificial/sculpture site)
+- **Entry Type**: Shore or boat entry
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 7 meters
 

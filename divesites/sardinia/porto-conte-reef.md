@@ -28,4 +28,4 @@ Porto Conte Reef lies within the calm natural bay of Porto Conte, part of the sa
 - **Maximum Depth**: 16 meters
 
 ---
-*Sources: [Porto Conte Diving Center](https://www.portoconte.it/diving/english.html), [SardegnaTurismo - Porto Conte Regional Natural Park](https://www.sardegnaturismo.it/en/explore/porto-conte-regional-natural-park), [ArchiMete Diving Capo Caccia](https://www.archimete.it/attivita/percorsi-subacquei/). Last updated 2026-08-28.*
+*Sources: [Porto Conte Diving Center](https://www.portoconte.it/diving/english.html), [SardegnaTurismo - Porto Conte Regional Natural Park](https://www.sardegnaturismo.it/en/explore/porto-conte-regional-natural-park), [ArchiMete Diving Capo Caccia](https://www.archimete.it/en/attivita/diving-tours/percorsi-subacquei/). Last updated 2026-08-28.*

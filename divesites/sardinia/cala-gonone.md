@@ -28,8 +28,8 @@ Outside the cave mouth, rocky reef and posidonia meadows provide habitat for typ
 - **Location**: Sardinia, Europe
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Intermediate (recreational entrance only -- the technical central branch is Advanced/technical and requires cave certification)
-- **Maximum Depth**: 15 meters (recreational entrance; the technical branch reaches far greater depths, see Overview)
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 15 meters
 
 ---
-*Sources: [Protec Sardinia - Bue Marino](https://protecsardinia.com/bue-marino/?lang=en), [Diving Argonauta Cala Gonone](https://www.argonauta.it/en/activities/scuba-diving/), [SardegnaTurismo](https://www.sardegnaturismo.it/en/explore/cala-gonone). Last updated 2026-08-28.*
+*Sources: [Protec Sardinia - Bue Marino](https://protecsardinia.com/bue-marino/?lang=en), [Diving Argonauta Cala Gonone](https://www.argonauta.it/en/activities/scuba-diving/), [SardegnaTurismo - Cala Gonone](https://www.sardegnaturismo.it/en/places/est/cala-gonone). Last updated 2026-08-28.*
