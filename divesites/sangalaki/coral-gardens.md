@@ -64,4 +64,4 @@ The colourful hard coral garden in 5–10 metres of water makes excellent wide-a
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Asia Diving Vacation – Sangalaki](https://asiadivingvacation.com/diving/sangalaki-island), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Scuba Junkie Sangalaki – Best Kept Secret](https://www.scubajunkiesangalaki.com/sangalaki-best-kept-secret-for-divers/). Last updated 2026-06-27.*
+*Sources: [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Asia Diving Vacation – Sangalaki](https://asiadivingvacation.com/diving/sangalaki-island), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Scuba Junkie Sangalaki – Best Kept Secret](https://www.scubajunkiesangalaki.com/sangalaki-best-kept-secret-for-divers/). Last updated 2026-08-28.*

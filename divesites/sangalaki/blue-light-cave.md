@@ -63,4 +63,4 @@ The blue ambient light filtering through the chimney creates striking atmospheri
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Wannadive – Blue Light Cave](https://www.wannadive.net/spot/Asia/Indonesia/Kalimantan/Kakaban/Blue_light_cave/index.html), [Asia Dive Site – Kakaban](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/kakaban.php), [Scuba Junkie Sangalaki – Diving Kakaban](https://www.scubajunkiesangalaki.com/diving-kakaban/), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html). Last updated 2026-06-27.*
+*Sources: [Wannadive – Blue Light Cave](https://www.wannadive.net/spot/Asia/Indonesia/Kalimantan/Kakaban/Blue_light_cave/index.html), [Asia Dive Site – Kakaban](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/kakaban.php), [Scuba Junkie Sangalaki – Diving Kakaban](https://www.scubajunkiesangalaki.com/diving-kakaban/), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html). Last updated 2026-08-28.*

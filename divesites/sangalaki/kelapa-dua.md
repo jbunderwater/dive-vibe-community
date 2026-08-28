@@ -64,4 +64,4 @@ Thresher sharks at cleaning stations are one of the most prized underwater photo
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [PADI – Kelapa Dua](https://www.padi.com/dive-site/indonesia/kelapa-dua/), [Scuba Junkie Sangalaki – Diving Maratua](https://www.scubajunkiesangalaki.com/diving-maratua/), [Green Nirvana Resort – Fun Dives](https://www.greennirvanaresort.com/Fun-Dives), [Derawan Islands ISRA – Important Shark & Ray Areas](https://sharkrayareas.org/portfolio-item/derawan-islands-isra/). Last updated 2026-06-27.*
+*Sources: [PADI – Kelapa Dua](https://www.padi.com/dive-site/indonesia/kelapa-dua/), [Scuba Junkie Sangalaki – Diving Maratua](https://www.scubajunkiesangalaki.com/diving-maratua/), [Green Nirvana Resort – Fun Dives](https://www.greennirvanaresort.com/Fun-Dives), [Derawan Islands ISRA – Important Shark & Ray Areas](https://sharkrayareas.org/portfolio-item/derawan-islands-isra/). Last updated 2026-08-28.*
