@@ -14,8 +14,8 @@
       "scuba_diving:divespot": "wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scapaflowwrecks.com,northlinkferries.co.uk,trove.scot",
-      "last_qa_date": "2026-06-29"
+      "validation_source": "scapaflowwrecks.com,northlinkferries.co.uk,trove.scot,scapa-flow.co.uk",
+      "last_qa_date": "2026-08-28"
     }
   },
   {
@@ -33,8 +33,8 @@
       "scuba_diving:divespot": "wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "divernet.com,scottishshipwrecks.com,canmore.org.uk",
-      "last_qa_date": "2026-06-29"
+      "validation_source": "divernet.com,scottishshipwrecks.com,canmore.org.uk,scapa-flow.co.uk",
+      "last_qa_date": "2026-08-28"
     }
   },
   {
@@ -52,8 +52,8 @@
       "scuba_diving:divespot": "wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scapaflowwrecks.com,scapa-flow.co.uk,northlinkferries.co.uk",
-      "last_qa_date": "2026-06-29"
+      "validation_source": "scapaflowwrecks.com,scapa-flow.co.uk,northlinkferries.co.uk,trove.scot",
+      "last_qa_date": "2026-08-28"
     }
   },
   {
@@ -72,7 +72,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "scapaflowwrecks.com,wikipedia.org,scapa-flow.co.uk",
-      "last_qa_date": "2026-06-29"
+      "last_qa_date": "2026-08-28"
     }
   },
   {
@@ -92,7 +92,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "scapaflowwrecks.com,wikipedia.org,scapa-flow.co.uk",
-      "last_qa_date": "2026-06-29"
+      "last_qa_date": "2026-08-28"
     }
   },
   {
@@ -114,7 +114,7 @@
       "wikipedia": "en:SMS Markgraf",
       "validated": "true",
       "validation_source": "scapaflowwrecks.com,wikipedia.org,scapa-flow.co.uk",
-      "last_qa_date": "2026-06-29"
+      "last_qa_date": "2026-08-28"
     }
   },
   {
@@ -134,7 +134,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "scapaflowwrecks.com,wikipedia.org,scapa-flow.co.uk",
-      "last_qa_date": "2026-06-29"
+      "last_qa_date": "2026-08-28"
     }
   },
   {
@@ -154,7 +154,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "scapaflowwrecks.com,wikipedia.org,scapa-flow.co.uk",
-      "last_qa_date": "2026-06-29"
+      "last_qa_date": "2026-08-28"
     }
   },
   {
@@ -177,7 +177,7 @@
       "wikipedia": "en:SMS Cöln (1916)",
       "validated": "true",
       "validation_source": "scapaflowwrecks.com,wikipedia.org,scapa-flow.co.uk",
-      "last_qa_date": "2026-06-29"
+      "last_qa_date": "2026-08-28"
     }
   },
   {
@@ -200,7 +200,7 @@
       "wikipedia": "en:SMS Kronprinz",
       "validated": "true",
       "validation_source": "scapaflowwrecks.com,wikipedia.org,scapa-flow.co.uk",
-      "last_qa_date": "2026-06-29"
+      "last_qa_date": "2026-08-28"
     }
   }
 ]

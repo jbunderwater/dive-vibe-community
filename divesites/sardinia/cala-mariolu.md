@@ -2,8 +2,8 @@
 name: Cala Mariolu
 lat: 40.1232825
 lng: 9.6767178
-difficulty: Intermediate
-maxDepth: 18
+difficulty: Beginner
+maxDepth: 12
 entryType: boat
 siteType: wall
 ref: null
@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Cala Mariolu
 
-Cala Mariolu is a cave dive site in Sardinia, Europe.
+Cala Mariolu is one of the Gulf of Orosei's best-known pebble-beach coves, offering shallow, calm-water snorkeling and beginner diving beneath towering limestone cliffs.
 
 ## Overview
 
-Cala Mariolu is a protected cove on the Gulf of Orosei whose steep limestone walls continue below the waterline as cave-riddled cliffs with visibility frequently exceeding 30 meters. The south wall is the main feature — a sheer face pocked with caverns and narrow tunnels that divers can thread through, with encrusting invertebrates on the shadowed overhangs. Grouper are common residents around the cave entrances, and the cove's remoteness from road access keeps diver numbers low enough for a genuinely undisturbed experience.
+Cala Mariolu sits at the foot of a roughly 500-metre limestone cliff on the Gulf of Orosei, and is primarily known as a scenic beach destination rather than a technical dive site -- it's reachable only by boat or a long coastal hike. Diving here is mostly shallow and beginner-oriented: a local operator runs introductory "baptism" dives in the cove, typically to around 7 metres. A small cave in the cove itself begins at a little beach and reaches about 10 metres depth. Other write-ups mention additional caves and passages along the south wall, but none give a confirmed maximum depth for that area, so this listing keeps to what's documented for the shallow cove itself. No source names specific fish species seen here; dolphins are occasionally spotted offshore.
 
 ## Site Information
 
-- **Location**: Sardinia, Europe
+- **Location**: Gulf of Orosei, Sardinia, Europe
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 12 meters
 
 ---
-*Sources: [Cala Mariolu Official Site](https://www.calamariolu.it/en/), [SardegnaTurismo - Cala Mariolu](https://www.sardegnaturismo.it/en/explore/cala-mariolu), [TripAdvisor - Diving Cala Mariolu](https://www.tripadvisor.com/Attraction_Review-g644260-d4745522-Reviews-Diving_Cala_Mariolu-Baunei_Province_of_Ogliastra_Sardinia.html). Last updated 2026-06-29.*
+*Sources: [SardegnaTurismo - Cala Mariolu](https://www.sardegnaturismo.it/it/esplora/cala-mariolu), [Diving Cala Mariolu](https://divingcalamariolu.com/en/diving-cala-mariolu-eng/), [TripAdvisor - Diving Cala Mariolu](https://www.tripadvisor.com/Attraction_Review-g644260-d4745522-Reviews-Diving_Cala_Mariolu-Baunei_Province_of_Ogliastra_Sardinia.html). Last updated 2026-08-28.*

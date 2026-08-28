@@ -36,7 +36,7 @@ Cöln rests on her starboard side at 34–36 metres, with the shallowest accessi
 
 ## Marine Life
 
-Small shoaling fish are present throughout the hull. Pollack, cod, and ling school around the superstructure. Conger eels inhabit crevices. Lobster, edible crab, velvet swimming crab, scallops, squat lobster, starfish, and anemones colonise the wreck surfaces. Seal pups are occasionally encountered — a distinctive encounter unique among the Fleet wrecks.
+Small shoaling fish are present throughout the hull. Pollock, cod, and ling school around the superstructure. Conger eels inhabit crevices. Lobster, edible crab, decorator crab, and velvet swimming crab occupy the wreck surfaces alongside king and queen scallops and squat lobster. Sea urchins, starfish, plumose anemones, and dead man's fingers encrust the hull. Seal pups are frequently observed here per the local operator — not unique among the Fleet wrecks (Brummer also reports regular seal encounters), but among the more reliable sightings.
 
 ## Dive Profile
 
@@ -63,4 +63,4 @@ Cöln's intact profile and relatively accessible entry point make it one of the 
 - **Best Time**: May–October
 
 ---
-*Sources: [SMS Cöln — Scapa Flow Wrecks](https://www.scapaflowwrecks.com/wrecks/coln/), [S.M.S. Cöln — MV Invincible Scapa Flow](https://www.scapa-flow.co.uk/dive-site/6-S.m.s.-Coln), [SMS Cöln (1916) — Wikipedia](https://en.wikipedia.org/wiki/SMS_C%C3%B6ln_(1916)), [Scuttling of the German Fleet at Scapa Flow — Wikipedia](https://en.wikipedia.org/wiki/Scuttling_of_the_German_fleet_at_Scapa_Flow). Last updated 2026-06-29.*
+*Sources: [SMS Cöln — Scapa Flow Wrecks](https://www.scapaflowwrecks.com/wrecks/coln/), [S.M.S. Cöln — MV Invincible Scapa Flow](https://www.scapa-flow.co.uk/dive-site/6-S.m.s.-Coln), [SMS Cöln (1916) — Wikipedia](https://en.wikipedia.org/wiki/SMS_C%C3%B6ln_(1916)), [Scuttling of the German Fleet at Scapa Flow — Wikipedia](https://en.wikipedia.org/wiki/Scuttling_of_the_German_fleet_at_Scapa_Flow). Re-audited and last updated 2026-08-28.*

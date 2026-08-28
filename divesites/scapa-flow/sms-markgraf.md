@@ -17,7 +17,7 @@ Scapa Flow's most technically demanding and most dramatic battleship — almost 
 
 ## Overview
 
-SMS Markgraf is the deepest and widely regarded as the most impressive of the three remaining König-class battleships in Scapa Flow. She was the third of the four König-class ships, built by A.G. Weser in Bremen, launched on 4 June 1913, and commissioned on 1 October 1914. She measured 175.4 metres in length and displaced 25,796 tonnes normally (28,600 tonnes at full load). Her armament included ten 30.5 cm (12-inch) guns in five twin turrets. She was scuttled at 16:45 on 21 June 1919 — the last of the three surviving battleships to sink that day.
+SMS Markgraf is the deepest and widely regarded as the most impressive of the three remaining König-class battleships in Scapa Flow. She was the third of the four König-class ships, built by A.G. Weser in Bremen, launched on 4 June 1913, and commissioned on 1 October 1914. Wikipedia gives her length as 175.4 metres, matching the class-level specification shared with her sister ships; scapaflowwrecks.com's dive guide states 146 metres — sources disagree, and 175.4 m is used here as the class-confirmed figure. She displaced 25,796 tonnes normally (28,600 tonnes at full load). Her armament included ten 30.5 cm (12-inch) guns in five twin turrets. She was scuttled at 16:45 on 21 June 1919 — the last of the three surviving battleships to sink that day.
 
 The Markgraf now lies almost completely upturned on her starboard side, with the superstructure having prevented her from rolling entirely inverted. She is open on the starboard side, and it is along this edge — the compressed interface between the overturned superstructure and the seabed — that much of the diving interest lies. The maximum depth is approximately 45 metres (sources report depths between 45 and 47 metres depending on the section measured), with the shallowest accessible point at 24 metres. Two shot lines are typically rigged: one to the anchor chain overlapping the hull at the bow, and one at the stern. The enormous bow rising sheer from depth is one of the defining wreck images in the world. At the stern, the twin rudders stand approximately 3.5 metres tall and remain intact having survived both the 1919 scuttling and all subsequent salvage. Seven 5.9-inch gun casemates, a 6-inch armour belt, and various rangefinders are accessible for experienced divers.
 
@@ -38,7 +38,7 @@ The Markgraf now lies almost completely upturned on her starboard side, with the
 - **Built**: A.G. Weser, Bremen; launched 4 June 1913, commissioned 1 October 1914
 - **Class**: König-class battleship (third of four)
 - **Displacement**: 25,796 tonnes standard; 28,600 tonnes full load
-- **Length**: 175.4 metres
+- **Length**: 175.4 metres (Wikipedia/class specification); scapaflowwrecks.com dive guide states 146 metres — sources disagree
 - **Armament**: Ten 30.5 cm guns in five twin turrets; fourteen 15 cm secondary guns; five torpedo tubes
 - **Interned at Scapa Flow**: Late 1918
 - **Scuttled**: 21 June 1919 at 16:45 — last of the three surviving battleships to sink that day
@@ -46,7 +46,7 @@ The Markgraf now lies almost completely upturned on her starboard side, with the
 
 ## Marine Life
 
-The Markgraf's depth limits biological activity compared to shallower wrecks, but the cold-water community is still significant. Plumose anemones are established throughout the accessible hull surfaces. Large conger eels are resident in enclosed hull sections. Spider crabs and edible crabs are found across the wreck. Pollack and saithe use the dramatic bow section as a vertical reference point. The wreck rates 9/10 for marine life abundance according to local operators.
+The Markgraf's depth limits biological activity compared to shallower wrecks, but the cold-water community is still significant — local operators rate its sealife 9/10. The site-specific listing names shoaling fish, pollock, and occasional cod and poor cod among the fish life, with ling and conger also present. Lobster, crab, and velvet crabs are reported alongside scallops, queen scallops, and squat lobster. Sea urchins, starfish, and brittle stars round out the invertebrate life, together with plumose anemones and dead man's fingers.
 
 ## Dive Profile
 
@@ -74,4 +74,4 @@ This is a protected scheduled monument under the Protection of Wrecks Act 1973. 
 The sheer bow rising from the seabed is one of the most photographed images in wreck diving worldwide. A wide-angle lens and powerful strobes are required to approach the scale of the bow. The twin stern rudders are slightly more manageable compositionally but equally impressive. These subjects reward a dedicated photography dive with no competing objectives. Powerful artificial lighting is mandatory — natural light at 45 metres in Scottish waters is negligible.
 
 ---
-*Sources: [SMS Markgraf Dive Guide — Scapa Flow Wrecks](https://www.scapaflowwrecks.com/wrecks/markgraf/diving.php), [SMS Markgraf — Wikipedia](https://en.wikipedia.org/wiki/SMS_Markgraf), [S.M.S. Markgraf — MV Invincible Scapa Flow](https://www.scapa-flow.co.uk/dive-site/1-S.M.S.-Markgarf), [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/). Last updated 2026-06-29.*
+*Sources: [SMS Markgraf Dive Guide — Scapa Flow Wrecks](https://www.scapaflowwrecks.com/wrecks/markgraf/diving.php), [SMS Markgraf — Wikipedia](https://en.wikipedia.org/wiki/SMS_Markgraf), [S.M.S. Markgraf — MV Invincible Scapa Flow](https://www.scapa-flow.co.uk/dive-site/1-S.M.S.-Markgarf), [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/). Re-audited and last updated 2026-08-28.*
