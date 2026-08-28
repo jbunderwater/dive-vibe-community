@@ -17,7 +17,7 @@ Consuelo's is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Consuelo's is a Roatan Marine Park mooring site located in front of Lawson Rock in Sandy Bay. Named by Mary and David Casement to honor their beloved Dive Master, it was added to the park's registry in 2022. The site sits along the barrier reef wall where healthy coral formations and sponge gardens create a vibrant underwater landscape. Divers in this area typically encounter eagle rays along the wall, green sea turtles on the reef top, and schools of creole wrasse in the blue water beyond. Visibility ranges from 20 to 40 meters.
+Consuelo's is a Roatan Marine Park mooring site located in front of Lawson Rock. It was named by Mary and David Casement to honor their Dive Master following an Anthony's Key Resort dive trip. Roatan Marine Park's records confirm the site name, dedication, and location, but no site-specific published description of marine life was found. Regional barrier-reef-wall fauna can be expected, but no site-specific sightings have been confirmed.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Consuelo's is a Roatan Marine Park mooring site located in front of Lawson Rock 
 - **Maximum Depth**: 27 meters
 
 ---
-*Sources: [Roatan Marine Park](https://www.roatanmarinepark.org/marine-infrastructure). Last updated 2026-08-28.*
+*Sources: [Roatan Marine Park – Dive Sites With Meaningful Stories](https://www.roatanmarinepark.org/post/dive-sites-with-meaning-stories). Last updated 2026-08-28.*

@@ -17,7 +17,7 @@ Bella Bean is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Bella Bean is a Roatan Marine Park mooring site near Blue Harbor, dedicated in memory of Bella, a 13-year-old Cavapoo who passed away in August 2020. The site sits along Roatan's eastern barrier reef, a less-trafficked section offering pristine coral conditions. The wall features healthy hard corals, barrel sponges, and sea fans, with green sea turtles, eagle rays, and groupers commonly sighted. This quieter stretch of reef provides a more secluded diving experience than the busier western sites. Visibility averages 20-40 meters.
+Bella Bean is a Roatan Marine Park mooring site near Blue Harbor, close to the dedicating family's home. Greg and Cris Buscetto named it in memory of Bella, a 13-year-old Cavapoo who passed away in August 2020. Roatan Marine Park's records confirm the site name, dedication, and general location, but no site-specific published description of marine life was found. This stretch of Roatan's eastern reef sees less dive traffic than the western sites, but no site-specific sightings have been confirmed.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Bella Bean is a Roatan Marine Park mooring site near Blue Harbor, dedicated in m
 - **Maximum Depth**: 24 meters
 
 ---
-*Sources: [Roatan Marine Park](https://www.roatanmarinepark.org/marine-infrastructure). Last updated 2026-08-28.*
+*Sources: [Roatan Marine Park – Dive Sites With Meaningful Stories](https://www.roatanmarinepark.org/post/dive-sites-with-meaning-stories). Last updated 2026-08-28.*

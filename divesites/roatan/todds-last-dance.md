@@ -17,7 +17,7 @@ Todd's Last Dance is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Todd's Last Dance is a named mooring site within the Roatan Marine Park system, part of the conservation network that protects the West Bay reef corridor. Specific information about this individual location is limited, but the site sits on the reef shelf where coral formations and sandy areas create a varied seascape at depths to 18 meters. Blue tangs, yellowtail snapper, and parrotfish move among the corals while southern stingrays rest on the sandy bottom. Visibility averages 20-30 meters in the clear Caribbean water, with temperatures holding steady at 26-29 degrees Celsius.
+Todd's Last Dance is a Roatan Marine Park mooring near Pablo's in West Bay, purchased by Michele Osthoff to commemorate a dive buddy. Roatan Marine Park's records confirm the site name, dedication, and general location on the West Bay reef corridor at depths to 18 meters, but no site-specific published description of marine life or underwater conditions was found. Regional West Bay reef fauna can be expected, but no site-specific sightings have been confirmed.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Todd's Last Dance is a named mooring site within the Roatan Marine Park system, 
 - **Maximum Depth**: 18 meters
 
 ---
-*Sources: [Roatan Marine Park](https://www.roatanmarinepark.org/marine-infrastructure). Last updated 2026-08-28.*
+*Sources: [Roatan Marine Park – Dive Sites With Meaningful Stories](https://www.roatanmarinepark.org/post/dive-sites-with-meaning-stories). Last updated 2026-08-28.*

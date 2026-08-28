@@ -17,7 +17,7 @@ Zack's Patch is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Zack's Patch is a swim-through site near the West End and Sandy Bay divide, rated for Open Water divers. The reef here features channels and overhangs that create natural swim-throughs without requiring advanced penetration skills. Hard coral growth is healthy along the top of the reef, and divers commonly spot parrotfish, angelfish, and cleaning gobies working the coral heads. Visibility runs 20 to 40 meters, with water temperatures between 26 and 29 degrees Celsius.
+Zack's Patch is a named reef site listed by Roatan Divers near the West End and Sandy Bay divide, with channels and overhangs that create swim-throughs suitable for Open Water divers. No site-specific published description of marine life was found. Regional reef fauna can be expected, but no site-specific sightings have been confirmed.
 
 ## Site Information
 

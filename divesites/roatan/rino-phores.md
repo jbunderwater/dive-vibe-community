@@ -17,7 +17,9 @@ Rino Phores is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Rino Phores is a shallow reef site in the West End corridor, and the playful name nods to the rhinophores of nudibranchs, those sensory organs that make sea slugs such prized finds for macro photographers. The reef here tops out at around 12 meters, with scattered coral heads and sponge formations creating habitat for the small creatures that reward a slow, observant approach. Flamingo tongues browse on sea fans, Christmas tree worms dot the brain corals, and patient divers may find lettuce sea slugs or the occasional goldentail moray peering from a crevice. The site's shallow depth allows for extended bottom times and makes it an ideal second dive or macro photography session.
+Rino Phores is a Roatan Marine Park mooring in West Bay near Pablo's, dedicated to Rino Jackson, a local dive shop owner and macro diving enthusiast. The reef here tops out at around 12 meters. Roatan Marine Park's records confirm the site name, dedication, and general location, but no site-specific published description of marine life was found. Given the dedication to a macro diving enthusiast, the site may be locally known for macro subjects, but no site-specific sightings have been confirmed — regional reef fauna can be expected.
+
+*Note: An earlier version of this page attributed the site's name to a pun on nudibranch "rhinophores" and listed specific macro species. That etymology and species list were not supported by any source; the site is actually named after Rino Jackson. The species claims have been removed.*
 
 ## Site Information
 
@@ -36,4 +38,4 @@ The site offers a gentle reef terrain suitable for relaxed exploration. Begin yo
 The colorful reef structures offer excellent macro photography opportunities. Look for small critters hiding among coral heads and anemones. Wide-angle shots work well to capture the vibrant reef landscape and schooling fish.
 
 ---
-*Sources: [Roatan Marine Park](https://www.roatanmarinepark.org/marine-infrastructure). Last updated 2026-08-28.*
+*Sources: [Roatan Marine Park – Dive Sites With Meaningful Stories](https://www.roatanmarinepark.org/post/dive-sites-with-meaning-stories). Last updated 2026-08-28.*

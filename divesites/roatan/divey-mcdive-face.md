@@ -17,7 +17,7 @@ Divey Mcdive Face is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Divey McDive Face is a Roatan Marine Park mooring site near the Lawson Rock Channel in Sandy Bay. Dedicated by the Tepper family to their son Quinn, the whimsical name reflects the family-friendly spirit of the RMP's naming program. The site sits along the barrier reef wall where divers find healthy coral formations, barrel sponges, and gorgonian sea fans. Marine life in this area includes green sea turtles, eagle rays, groupers, and schools of creole wrasse. Visibility averages 20-40 meters with water temperatures of 26-29°C.
+Divey McDive Face is a Roatan Marine Park mooring site near the Lawson Rock Channel. It was dedicated by the Tepper family, who fundraised to name the site for their son Quinn — the whimsical name reflects the family-friendly spirit of the RMP's naming program. Roatan Marine Park's records confirm the site name, dedication, and location, but no site-specific published description of marine life was found. Regional barrier-reef-wall fauna can be expected, but no site-specific sightings have been confirmed.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Divey McDive Face is a Roatan Marine Park mooring site near the Lawson Rock Chan
 - **Maximum Depth**: 24 meters
 
 ---
-*Sources: [Roatan Marine Park](https://www.roatanmarinepark.org/marine-infrastructure). Last updated 2026-08-28.*
+*Sources: [Roatan Marine Park – Dive Sites With Meaningful Stories](https://www.roatanmarinepark.org/post/dive-sites-with-meaning-stories). Last updated 2026-08-28.*

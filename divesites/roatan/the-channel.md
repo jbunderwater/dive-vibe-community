@@ -23,7 +23,5 @@ A popular, relatively easy channel dive around 30 ft (9 m) deep, frequented by m
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 9 meters
 
-*Sources: [roatan-diving.com](https://roatan-diving.com). Last updated 2026-04-19.*
-
 ---
 *Sources: [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites). Last updated 2026-08-28.*

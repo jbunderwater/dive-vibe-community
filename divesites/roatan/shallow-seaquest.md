@@ -17,7 +17,9 @@ Shallow Seaquest is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Shallow Seaquest sits on sandy plateaus surrounded by patch reef, forming part of a larger dive complex shared with Deep Seaquest. This site is home to Roatan Marine Park's coral nursery, where underwater 'coral trees' support fragments of staghorn and elkhorn coral being cultivated for reef restoration. The macro life here is exceptional, with seahorses, pipe horses, and pistol shrimp hiding in corkscrew anemones among the reef structures. Stingrays, turtles, and eagle rays cruise the sandy areas between coral patches, while the shallow 12-meter maximum depth allows for extended bottom times to seek out the smaller inhabitants.
+Shallow Seaquest sits on sandy plateaus surrounded by patch reef, forming part of a larger dive complex shared with Deep Seaquest, per Coconut Tree Divers, Sun Divers Roatan, and Roatan-Diving.com. The shallow 12-meter maximum depth allows for extended bottom times. No site-specific published description of marine life was found beyond the general area listing. Regional reef fauna can be expected, but no site-specific sightings have been confirmed.
+
+*Note: An earlier version of this page described a Roatan Marine Park coral nursery and specific macro species (seahorses, pipe horses, pistol shrimp) at this site. These could not be confirmed against the sources cited and have been removed.*
 
 ## Site Information
 

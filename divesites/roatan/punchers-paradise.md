@@ -17,7 +17,7 @@ Puncher's Paradise is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Puncher's Paradise is a vibrant reef site along the West Bay corridor known for its healthy coral coverage and frequent marine life encounters. Southern stingrays are regularly spotted gliding over the sandy patches between coral heads, and sea turtles make frequent appearances throughout the dive. The coral here is in notably good condition, supporting populations of porcupinefish, parrotfish, and other reef dwellers. Visibility typically ranges from 20-30 meters with warm Caribbean water temperatures of 26-29 degrees Celsius.
+Puncher's Paradise is a reef site along the West Bay corridor listed by Splash Inn Dive Resort, known for healthy coral coverage. No site-specific published description of marine life was found beyond the general listing. Regional West Bay reef fauna can be expected, but no site-specific sightings have been confirmed.
 
 ## Site Information
 

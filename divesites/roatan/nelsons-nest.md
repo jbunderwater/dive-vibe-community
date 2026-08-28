@@ -17,7 +17,7 @@ Nelson's Nest is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Nelson's Nest is a Roatan Marine Park mooring near the Anthony's Key Resort dolphin dive area in Sandy Bay, dedicated to Marilyn and Chuck Nelson's 50th wedding anniversary by Shirley Blakely. The site offers access to the Sandy Bay barrier reef wall, where gorgonian sea fans, barrel sponges, and healthy hard coral formations line the drop-off. Green sea turtles and eagle rays pass through regularly, and the proximity to AKR makes it a convenient stop on multi-dive boat trips. Visibility runs 20 to 40 meters with water temperatures from 26 to 29 degrees Celsius.
+Nelson's Nest is a Roatan Marine Park mooring near the Anthony's Key Resort dolphin dive area in Sandy Bay. Shirley Blakely organized a fundraiser to dedicate the site celebrating Marilyn and Chuck Nelson's 50th wedding anniversary. Roatan Marine Park's records confirm the site name, dedication, and location, but no site-specific published description of marine life was found. The proximity to AKR makes it a convenient stop on multi-dive boat trips; regional Sandy Bay wall fauna can be expected, but no site-specific sightings have been confirmed.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Nelson's Nest is a Roatan Marine Park mooring near the Anthony's Key Resort dolp
 - **Maximum Depth**: 24 meters
 
 ---
-*Sources: [Roatan Marine Park](https://www.roatanmarinepark.org/marine-infrastructure). Last updated 2026-08-28.*
+*Sources: [Roatan Marine Park – Dive Sites With Meaningful Stories](https://www.roatanmarinepark.org/post/dive-sites-with-meaning-stories). Last updated 2026-08-28.*

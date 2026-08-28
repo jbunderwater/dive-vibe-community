@@ -17,7 +17,7 @@ Singledivers 2022 is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Singledivers 2022 is the second Roatan Marine Park mooring site donated by the singledivers.com community, positioned in the shallows to the east of the West Bay channel. At 12 meters maximum depth, the site offers a relaxed shallow reef experience with coral formations and sandy areas that support a range of Caribbean reef species. Turtles, stingrays, and schools of blue tangs and sergeant majors are commonly seen here. The protected shallow location means conditions are typically calm with visibility averaging 20-30 meters.
+Singledivers 2022 is the sixth Roatan Marine Park mooring site donated by the singledivers.com community, positioned in shallow water east of the West Bay channel. At 12 meters maximum depth, the site offers a relaxed shallow reef experience with coral formations and sandy areas. Roatan Marine Park's records confirm the site name, donor, and general location, but no site-specific published description of marine life was found. The protected shallow location means conditions are typically calm; regional reef fauna can be expected, but no site-specific sightings have been confirmed.
 
 ## Site Information
 

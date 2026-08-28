@@ -17,7 +17,7 @@ addedBy: osm_import
 
 ## Overview
 
-3 Brothers sits halfway between West Bay and West End along Roatan's southwest reef corridor, making it a convenient stop for dive boats working this stretch of coast. The reef structure here supports healthy populations of grouper, with multiple species found around the coral formations. Sea turtles are regular visitors, often spotted grazing on sponges or resting under ledges. At a maximum depth of 15 meters, the site offers a comfortable dive suitable for all certification levels with typical West Bay visibility of 20-30 meters.
+3 Brothers sits halfway between West Bay and West End along Roatan's southwest reef corridor, making it a convenient afternoon stop for dive boats working this stretch of coast. Divers have reported a curious grouper, a large turtle, and lionfish at this site. At a maximum depth of 15 meters, the site offers a comfortable dive suitable for all certification levels.
 
 ## Site Information
 
