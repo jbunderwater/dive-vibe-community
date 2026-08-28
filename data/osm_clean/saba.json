@@ -14,8 +14,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "seasaba.com,sabapark.org,dan.org,scubaboard.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "DEPTH CORRECTED: Sea Saba gives mooring 20ft/7m, max 100ft/30m. Previous value of 40m was wrong — corrected to 30m. Wall confirmed by multiple sources. Tubular sponges, elephant ear sponges, black coral on wall. DAN Alert Diver: archway leading into boulder maze at shallow end; wall drops to 100ft. Multilevel dive: deep wall at 30m, overhang return at 18m. Mooring top at 7m not 10m."
+      "last_qa_date": "2026-08-28",
+      "qa_note": "DEPTH CORRECTED: Sea Saba gives mooring 20ft/7m, max 100ft/30m. Previous value of 40m was wrong \u2014 corrected to 30m. Wall confirmed by multiple sources. Tubular sponges, elephant ear sponges, black coral on wall. DAN Alert Diver: archway leading into boulder maze at shallow end; wall drops to 100ft. Multilevel dive: deep wall at 30m, overhang return at 18m. Mooring top at 7m not 10m. RE-AUDIT 2026-08-28: DAN Alert Diver's raw article text (previously mis-linked to Torrens Point) actually describes 'Tent Reef' within this same Tent Reef Area zone: juvenile drum fish, arrow crabs, and a white frogfish at the mooring, plus a longsnout seahorse and commensal shrimp in anemones/tube sponges. worldofdiving.com's separate Tent Reef sub-listing (site #19, 43-65ft, boulders/swim-thru) independently confirms Longsnout Seahorses, Frogfish, Scorpionfish, Hawksbill Turtles, Cherubfish at the same complex. Marine Life section updated with these site-specific, correctly-attributed details."
     },
     "depth_max": 30
   },
@@ -33,9 +33,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "seasaba.com,sabapark.org,dan.org,worldofdiving.com,endlesscaribbean.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "DEPTH CONFIRMED: Sea Saba mooring 95ft/29m, max 110ft/35m. Horseshoe-shaped pinnacle confirmed. Caribbean reef sharks and nurse sharks confirmed at site by multiple sources. Manta ray claim removed — insufficient site-specific sourcing; general Saba/Caribbean claim only. Named as 'arguably the most legendary dive site on Saba' per DAN Alert Diver. Nitrox recommended per DAN."
+      "validation_source": "seasaba.com,sabapark.org,dan.org,worldofdiving.com,endlesscaribbean.com,dive-the-world.com",
+      "last_qa_date": "2026-08-28",
+      "qa_note": "DEPTH CONFIRMED: Sea Saba mooring 95ft/29m, max 110ft/35m. Horseshoe-shaped pinnacle confirmed. Caribbean reef sharks and nurse sharks confirmed at site by multiple sources. Manta ray claim removed \u2014 insufficient site-specific sourcing; general Saba/Caribbean claim only. Named as 'arguably the most legendary dive site on Saba' per DAN Alert Diver. Nitrox recommended per DAN. RE-AUDIT 2026-08-28: Added dive-the-world.com as 6th source. NEW: Blacktip sharks confirmed by 2 independent sources (worldofdiving.com: 'Blacktip Sharks'; dive-the-world.com: 'black tips') \u2014 added to Marine Life. Sport Diver magazine 'Best 10 Dive Sites' honor date confirmed as July 2008 via worldofdiving.com raw text. dive-the-world.com (hedged language: 'some lucky divers', 'rare appearance') reports occasional hammerhead, bull, tiger and whale shark sightings, and rare humpback whale appearances (not just song) \u2014 added as explicitly rare/occasional, single-source-attributed claims, not presented as reliable."
     }
   },
   {
@@ -53,8 +53,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "seasaba.com,padi.com,endlesscaribbean.com,funseaker.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "DEPTH CORRECTED: Sea Saba gives mooring 40ft/12m, max 80ft/24m. Previous value of 25m corrected to 24m. Volcanic vents confirmed: magma sends gases through sand, mustard/brown coloring on spots. Resident nurse shark confirmed by Sea Saba. Seagrass beds at shallow section confirmed. Garden eels, stingrays, flying gurnards confirmed. Night diving highlight (ostracod bioluminescence). Volcano described as 'between eruption periods' not extinct."
+      "last_qa_date": "2026-08-28",
+      "qa_note": "DEPTH CORRECTED: Sea Saba gives mooring 40ft/12m, max 80ft/24m. Previous value of 25m corrected to 24m. Volcanic vents confirmed: magma sends gases through sand, mustard/brown coloring on spots. Resident nurse shark confirmed by Sea Saba. Seagrass beds at shallow section confirmed. Garden eels, stingrays, flying gurnards confirmed. Night diving highlight (ostracod bioluminescence). Volcano described as 'between eruption periods' not extinct. RE-AUDIT 2026-08-28: Reconfirmed via cached seasaba.com content and dive-the-world.com raw text (geothermal vents, mineral-stained sand). 'Extremely friendly' resident nurse shark language reconfirmed via cached seasaba.com snippet. No corrections needed."
     },
     "depth_max": 24
   },
@@ -73,8 +73,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "seasaba.com,dan.org,endlesscaribbean.com,scubaboard.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "DEPTH CORRECTED: Sea Saba gives mooring 40ft/12m, max 80ft/24m. Previous value of 20m corrected to 24m. SITE TYPE CORRECTED: changed from 'pinnacle' to 'reef' — it is a reef formed over a lava flow jumble with 10ft ridges (not true pinnacles). Specific marine life confirmed: yellowhead jawfish, pikeblennies, lancer dragonets, tarpons, nudibranchs, flamingo tongue shells, frogfish. DAN confirms: sand chutes transitioning east from ridges. Nurse sharks also confirmed at Ladder Bay area per ScubaBoard."
+      "last_qa_date": "2026-08-28",
+      "qa_note": "DEPTH CORRECTED: Sea Saba gives mooring 40ft/12m, max 80ft/24m. Previous value of 20m corrected to 24m. SITE TYPE CORRECTED: changed from 'pinnacle' to 'reef' \u2014 it is a reef formed over a lava flow jumble with 10ft ridges (not true pinnacles). Specific marine life confirmed: yellowhead jawfish, pikeblennies, lancer dragonets, tarpons, nudibranchs, flamingo tongue shells, frogfish. DAN confirms: sand chutes transitioning east from ridges. Nurse sharks also confirmed at Ladder Bay area per ScubaBoard. RE-AUDIT 2026-08-28: Reconfirmed via DAN Alert Diver raw text ('reef formed over a jumble of lava flows... nudibranchs... flamingo tongue and fingerprint cyphomas feeding on soft corals') and dive-the-world.com Ladder Bay section (crustacea, yellowhead jawfish, lancer dragonets, filefish, schoolmasters, tarpon). No corrections needed."
     }
   },
   {
@@ -92,8 +92,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "seasaba.com,sabapark.org,liveaboard.com,funseaker.com,divezone.net",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "DEPTH CORRECTED: Multiple sources confirm pinnacle top at 90ft/27m — entire dive is at depth (no shallow section). Previous description of top 'within a few meters of surface' was WRONG. Pinnacle is a narrow spike ~few feet wide surrounded by 150ft water. Adjacent to Third Encounter. Caribbean reef sharks confirmed. Horse-eye jacks confirmed. Manta rays: occasional per liveaboard.com — flagged as uncertain, low-frequency sighting. 'Swim-through passage' mentioned by funseaker but not confirmed by 2+ sources — flagged as unverified."
+      "last_qa_date": "2026-08-28",
+      "qa_note": "DEPTH CORRECTED: Multiple sources confirm pinnacle top at 90ft/27m \u2014 entire dive is at depth (no shallow section). Previous description of top 'within a few meters of surface' was WRONG. Pinnacle is a narrow spike ~few feet wide surrounded by 150ft water. Adjacent to Third Encounter. Caribbean reef sharks confirmed. Horse-eye jacks confirmed. Manta rays: occasional per liveaboard.com \u2014 flagged as uncertain, low-frequency sighting. 'Swim-through passage' mentioned by funseaker but not confirmed by 2+ sources \u2014 flagged as unverified. RE-AUDIT 2026-08-28: DAN Alert Diver raw text confirms 'both pillars rise to a depth of 90 feet' for Third Encounter and Eye of the Needle together, and gives spire diameter as 'merely 25 feet' \u2014 consistent with existing 27m depth. sabapark.org's own page text was checked directly and contains an internal unit inconsistency ('a pinnacle that rises up to 17m (90ft)' \u2014 17m and 90ft are not equivalent); not adopted since contradicted by 5 other consistent sources (Sea Saba, DAN, funseaker.com, divezone.net, liveaboard.com) all giving ~27m/90ft. Re-checked the flagged 'swim-through passage' claim: divernet.com (found via search) was verified via raw-text search to NOT actually mention Eye of the Needle at all despite an automated summary suggesting otherwise \u2014 claim remains unconfirmed by a 2nd source and stays flagged/unadopted. No data changes."
     }
   },
   {
@@ -110,9 +110,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "seasaba.com,sabapark.org,endlesscaribbean.com,worldofdiving.com,scubaboard.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "DEPTH CORRECTED: Multiple sources give max depth 80ft/24m (not 32m). Previous 32m value was incorrect. Rock breaks the surface — visible landmark. ScubaBoard describes as 'about as wall-like a dive as you'll see' — wall character confirmed alongside pinnacle designation. Currents confirmed as challenging. Marine life confirmed: jacks, queen/French angelfish, flying gurnards, stingrays, great barracuda. Naming origin story (sailor/ring) mentioned by funseaker.com but unconfirmed by 2nd source — not included in descriptions."
+      "validation_source": "seasaba.com,sabapark.org,endlesscaribbean.com,worldofdiving.com,scubaboard.com,dive-the-world.com",
+      "last_qa_date": "2026-08-28",
+      "qa_note": "DEPTH CORRECTED: Multiple sources give max depth 80ft/24m (not 32m). Previous 32m value was incorrect. Rock breaks the surface \u2014 visible landmark. ScubaBoard describes as 'about as wall-like a dive as you'll see' \u2014 wall character confirmed alongside pinnacle designation. Currents confirmed as challenging. Marine life confirmed: jacks, queen/French angelfish, flying gurnards, stingrays, great barracuda. Naming origin story (sailor/ring) mentioned by funseaker.com but unconfirmed by 2nd source \u2014 not included in descriptions. RE-AUDIT 2026-08-28: Added dive-the-world.com as additional corroborating source. Reconfirmed depth (80ft/24m sandy base), southern stingrays, flying gurnards, horse-eye jacks, NE canyon via raw-text checks of DAN, worldofdiving.com and dive-the-world.com. No corrections needed."
     }
   },
   {
@@ -129,9 +129,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "seasaba.com,sabapark.org,endlesscaribbean.com,worldofdiving.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "DEPTH CONFIRMED: Sandy base at 70ft/21m confirmed by multiple sources. Twin peaks at 15 and 20ft below surface confirmed. Atlantic Spadefish confirmed. Banded Jawfish confirmed. African Pompano added (endlesscaribbean.com). Sand Tile Fish confirmed (worldofdiving.com). Figure-eight dive pattern confirmed by multiple sources. Sergeant Majors confirmed. Black coral on deeper sections confirmed."
+      "validation_source": "seasaba.com,sabapark.org,endlesscaribbean.com,worldofdiving.com,dan.org,dive-the-world.com",
+      "last_qa_date": "2026-08-28",
+      "qa_note": "DEPTH CONFIRMED: Sandy base at 70ft/21m confirmed by multiple sources. Twin peaks at 15 and 20ft below surface confirmed. Atlantic Spadefish confirmed. Banded Jawfish confirmed. African Pompano added (endlesscaribbean.com). Sand Tile Fish confirmed (worldofdiving.com). Figure-eight dive pattern confirmed by multiple sources. Sergeant Majors confirmed. Black coral on deeper sections confirmed. RE-AUDIT 2026-08-28: NEW: DAN Alert Diver raw article text (verified via direct text search \u2014 this passage was previously mis-checked/overlooked) confirms schools of snapper and grunts sheltering under ledges, chromis rising from reeftops, great barracuda, and a yellow frogfish perched in red/orange sponges at Man O War Shoals specifically. dan.org and dive-the-world.com added to validation_source. Marine Life section updated with frogfish sighting."
     }
   },
   {
@@ -149,8 +149,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "seasaba.com,sabapark.org,endlesscaribbean.com,worldofdiving.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "DEPTH CORRECTED: Sea Saba gives mooring 25ft/7m, max 50ft/16m. Previous 15m value corrected to 16m. SIGNIFICANT CORRECTION: Site has tunnel 60ft/18m long (confirmed by Sea Saba) — not just boulders. Also Coral Nursery is here (conservation program). Known as 'Saba's Nursery'. Small caves confirmed. Juvenile spotted drums confirmed (DAN Alert Diver). Green and hawksbill turtles both confirmed. Bait balls frequent. Depth_max updated."
+      "last_qa_date": "2026-08-28",
+      "qa_note": "DEPTH CORRECTED: Sea Saba gives mooring 25ft/7m, max 50ft/16m. Previous 15m value corrected to 16m. SIGNIFICANT CORRECTION: Site has tunnel 60ft/18m long (confirmed by Sea Saba) \u2014 not just boulders. Also Coral Nursery is here (conservation program). Known as 'Saba's Nursery'. Small caves confirmed. Juvenile spotted drums confirmed (DAN Alert Diver). Green and hawksbill turtles both confirmed. Bait balls frequent. Depth_max updated. RE-AUDIT 2026-08-28: CORRECTION \u2014 markdown footer previously credited DAN Alert Diver as a source for spotted drums at this site. Verified via raw-text search of DAN's 'Diving in Saba' article that Torrens Point is never mentioned by name; the juvenile-drum-fish/arrow-crab/frogfish passage DAN actually describes belongs to 'Tent Reef' (a different stop on that trip), not Torrens Point. DAN citation removed from Torrens Point markdown footer (JSON validation_source never listed dan.org, so no JSON source list change needed). Juvenile spotted drums, spotted snake eels, octopus, green/hawksbill turtles independently reconfirmed directly via seasaba.com and worldofdiving.com (both already listed)."
     },
     "depth_max": 16
   },
@@ -168,9 +168,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "seasaba.com,endlesscaribbean.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "DEPTH CORRECTED: Multiple sources give max depth 80ft/24m. Previous 22m corrected to 24m. SITE TYPE CONFIRMED pinnacle: 'sandy bottom at between 70 and 80ft, schools of blue tangs, big eye jacks and barracuda.' Dark volcanic sand confirmed. Flying gurnards and batfish confirmed. Sand tile fish and jawfish confirmed. Nurse sharks confirmed (endlesscaribbean.com). Located on north coast per endlesscaribbean. Previous description placed it on western flank — CORRECTED to north coast/northeast."
+      "validation_source": "seasaba.com,endlesscaribbean.com,dive-the-world.com",
+      "last_qa_date": "2026-08-28",
+      "qa_note": "DEPTH CORRECTED: Multiple sources give max depth 80ft/24m. Previous 22m corrected to 24m. SITE TYPE CONFIRMED pinnacle: 'sandy bottom at between 70 and 80ft, schools of blue tangs, big eye jacks and barracuda.' Dark volcanic sand confirmed. Flying gurnards and batfish confirmed. Sand tile fish and jawfish confirmed. Nurse sharks confirmed (endlesscaribbean.com). Located on north coast per endlesscaribbean. Previous description placed it on western flank \u2014 CORRECTED to north coast/northeast. RE-AUDIT 2026-08-28: Added dive-the-world.com as 3rd independent source (was only 2 domains) \u2014 confirms Green Island as pinnacle, sandy base ~70ft/21m, sand tilefish and flying gurnards on volcanic sand, consistent with existing data. Popeye's anchor, nurse sharks in barrel sponges, Bermuda chubs, gorgonian grove all reconfirmed via cached seasaba.com content. No corrections needed."
     },
     "depth_max": 24
   }
