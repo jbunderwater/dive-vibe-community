@@ -17,7 +17,9 @@ Deep Seaquest is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Deep Seaquest is the deeper extension of the Sea Quest complex, reaching 24 meters along sandy plateaus interspersed with patch reef formations. Like its shallower counterpart, the site benefits from proximity to Roatan Marine Park's coral nursery and its 'coral trees' nurturing new coral growth. Macro enthusiasts will find seahorses, pipe horses, and pistol shrimp tucked into corkscrew anemones, while the deeper profile brings encounters with eagle rays and larger stingrays patrolling the sand channels. The intermediate depth rating reflects the additional depth and occasional currents along this section of the reef.
+Deep Seaquest is the deeper extension of the Sea Quest complex, reaching 24 meters along sandy plateaus interspersed with patch reef formations, per Coconut Tree Divers, Sun Divers Roatan, and Roatan Divers. Turtles and stingrays are reported patrolling the sand channels. No further site-specific published description of marine life was found. The intermediate depth rating reflects the additional depth and occasional currents along this section of the reef.
+
+*Note: An earlier version of this page described a Roatan Marine Park coral nursery and specific macro species (seahorses, pipe horses, pistol shrimp) at this site. These could not be confirmed against the sources cited and have been removed.*
 
 ## Site Information
 
@@ -36,4 +38,4 @@ The site offers a gentle reef terrain suitable for relaxed exploration. Begin yo
 The colorful reef structures offer excellent macro photography opportunities. Look for small critters hiding among coral heads and anemones. Wide-angle shots work well to capture the vibrant reef landscape and schooling fish.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [Sun Divers Roatan – Roatan Diving](https://sundiversroatan.com/roatan-diving/), [Roatan Divers – Best Dive Sites in Roatan](https://roatandivers.com/blog/the-best-dive-sites-in-roatan). Last updated 2026-08-28.*

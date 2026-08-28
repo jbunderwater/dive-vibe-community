@@ -46,7 +46,7 @@ She lies on her port side on an incline, with the bow pointing northward at 23 m
 
 ## Marine Life
 
-The Dresden's well-preserved surfaces host the characteristic Scapa Flow cold-water community. Plumose anemones, dead man's fingers, and encrusting sponges are established throughout the accessible exterior sections. Conger eels are resident in hull interior spaces. Edible crabs are common on the hull surfaces. Schools of saithe and pollack move through the water above the wreck. Sealife abundance is rated 10/10 by local operators.
+The Dresden's well-preserved surfaces host the characteristic Scapa Flow cold-water community, and local operators rate its sealife 10/10. The site-specific listing names small shoaling fish, pollock, cod, ling, and conger among the fish, with lobster, edible crab, and velvet crabs, king and queen scallops, and squat lobster among the invertebrates, plus sea urchins, starfish, anemones, and dead man's fingers. Wolf eels are occasionally reported here — a notable sighting for Scapa Flow, where they are not commonly mentioned on the other fleet wrecks.
 
 ## Dive Profile
 
@@ -73,4 +73,4 @@ The 38-metre stern depth demands careful no-decompression time management in col
 The two 5.9-inch aft guns pressed into the seabed are distinctive photographic subjects. The cylindrical armoured control tower provides a strong architectural compositional element. The preserved officers' accommodation and white fire bricks on the seabed offer unusual detail shots. The inclined hull profile creates asymmetric compositions different from the predominantly sideways cruisers. Artificial lighting is essential for the deeper sections.
 
 ---
-*Sources: [SMS Dresden Dive Guide — Scapa Flow Wrecks](http://www.scapaflowwrecks.com/wrecks/dresden/diving.php), [SMS Dresden — Wikipedia](https://en.wikipedia.org/wiki/SMS_Dresden_(1917)), [S.M.S. Dresden — MV Invincible Scapa Flow](https://www.scapa-flow.co.uk/dive-site/4-S.M.S.-Dresden), [Cöln-class cruiser — Wikipedia](https://en.wikipedia.org/wiki/C%C3%B6ln_class_cruiser). Last updated 2026-06-29.*
+*Sources: [SMS Dresden Dive Guide — Scapa Flow Wrecks](http://www.scapaflowwrecks.com/wrecks/dresden/diving.php), [SMS Dresden — Wikipedia](https://en.wikipedia.org/wiki/SMS_Dresden_(1917)), [S.M.S. Dresden — MV Invincible Scapa Flow](https://www.scapa-flow.co.uk/dive-site/4-S.M.S.-Dresden), [Cöln-class cruiser — Wikipedia](https://en.wikipedia.org/wiki/C%C3%B6ln_class_cruiser). Re-audited and last updated 2026-08-28.*

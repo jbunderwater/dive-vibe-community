@@ -17,7 +17,9 @@ Vern's Dropoff is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Vern's Drop Off completes the popular drift sequence with Moonlight and Dixie's, serving as the final stretch of a wall dive that ranks among the West End's most requested. The drop-off here is steep and clean, falling away beneath overhanging coral heads where yellowtail snappers gather in loose schools. Divers drifting in from Moonlight arrive along a wall decorated with purple tube sponges and orange encrusting sponges, with the occasional reef shark cruising the deeper water. The current that makes the drift possible also brings nutrients that keep the wall alive with color and movement.
+Vern's Dropoff completes the popular drift sequence with Moonlight and Dixies, serving as the final stretch of a wall dive that ranks among the West End's most requested, according to Roatan Divers. The drop-off falls away beneath the reef edge, decorated with tube sponges and encrusting sponges along the wall face. No site-specific published description of marine life was found; regional West End wall fauna can be expected, but no site-specific sightings have been confirmed.
+
+*Note: An earlier version of this page named yellowtail snappers and a reef shark at this site. Neither claim could be confirmed against the source cited for this site and has been removed.*
 
 ## Site Information
 
@@ -28,4 +30,4 @@ Vern's Drop Off completes the popular drift sequence with Moonlight and Dixie's,
 - **Maximum Depth**: 30 meters
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Roatan Divers – Best Dive Sites in Roatan](https://roatandivers.com/blog/the-best-dive-sites-in-roatan). Last updated 2026-08-28.*

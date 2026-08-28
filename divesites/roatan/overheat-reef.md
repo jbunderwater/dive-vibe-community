@@ -32,7 +32,9 @@ Overheat Reef is a shallow coral reef site on the northern coast of Roatán, pos
 
 ## Marine Life
 
-The shallow reef supports a classic Roatán fish community. Parrotfish in multiple species graze actively. French and grey angelfish are resident. Spotted eagle rays cross the sandy sections. Nurse sharks rest under ledges. Hawksbill turtles make regular appearances. Schools of blue tang and surgeonfish move in groups over the reef surface. Garden eels extend from the sandy border. Moray eels inhabit crevices. This is a good site for observing cleaning stations — look for fish hovering in a slightly tilted, stationary posture indicating they are being cleaned.
+Green and hawksbill turtles are reported regularly at Overheat Reef, often seen resting or grazing on the reef, along with spotted eagle rays and horse-eyed jacks. Blue chromis, sergeant majors, and yellowtail damsels are common over the reef top. The resident Sandy Bay toadfish is a local specialty sighting. Frogfish are reported on night dives here. Gorgonians and soft corals cover much of the reef structure.
+
+*Note: An earlier version of this page stated that nurse sharks rest under ledges at this site. That claim could not be confirmed against current dive-operator sources for Overheat Reef and has been removed.*
 
 ## Dive Profile
 
@@ -46,7 +48,7 @@ Served by West End and Sandy Bay dive operators. Entry via giant stride from the
 
 - A comfortable, pressure-friendly second dive after a deeper first dive
 - Good site for underwater photography practice without depth pressure
-- Ask your guide about the location of resident nurse sharks — a few predictable individuals are known to local operators
+- Watch for the resident Sandy Bay toadfish, a local specialty of this site
 - The sandy areas between reef sections are worth checking carefully for spotted eagle rays
 - Night dives on shallow reefs like this reveal octopus, lobster, and sleeping parrotfish
 
@@ -59,4 +61,4 @@ Minimal hazards. Fire coral is present — the white, branching variety that sti
 Excellent shallow reef photography conditions. Natural light at 5–15 meters allows effective photography without strobes during morning hours. Wide-angle reef scenes with abundant fish life are the primary subject. Macro opportunities include flamingo tongues on sea fans, Christmas tree worms, and gobies on sponge surfaces.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/), [Clearwater Adventures – Dive Sites](https://roatanclearwater.com/dive-sites/), [Ikelite – An Insider's Guide to Diving Roatan](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-roatan-bay-islands). Last updated 2026-08-28.*

@@ -47,7 +47,7 @@ In July 1940 she was requisitioned at Falmouth. She was sunk as a blockship in K
 
 ## Marine Life
 
-The Burra Sound tidal environment delivers exceptional marine life density. The Tabarka's upside-down hull carries prolific plumose anemones on its underside. Dead man's fingers corals are established throughout accessible surfaces. The intact propeller is encrusted with sessile organisms and surrounded by resident fish. Conger eels and edible crabs occupy hull interior spaces accessible through openings in the bow and stern. Schools of saithe pass through the sound on the tidal flow.
+Local operators describe the Burra Sound tidal flow as nourishing "a rich array of fascinating life that plasters the sides of the wreck with a riot of colour." The site-specific species reported here are wrasse and small shoaling fish, crabs and lobster, with a carpet of various anemone species covering much of the hull. This is a narrower list than the anemone/dead-man's-fingers/conger-eel combination typical of the deeper fleet wrecks — Burra Sound's dive operator does not report those species specifically for the Tabarka, so they are not repeated here.
 
 ## Dive Profile
 
@@ -74,4 +74,4 @@ The Tabarka is the most operationally demanding Scapa Flow dive site due to extr
 The intact propeller in the clear tidal water is one of Scapa Flow's most photographed features outside the German fleet. The upside-down hull orientation creates unusual perspectives. Pre-set camera exposure and strobe positioning before the dive — there is no time to adjust settings during the limited slack window. Tidal current visibility (often better than the main Flow) rewards the operational complexity with excellent image quality.
 
 ---
-*Sources: [Tabarka — Scapa Flow Wrecks](https://www.scapaflowwrecks.com/wrecks/tabarka/), [Tabarka History — Scapa Flow Wrecks](http://www.scapaflowwrecks.com/wrecks/tabarka/history.php), [Tabarka, Burra Sound — Canmore (Historic Environment Scotland)](https://canmore.org.uk/site/102329/tabarka-burra-sound-scapa-flow-orkney), [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/). Last updated 2026-06-29.*
+*Sources: [Tabarka — Scapa Flow Wrecks](https://www.scapaflowwrecks.com/wrecks/tabarka/), [Tabarka History — Scapa Flow Wrecks](http://www.scapaflowwrecks.com/wrecks/tabarka/history.php), [Tabarka, Burra Sound — Canmore/Trove Scotland](https://canmore.org.uk/site/102329/tabarka-burra-sound-scapa-flow-orkney), [Tabarka — MV Invincible Scapa Flow](https://www.scapa-flow.co.uk/dive-site/11-Tabarka), [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/). Re-audited and last updated 2026-08-28.*

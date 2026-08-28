@@ -17,7 +17,7 @@ The most accessible of Scapa Flow's three König-class battleships — lying inv
 
 ## Overview
 
-SMS Kronprinz Wilhelm was the fourth and final König-class dreadnought battleship. Originally named simply Kronprinz, she was laid down in November 1911 at Kiel, launched on 21 February 1914, and commissioned on 8 November 1914. She measured 175.4 metres in length and displaced 25,796 tonnes normally (28,600 tonnes at full load). She was armed with ten 30.5 cm (12-inch) guns in five twin turrets. She was renamed Kronprinz Wilhelm on 15 June 1918 in honour of Crown Prince Wilhelm, following an order issued on 27 January 1918.
+SMS Kronprinz Wilhelm was the fourth and final König-class dreadnought battleship. Originally named simply Kronprinz, she was laid down in November 1911 at Kiel (by Germaniawerft), launched on 21 February 1914, and commissioned on 8 November 1914. Wikipedia gives her length as 175.4 metres, matching the class-level specification shared with her sister ships; both scapaflowwrecks.com and the scapa-flow.co.uk operator listing state 146 metres — sources disagree, and 175.4 m is used here as the class-confirmed figure. She displaced 25,796 tonnes normally (28,600 tonnes at full load) and was armed with ten 30.5 cm (12-inch) guns in five twin turrets. She was renamed Kronprinz Wilhelm on 15 June 1918 in honour of Crown Prince Wilhelm.
 
 She participated in the Battle of Jutland before being interned at Scapa Flow. She was scuttled at 13:15 on 21 June 1919. She lies inverted with her port side uppermost, the hull rising from 38 metres at the deep sections to just 12 metres at the shallowest — the shallowest of the three surviving battleships. Half of her 12-inch guns remain visible and accessible. The gun turrets sit beneath the inverted hull, trapped under the weight of the overturned ship. The Kronprinz Wilhelm is the most salvage-damaged of the three unsalvaged battleships but is described as "well within the grasp of competent sport divers" by scapaflowwrecks.com due to its shallower accessible depth range.
 
@@ -35,11 +35,11 @@ She participated in the Battle of Jutland before being interned at Scapa Flow. S
 
 ## Wreck History
 
-- **Built**: Kiel; laid down November 1911, launched 21 February 1914, commissioned 8 November 1914
+- **Built**: Germaniawerft, Kiel; laid down November 1911, launched 21 February 1914, commissioned 8 November 1914
 - **Original name**: SMS Kronprinz; renamed Kronprinz Wilhelm on 15 June 1918
 - **Class**: König-class dreadnought battleship (fourth of four)
 - **Displacement**: 25,796 tonnes standard; 28,600 tonnes full load
-- **Length**: 175.4 metres
+- **Length**: 175.4 metres (Wikipedia/class specification); scapaflowwrecks.com and scapa-flow.co.uk both state 146 metres — sources disagree
 - **Armament**: Ten 30.5 cm guns in five twin turrets; fourteen 15 cm guns; five torpedo tubes
 - **Interned at Scapa Flow**: Late 1918
 - **Scuttled**: 21 June 1919 at 13:15 by order of Rear Admiral von Reuter
@@ -47,7 +47,7 @@ She participated in the Battle of Jutland before being interned at Scapa Flow. S
 
 ## Marine Life
 
-The Kronprinz Wilhelm's upturned hull supports typical Scapa Flow cold-water communities. Plumose anemones and dead man's fingers are prolific on exposed hull surfaces. The shallowest sections at 12 metres receive more natural light than the deeper battleships, resulting in more active encrusting growth. Conger eels, large edible crabs, and associated species are found throughout. Pollack and saithe are abundant in mid-water. Starfish, sea urchins, and squat lobsters are present across the hull.
+The Kronprinz Wilhelm's upturned hull supports typical Scapa Flow cold-water communities, and local operators rate its sealife 10/10. The site-specific listing names small shoaling fish, pollock, and cod among the fish life, with plentiful ling and conger, lobster, edible crab, and velvet crabs, king and queen scallops, and squat lobster among the invertebrates, plus sea urchins, starfish, plumose anemones, and dead man's fingers of varied shape and colour. The shallowest sections at 12 metres receive more natural light than the deeper battleships, which local divers associate with more active encrusting growth there.
 
 ## Dive Profile
 
@@ -74,4 +74,4 @@ This is a protected scheduled monument under the Protection of Wrecks Act 1973. 
 The massive inverted hull rising from 38 metres to just 12 metres creates dramatic wide-angle compositions. The shallowest sections at 12 metres allow wider apertures with better natural light during summer dives. The visible 12-inch guns beneath the inverted hull are distinctive subjects. Prolific anemones, starfish, and sea urchins growing across the hull surfaces provide macro subjects at every depth.
 
 ---
-*Sources: [SMS Kronprinz Wilhelm — Scapa Flow Wrecks](https://www.scapaflowwrecks.com/wrecks/kronprinz/), [SMS Kronprinz (1914) — Wikipedia](https://en.wikipedia.org/wiki/SMS_Kronprinz_(1914)), [MV Invincible Scapa Flow](https://www.scapa-flow.co.uk/dive-site), [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/). Last updated 2026-06-29.*
+*Sources: [SMS Kronprinz Wilhelm — Scapa Flow Wrecks](https://www.scapaflowwrecks.com/wrecks/kronprinz/), [SMS Kronprinz (1914) — Wikipedia](https://en.wikipedia.org/wiki/SMS_Kronprinz_(1914)), [S.M.S. Kronprinz Wilhelm — MV Invincible Scapa Flow](https://www.scapa-flow.co.uk/dive-site/3-S.M.S.-Kronprinz-Wilhelm), [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/). Re-audited and last updated 2026-08-28.*

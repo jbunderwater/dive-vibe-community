@@ -17,9 +17,9 @@ One of Scapa Flow's best-preserved blockships — an iron-hulled whaling steamer
 
 ## Overview
 
-The Gobernador Bories (usually shortened to Gobernador) was built by William Gray and Co. Ltd at West Hartlepool, launched on 14 October 1882 for Glover Brothers of London. She was an iron-hulled steamship of 2,332 gross tonnes measuring 87 metres in length and 12 metres in beam. In 1906, she was purchased by Sociede Ballenera Magallanes of Punta Arenas, Chile and renamed Gobernador Bories, operating as a whaling ship based near Cape Horn. She was purchased by the Admiralty for use as a blockship in 1914 and scuttled in Burra Sound on 12 October 1914 — one of the first blockships placed to protect Scapa Flow's approaches.
+The Gobernador Bories (usually shortened to Gobernador) was launched as the Wordsworth on 14 October 1882, built by William Gray and Co. Ltd at West Hartlepool for Glover Brothers of London. She was an iron-hulled steamship of 2,332 gross tonnes (1,816 net tons) measuring 87 metres (285.5 feet) in length and approximately 11 metres (36 feet) in beam. In 1906, she was purchased by Sociedad Ballenera de Magallanes of Punta Arenas, Chile, converted into a whaling factory ship, and renamed Gobernador Bories — the first factory ship to process whales under the Chilean flag, hunting in Antarctic and Falkland Island waters near Cape Horn. She was purchased by the Admiralty for use as a blockship in 1914 and scuttled in Burra Sound on 12 October 1914 — one of the first blockships placed to protect Scapa Flow's approaches.
 
-The Gobernador is described as one of the best-preserved blockships in Scapa Flow. She sits on her keel on a seabed of rocks and pure white sand at 17.3 metres, with a slight list to starboard. The bows, midships, and stern sections are all relatively intact despite the absence of the superstructure, which was removed before or during deployment. The strong tidal current that restricts diving windows is the same force that feeds the dense invertebrate communities on every surface. The Gobernador is described as an "excellent shallow second dive" by local operators.
+The Gobernador is described as one of the best-preserved blockships in Scapa Flow. She sits on a seabed of rocks and sand with a slight list, bow to port and stern to starboard according to one source. Sources disagree markedly on her depth: figures reported range from 10–14 metres at the shallowest to 16–21 metres at the deepest, most likely reflecting different measurement points on the sloped, broken hull rather than a single consistent figure. The bows and starboard side are described as relatively intact; the midships section shows more structural collapse, with fallen decking providing interior access. The Gobernador is described as an "excellent shallow second dive" by local operators.
 
 ## Site Information
 
@@ -35,21 +35,22 @@ The Gobernador is described as one of the best-preserved blockships in Scapa Flo
 
 ## Wreck History
 
+- **Original name**: Wordsworth
 - **Built**: William Gray and Co. Ltd, West Hartlepool; launched 14 October 1882
 - **Original owner**: Glover Brothers, London
-- **Gross tonnage**: 2,332 tonnes
-- **Length**: 87 metres
-- **Beam**: 12 metres
+- **Gross tonnage**: 2,332 tonnes (1,816 net tons)
+- **Length**: 87 metres (285.5 feet)
+- **Beam**: Approximately 11 metres (36 feet)
 - **Construction**: Iron hull
-- **Renamed**: Gobernador Bories, 1906, for Sociede Ballenera Magallanes, Punta Arenas, Chile
-- **Service**: Whaling ship based near Cape Horn
+- **Renamed**: Gobernador Bories, 1906, converted to whaling factory ship for Sociedad Ballenera de Magallanes, Punta Arenas, Chile
+- **Service**: Whaling factory ship, Antarctic and Falkland Island waters near Cape Horn, 1906–1914
 - **Acquired by Admiralty**: 1914, for use as blockship
 - **Sunk**: Burra Sound, 12 October 1914 — one of the earliest Scapa Flow blockships
-- **Current orientation**: On keel, slight list to starboard; seabed at 17.3 metres
+- **Current orientation**: Sources disagree on depth (reported as low as 10–14 m and as deep as 16–21 m depending on section measured); the destination's original 17 m reference is retained pending a single authoritative survey
 
 ## Marine Life
 
-The strong tidal currents that make the Gobernador challenging to dive create its exceptional marine life density. Plumose anemones in white and orange colonies cover every available surface. Dead man's fingers (Alcyonium digitatum) are prolific across the hull. Conger eels, edible crabs, and velvet swimming crabs occupy the wreck interior and keel sections. Large schools of saithe move through the sound. Nudibranchs are present on encrusting surfaces for patient observers.
+The local dive operator's site-specific listing for the Gobernador names small shoaling fish, sea urchins, crabs, and lobster — and singles out the wrasse here as notably tame, described as "very friendly" and known to approach divers expecting to be fed sea urchins. Broader claims about anemone or dead-man's-fingers coverage are not confirmed for this specific site by the sources consulted, so they are omitted here even though such growth is typical elsewhere in Scapa Flow's tidal narrows.
 
 ## Dive Profile
 
@@ -73,7 +74,7 @@ Burra Sound diving is the most technically demanding diving in Scapa Flow due to
 
 ## Photography
 
-The Gobernador's exceptional invertebrate coverage — denser than most German fleet wrecks due to stronger tidal feeding — creates outstanding cold-water photography opportunities. Plumose anemone colonies in the clear tidal water photograph brilliantly with a video light or strobe. The white sand seabed visible through gaps in the hull structure creates a distinctive backdrop. Pre-set all camera controls before the dive — the slack window leaves no time for adjustments underwater.
+The tame wrasse that approach divers here are the site's signature photographic subject — a close-focus portrait opportunity uncommon on the deeper fleet wrecks. The white sand and rock seabed visible through the collapsed midships section creates a bright backdrop for wide-angle hull shots. Pre-set all camera controls before the dive — the slack window leaves no time for adjustments underwater.
 
 ---
-*Sources: [Gobernador Bories Dive Guide — Divernet](https://divernet.com/scuba-diving/wreck-tours/wreck-tour-22-the-gobernador-bories/), [Gobernador Bories, Burra Sound — Canmore (Historic Environment Scotland)](https://canmore.org.uk/site/102319/gobernador-bories-burra-sound-orkney), [The Blockships — Scottish Shipwrecks](https://www.scottishshipwrecks.com/the-blockships/), [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/). Last updated 2026-06-29.*
+*Sources: [Gobernador Bories Dive Guide — Divernet](https://divernet.com/scuba-diving/wreck-tours/wreck-tour-22-the-gobernador-bories/), [Gobernador Bories, Burra Sound — Canmore/Trove Scotland](https://canmore.org.uk/site/102319/gobernador-bories-burra-sound-orkney), [The Blockships — Scottish Shipwrecks](https://www.scottishshipwrecks.com/the-blockships/), [Gobernador Bories — MV Invincible Scapa Flow](https://www.scapa-flow.co.uk/dive-site/10-Gobernador-Bories), [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/). Re-audited and last updated 2026-08-28.*

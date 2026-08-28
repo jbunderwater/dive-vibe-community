@@ -49,7 +49,7 @@ Served by West End, West Bay, and French Harbour operators. Permanent mooring on
 - Plan a dive centered on the shallower bow section first, then visit the deeper sections as a secondary objective
 - Nitrox 32% is strongly recommended for this dive
 - Penetration into accessible interior spaces requires a torch and proper wreck training
-- The moray eel population is extraordinary — move slowly around the wreck exterior and photograph every opening
+- Move slowly around the wreck exterior and check crevices and portholes for resident green moray eels
 - Combine El Aguila with a wall dive at nearby Mary's Place for the definitive Roatán dive day
 
 ## Safety

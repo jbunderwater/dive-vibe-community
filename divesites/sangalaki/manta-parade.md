@@ -17,7 +17,7 @@ Manta Parade is a reef dive site north of Sangalaki Island in the Derawan Archip
 
 ## Overview
 
-Manta Parade sits at the northern apex of Sangalaki's manta highway, where the reef topography shifts from the stepped coral avenue of Manta Avenue into an undulating series of ridges rising and falling like underwater hills. This dynamic bottom structure creates upwellings that concentrate plankton, drawing reef manta rays (*Manta alfredi*) in feeding aggregations. Mantas "parade up and down this manta highway, coming from all directions," as described by Dive The World, with their wingtips occasionally breaking the surface. Multiple cleaning stations are active along the ridgeline, where cleaner wrasse (*Labroides dimidiatus*) service mantas hovering motionless above the coral crests. Up to 20 mantas have been recorded at the site during peak full-moon feeding events.
+Manta Parade sits at the northern apex of Sangalaki's manta highway, where the reef topography shifts from the stepped coral avenue of Manta Avenue into an undulating series of ridges rising and falling like underwater hills. This dynamic bottom structure creates upwellings that concentrate plankton, drawing reef manta rays (*Manta alfredi*) in feeding aggregations. Mantas "parade up and down this manta highway, coming from all directions," as described by Dive The World, with their wingtips occasionally breaking the surface. Multiple cleaning stations are active along the ridgeline, where cleaner wrasse (*Labroides dimidiatus*) service mantas hovering motionless above the coral crests.
 
 ## Marine Life
 
@@ -31,7 +31,7 @@ Manta Parade sits at the northern apex of Sangalaki's manta highway, where the r
 
 ## Dive Profile
 
-The ridges rise and fall between 5 and approximately 20 metres. A typical dive profile begins at 15–18 metres along the ridge troughs and finishes on the shallow crests. Visibility averages 15–25 metres. Currents are mild to moderate, often from the south, and manta activity correlates with incoming tidal flow that concentrates surface plankton. Scuba Junkie's manta monitoring data confirms Manta Parade accounts for 42.9% of recorded cleaning behaviour at Sangalaki — the highest of any single site.
+The ridges rise and fall between 5 and approximately 20 metres. A typical dive profile begins at 15–18 metres along the ridge troughs and finishes on the shallow crests. Visibility averages 15–25 metres. Currents are mild to moderate, often from the south, and manta activity correlates with incoming tidal flow that concentrates surface plankton. Manta Parade is consistently named among Sangalaki's core manta highway sites alongside Manta Run and Manta Avenue.
 
 ## Entry and Exit
 
@@ -64,4 +64,4 @@ Manta Parade's undulating terrain provides natural framing for wide-angle images
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Scuba Junkie Sangalaki – Why Dive Derawan](https://www.scubajunkiesangalaki.com/why-dive-the-derawan-archipelago/), [Maratua.com – Sangalaki](https://www.maratua.com/en/nearby-islands/sangalaki), [Asia Diving Vacation – Sangalaki](https://asiadivingvacation.com/diving/sangalaki-island), [Scuba Junkie Sangalaki – Manta Research](https://www.scubajunkiesangalaki.com/world-day-manta-rays-in-sangalaki/). Last updated 2026-06-27.*
+*Sources: [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Scuba Junkie Sangalaki – Why Dive Derawan](https://www.scubajunkiesangalaki.com/why-dive-the-derawan-archipelago/), [Maratua.com – Sangalaki](https://www.maratua.com/en/nearby-islands/sangalaki), [Asia Diving Vacation – Sangalaki](https://asiadivingvacation.com/diving/sangalaki-island). Last updated 2026-08-28. (Note: a 2026-06-27 draft of this page cited a specific "42.9% of cleaning behaviour" statistic and an "up to 20 mantas at full moon" figure attributed to Scuba Junkie Sangalaki research; a 2026-08-28 re-audit could not locate either figure in any source and both were removed as unverifiable.)*

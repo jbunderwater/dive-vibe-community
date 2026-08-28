@@ -2,12 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "roatan",
-    "saba",
-    "san-diego-la-jolla",
-    "sangalaki",
-    "sardinia",
-    "scapa-flow",
     "scotland",
     "seychelles",
     "silfra-fissure",
@@ -174,9 +168,100 @@
     "puget-sound",
     "raja-ampat",
     "red-sea",
-    "reunion"
+    "reunion",
+    "roatan",
+    "saba",
+    "san-diego-la-jolla",
+    "sangalaki",
+    "sardinia",
+    "scapa-flow"
   ],
   "history": [
+    {
+      "date": "2026-08-28",
+      "slugs": [
+        "roatan",
+        "saba",
+        "san-diego-la-jolla",
+        "sangalaki",
+        "sardinia",
+        "scapa-flow"
+      ],
+      "notes": "roatan (428 sites) far exceeds a single pass's tractable size -- agent followed the oversized-destination precedent (red-sea, raja-ampat, maldives) and prioritized re-auditing all 56 already-validated sites plus all 11 wreck sites, explicitly disclosing 372 never-validated sites plus 6 unresolved wrecks as out of scope rather than padding coverage. scapa-flow's pass was the most wreck-history-intensive of the day (10/10 WWI High Seas Fleet wrecks, CLAUDE.md's stated hand-curated quality bar) and surfaced 6 genuine dimension conflicts without disturbing the destination's existing accuracy. sardinia's bilingual (English/Italian) research caught a fabricated Roman-wreck attribution and a one-liner/site_type mismatch bug. saba's pass caught a real citation misattribution (a DAN article wrongly credited to Torrens Point that actually describes Tent Reef). san-diego-la-jolla reconfirmed a likely-fabricated duplicate wreck entry (Yukon Wreck DE-429) as unresolved. sangalaki, already fully validated from a prior pass, had its full re-audit turn up two unverifiable statistics invented in an earlier session.",
+      "summary": {
+        "sites_total": 481,
+        "sites_validated_today": 20,
+        "sites_re_audited": 114,
+        "hallucinations_removed": 32,
+        "marine_life_stripped": 51,
+        "wreck_conflicts_flagged": 11,
+        "sites_unresolved": 379,
+        "by_destination": {
+          "roatan": {
+            "sites_total": 428,
+            "sites_validated_today": 0,
+            "sites_re_audited": 62,
+            "hallucinations_removed": 17,
+            "marine_life_stripped": 35,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 378,
+            "notes": "Destination far exceeds a single pass's tractable size (428 sites); agent prioritized re-auditing all 56 already-validated sites plus all 11 wreck sites, per prior oversized-destination precedent (red-sea, raja-ampat, maldives). Removed 17 sites' worth of fabricated shark/pelagic claims and stripped marine-life padding from 18 more (mostly Roatan Marine Park donor-named moorings where the registry confirms the name but not marine life). Fixed a systemic bug where ~30 markdown footers cited sources that didn't match validation_source. All 5 well-documented wrecks (El Aguila, Aguila, Odyssey Wreck, Odyssey Stern, M Alexand) confirmed across 3-5 independent sources with no unresolved conflicts. 372 never-validated sites plus 6 unresolved wrecks remain out of scope, explicitly disclosed rather than padded."
+          },
+          "saba": {
+            "sites_total": 9,
+            "sites_validated_today": 1,
+            "sites_re_audited": 9,
+            "hallucinations_removed": 1,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "No wreck sites. Full re-audit of all 9 sites; all now carry 3+ source domains. Removed a misattributed DAN Alert Diver citation on Torrens Point (the cited article actually describes Tent Reef, not Torrens Point) and correctly reattributed the content. Added newly-confirmed species at Third Encounter and Man O War Shoals; hedged rare/single-source shark and whale sightings rather than presenting them as typical."
+          },
+          "san-diego-la-jolla": {
+            "sites_total": 10,
+            "sites_validated_today": 9,
+            "sites_re_audited": 9,
+            "hallucinations_removed": 5,
+            "marine_life_stripped": 5,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 1,
+            "notes": "9 of 10 sites re-audited and validated with 3+ sources; stripped unsourced species lists from USS PC-815, HMCS Yukon, Sunken Harbor, Wreck Alley (rewritten per-wreck), and Zu\u00f1iga Jetty. Two wreck conflicts documented rather than picked (USS PC-815 displacement 295t vs 450t; HMCS Yukon sinking date 14 vs 15 July). Corrected Zu\u00f1iga Jetty's entry_type to boat-only, and bumped La Jolla Cove/La Jolla Shores to Intermediate per the cold-water difficulty floor. 'Yukon Wreck (DE-429)' reconfirmed as an unresolved likely duplicate/fabrication of HMCS Yukon at different coordinates -- left unvalidated, flagged for a future gap-fill/removal pass."
+          },
+          "sangalaki": {
+            "sites_total": 13,
+            "sites_validated_today": 0,
+            "sites_re_audited": 13,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "No wreck sites. Full re-audit of all 13 sites, all already validated and re-confirmed with 3+ sources. Removed two unverifiable statistics at Manta Parade (a fabricated cleaning-behavior percentage and an unsourced peak-sighting count) and softened an unconfirmed wreck-material detail at Manta Avenue. Documented a genuine depth conflict at Big Fish Country (PADI's 20m vs. two independent operators' 27-30m) rather than silently picking a number."
+          },
+          "sardinia": {
+            "sites_total": 11,
+            "sites_validated_today": 11,
+            "sites_re_audited": 11,
+            "hallucinations_removed": 7,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 3,
+            "sites_unresolved": 0,
+            "notes": "Full re-audit in English and Italian sources. Fixed a one-liner/site_type mismatch bug on Cala Mariolu and Isola dei Cavoli (JSON said wall/reef, prose called them cave dives), removed a fabricated Roman-wreck attribution on Isola dei Cavoli's granite formation, and flagged genuine Italian-vs-English source conflicts on Nereo Cave's tunnel length and KT Wreck's length/displacement/bow-stern separation. Updated MuMart Museo Sommerso to reflect its 2023 relocation nearer shore (entry_type boat->both). Fixed a '25 to 25 meters' auto-gen depth artifact in overview.md."
+          },
+          "scapa-flow": {
+            "sites_total": 10,
+            "sites_validated_today": 10,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 8,
+            "wreck_conflicts_flagged": 6,
+            "sites_unresolved": 0,
+            "notes": "Full re-audit of all 10 WWI High Seas Fleet wreck sites against scapaflowwrecks.com, Wikipedia, and Scottish maritime sources -- no fabrications found in the prior pass's history, but several corrections landed: F2's mooring location corrected to Gutter Sound, Gobernador's original name (Wordsworth) added and beam figure fixed. Replaced generic regional marine-life padding on 8 sites with per-wreck species confirmed by scapa-flow.co.uk (e.g. seals at Brummer/Coln, wolf eels at Dresden). Documented 6 genuine wreck-dimension conflicts (Karlsruhe, Markgraf, Kronprinz Wilhelm newly flagged; Konig, Dresden, Coln reconfirmed) rather than picking numbers."
+          }
+        }
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/165",
+      "errors": []
+    },
     {
       "date": "2026-08-27",
       "slugs": [

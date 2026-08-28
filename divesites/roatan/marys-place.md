@@ -17,7 +17,7 @@ addedBy: osm_import
 
 ## Overview
 
-Mary's Place is widely considered Roatán's signature dive and one of the most celebrated wall sites in the entire Caribbean. Located on the southwest side of Roatán near French Harbour, the site features a massive crack in the reef wall that splits into two parallel fissures, creating a system of vertical canyons, tunnels, and swim-throughs that descend from 6 meters down to 36 meters and beyond. The walls of these fissures are draped with black coral trees, sea fans, wire corals, and dense sponge growth. The combination of dramatic topography and exceptional marine life density has made Mary's Place a must-dive site for visiting divers. Visibility is consistently 25–35 meters.
+Mary's Place is widely considered Roatán's signature dive and one of the most celebrated wall sites in the entire Caribbean. Located on the southwest side of Roatán near French Harbour, the site features a massive crack in the reef wall — formed by volcanic activity — that splits into two parallel fissures, creating a system of vertical canyons, tunnels, and swim-throughs. Sources report slightly different maximum depths for the fissure system, ranging from about 33 meters (110 feet) to 36 meters (120 feet); divers should treat 36 meters as the outer limit and follow their guide's plan. The walls of these fissures are draped with black coral trees, sea fans, wire corals, and dense sponge growth. The combination of dramatic topography and exceptional marine life density has made Mary's Place a must-dive site for visiting divers.
 
 ## Site Information
 
@@ -32,7 +32,9 @@ Mary's Place is widely considered Roatán's signature dive and one of the most c
 
 ## Marine Life
 
-Mary's Place is exceptional for the density and variety of its marine life. Black coral trees — normally associated with depths beyond 30 meters — grow prolifically throughout the fissure system at recreational depths. Giant sea fans provide habitat for flamingo tongues and arrow crabs. Eagle rays are frequently seen in the open water adjacent to the main fissure. Caribbean reef sharks patrol the wall below the canyon entrance. Spotted moray eels, goldentail moray eels, and green morays inhabit every crevice. Nurse sharks rest in the deeper sections of the fissure. Dense schools of creole wrasse swarm through the canyon passages. Spotted drums are reliably present near larger coral heads within the system.
+Mary's Place is exceptional for the density and variety of its marine life. Black coral trees, sea fans, and barrel sponges line the fissure walls. Reef fish reported here include angelfish, parrotfish, yellowtail snapper, and dense schools of creole wrasse and silversides moving through the canyon passages. Moray eels and, less commonly, seahorses are reported in the crevices. Fairy basslets and bluehead wrasse are seen darting among the gorgonians deeper in the main fissure.
+
+*Note: Some older versions of this description referenced Caribbean reef sharks and nurse sharks at this site. Neither claim could be confirmed against current dive-shop or dive-database sources for Mary's Place specifically, so both have been removed.*
 
 ## Dive Profile
 
@@ -59,4 +61,4 @@ This is an Advanced dive rating due to depth and the complex, enclosed fissure s
 Mary's Place is one of the premier wide-angle photography sites in the Caribbean. The black coral-draped fissure walls create an otherworldly tunnel environment. Shoot upward through the fissure toward the blue surface for classic wide-angle compositions. Divers in the fissure provide essential scale. A strobe is useful for illuminating the sponges and sea fans in the darker interior passages. Eagle rays in the open water adjacent to the site are outstanding subjects.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Roatan-Diving.com – Mary's Place](https://roatan-diving.com/dive-sites/mary-s-place), [Sun Divers Roatan – Diving Mary's Place](https://sundiversroatan.com/diving-marys-place-in-roatan/), [Bay Islands 360 – Mary's Place](https://bayislands360.com/dive-site/marys-place/). Last updated 2026-08-28.*

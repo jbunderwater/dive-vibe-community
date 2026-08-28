@@ -2,7 +2,7 @@
 name: La Jolla Shores
 lat: 32.8575
 lng: -117.2575
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 20
 entryType: shore
 siteType: reef
@@ -19,14 +19,16 @@ La Jolla Shores Beach is one of California's most popular and consistently dived
 
 La Jolla Shores Beach offers the most accessible shore diving in San Diego. The entry is a wide, sandy beach with a gentle slope — ideal for training dives and refreshers. The immediate dive zone (0–10 metres) consists of sandy flats with small rocky outcrops, which become the summer hunting ground for one of the world's largest aggregations of leopard sharks. As depth increases from 10 to 20 metres, the bottom transitions to rocky patches colonised by kelp bass, sheephead, and other reef species. Beyond 20 metres — requiring an increasingly long surface swim — the La Jolla Canyon wall system begins.
 
-Most recreational diving stays in the 0–20 metre range. The canyon edge beyond 20 metres is intermediate-to-advanced terrain requiring different planning than the beginner zones.
+Most recreational diving stays in the 0–20 metre range. The canyon edge beyond 20 metres is intermediate-to-advanced terrain requiring different planning than the shallow sand zones.
+
+**On difficulty rating**: La Jolla Shores' gentle, sandy entry is genuinely among the easiest in San Diego and is widely used for training dives. This destination's data-quality standard nonetheless applies a minimum Intermediate rating to all cold-water sites (13–19°C/55–66°F here, colder at depth with upwelling) — divers should still be comfortable in exposure protection and reduced-visibility conditions even on the shallow sand flats.
 
 ## Site Information
 
 - **Location**: La Jolla Shores Beach, La Jolla, San Diego (near the boat launch ramp)
 - **Entry Type**: Shore entry
 - **Site Type**: Reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Water Temperature**: 13–19°C (55–66°F); 7mm wetsuit recommended; temperatures can drop significantly at depth via upwelling
 
@@ -53,4 +55,6 @@ Most recreational diving stays in the 0–20 metre range. The canyon edge beyond
 Enter from the main beach or the Marine Room area depending on your target zone. Leopard shark dives are best in the morning on the open sandy areas — swim straight out from shore and descend when you see the sharks. Canyon dives require navigation to the canyon edge; plan for a 15-minute surface or near-surface transit before descent. Use a surface marker buoy on ascent — boat traffic is moderate.
 
 ---
-*Sources: [La Jolla Shores — San Diego Dive Sites](https://www.sddivesites.com/la-jolla-shores.html), [La Jolla Leopard Sharks — La Jolla Mom](https://lajollamom.com/la-jolla-leopard-sharks/), [Scuba Diving La Jolla Shores to Canyon Ledges — DiveInScuba](https://diveinscuba.com/scuba-diving-from-la-jolla-shores-to-the-ledges-of-la-jolla-canyon-an-underwater-odyssey/), [Diving La Jolla — Waterhorse Charters](https://www.waterhorsecharters.com/la-jolla/). Last updated 2026-06-27.*
+*Sources: [La Jolla Shores — San Diego Dive Sites](https://www.sddivesites.com/la-jolla-shores.html), [La Jolla Leopard Sharks — La Jolla Mom](https://lajollamom.com/la-jolla-leopard-sharks/), [Scuba Diving La Jolla Shores to Canyon Ledges — DiveInScuba](https://diveinscuba.com/scuba-diving-from-la-jolla-shores-to-the-ledges-of-la-jolla-canyon-an-underwater-odyssey/), [Diving La Jolla — Waterhorse Charters](https://www.waterhorsecharters.com/la-jolla/). Last updated 2026-08-28.*
+
+**Re-audit (2026-08-28):** Difficulty corrected from Beginner to Intermediate per the project's cold-water minimum-difficulty policy. Leopard shark season, depth zones, and the Main Wall feature reconfirmed accurate against fresh sources; no other changes required.

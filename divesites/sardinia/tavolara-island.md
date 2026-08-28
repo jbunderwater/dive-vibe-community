@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Tavolara Island
 
-Tavolara Island is a reef dive site in Sardinia, Europe.
+Tavolara Island sits at the heart of the Tavolara-Punta Coda Cavallo Marine Protected Area, one of Sardinia's largest, established in 1997.
 
 ## Overview
 
-Tavolara Island sits at the heart of the Tavolara Punta Coda Cavallo Marine Protected Area, which covers 15,000 hectares of sea and 76 kilometres of coastline in northeastern Sardinia. The limestone and granite formations around the island shelter majestic dusky groupers, moray eels, barracuda, snappers, and clouds of damselfish in waters that have thrived since the area gained protection in the late 1990s. Diving is regulated across three zones with designated mooring buoys, and the area is managed across three zones with designated mooring buoys.
+Tavolara Island anchors the Tavolara-Punta Coda Cavallo Marine Protected Area in northeastern Sardinia, established in 1997. The official park registry lists the reserve at roughly 15,000-15,357 hectares of sea and about 76 kilometres of coastline, covering Tavolara, Molara, Molarotto, Piana and Cavalli islands. The Paleozoic limestone and granite formations around Tavolara shelter dusky groupers, moray eels, barracuda, and clouds of damselfish. Diving is regulated across three zones: Zone A is a full no-access reserve, Zone B permits diving only through authorized dive centres across 16 mooring-buoy points, and Zone C allows free diving.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Tavolara Island sits at the heart of the Tavolara Punta Coda Cavallo Marine Prot
 - **Maximum Depth**: 25 meters
 
 ---
-*Sources: [Tavolara Diving Center - Marine Protected Area](https://www.tavolaradiving.it/en/marine-protected-area/), [Divessi - Tavolara MPA](https://www.divessi.com/en/mydiveguide/destination/Area-Marina-Protetta-di-Tavolara-9752351), [Porto San Paolo Dive Center](https://www.portospaolodiving.it/en/). Last updated 2026-06-29.*
+*Sources: [Tavolara Diving Center - Marine Protected Area](https://www.tavolaradiving.it/en/marine-protected-area/), [Divessi - Tavolara MPA](https://www.divessi.com/en/mydiveguide/destination/Area-Marina-Protetta-di-Tavolara-9752351), [Parks.it - AMP Tavolara Punta Coda Cavallo](https://www.parks.it/riserva.marina.tavolara/par.php), [SardegnaTurismo - Tavolara](https://www.sardegnaturismo.it/en/explore/tavolara). Last updated 2026-08-28.*

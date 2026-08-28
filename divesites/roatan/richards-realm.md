@@ -17,7 +17,7 @@ Richard's Realm is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Richard's Realm is a Roatan Marine Park mooring site located within the Spooky Channel corridor in Sandy Bay. Named by Gail Juppenlatz in tribute to her late husband, it was one of 22 new dive sites added to the park in 2022. The site sits along the dramatic wall system near Spooky Channel, where ancient geological forces carved channels and swim-throughs into the reef. Divers can expect healthy coral formations with barrel sponges and sea fans adorning the wall, along with the toadfish, scorpionfish, and lettuce sea slugs typical of this area. Visibility averages 20-40 meters with water temperatures of 26-29°C year-round.
+Richard's Realm is a Roatan Marine Park mooring site located within the Spooky Channel corridor in Sandy Bay. It was named by Gail Juppenlatz in tribute to her late husband. Roatan Marine Park's records confirm the site name, dedication, and location within the Spooky Channel corridor, but no site-specific published description of marine life was found. Nearby Spooky Channel is documented by dive operators as featuring toadfish, scorpionfish, and lettuce sea slugs, but these have not been specifically confirmed at Richard's Realm itself.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Richard's Realm is a Roatan Marine Park mooring site located within the Spooky C
 - **Maximum Depth**: 27 meters
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Roatan Marine Park – Dive Sites With Meaningful Stories](https://www.roatanmarinepark.org/post/dive-sites-with-meaning-stories). Last updated 2026-08-28.*

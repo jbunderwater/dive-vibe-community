@@ -17,7 +17,7 @@ addedBy: osm_import
 
 ## Overview
 
-3 Brothers sits halfway between West Bay and West End along Roatan's southwest reef corridor, making it a convenient stop for dive boats working this stretch of coast. The reef structure here supports healthy populations of grouper, with multiple species found around the coral formations. Sea turtles are regular visitors, often spotted grazing on sponges or resting under ledges. At a maximum depth of 15 meters, the site offers a comfortable dive suitable for all certification levels with typical West Bay visibility of 20-30 meters.
+3 Brothers sits halfway between West Bay and West End along Roatan's southwest reef corridor, making it a convenient afternoon stop for dive boats working this stretch of coast. Divers have reported a curious grouper, a large turtle, and lionfish at this site. At a maximum depth of 15 meters, the site offers a comfortable dive suitable for all certification levels.
 
 ## Site Information
 
@@ -36,4 +36,4 @@ The site offers a gentle reef terrain suitable for relaxed exploration. Begin yo
 The colorful reef structures offer excellent macro photography opportunities. Look for small critters hiding among coral heads and anemones. Wide-angle shots work well to capture the vibrant reef landscape and schooling fish.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Vimeo – 3 Brothers Dive Site](https://vimeo.com/35662939), [DiveAdvisor – Three Brothers](https://diveadvisor.com/honduras/three-brothers). Last updated 2026-08-28.*

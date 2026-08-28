@@ -17,9 +17,9 @@ Sunken Harbor is the seafloor location area off Mission Beach, San Diego where t
 
 ## Overview
 
-"Sunken Harbor" refers to the designated artificial reef zone in the Pacific Ocean approximately 1–2 miles off Mission Beach where the vessels now collectively known as "Wreck Alley" were scuttled. The HMCS Yukon — the crown jewel of the complex — was specifically sunk at Sunken Harbor by the San Diego Oceans Foundation on 14 July 2000.
+"Sunken Harbor" refers to the location in the Pacific Ocean approximately 1–2 miles off Mission Beach where the HMCS Yukon — the centerpiece of the "Wreck Alley" complex — was scuttled by the San Diego Oceans Foundation. Wikipedia's HMCS Yukon (DDE 263) article confirms this is a genuine place name, twice describing the ship as sold "for use as an artificial reef and sunk as such at Sunken Harbor off San Diego" and "scuttled ... at Sunken Harbor off Mission Bay." So the name itself is real and source-confirmed — it is not a fabrication.
 
-**Important note on naming:** "Sunken Harbor" does not appear as a named individual dive site in published local dive guides, California Diving News, ScubaBoard, or Wikipedia's Wreck Alley article. It is the geographical designation for the reef zone that the HMCS Yukon occupies, not a separate wreck. The OSM node at these coordinates (32.7715°N, 117.2620°W) is extremely close to the HMCS Yukon entry (32.7716°N, 117.2710°W). Divers visiting this area are diving Wreck Alley / HMCS Yukon and the surrounding complex.
+**Important note on naming:** Despite the name being genuine, "Sunken Harbor" does not appear as a separately reviewable dive site in any published local dive guide, dive-charter listing, or wreck database checked this pass (lajolla.com, waterhorsecharters.com, sddivesites.com, timesofsandiego.com, Wikipedia's own Wreck Alley article). It is the location name for the reef zone the HMCS Yukon occupies, not a distinct wreck with its own profile. The OSM node at these coordinates (32.7715°N, 117.2620°W) sits essentially on top of the HMCS Yukon entry (32.7716°N, 117.2710°W). Divers visiting this area are diving the HMCS Yukon and the surrounding Wreck Alley complex — see those entries for site-specific dive planning and confirmed marine life.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Sunken Harbor is the seafloor location area off Mission Beach, San Diego where t
 
 ## Marine Life
 
-The wreck complex supports the full Southern California cold-water reef assemblage. Lingcod, cabezon, various rockfish, sheephead, garibaldi, calico bass, and wolf eels are resident year-round. Strawberry anemones (Corynactis californica) and white metridium anemones coat all wreck surfaces. California spiny lobster shelter in hull cavities during the October–March season. Giant sea bass (recovering, protected) have been observed here. Sea lions from nearby colonies visit regularly.
+No source names species specifically for "Sunken Harbor" as distinct from the HMCS Yukon that rests there. For confirmed, source-attributed marine life at this exact location, see the HMCS Yukon entry (schools of sea bass and perch, gorgonians and anemones on the hull, possible leopard sharks, per lajolla.com) and the Wreck Alley entry, which documents different species confirmed at each of the complex's other wrecks (Ruby E, El Rey, NOSC Tower).
 
 ## Dive Profile
 
@@ -43,6 +43,6 @@ Boat access via charter from Mission Bay (Marissa Charters, Waterhorse Charters,
 Advanced divers only. Multiple diver fatalities have occurred on the HMCS Yukon in this zone. Cold water, dark interiors, complex three-dimensional navigation, and potential surge demand experience and preparation. Never penetrate any wreck without proper training and redundant light sources. Deploy an SMB on ascent — summer surface boat traffic is heavy.
 
 ---
-*Sources: [HMCS Yukon (DDE 263) — Wikipedia](https://en.wikipedia.org/wiki/HMCS_Yukon_(DDE_263)), [Wreck Alley — Wikipedia](https://en.wikipedia.org/wiki/Wreck_Alley), [Complete Guide to Wreck Alley — lajolla.com](https://lajolla.com/article/guide-to-wreck-alley-san-diego/). Last updated 2026-06-27.*
+*Sources: [HMCS Yukon (DDE 263) — Wikipedia](https://en.wikipedia.org/wiki/HMCS_Yukon_(DDE_263)), [Diving La Jolla / Wreck Alley — Waterhorse Charters](https://www.waterhorsecharters.com/wreck-alley/), [Complete Guide to Wreck Alley — lajolla.com](https://lajolla.com/article/guide-to-wreck-alley-san-diego/). Last updated 2026-08-28.*
 
-**QA note (2026-06-27):** "Sunken Harbor" is the location name for the seafloor area where HMCS Yukon was sunk, not a separate named dive site. No independent published source lists "Sunken Harbor" as a distinct dive site separate from the HMCS Yukon / Wreck Alley complex. This entry is retained as the OSM node exists, but it likely represents the same area as the HMCS Yukon entry.
+**QA note (2026-08-28, re-audit):** Re-confirmed "Sunken Harbor" is a genuine place name (directly quoted in Wikipedia's HMCS Yukon article) for the location where HMCS Yukon was sunk, not a separately profiled dive site. Marine life list stripped — the prior version listed unsourced regional species; see the HMCS Yukon and Wreck Alley entries for source-attributed, per-wreck fauna.

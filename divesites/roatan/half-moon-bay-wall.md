@@ -29,7 +29,9 @@ Half Moon Bay Wall rises nearly directly offshore from the beach at West End, wh
 
 ## Marine Life
 
-Hawksbill turtles routinely graze the orange elephant-ear sponges and black coral on the wall face, and a tunnel further along the reef is one of Roatan's most reliable spots for eagle ray encounters. Moray eels and lobsters occupy the wall crevices, spotted drums and juvenile filefish shelter in the shallower nursery areas, and large barracuda frequently hang stationary in the blue at the drop-off edge.
+Turtles are reported on the wall among the orange elephant-ear sponges and black coral, and a tunnel further along the reef is described by Splash Inn as arguably the best place on the island for eagle ray encounters. Grouper, blue chromis, and creole wrasse are reported patrolling the reef crest and wall edge. Moray eels and lobsters occupy the wall crevices, and flamingo tongue snails cling to the gorgonian sea fans.
+
+*Note: An earlier version of this page named spotted drums, juvenile filefish, and large stationary barracuda at this site. These could not be confirmed against the sources cited and have been removed.*
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan Divers – Best Dive Sites in Roatan](https://roatandivers.com/blog/the-best-dive-sites-in-roatan). Last updated 2026-08-28.*

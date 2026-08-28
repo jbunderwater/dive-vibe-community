@@ -50,7 +50,7 @@ Her most celebrated feature is the brass bridge — constructed of brass to avoi
 
 ## Marine Life
 
-The Brummer's hull and superstructure carry dense cold-water invertebrate communities. Plumose anemones and dead man's fingers colonise every available surface. Conger eels occupy sheltered spaces within the hull. Edible crabs and velvet swimming crabs are abundant across the wreck. Schools of pollack and saithe hover in the water column above. Nudibranchs are present on encrusted surfaces.
+The local dive operator rates the Brummer's sealife 10/10 — the highest of any fleet wreck — and its site-specific listing names small shoaling fish, pollock, cod, ling, and conger among the fish, with lobster, edible crab, and velvet crabs, king and queen scallops, and squat lobster among the invertebrates, plus sea urchins, starfish, and dead man's fingers. Seals are also frequently reported interacting with divers here — a distinctive encounter not called out at the same frequency on the other fleet wrecks.
 
 ## Dive Profile
 
@@ -74,7 +74,7 @@ This is a protected scheduled monument under Scottish law — removal of any art
 
 ## Photography
 
-The brass bridge is one of Scapa Flow's most photographed single features. Wide-angle shots capturing the bridge's structure and scale are the primary objective. Natural light at 22–25 metres is limited in Scottish waters — a powerful video light or strobe is essential. The guns, searchlight irises, and encrusted surfaces throughout the wreck reward both wide-angle and close-up work.
+The brass bridge is one of Scapa Flow's most photographed single features. Wide-angle shots capturing the bridge's structure and scale are the primary objective. Natural light at 22–25 metres is limited in Scottish waters — a powerful video light or strobe is essential. The guns, searchlight irises, and encrusted surfaces throughout the wreck reward both wide-angle and close-up work, and the frequent seal encounters here are worth keeping a wide-angle setup ready for.
 
 ---
-*Sources: [SMS Brummer — Scapa Flow Wrecks](https://www.scapaflowwrecks.com/wrecks/brummer/), [SMS Brummer Dive Guide — Scapa Flow Wrecks](http://www.scapaflowwrecks.com/wrecks/brummer/diving.php), [SMS Brummer — Wikipedia](https://en.wikipedia.org/wiki/SMS_Brummer), [S.M.S. Brummer — MV Invincible Scapa Flow](https://www.scapa-flow.co.uk/dive-site/5-S.M.S.-Brummer). Last updated 2026-06-29.*
+*Sources: [SMS Brummer — Scapa Flow Wrecks](https://www.scapaflowwrecks.com/wrecks/brummer/), [SMS Brummer Dive Guide — Scapa Flow Wrecks](http://www.scapaflowwrecks.com/wrecks/brummer/diving.php), [SMS Brummer — Wikipedia](https://en.wikipedia.org/wiki/SMS_Brummer), [S.M.S. Brummer — MV Invincible Scapa Flow](https://www.scapa-flow.co.uk/dive-site/5-S.M.S.-Brummer). Re-audited and last updated 2026-08-28.*

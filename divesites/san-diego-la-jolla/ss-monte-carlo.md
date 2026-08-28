@@ -55,6 +55,8 @@ Monitor local news following winter storms: the wreck is only meaningfully visib
 Surge can be severe, pushing divers into concrete framing and metal reinforcement. Visibility is typically very poor due to sand suspension. The site is extremely shallow — buoyancy control and awareness of the bottom structure are critical to avoid injury from surge. Do not enter interior hull spaces. Follow any posted City of Coronado safety guidelines.
 
 ---
-*Sources: [Wikipedia — SS Monte Carlo](https://en.wikipedia.org/wiki/SS_Monte_Carlo), [Hidden San Diego — SS Monte Carlo](https://hiddensandiego.com/things-to-do/places/ss-monte-carlo), [La Jolla Mom — SS Monte Carlo Coronado Shipwreck](https://lajollamom.com/ss-monte-carlo-coronado-shipwreck/). Last updated 2026-06-27.*
+*Sources: [Wikipedia — SS Monte Carlo](https://en.wikipedia.org/wiki/SS_Monte_Carlo), [Hidden San Diego — SS Monte Carlo](https://hiddensandiego.com/things-to-do/places/ss-monte-carlo), [La Jolla Mom — SS Monte Carlo Coronado Shipwreck](https://lajollamom.com/ss-monte-carlo-coronado-shipwreck/). Last updated 2026-08-28.*
 
 **QA note (2026-06-27):** Depth corrected from 20m to 6m — the OSM node depth of 20m was erroneous. Published sources confirm the wreck lies in 1–6 metres of water, mostly buried under shifting sand. The 20m figure likely referred to the ocean bottom elevation at the OSM node location, not the actual dive depth.
+
+**Re-audit (2026-08-28):** Re-pulled Wikipedia and lajollamom.com. Both independently confirm the New Year's Day 1937 grounding during a storm-driven anchor failure, the concrete-tanker construction and conversion history, and that the wreck is normally buried and only exposed after storms or extreme low tides. No factual corrections were needed. Wikipedia additionally states a hull length of 300 feet (91m), but since this figure is not corroborated by any second source it was not added to the description, per the 2+ source rule for wreck dimensions.

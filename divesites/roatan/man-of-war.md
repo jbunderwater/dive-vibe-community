@@ -30,4 +30,4 @@ No published information about this wreck's history, vessel type, dimensions, or
 **Previous description note:** An earlier version of this page speculated that the name "suggests a historically significant or military-associated vessel." This was editorial inference with no factual basis and has been removed.
 
 ---
-*Description based on Roatan Marine Park GPS data. No site-specific sources found. Last updated 2026-06-27.*
+*Description based on Roatan Marine Park GPS data. No site-specific sources found. Last updated 2026-08-28.*

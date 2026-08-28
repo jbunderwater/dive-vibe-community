@@ -58,4 +58,4 @@ Overhead environment requires appropriate training for the chimney chute. Mainta
 The circular cavern with sunbeams angling through the entrance provides excellent wide-angle opportunities. Shoot toward the cavern opening for silhouette and ambient-light compositions. Spotted drums near coral heads and nudibranchs on the walls reward macro photographers.
 
 ---
-*Sources: [Splash Inn Dive Resort – Bear's Den](https://roatansplashinn.com/en/roatan-diving-sites/bears-den/), [Roatan-Diving.com – Bear's Den](https://roatan-diving.com/dive-sites), [Sun Divers Roatan – Dive Sites](https://sundiversroatan.com/diving/roatan-dive-sites/). Last updated 2026-06-27.*
+*Sources: [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Sun Divers Roatan – Roatan Diving](https://sundiversroatan.com/roatan-diving/). Last updated 2026-08-28.*

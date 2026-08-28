@@ -17,7 +17,7 @@ Cj's Place is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-CJ's Place is a Roatan Marine Park memorial mooring dedicated to CJ Simmons, who passed away at the age of 24. The site sits along the Sandy Bay wall, where the reef crest gives way to a vertical drop-off decorated with tube sponges, sea fans, and encrusting corals. Creole wrasse and chromis hover above the wall edge, while moray eels and lobsters shelter in crevices below. Visibility typically ranges from 20 to 40 meters, with water temperatures between 26 and 29 degrees Celsius.
+CJ's Place is a Roatan Marine Park memorial mooring dedicated to CJ Simmons, who passed away at the age of 24. Roatan Marine Park's own social channels confirm the site name, dedication, and its location on the Sandy Bay wall. No site-specific published description of marine life or dive conditions was found. Regional Sandy Bay wall fauna can be expected, but no site-specific sightings have been confirmed.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ CJ's Place is a Roatan Marine Park memorial mooring dedicated to CJ Simmons, who
 - **Maximum Depth**: 24 meters
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Roatan Marine Park – CJ's Place dedication (Facebook)](https://www.facebook.com/RoatanMP/posts/cjs-place-is-a-new-dive-site-dedicated-in-the-memory-of-cj-simmons-24-who-passed/10158019290428856/). Last updated 2026-08-28.*

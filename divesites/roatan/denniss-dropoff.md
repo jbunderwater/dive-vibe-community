@@ -17,7 +17,9 @@ Dennis's Dropoff is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Dennis's Dropoff is a wall dive in the Half Moon Bay corridor where the reef edge breaks sharply into a steep descent, creating one of the more pronounced drop-offs in this section. The wall plunges to 30 meters at the mooring point and continues well beyond, with the upper face decorated in sheet corals and star coral colonies that step down in terraces before the true vertical begins. Black groupers, among the largest predators on the reef, are occasionally seen here, along with great barracuda holding station in the water column. Wire coral spirals extend from the wall at depth, and the overall profile rewards divers who take time to inspect the wall face closely rather than simply dropping along it.
+Dennis's Dropoff is a wall dive in the Half Moon Bay corridor, listed by Roatan Divers as one of the shallower-option wall dives in this section. The wall plunges to around 30 meters at the mooring point and continues beyond, with the upper face decorated in corals that step down before the vertical drop begins. No site-specific published description of marine life was found; regional Half Moon Bay wall fauna can be expected, but no site-specific sightings have been confirmed.
+
+*Note: An earlier version of this page named black grouper, great barracuda, and wire coral specifically at this site. These could not be confirmed against the source cited and have been removed.*
 
 ## Site Information
 
@@ -28,4 +30,4 @@ Dennis's Dropoff is a wall dive in the Half Moon Bay corridor where the reef edg
 - **Maximum Depth**: 30 meters
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Roatan Divers – Best Dive Sites in Roatan](https://roatandivers.com/blog/the-best-dive-sites-in-roatan). Last updated 2026-08-28.*

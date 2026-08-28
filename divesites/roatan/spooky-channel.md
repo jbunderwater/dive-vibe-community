@@ -32,7 +32,9 @@ Spooky Channel earns its name from the atmospheric, twilight-like conditions ins
 
 ## Marine Life
 
-Spooky Channel's defining marine life feature is the concentration of species that shelter in low-light environments. Glassy sweepers — small, translucent schooling fish — pack the interior in shimmering silver clouds. Soldierfish and squirrelfish emerge from the darker overhangs. Spotted drums, which favor shadowed areas beneath coral formations, are reliably found inside the channel. Large nurse sharks rest motionless on the sandy floor of the deeper cavern sections. Spiny lobsters are abundant in every suitable crevice. The exterior faces of the canyon walls host sea fans, encrusting sponges, and wire corals. Hawksbill turtles are seen on the exterior reef above the channel.
+Spooky Channel's defining marine life feature is the concentration of species that shelter in low-light environments. Toadfish and scorpionfish are reported in the shadowed recesses. Lettuce sea slugs and glassy sweepers — small, translucent schooling fish that pack the interior in shimmering silver clouds — are documented by local operators, along with silversides seasonally. Moray eels shelter in the passages. The exterior faces of the canyon walls host sea fans, encrusting sponges, and soft corals.
+
+*Note: An earlier version of this page stated that nurse sharks rest on the sandy floor of the deeper cavern sections. That claim could not be confirmed against the sources cited and has been removed, along with unconfirmed mentions of soldierfish, squirrelfish, spotted drums, spiny lobsters, and hawksbill turtles at this specific site.*
 
 ## Dive Profile
 
@@ -56,7 +58,7 @@ Advanced dive due to depth, confined passages, and low light. This is cavern div
 
 ## Photography
 
-Spooky Channel is one of Roatán's most atmospheric photography sites. The contrast between the dark interior passages packed with glassy sweepers and the bright water beyond the opening creates compelling compositions. Shoot from inside the channel looking toward the channel entrance with blue water framing. Video lights significantly enhance the experience. Nurse shark portraits on the sandy floor are classic shots.
+Spooky Channel is one of Roatán's most atmospheric photography sites. The contrast between the dark interior passages packed with glassy sweepers and the bright water beyond the opening creates compelling compositions. Shoot from inside the channel looking toward the channel entrance with blue water framing. Video lights significantly enhance the experience.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/), [Roatan Divers – Best Dive Sites in Roatan](https://roatandivers.com/blog/the-best-dive-sites-in-roatan). Last updated 2026-08-28.*

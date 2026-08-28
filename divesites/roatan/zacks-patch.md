@@ -17,7 +17,7 @@ Zack's Patch is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Zack's Patch is a swim-through site near the West End and Sandy Bay divide, rated for Open Water divers. The reef here features channels and overhangs that create natural swim-throughs without requiring advanced penetration skills. Hard coral growth is healthy along the top of the reef, and divers commonly spot parrotfish, angelfish, and cleaning gobies working the coral heads. Visibility runs 20 to 40 meters, with water temperatures between 26 and 29 degrees Celsius.
+Zack's Patch is a named reef site listed by Roatan Divers near the West End and Sandy Bay divide, with channels and overhangs that create swim-throughs suitable for Open Water divers. No site-specific published description of marine life was found. Regional reef fauna can be expected, but no site-specific sightings have been confirmed.
 
 ## Site Information
 
@@ -36,4 +36,4 @@ The site offers a gentle reef terrain suitable for relaxed exploration. Begin yo
 The colorful reef structures offer excellent macro photography opportunities. Look for small critters hiding among coral heads and anemones. Wide-angle shots work well to capture the vibrant reef landscape and schooling fish.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Roatan Divers – Best Dive Sites in Roatan](https://roatandivers.com/blog/the-best-dive-sites-in-roatan). Last updated 2026-08-28.*

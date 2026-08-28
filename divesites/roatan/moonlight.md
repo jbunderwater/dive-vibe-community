@@ -17,7 +17,9 @@ Moonlight is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Moonlight forms part of a classic West End drift sequence that connects with Dixie's and Vern's Drop Off, allowing divers to travel along one of Roatan's longest continuous wall sections in a single dive. The wall here slopes into the abyss with overhangs and ledges where hawksbill turtles rest and nurse sharks tuck themselves into the shadows. Barrel sponges grow to impressive sizes along the wall face, and the drift current carries divers past fields of deepwater sea fans. When conditions align, the three-site drift offers a sustained journey through some of the West End's finest underwater scenery.
+Moonlight forms part of a classic West End drift sequence that connects with Dixies and Vern's Dropoff, allowing divers to travel along one of Roatan's longest continuous wall sections in a single dive, per Coconut Tree Divers and Roatan Divers. The wall face features overhangs, ledges, and barrel sponges along the drop. No site-specific published description of marine life was found; regional West End wall fauna can be expected, but no site-specific sightings have been confirmed.
+
+*Note: An earlier version of this page named hawksbill turtles and nurse sharks specifically at this site. Neither claim could be confirmed against the sources cited and both have been removed.*
 
 ## Site Information
 
@@ -28,4 +30,4 @@ Moonlight forms part of a classic West End drift sequence that connects with Dix
 - **Maximum Depth**: 24 meters
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [Roatan Divers – Best Dive Sites in Roatan](https://roatandivers.com/blog/the-best-dive-sites-in-roatan). Last updated 2026-08-28.*

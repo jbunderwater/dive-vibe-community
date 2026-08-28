@@ -17,7 +17,9 @@ Black Rock is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Black Rock forms part of 'The Point' complex at Roatan's southwest tip, where the reef structure supports impressive stands of black coral colonies, barrel sponges, and sea fans. The wall drops to 24 meters with the deeper sections harboring barracudas, triggerfish, nurse sharks, and stingrays cruising along the reef face. During the right season, whale sharks have been spotted passing through these waters, adding a pelagic element to what is already one of the more diverse dives in the area. The intermediate rating reflects both the depth and the occasional currents that sweep around the point.
+Black Rock forms part of 'The Point' complex at Roatan's southwest tip, listed by Coconut Tree Divers and Splash Inn among their dive sites. The wall drops to 24 meters. No site-specific published description of marine life was found. Regional southwest-tip reef fauna can be expected, but no site-specific sightings have been confirmed. The intermediate rating reflects both the depth and the occasional currents that sweep around the point.
+
+*Note: An earlier version of this page described whale sharks, nurse sharks, barracuda, and triggerfish specifically at this site. None of these could be confirmed against the sources cited and have been removed.*
 
 ## Site Information
 
@@ -28,4 +30,4 @@ Black Rock forms part of 'The Point' complex at Roatan's southwest tip, where th
 - **Maximum Depth**: 24 meters
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/). Last updated 2026-08-28.*

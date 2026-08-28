@@ -17,7 +17,7 @@ Dona Cleta is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Dona Cleta forms part of the Roatan Marine Park's named dive site network on the West Bay reef, where conservation moorings protect the reef from anchor damage. While there is limited individual documentation for this site, it occupies the shallow reef platform between West End and West Bay at depths to 18 meters. Coral heads rise from sandy substrate, providing shelter for lobsters, moray eels, and a colorful array of reef fish including angelfish and butterflyfish. Visibility of 20-30 meters and 26-29 degree Celsius water temperatures are standard for this area.
+Dona Cleta is a Roatan Marine Park mooring in West Bay, close to Black Rock, dedicated by the Paradise Hotel family to honor Doña Cleta. The site sits on the wall in shallow water — reported at around 20 feet (6 meters) near the top — as part of the West Bay reef corridor. Roatan Marine Park's records confirm the site name, dedication, and general location, but no site-specific published description of marine life or dive conditions was found. Regional West Bay reef fauna (typical Caribbean reef fish, coral, and invertebrates) can be expected, but no site-specific sightings have been confirmed.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Dona Cleta forms part of the Roatan Marine Park's named dive site network on the
 - **Maximum Depth**: 18 meters
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Roatan Marine Park – Dive Sites With Meaningful Stories](https://www.roatanmarinepark.org/post/dive-sites-with-meaning-stories). Last updated 2026-08-28.*

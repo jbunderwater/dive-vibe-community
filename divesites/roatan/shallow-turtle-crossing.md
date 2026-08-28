@@ -17,7 +17,7 @@ Shallow Turtle Crossing is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Shallow Turtle Crossing occupies the first of two sandy plateaus at around 6 meters depth, situated between West End and West Bay along Roatan's reef corridor. Coral channels weave between the sand flats, creating natural pathways for the abundant turtles that give this site its name. Eels, lobsters, sergeant majors, flounders, and jawfish populate the reef and sand interfaces. The shallow depth of 14 meters maximum and typically calm conditions make this an accessible dive for beginners, with visibility averaging 20-30 meters in the warm Caribbean water.
+Shallow Turtle Crossing occupies a sandy plateau situated between West End and West Bay along Roatan's reef corridor, listed by Coconut Tree Divers and Splash Inn. Coral channels weave between the sand flats. The site's name suggests it is known for turtle sightings, but no site-specific published description of marine life was found. Regional reef fauna can be expected, but no site-specific sightings have been confirmed. The shallow 14-meter maximum depth and typically calm conditions make this an accessible dive for beginners.
 
 ## Site Information
 
@@ -36,4 +36,4 @@ The site offers a gentle reef terrain suitable for relaxed exploration. Begin yo
 The colorful reef structures offer excellent macro photography opportunities. Look for small critters hiding among coral heads and anemones. Wide-angle shots work well to capture the vibrant reef landscape and schooling fish.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/). Last updated 2026-08-28.*

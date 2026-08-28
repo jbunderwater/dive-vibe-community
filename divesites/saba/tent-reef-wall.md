@@ -33,7 +33,7 @@ Tent Reef Wall extends west of Fort Bay as an extended rock ledge that begins at
 
 ## Marine Life
 
-Tent Reef Wall supports a wide cross-section of Caribbean marine life across its depth range. The boulder maze in the shallow upper section (7–12 m) is one of the better sites in Saba for macro encounters — seahorses, frogfish, and scorpionfish occupy cryptic positions on encrusted ledges. Scorpionfish and white-nose pipefish have been documented here. At depth, queen angelfish, barracuda, and large snapper patrol the wall face. The boulder zone includes hawksbill turtles and octopus (particularly at night). On the deeper wall below 20 metres, colourful encrusting sponges and black coral create a dense invertebrate landscape.
+Tent Reef Wall supports a wide cross-section of Caribbean marine life across its depth range. The boulder maze in the shallow upper section (7–12 m) is one of the better sites in Saba for macro encounters — longsnout seahorses, frogfish, and scorpionfish occupy cryptic positions on encrusted ledges (World of Diving's separate listing for this boulder/swim-through area confirms Longsnout Seahorses, Frogfish, Scorpionfish, and Hawksbill Turtles by name). White-nose pipefish and Saba's tiny two-inch cherubfish have also been documented here. DAN Alert Diver reports juvenile drum fish, arrow crabs, and commensal shrimp living within anemones and tube sponges around the mooring itself. At depth, queen angelfish, barracuda, and large snapper patrol the wall face. The boulder zone includes hawksbill turtles and octopus (particularly at night). On the deeper wall below 20 metres, colourful encrusting sponges and black coral create a dense invertebrate landscape.
 
 ## Dive Profile
 
@@ -62,4 +62,4 @@ The overhanging ledges at 15–20 metres are among Saba's great photography subj
 - Saba Divers: offers guided night dives at this site
 
 ---
-*Sources: [Sea Saba Dive Center — Tent Reef Wall](https://www.seasaba.com/saba-19-tent-reef-wall), [Saba Conservation Foundation — Dive Sites](https://sabapark.org/saba-national-marine-park/dive-sites-dive-operators/), [DAN Alert Diver — Diving in Saba](https://dan.org/alert-diver/article/diving-in-saba/), [World of Diving — Saba](https://worldofdiving.com/saba/), [ScubaBoard — Saba Trip Report](https://scubaboard.com/community/threads/saba-trip-report.76861/). Last updated 2026-06-27.*
+*Sources: [Sea Saba Dive Center — Tent Reef Wall](https://www.seasaba.com/saba-19-tent-reef-wall), [Saba Conservation Foundation — Dive Sites](https://sabapark.org/saba-national-marine-park/dive-sites-dive-operators/), [DAN Alert Diver — Diving in Saba](https://dan.org/alert-diver/article/diving-in-saba/), [World of Diving — Saba](https://worldofdiving.com/saba/), [ScubaBoard — Saba Trip Report](https://scubaboard.com/community/threads/saba-trip-report.76861/). Last updated 2026-08-28.*

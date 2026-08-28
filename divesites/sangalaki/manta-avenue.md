@@ -40,7 +40,7 @@ Boat entry only. Divers descend at the Lighthouse marker and navigate north alon
 
 - The coral steps are excellent for spotting small cryptic species — scan slowly and low rather than rushing along at manta eye-level.
 - The site transitions naturally into Manta Parade on the same dive if currents allow; confirm the plan with your guide beforehand.
-- The adjacent Lighthouse Reef site (a separate dive) features two small wooden boat wrecks — ask your dive guide about combining the two sites on a single outing.
+- The adjacent Lighthouse Reef site (a separate dive) features two small wrecks — ask your dive guide about combining the two sites on a single outing.
 
 ## Safety Considerations
 
@@ -63,4 +63,4 @@ The coral staircase creates natural framing for wide-angle reef compositions. Ma
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Asia Dive Site – Sangalaki](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/sangalaki.php), [Maratua.com – Sangalaki](https://www.maratua.com/en/nearby-islands/sangalaki), [Asia Diving Vacation – Sangalaki](https://asiadivingvacation.com/diving/sangalaki-island). Last updated 2026-06-27.*
+*Sources: [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Asia Dive Site – Sangalaki](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/sangalaki.php), [Maratua.com – Sangalaki](https://www.maratua.com/en/nearby-islands/sangalaki), [Asia Diving Vacation – Sangalaki](https://asiadivingvacation.com/diving/sangalaki-island). Last updated 2026-08-28.*

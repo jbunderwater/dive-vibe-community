@@ -17,7 +17,7 @@ Puncher's Paradise is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Puncher's Paradise is a vibrant reef site along the West Bay corridor known for its healthy coral coverage and frequent marine life encounters. Southern stingrays are regularly spotted gliding over the sandy patches between coral heads, and sea turtles make frequent appearances throughout the dive. The coral here is in notably good condition, supporting populations of porcupinefish, parrotfish, and other reef dwellers. Visibility typically ranges from 20-30 meters with warm Caribbean water temperatures of 26-29 degrees Celsius.
+Puncher's Paradise is a reef site along the West Bay corridor listed by Splash Inn Dive Resort, known for healthy coral coverage. No site-specific published description of marine life was found beyond the general listing. Regional West Bay reef fauna can be expected, but no site-specific sightings have been confirmed.
 
 ## Site Information
 
@@ -36,4 +36,4 @@ The site offers a gentle reef terrain suitable for relaxed exploration. Begin yo
 The colorful reef structures offer excellent macro photography opportunities. Look for small critters hiding among coral heads and anemones. Wide-angle shots work well to capture the vibrant reef landscape and schooling fish.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/). Last updated 2026-08-28.*

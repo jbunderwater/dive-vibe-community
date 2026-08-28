@@ -17,7 +17,7 @@ Fish Den is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Fish Den lives up to its name as a site where the reef structure concentrates an unusual density of fish life in a relatively compact area. Located in the Half Moon Bay corridor at a beginner-friendly 15 meters, the site features coral heads and rocky formations that create den-like recesses packed with squirrelfish, glass-eye snappers, and grunts during the day. Schools of smallmouth grunts stack up in the shadows of larger formations, their yellow stripes creating a distinctive pattern. The sandy areas between coral heads are productive territory for jawfish and razorfish, and the overall fish density makes this one of the more rewarding shallow dives in the corridor for those who enjoy cataloguing species.
+Fish Den is a named reef site listed by Coconut Tree Divers and Sun Divers Roatan, at a beginner-friendly 15 meters. The name suggests a site known for concentrated fish life among its coral and rocky formations, but no site-specific published description of the marine life actually seen here was found. Regional Half Moon Bay reef fauna can be expected, but no site-specific sightings have been confirmed.
 
 ## Site Information
 
@@ -36,4 +36,4 @@ The site offers a gentle reef terrain suitable for relaxed exploration. Begin yo
 The colorful reef structures offer excellent macro photography opportunities. Look for small critters hiding among coral heads and anemones. Wide-angle shots work well to capture the vibrant reef landscape and schooling fish.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [Sun Divers Roatan – Roatan Diving](https://sundiversroatan.com/roatan-diving/). Last updated 2026-08-28.*

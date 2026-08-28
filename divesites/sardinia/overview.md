@@ -8,7 +8,7 @@ Mediterranean caves, dramatic caverns, and historic shipwrecks in crystal-clear 
 
 ## Description
 
-Sardinia is a notable diving destination in the Europe region, offering diverse dive sites with depths ranging from 25 to 25 meters. Water temperatures average 10-25°C (50-77°F), with visibility typically reaching 10-40 meters (30-130 feet). The diving season runs May to October, with the best conditions during May to October.
+Sardinia is a notable diving destination in the Europe region, offering diverse dive sites with depths ranging from about 7 to 40 meters across its cataloged sites. Water temperatures average 10-25°C (50-77°F), with visibility typically reaching 10-40 meters (30-130 feet). The diving season runs May to October.
 
 ### Diving Opportunities
 

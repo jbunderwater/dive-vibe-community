@@ -17,7 +17,7 @@ Shallow El Aquario is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Shallow El Aquario is the upper section of the El Aquario dive site, where the reef flat offers easy, calm diving before the deeper site's 150-foot vertical wall transitions to a 45-degree slope below. In the shallows, large groupers move confidently among the coral heads, accustomed to divers, and sea turtles graze on the algae-covered surfaces. This section is perfect for new divers and snorkelers who want to experience the marine life density of the West End without committing to the deeper wall. Juvenile fish use the coral thickets as nursery habitat, and the diversity of small reef species here can keep a patient observer busy for an entire dive.
+Shallow El Aquario is the upper section of the El Aquario dive site, where the reef flat offers easier, calmer diving above the deeper site's wall. Listed by Roatan Divers as a drift site connected to Blue Channel, it suits new divers who want shallower West End reef diving. No site-specific published description of marine life was found. Regional West End reef fauna can be expected, but no site-specific sightings have been confirmed.
 
 ## Site Information
 
@@ -36,4 +36,4 @@ The site offers a gentle reef terrain suitable for relaxed exploration. Begin yo
 The colorful reef structures offer excellent macro photography opportunities. Look for small critters hiding among coral heads and anemones. Wide-angle shots work well to capture the vibrant reef landscape and schooling fish.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Roatan Divers – Best Dive Sites in Roatan](https://roatandivers.com/blog/the-best-dive-sites-in-roatan). Last updated 2026-08-28.*

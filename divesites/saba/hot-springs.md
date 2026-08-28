@@ -61,4 +61,4 @@ The volcanic vents produce striking visual distortion in photos — the heat shi
 - PADI Dive Site: padi.com/dive-site/saba/hot-springs
 
 ---
-*Sources: [Sea Saba Dive Center — Hot Springs](https://www.seasaba.com/saba-16-hot-springs), [PADI — Hot Springs Saba](https://www.padi.com/dive-site/saba/hot-springs/), [Endless Caribbean — Saba Scuba Diving](https://www.endlesscaribbean.com/saba-scuba-diving/), [Funseaker — Saba Diving Guide](https://www.funseaker.com/sea-news/saba-diving-caribbean-guide). Last updated 2026-06-27.*
+*Sources: [Sea Saba Dive Center — Hot Springs](https://www.seasaba.com/saba-16-hot-springs), [PADI — Hot Springs Saba](https://www.padi.com/dive-site/saba/hot-springs/), [Endless Caribbean — Saba Scuba Diving](https://www.endlesscaribbean.com/saba-scuba-diving/), [Funseaker — Saba Diving Guide](https://www.funseaker.com/sea-news/saba-diving-caribbean-guide). Last updated 2026-08-28.*

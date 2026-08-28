@@ -17,7 +17,7 @@ The shallowest and most marine-life-rich of the German light cruisers — the on
 
 ## Overview
 
-SMS Karlsruhe was a Königsberg-class light cruiser laid down on 5 May 1915 at Kaiserliche Werft Kiel, launched 31 January 1916, and commissioned in November 1916. She measured 151.4 metres in length, displaced 5,440 tonnes normally and 7,125 tonnes at full load, and was armed with eight 15 cm guns. She is the only Königsberg-class cruiser successfully scuttled at Scapa Flow — sister ships SMS Nürnberg and SMS Emden were beached by the British before they could sink.
+SMS Karlsruhe was a Königsberg-class light cruiser laid down on 5 May 1915 at Kaiserliche Werft Kiel, launched 31 January 1916, and commissioned 15 November 1916. Wikipedia and the Königsberg-class specification give her length as 151.4 metres; scapaflowwrecks.com's dive guide states 112 metres — sources disagree, and 151.4 m (the commissioning-specification figure, corroborated across two independent references) is used here. She displaced 5,440 tonnes normally and 7,125 tonnes at full load, and was armed with eight 15 cm guns, two 8.8 cm AA guns, and four torpedo tubes. Unusually for her class she was fitted with high-pressure geared turbines rather than standard steam turbines, reaching 27.7 knots on trials. She is the only Königsberg-class cruiser successfully scuttled at Scapa Flow — sister ships SMS Nürnberg and SMS Emden were beached by the British before they could sink.
 
 Karlsruhe was scuttled on 21 June 1919 at 15:50, one of the last of the German cruisers to go down. She lies on her starboard side, making her the shallowest of the four light cruisers in Scapa Flow at a maximum depth of 25 metres. Unlike the other cruisers, the Karlsruhe was salvaged in situ — blasted by explosives with only high-value components lifted — leaving her the most structurally broken-up of the four remaining cruisers. This has paradoxically resulted in the most prolific and varied marine life of any Fleet wreck, as the exposed machinery and blasted structure provide extensive colonisation surfaces. Two massive anchors with chains at the bow, two 5.9-inch forward deck guns, an armoured control tower, 12 boilers with exposed steam pipes, and a single massive rudder remain identifiable. Divers can spend upwards of 40 minutes per dive exploring the wreck.
 
@@ -35,10 +35,10 @@ Karlsruhe was scuttled on 21 June 1919 at 15:50, one of the last of the German c
 
 ## Wreck History
 
-- **Built**: Kaiserliche Werft Kiel; laid down 5 May 1915, launched 31 January 1916, commissioned November 1916
+- **Built**: Kaiserliche Werft Kiel; laid down 5 May 1915, launched 31 January 1916, commissioned 15 November 1916
 - **Class**: Königsberg-class light cruiser (1915 variant)
 - **Displacement**: 5,440 tonnes standard; 7,125 tonnes full load
-- **Length**: 151.4 metres
+- **Length**: 151.4 metres (Wikipedia/class specification); scapaflowwrecks.com dive guide states 112 metres — sources disagree
 - **Armament**: Eight 15 cm SK L/45 guns, two 8.8 cm AA guns, four torpedo tubes, 200 mines
 - **Distinction**: Only Königsberg-class cruiser successfully scuttled at Scapa Flow
 - **Scuttled**: 21 June 1919 at 15:50 — one of the last cruisers to sink
@@ -46,7 +46,7 @@ Karlsruhe was scuttled on 21 June 1919 at 15:50, one of the last of the German c
 
 ## Marine Life
 
-SMS Karlsruhe supports the most prolific cold-water invertebrate community of any Fleet wreck. The blasting during in-situ salvage exposed more surface area to current and light than the other cruisers, accelerating colonisation. Plumose anemones in dense orange and white clusters cover every available surface. Dead man's fingers corals form extensive soft coral gardens. Edible crabs, velvet swimming crabs, spider crabs, and lobsters are abundant. Conger eels are reliable residents of the hull spaces. Nudibranchs are found on encrusted surfaces. Large schools of saithe and pollack school above the wreck.
+The local dive operator's site-specific listing for the Karlsruhe names pollock, cod, ling, and conger among the fish life, with lobster and a range of crabs — edible, decorator, spider, and velvet — among the crustaceans, plus sea urchins and starfish. Plumose anemones, dead man's fingers, and king and queen scallops are also reported for this wreck specifically. The blasting during in-situ salvage exposed more surface area to current and light than the other cruisers, which local divers cite as a likely reason for the density of growth here.
 
 ## Dive Profile
 
@@ -70,7 +70,7 @@ At 25 metres, this is the most depth-accessible of the German fleet wrecks for s
 
 ## Photography
 
-The Karlsruhe offers Scapa Flow's best cold-water invertebrate photography on any Fleet wreck. Dense plumose anemone colonies and soft coral gardens provide extraordinary macro and wide-angle subjects. The 25-metre depth allows slightly more natural ambient light than the deeper sites. The exposed boiler room machinery is a distinctive industrial landscape. Nudibranchs, conger eels, and crabs provide varied portrait subjects throughout the dive.
+The Karlsruhe offers strong cold-water invertebrate photography among the Fleet wrecks. Plumose anemone colonies and dead man's fingers provide macro and wide-angle subjects. The 25-metre depth allows slightly more natural ambient light than the deeper sites. The exposed boiler room machinery is a distinctive industrial landscape. Conger eels and the site's varied crab species provide portrait subjects throughout the dive.
 
 ---
-*Sources: [SMS Karlsruhe Dive Guide — Scapa Flow Wrecks](https://www.scapaflowwrecks.com/wrecks/karlsruhe/diving.php), [SMS Karlsruhe — Wikipedia](https://en.wikipedia.org/wiki/SMS_Karlsruhe_(1916)), [SMS Karlsruhe — MV Invincible Scapa Flow](https://www.scapa-flow.co.uk/dive-site), [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/). Last updated 2026-06-29.*
+*Sources: [SMS Karlsruhe Dive Guide — Scapa Flow Wrecks](https://www.scapaflowwrecks.com/wrecks/karlsruhe/diving.php), [SMS Karlsruhe — Wikipedia](https://en.wikipedia.org/wiki/SMS_Karlsruhe_(1916)), [SMS Karlsruhe — MV Invincible Scapa Flow](https://www.scapa-flow.co.uk/dive-site/7-S.M.S.-Karlsruhe), [Königsberg-class cruiser (1915) — Wikipedia](https://en.wikipedia.org/wiki/K%C3%B6nigsberg-class_cruiser_(1915)), [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/). Re-audited and last updated 2026-08-28.*

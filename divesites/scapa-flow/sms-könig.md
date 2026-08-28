@@ -46,7 +46,7 @@ Today, König lies completely inverted on a sandy floor, with the hull rising to
 
 ## Marine Life
 
-Schools of pollack are commonly seen at the descent line. Cod, ling, and conger inhabit sheltered areas of the hull. Lobster, edible crab, velvet swimming crab, scallops, squat lobster, starfish, and anemones encrust the wreck structure. As the least-visited of the three battleships, marine life is described as abundant relative to the König and Markgraf.
+The local dive operator's site-specific listing for the König names small shoaling fish, pollock, and cod among the fish life, with lobster, edible crab, and velvet crabs, king and queen scallops, and squat lobster among the crustaceans, plus sea urchins, starfish, plumose anemones, and dead man's fingers. Ling and conger are also reported for this wreck. As one of the less-visited of the three battleships, marine life here is described by operators as particularly abundant.
 
 ## Safety
 
@@ -64,4 +64,4 @@ Diving SMS König requires Advanced certification minimum. Depth reaches 40 m, a
 - **Best Time**: May–October
 
 ---
-*Sources: [SMS König — Scapa Flow Wrecks](https://www.scapaflowwrecks.com/wrecks/konig/), [S.M.S. König — MV Invincible Scapa Flow](https://www.scapa-flow.co.uk/dive-site/2-S.M.S.-Konig), [SMS König — Wikipedia](https://en.wikipedia.org/wiki/SMS_K%C3%B6nig), [Scuttling of the German Fleet at Scapa Flow — Wikipedia](https://en.wikipedia.org/wiki/Scuttling_of_the_German_fleet_at_Scapa_Flow). Last updated 2026-06-29.*
+*Sources: [SMS König — Scapa Flow Wrecks](https://www.scapaflowwrecks.com/wrecks/konig/), [S.M.S. König — MV Invincible Scapa Flow](https://www.scapa-flow.co.uk/dive-site/2-S.M.S.-Konig), [SMS König — Wikipedia](https://en.wikipedia.org/wiki/SMS_K%C3%B6nig), [Scuttling of the German Fleet at Scapa Flow — Wikipedia](https://en.wikipedia.org/wiki/Scuttling_of_the_German_fleet_at_Scapa_Flow). Re-audited and last updated 2026-08-28.*

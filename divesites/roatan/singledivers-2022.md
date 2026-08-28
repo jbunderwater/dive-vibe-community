@@ -17,7 +17,7 @@ Singledivers 2022 is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Singledivers 2022 is the second Roatan Marine Park mooring site donated by the singledivers.com community, positioned in the shallows to the east of the West Bay channel. At 12 meters maximum depth, the site offers a relaxed shallow reef experience with coral formations and sandy areas that support a range of Caribbean reef species. Turtles, stingrays, and schools of blue tangs and sergeant majors are commonly seen here. The protected shallow location means conditions are typically calm with visibility averaging 20-30 meters.
+Singledivers 2022 is the sixth Roatan Marine Park mooring site donated by the singledivers.com community, positioned in shallow water east of the West Bay channel. At 12 meters maximum depth, the site offers a relaxed shallow reef experience with coral formations and sandy areas. Roatan Marine Park's records confirm the site name, donor, and general location, but no site-specific published description of marine life was found. The protected shallow location means conditions are typically calm; regional reef fauna can be expected, but no site-specific sightings have been confirmed.
 
 ## Site Information
 
@@ -36,4 +36,4 @@ The site offers a gentle reef terrain suitable for relaxed exploration. Begin yo
 The colorful reef structures offer excellent macro photography opportunities. Look for small critters hiding among coral heads and anemones. Wide-angle shots work well to capture the vibrant reef landscape and schooling fish.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Roatan Marine Park](https://www.roatanmarinepark.org/marine-infrastructure). Last updated 2026-08-28.*

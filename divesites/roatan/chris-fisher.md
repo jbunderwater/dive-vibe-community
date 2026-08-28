@@ -17,7 +17,7 @@ Chris Fisher is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Chris Fisher belongs to the Roatan Marine Park's network of named mooring sites along the West Bay reef, funded through the park's conservation program. While site-specific details are not widely available, the reef in this area features a gradual slope with healthy coral structures and sandy intervals reaching 15 meters depth. Trumpetfish hover near sea fans, parrotfish graze on the coral, and sea turtles glide between the formations. Caribbean conditions deliver 20-30 meters of visibility and water temperatures of 26-29 degrees Celsius throughout the year.
+Chris Fisher is a named reef site listed by Roatan Divers along the West Bay reef corridor, reaching 15 meters depth. No site-specific published description of marine life was found. Regional West Bay reef fauna can be expected, but no site-specific sightings have been confirmed.
 
 ## Site Information
 
@@ -36,4 +36,4 @@ The site offers a gentle reef terrain suitable for relaxed exploration. Begin yo
 The colorful reef structures offer excellent macro photography opportunities. Look for small critters hiding among coral heads and anemones. Wide-angle shots work well to capture the vibrant reef landscape and schooling fish.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Roatan Divers – Best Dive Sites in Roatan](https://roatandivers.com/blog/the-best-dive-sites-in-roatan). Last updated 2026-08-28.*
