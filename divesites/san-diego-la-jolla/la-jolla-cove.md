@@ -2,7 +2,7 @@
 name: La Jolla Cove
 lat: 32.8508
 lng: -117.2726
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 15
 entryType: shore
 siteType: reef
@@ -21,12 +21,16 @@ La Jolla Cove sits within the Matlahuayl State Marine Reserve, giving it legal p
 
 Calm morning conditions — before sea breezes pick up — offer the best visibility and the easiest entry. The sandy entry beach slopes gently into the water.
 
+**On difficulty rating**: Local dive shops and guides frequently describe La Jolla Cove as approachable, and it is genuinely one of San Diego's calmer, more sheltered sites relative to the region's boat-access wrecks and the adjacent submarine canyon. However, water here is cold year-round (13–19°C/55–66°F, colder at depth), and this destination's data-quality standard applies a minimum Intermediate rating to all cold-water sites regardless of how sheltered they are — thermal protection, buoyancy control in a wetsuit or drysuit, and comfort in reduced-visibility conditions are still required, even for a site widely used for local certification dives.
+
+The Cove sits within the Matlahuayl State Marine Reserve, a no-take zone established in January 2012 under California's Marine Life Protection Act, itself nested within the older San Diego-La Jolla Underwater Park Ecological Reserve established by the City of San Diego in 1970-71.
+
 ## Site Information
 
 - **Location**: La Jolla Cove, San Diego (32°51'01.9"N 117°16'21.4"W) — at the foot of Coast Blvd, La Jolla
 - **Entry Type**: Shore entry
 - **Site Type**: Reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Water Temperature**: 15–19°C (59–66°F) year-round; 5–7mm wetsuit recommended
 
@@ -49,4 +53,6 @@ The Seven Caves are sandstone sea caves accessible by kayak from above and by di
 Enter from the small sandy beach at the base of the stairs. Descend along the reef slope in 3–6 metres before working deeper. Early morning dives (before 9am) typically offer the best conditions: calmer water, better visibility, and more sea lion activity. Plan dives for 60+ minutes in the 5–15 metre range. Surge is minimal on calm days; during swell, conditions can be challenging even for intermediate divers.
 
 ---
-*Sources: [La Jolla Cove Scuba Diving Guide — Dive California](https://divecalifornia.com/la-jolla-cove-scuba-diving/), [La Jolla Cove: A Guide for Scuba Divers — San Diego Scuba Guide](https://sandiegoscubaguide.com/2022/04/28/la-jolla-cove-a-guide-for-scuba-divers/), [La Jolla Cove — San Diego Dive Sites](https://www.sddivesites.com/la-jolla-cove.html), [Diving La Jolla — Waterhorse Charters](https://www.waterhorsecharters.com/la-jolla/). Last updated 2026-06-27.*
+*Sources: [La Jolla Cove Scuba Diving Guide — Dive California](https://divecalifornia.com/la-jolla-cove-scuba-diving/), [La Jolla Cove: A Guide for Scuba Divers — San Diego Scuba Guide](https://sandiegoscubaguide.com/2022/04/28/la-jolla-cove-a-guide-for-scuba-divers/), [La Jolla Cove — San Diego Dive Sites](https://www.sddivesites.com/la-jolla-cove.html), [Diving La Jolla — Waterhorse Charters](https://www.waterhorsecharters.com/la-jolla/). Last updated 2026-08-28.*
+
+**Re-audit (2026-08-28):** Difficulty corrected from Beginner to Intermediate per the project's cold-water minimum-difficulty policy (see note above). Marine life, MPA status, and site geography reconfirmed accurate against current sources; no other changes required.

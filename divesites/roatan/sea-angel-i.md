@@ -30,4 +30,4 @@ No published information about this wreck's history, vessel type, dimensions, or
 **Previous description note:** An earlier version of this page contained a detailed description of marine life and site conditions written from regional inference rather than site-specific research. That content has been removed. No site-specific sources were found to support any specific claims about this wreck.
 
 ---
-*Description based on OpenStreetMap data. No site-specific sources found. Last updated 2026-06-27.*
+*Description based on OpenStreetMap data. No site-specific sources found. Last updated 2026-08-28.*

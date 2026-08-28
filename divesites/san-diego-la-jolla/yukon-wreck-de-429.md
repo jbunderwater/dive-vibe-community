@@ -37,4 +37,8 @@ This entry was added by the `gap_fill` process and appears to be either:
 Pending removal or replacement, this entry describes the general area off Point Loma where dive coordinates place it. The Point Loma area features kelp forest diving (boat access required) to approximately 15–30 metres over rocky reef. This is not a wreck site.
 
 ---
-*Description based on gap-fill addition. No site-specific sources found for "Yukon Wreck (DE-429)" — this appears to be a fabricated or misidentified entry. See QA notes above. Last reviewed 2026-06-27.*
+*Description based on gap-fill addition. No site-specific sources found for "Yukon Wreck (DE-429)" — this appears to be a fabricated or misidentified entry. See QA notes above. Last reviewed 2026-08-28.*
+
+## Re-audit (2026-08-28)
+
+A fresh web search for `"Yukon Wreck" "DE-429" San Diego` again returned zero results describing a distinct vessel or dive site under this designation — all results resolve to HMCS Yukon (DDE 263) material, and search summaries explicitly note DE-429 does not correspond to any known San Diego wreck. The unresolved flag and `validated: false` status are retained. This entry still needs human review for removal or replacement.

@@ -26,10 +26,10 @@ Before sinking, the ship was prepared with extensive diver-safety modifications:
 ## Site Information
 
 - **Location**: Wreck Alley, approximately 2 miles west of Mission Beach, San Diego
-- **Entry Type**: Boat dive (charter from Mission Bay)
-- **Site Type**: Wreck
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 metres (100 feet); top of wreck at approximately 18 metres (60 feet)
+- **Maximum Depth**: 30 meters
 - **Water Temperature**: 15–19°C (59–66°F); hood and gloves required
 
 ## Key Features

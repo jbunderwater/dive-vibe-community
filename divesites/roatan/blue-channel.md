@@ -32,7 +32,9 @@ Blue Channel is a tidal cut through the northern reef system of Roatán that cre
 
 ## Marine Life
 
-The tidal current through Blue Channel concentrates filter feeders — sea fans and sea whips are dense along the channel walls, fully extended to catch food particles in the flow. Schools of creole wrasse and Bermuda chub station themselves in the current, facing into the flow. Spotted eagle rays glide through the passage using the tidal flow. Southern stingrays rest on sandy sections between patches of reef. Nurse sharks shelter in the calmer areas flanking the main channel current. Reef sharks are occasionally spotted passing through. The current brings nutrient-rich water that supports a vibrant invertebrate community on the channel walls.
+The tidal current through Blue Channel concentrates filter feeders — sea fans and sea whips are dense along the channel walls, fully extended to catch food particles in the flow. Eagle rays and southern stingrays are regularly reported moving through the passage, and upside-down jellyfish are seen in the calmer, sandy sections. Silverside schools gather in the swim-throughs, occasionally drawing bait-ball activity. Nudibranchs, seahorses, hermit crabs, and flounders are reported by dive operators working the channel's macro side.
+
+*Note: An earlier version of this page stated that nurse sharks and reef sharks are seen in Blue Channel. That claim could not be confirmed against current dive-operator sources for this site and has been removed.*
 
 ## Dive Profile
 
@@ -59,4 +61,4 @@ The current in Blue Channel is the primary safety consideration. Drift diving re
 Drift dive photography is dynamic — compositions come to you rather than you positioning for them. Keep your camera ready and shoot continuously as subjects pass. Sea fans fully extended in the current make vivid wide-angle subjects. Fish schools stationing in the flow photograph well from a slight downstream angle. The challenge is stabilizing your camera in the flow — brace lightly against the channel wall edge.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Sun Divers Roatan – Roatan Diving](https://sundiversroatan.com/roatan-diving/), [Roatan Divers – Best Dive Sites in Roatan](https://roatandivers.com/blog/the-best-dive-sites-in-roatan), [Clearwater Adventures – Dive Sites](https://roatanclearwater.com/dive-sites/). Last updated 2026-08-28.*

@@ -138,9 +138,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "divessi.com, scubaboard_research",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "validation_source": "divessi.com",
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 1 real source(s) confirmed (divessi.com). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -175,8 +175,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
       "validation_source": "roatanmarinepark.org",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 1 real source(s) confirmed (roatanmarinepark.org). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -228,9 +228,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "scubaboard_research, vimeo.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "validation_source": "vimeo.com,diveadvisor.com",
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 2 real source(s) confirmed (vimeo.com, diveadvisor.com). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -245,10 +245,10 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "scubaboard_research, padi.com, dive_operator_sites",
+      "validation_source": "padi.com,roatandivers.com,sundiversroatan.com",
       "coordinate_source": "rmp_gps_map_2026",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: ['dive_operator_sites']"
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 3 real source(s) confirmed (padi.com, roatandivers.com, sundiversroatan.com)."
     }
   },
   {
@@ -300,9 +300,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "roatansplashinn.com, scubaboard_research",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "validation_source": "roatansplashinn.com",
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 1 real source(s) confirmed (roatansplashinn.com). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -318,7 +318,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, roatansplashinn.com"
+      "validation_source": "coconuttreedivers.com,roatansplashinn.com",
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 2 real source(s) confirmed (coconuttreedivers.com, roatansplashinn.com). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -352,8 +354,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, sundiversroatan.com, roatandivers.com",
-      "last_qa_date": "2026-06-27"
+      "validation_source": "coconuttreedivers.com,sundiversroatan.com,roatandivers.com",
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 3 real source(s) confirmed (coconuttreedivers.com, sundiversroatan.com, roatandivers.com)."
     }
   },
   {
@@ -531,9 +534,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "roatan-diving.com, scubaboard_research",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "validation_source": "roatan-diving.com",
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 1 real source(s) confirmed (roatan-diving.com). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -586,8 +589,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
       "validation_source": "roatanmarinepark.org",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 1 real source(s) confirmed (roatanmarinepark.org). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -603,7 +606,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, roatansplashinn.com"
+      "validation_source": "coconuttreedivers.com,roatansplashinn.com",
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 2 real source(s) confirmed (coconuttreedivers.com, roatansplashinn.com). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -728,8 +733,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
       "validation_source": "roatanclearwater.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 1 real source(s) confirmed (roatanclearwater.com). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -763,7 +768,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, sundiversroatan.com"
+      "validation_source": "coconuttreedivers.com,sundiversroatan.com,roatan-diving.com",
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 3 real source(s) confirmed (coconuttreedivers.com, sundiversroatan.com, roatan-diving.com)."
     }
   },
   {
@@ -779,7 +786,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, roatansplashinn.com"
+      "validation_source": "coconuttreedivers.com,roatansplashinn.com",
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 2 real source(s) confirmed (coconuttreedivers.com, roatansplashinn.com). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -814,8 +823,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
       "validation_source": "roatanmarinepark.org",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 1 real source(s) confirmed (roatanmarinepark.org). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -939,8 +948,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, sundiversroatan.com, roatan-octopusdiveschool.com",
-      "last_qa_date": "2026-06-27"
+      "validation_source": "coconuttreedivers.com,sundiversroatan.com,roatan-octopusdiveschool.com",
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 3 real source(s) confirmed (coconuttreedivers.com, sundiversroatan.com, roatan-octopusdiveschool.com)."
     }
   },
   {
@@ -974,7 +984,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "sundiversroatan.com, roatandivers.com"
+      "validation_source": "sundiversroatan.com,roatandivers.com,roatanclearwater.com",
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 3 real source(s) confirmed (sundiversroatan.com, roatandivers.com, roatanclearwater.com)."
     }
   },
   {
@@ -1081,8 +1093,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
       "validation_source": "roatanmarinepark.org",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 1 real source(s) confirmed (roatanmarinepark.org). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -1171,8 +1183,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
       "validation_source": "roatandivers.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 1 real source(s) confirmed (roatandivers.com). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -1242,8 +1254,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
       "validation_source": "roatanmarinepark.org",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 1 real source(s) confirmed (roatanmarinepark.org). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -1404,8 +1416,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
       "validation_source": "roatandivers.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 1 real source(s) confirmed (roatandivers.com). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -1510,8 +1522,10 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, roatandivers.com",
-      "coordinate_source": "rmp_gps_map_2026"
+      "validation_source": "coconuttreedivers.com,roatandivers.com,sundiversroatan.com",
+      "coordinate_source": "rmp_gps_map_2026",
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 3 real source(s) confirmed (coconuttreedivers.com, roatandivers.com, sundiversroatan.com)."
     }
   },
   {
@@ -1527,7 +1541,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, roatandivers.com"
+      "validation_source": "coconuttreedivers.com,roatandivers.com,sundiversroatan.com",
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 3 real source(s) confirmed (coconuttreedivers.com, roatandivers.com, sundiversroatan.com)."
     }
   },
   {
@@ -1543,7 +1559,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, roatandivers.com"
+      "validation_source": "coconuttreedivers.com,roatandivers.com",
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 2 real source(s) confirmed (coconuttreedivers.com, roatandivers.com). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -1578,8 +1596,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
       "validation_source": "roatandivers.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 1 real source(s) confirmed (roatandivers.com). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -1739,7 +1757,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, roatansplashinn.com"
+      "validation_source": "coconuttreedivers.com,roatansplashinn.com,roatan-diving.com,roatanclearwater.com",
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 4 real source(s) confirmed (coconuttreedivers.com, roatansplashinn.com, roatan-diving.com, roatanclearwater.com)."
     }
   },
   {
@@ -1826,9 +1846,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "roatan-diving.com, dive_operator_sites, sundiversroatan",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: ['dive_operator_sites']"
+      "validation_source": "roatan-diving.com,sundiversroatan.com,roatandivers.com,roatanclearwater.com",
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 4 real source(s) confirmed (roatan-diving.com, sundiversroatan.com, roatandivers.com, roatanclearwater.com)."
     }
   },
   {
@@ -1880,7 +1900,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, sundiversroatan.com"
+      "validation_source": "coconuttreedivers.com,sundiversroatan.com",
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 2 real source(s) confirmed (coconuttreedivers.com, sundiversroatan.com). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -1933,8 +1955,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
       "validation_source": "roatandivers.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 1 real source(s) confirmed (roatandivers.com). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -2147,10 +2169,10 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "roatansplashinn.com, dive_operator_sites, ikelite.com",
+      "validation_source": "roatansplashinn.com,roatan-octopusdiveschool.com,roatanclearwater.com,ikelite.com",
       "coordinate_source": "rmp_gps_map_2026",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 2 real source(s) but <3 required for full validation. Pseudo-sources: ['dive_operator_sites']"
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 4 real source(s) confirmed (roatansplashinn.com, roatan-octopusdiveschool.com, roatanclearwater.com, ikelite.com)."
     }
   },
   {
@@ -2220,7 +2242,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, roatan-octopusdiveschool.com"
+      "validation_source": "coconuttreedivers.com,roatan-octopusdiveschool.com",
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 2 real source(s) confirmed (coconuttreedivers.com, roatan-octopusdiveschool.com). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -2237,8 +2261,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
       "validation_source": "coconuttreedivers.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 1 real source(s) confirmed (coconuttreedivers.com). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -2271,9 +2295,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "roatansplashinn.com, dive_operator_sites, scuba_diving_guides",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: ['dive_operator_sites']"
+      "validation_source": "roatansplashinn.com,roatandivers.com",
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 2 real source(s) confirmed (roatansplashinn.com, roatandivers.com). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -2326,8 +2350,8 @@
       "validated": true,
       "validation_source": "roatansplashinn.com,anthonyskey.com,dreamwrecks.com,reefgliders.com,honduras.greatestdivesites.com",
       "coordinate_source": "rmp_gps_map_2026",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Vessel is 75m/230ft cargo vessel (not 50m shrimp boat). Three sections confirmed by 4 sources. Depth ~33m bottom, mast ~15m."
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 5 sources re-checked (roatansplashinn.com, anthonyskey.com, dreamwrecks.com, reefgliders.com, honduras.greatestdivesites.com). Facts unchanged: 75m/230ft cargo vessel, sunk 1997, broken into 3 sections by Hurricane Mitch 1998, depth ~33m."
     }
   },
   {
@@ -2344,8 +2368,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
       "validation_source": "roatansplashinn.com,anthonyskey.com,dreamwrecks.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Alternate mooring for El Aguila complex (75m/230ft cargo vessel, not 220ft). See El Aguila Wreck entry."
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 3 sources re-checked (roatansplashinn.com, anthonyskey.com, dreamwrecks.com). Alternate mooring on El Aguila complex, facts unchanged."
     }
   },
   {
@@ -2380,8 +2404,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": false,
       "validation_source": "scubaboard_research, roatan_dive_operators",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: scubaboard_research, roatan_dive_operators"
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-checked 2026-08-28: still no site-specific published source distinct from the main El Aguila wreck complex. Remains unvalidated."
     }
   },
   {
@@ -2487,9 +2511,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "makarl.wordpress.com, scubaboard_research",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "validation_source": "makarl.wordpress.com",
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 1 real source(s) confirmed (makarl.wordpress.com). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -2559,7 +2583,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "sundiversroatan.com, roatanmarinepark.org"
+      "validation_source": "sundiversroatan.com,roatanmarinepark.org",
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 2 real source(s) confirmed (sundiversroatan.com, roatanmarinepark.org). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -2576,8 +2602,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
       "validation_source": "roatanmarinepark.org",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 1 real source(s) confirmed (roatanmarinepark.org). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -2630,8 +2656,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
       "validation_source": "roatandivers.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 1 real source(s) confirmed (roatandivers.com). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -2647,8 +2673,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, roatan-octopusdiveschool.com, roatandivers.com",
-      "last_qa_date": "2026-06-27"
+      "validation_source": "coconuttreedivers.com,roatan-octopusdiveschool.com,roatandivers.com",
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 3 real source(s) confirmed (coconuttreedivers.com, roatan-octopusdiveschool.com, roatandivers.com)."
     }
   },
   {
@@ -2719,8 +2746,8 @@
       "validated": true,
       "validation_source": "roatansplashinn.com,roatan-diving.com,sundiversroatan.com",
       "coordinate_source": "rmp_gps_map_2026",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Site is cavern/chimney chute (120ft chute at 50ft depth into circular cavern at 30ft). Nurse shark claim removed - not confirmed at this site. Confirmed marine life: spotted drum, glassy sweepers, crabs, lobsters, nudibranchs."
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 3 real source(s) confirmed (roatansplashinn.com, roatan-diving.com, sundiversroatan.com)."
     }
   },
   {
@@ -2755,8 +2782,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
       "validation_source": "roatanmarinepark.org",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 1 real source(s) confirmed (roatanmarinepark.org). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -2826,9 +2853,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "scubaboard_research, roatansplashinn.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "validation_source": "roatansplashinn.com",
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 1 real source(s) confirmed (roatansplashinn.com). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -2879,9 +2906,10 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, roatan-octopusdiveschool.com, roatandivers.com",
+      "validation_source": "coconuttreedivers.com,roatan-octopusdiveschool.com,roatandivers.com",
       "coordinate_source": "rmp_gps_map_2026",
-      "last_qa_date": "2026-06-27"
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 3 real source(s) confirmed (coconuttreedivers.com, roatan-octopusdiveschool.com, roatandivers.com)."
     }
   },
   {
@@ -2934,8 +2962,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
       "validation_source": "roatanmarinepark.org",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 1 real source(s) confirmed (roatanmarinepark.org). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -3077,8 +3105,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
       "validation_source": "roatanmarinepark.org",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 1 real source(s) confirmed (roatanmarinepark.org). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -3201,9 +3229,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "scubaboard_research, roatan-diving.com, dive_operator_sites",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: ['dive_operator_sites']"
+      "validation_source": "roatan-diving.com,sundiversroatan.com,bayislands360.com",
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: upgraded from 1 real source to 3 (roatan-diving.com, sundiversroatan.com, bayislands360.com); dropped placeholder pseudo-sources scubaboard_research/dive_operator_sites. Removed unconfirmed Caribbean reef shark and nurse shark claims from markdown; added depth-range note (33-36m across sources)."
     }
   },
   {
@@ -3292,8 +3320,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": false,
       "validation_source": "rmp_gps_only_no_published_source",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "No published information found in any source. Asian origin claim removed - unverified speculation."
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-checked 2026-08-28: no published information found in any source (WebSearch for vessel name + Roatan wreck). Remains unvalidated."
     }
   },
   {
@@ -3328,8 +3356,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
       "validation_source": "roatanmarinepark.org",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 1 real source(s) confirmed (roatanmarinepark.org). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -3418,8 +3446,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
       "validation_source": "roatansplashinn.com,roatantourismbureau.com,dreamwrecks.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "91m/300ft freighter confirmed. Stern tilted to starboard. Cargo hold collapsed."
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 3 sources re-checked (roatansplashinn.com, roatantourismbureau.com, dreamwrecks.com). Facts unchanged: 91m/300ft freighter, sunk 2002 after fire, stern tilted starboard."
     }
   },
   {
@@ -3436,8 +3464,8 @@
       "validated": true,
       "validation_source": "roatansplashinn.com,roatantourismbureau.com,dreamwrecks.com,anthonyskey.com,sundiversroatan.com",
       "coordinate_source": "rmp_gps_map_2026",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Vessel is 91m/300ft freighter (not 73m container ship). Sunk 2002 after fire. Cargo hold has partially collapsed."
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 5 sources re-checked (roatansplashinn.com, roatantourismbureau.com, dreamwrecks.com, anthonyskey.com, sundiversroatan.com). Facts unchanged: 91m/300ft freighter, sunk Nov 15 2002 after engine-room fire, donated by Hybur Limited."
     }
   },
   {
@@ -3490,8 +3518,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
       "validation_source": "roatanmarinepark.org",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 1 real source(s) confirmed (roatanmarinepark.org). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -3587,8 +3615,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "openstreetmap_only_no_published_source",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "No published information found. Marine life description was regional inference, removed."
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-checked 2026-08-28: no published information found beyond the OSM record. Remains unvalidated."
     }
   },
   {
@@ -3749,8 +3777,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": false,
       "validation_source": "rmp_gps_only_no_published_source",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "No published information found as a named wreck dive. Military vessel claim removed - unverified speculation."
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-checked 2026-08-28: no published information found as a named wreck dive. Remains unvalidated."
     }
   },
   {
@@ -3767,8 +3795,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": false,
       "validation_source": "rmp_gps_only_no_published_source",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "No published information found. Argentine registry claim removed - unverified speculation."
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-checked 2026-08-28: no published information found. Remains unvalidated."
     }
   },
   {
@@ -3783,9 +3811,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "roatan-diving.com, dive_operator_sites, divescover",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: ['dive_operator_sites']"
+      "validation_source": "roatan-diving.com,roatandivers.com,roatan-octopusdiveschool.com",
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 3 real source(s) confirmed (roatan-diving.com, roatandivers.com, roatan-octopusdiveschool.com)."
     }
   },
   {
@@ -3838,8 +3866,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
       "validation_source": "roatanmarinepark.org",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 1 real source(s) confirmed (roatanmarinepark.org). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -3902,8 +3930,8 @@
       "addedBy": "extended_overpass",
       "validated": true,
       "validation_source": "roatantourismbureau.com,payamag.com,shipspotting.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Beached in Dixon Cove 1981, NOT an underwater dive wreck. 107m long, built 1951 Germany as Rimon for Zim Lines. Prince of Wales claim removed - no documentary basis."
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 3 sources re-checked (roatantourismbureau.com, payamag.com, shipspotting.com). Facts unchanged: 107m, built 1951 Germany as Rimon, beached Dixon Cove 1981 (not an underwater dive wreck)."
     }
   },
   {
@@ -4277,7 +4305,9 @@
       "coordinate_source": "rmp_canonical_kml_2026_03",
       "validated": false,
       "validation_source": "rmp_canonical_kml_only",
-      "depth_inferred_from_name": false
+      "depth_inferred_from_name": false,
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-checked 2026-08-28: no published information found for a wreck at this location (RMP canonical KML only). Remains unvalidated."
     }
   },
   {
@@ -4551,8 +4581,8 @@
       "validation_source": "roatan-diving.com",
       "depth_inferred_from_name": false,
       "validated_at": "2026-04-19",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 1 real source(s) confirmed (roatan-diving.com). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -4877,8 +4907,8 @@
       "validation_source": "sundiversroatan.com",
       "depth_inferred_from_name": false,
       "validated_at": "2026-04-19",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 1 real source(s) confirmed (sundiversroatan.com). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {
@@ -5934,8 +5964,8 @@
       "validation_source": "cocoviewresort.com",
       "depth_inferred_from_name": false,
       "validated_at": "2026-04-19",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-08-28",
+      "qa_note": "Re-audit 2026-08-28: 1 real source(s) confirmed (cocoviewresort.com). Below 3-source bar; validated left as-is per policy, flagged in QA summary."
     }
   },
   {

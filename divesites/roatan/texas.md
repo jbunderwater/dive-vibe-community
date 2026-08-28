@@ -32,7 +32,9 @@ Texas is a reef dive site on the south coast of Roatán, positioned between the 
 
 ## Marine Life
 
-Texas has impressive hard coral coverage that supports a dense fish community. Large Nassau groupers — benefiting from Roatán's dive-only zone protections — are seen here in good numbers. Hawksbill turtles are common, often seen feeding directly on sponges growing in the reef flats. Southern stingrays glide across the sandy corridors between coral sections. Eagle rays appear seasonally. Schools of yellowtail snappers hover above the coral structures. Horse-eye jacks patrol the water column. Spotted drums shelter beneath coral overhangs. The sandy channels are productive hunting grounds for spotted moray eels. Flamingo tongues feed actively on sea fans in the shallower sections.
+Texas has impressive hard coral coverage that supports a dense fish community, and dive operators note it as the only spot on the island where sargassum triggerfish are reliably seen. Horse-eye jacks and crevalle jacks patrol the water column, often in numbers when current is running. Black grouper and yellowfin grouper hold station near the reef structure. Schools of creole wrasse move over the coral. Spotted eagle rays and turtles are regularly reported, and barracuda are drawn in by the current along the reef edge.
+
+*Note: An earlier version of this page named Nassau grouper, southern stingrays, yellowtail snappers, spotted drums, and flamingo tongues at this site. None of these could be confirmed against current dive-operator sources specific to Texas and have been removed; the grouper species actually reported here are black and yellowfin grouper.*
 
 ## Dive Profile
 
@@ -46,7 +48,7 @@ Served by West End, West Bay, and French Harbour operators. Mooring at the site.
 
 - Walk the sandy channels between coral formations slowly to spot stingrays, moray eels, and spotted scorpionfish camouflaged against the sand
 - The larger brain coral and star coral formations are home to cleaning stations — look for parrotfish or groupers hovering at unusual angles being serviced
-- Texas works well as a two-dive day combined with the adjacent Butcher Bank (offshore) for a contrasting pelagic experience
+- Texas works well as a two-dive day combined with nearby Butcher Bank for a contrasting macro/critter experience
 - This site is excellent for underwater naturalist observation — the broad, undisturbed reef allows long observations of natural behavior
 - Bring a macro attachment lens for the sea fan section at the shallower end of the reef
 
@@ -59,4 +61,4 @@ Manageable intermediate dive. Current can run across the reef flat on occasions 
 Texas is a versatile reef photography site. The broad, flat reef in good light conditions allows wide-angle reef landscapes with sweeping coral formations. Turtle portraits in the open reef are well-lit and spacious. The sandy channels offer excellent stingray and eagle ray shots in clear, bright conditions. Macro subjects include flamingo tongues, Christmas tree worms, and small gobies on sponge surfaces.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Roatan Divers – Best Dive Sites in Roatan](https://roatandivers.com/blog/the-best-dive-sites-in-roatan), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-08-28.*

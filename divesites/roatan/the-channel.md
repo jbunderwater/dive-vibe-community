@@ -26,4 +26,4 @@ A popular, relatively easy channel dive around 30 ft (9 m) deep, frequented by m
 *Sources: [roatan-diving.com](https://roatan-diving.com). Last updated 2026-04-19.*
 
 ---
-*Sources: [Roatan Marine Park canonical mooring map](https://www.google.com/maps/d/u/0/viewer?mid=1VAAlEKHNYaqEzG1-mQVxQSmVTYVjdyfA), [roatan-diving.com](https://roatan-diving.com). Last updated 2026-04-19.*
+*Sources: [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites). Last updated 2026-08-28.*

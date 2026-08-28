@@ -28,4 +28,4 @@ El Aguila Shallow covers the shallowest section of the El Aguila wreck complex, 
 - **Maximum Depth**: 4 meters
 
 ---
-*Description based on Roatan Marine Park GPS data and south-wall reef characteristics. No site-specific published sources found for this site. Last updated 2026-06-27.*
+*Description based on Roatan Marine Park GPS data and south-wall reef characteristics. No site-specific published sources found for this site. Last updated 2026-08-28.*
