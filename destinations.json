@@ -3957,5 +3957,51 @@
     "countryCode": "US",
     "parentSlug": "us",
     "overviewFile": "overview.md"
+  },
+  {
+    "name": "Crystal River & Rainbow River",
+    "slug": "crystal-river",
+    "region": "North America",
+    "center": [
+      28.98,
+      -82.51
+    ],
+    "bounds": [
+      [
+        28.8,
+        -82.65
+      ],
+      [
+        29.2,
+        -82.35
+      ]
+    ],
+    "description": "Spring-fed snorkeling and diving on Florida's Nature Coast, centered on Crystal River / Kings Bay — the only place in the US where the public may legally enter the water with wild manatees in season (Nov-Mar) — plus the exceptionally clear Rainbow River near Dunnellon.",
+    "countryCode": "US",
+    "parentSlug": "us",
+    "overviewFile": "overview.md"
+  },
+  {
+    "name": "Venice Beach",
+    "slug": "venice-beach",
+    "region": "North America",
+    "center": [
+      27.02,
+      -82.44
+    ],
+    "bounds": [
+      [
+        26.85,
+        -82.55
+      ],
+      [
+        27.2,
+        -82.3
+      ]
+    ],
+    "description": "The self-proclaimed 'Shark Tooth Capital of the World' on Florida's Sarasota County Gulf Coast, where fossilized shark teeth (including megalodon) erode out of the offshore Peace River Formation and wash up on beaches or concentrate in an ancient submerged riverbed reachable by boat.",
+    "countryCode": "US",
+    "parentSlug": "us",
+    "overviewFile": "overview.md"
   }
 ]

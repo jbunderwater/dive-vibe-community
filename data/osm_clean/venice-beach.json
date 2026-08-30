@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Caspersen Beach",
+    "lat": 27.057233,
+    "lon": -82.442700,
+    "depth": 2,
+    "site_type": "beach",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {"source": "curated_research", "notes": "A largely undeveloped, ~2.5-mile county park beach (4100 Harbor Dr S, Venice) south of downtown Venice, widely cited across independent sources as the single best free shark-tooth beach in the area. Rocky, less-trafficked shoreline with thick black-sand/shell lines that concentrate fossils; best hunting is in the surf zone and between the beach and first sandbar, especially at low tide and after storms. Reported finds (well-corroborated across sources): sand, lemon, mako, bull, and whitetip shark teeth, plus occasional megalodon teeth.", "validation_source": "mustdo.com,visitflorida.com,fossilguy.com,sarasota.fish"}
+  },
+  {
+    "name": "Brohard Beach (North Brohard Paw Park)",
+    "lat": 27.0745,
+    "lon": -82.4503,
+    "depth": 1,
+    "site_type": "beach",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {"source": "curated_research", "notes": "COORDINATE FLAG: interpolated from the street address (1400 Harbor Dr S), not independently geocoded - treat as approximate. Venice's only dog-friendly beach, immediately north of the Venice Fishing Pier area. Shark teeth wash up mixed with shells, more easily found after storms or at low tide. One source explicitly notes unpredictable rip currents here (distinct from calmer conditions at Caspersen) - worth noting for less experienced waders/snorkelers.", "validation_source": "venicegov.com,locallifehomes.com"}
+  },
+  {
+    "name": "South Brohard Park",
+    "lat": 27.068,
+    "lon": -82.448,
+    "depth": 4.5,
+    "site_type": "beach",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {"source": "curated_research", "notes": "COORDINATE FLAG: approximate - source addresses for this park conflicted (1900 vs 2782 Harbor Dr S), not independently geocoded. A day-use park (separate from the dog-friendly North Brohard/Paw Park) offering shore access to a placed limestone-block artificial reef (~15ft deep, ~50yd past the sandbar heading 250 degrees from the south boardwalk) and a coquina reef, plus a black-sand fossil zone further out (~250yd, heading 300 degrees). A detailed first-hand trip report rated this site not recommended for beginners, given long swims with heavy collection bags. Reported finds: mammal fossils, shark teeth, mammoth bone/tusk fragments, horse/llama teeth, alligator and turtle fossils - single trip-report source for the specific species list.", "validation_source": "scubaboard.com"}
+  },
+  {
+    "name": "Venice Fishing Pier (Sharky's Beach)",
+    "lat": 27.073216,
+    "lon": -82.449724,
+    "depth": 5,
+    "site_type": "beach",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {"source": "curated_research", "notes": "The area around the Venice Fishing Pier and adjacent Sharky's restaurant/pavilion (1600 Harbor Dr S), split into north and south sections by divers. Broken shell and black sand bottom reported at depth (~15-18ft, roughly 150yd offshore past a shallow sandbar). ACCESS NOTE: divers must stay more than 100 yards from the pier itself when scuba diving, per a local diver's account of Sheriff's Department enforcement - verify current local rules before diving here.", "validation_source": "scubaboard.com"}
+  },
+  {
+    "name": "Service Club Park",
+    "lat": 27.076,
+    "lon": -82.451,
+    "depth": 4.5,
+    "site_type": "beach",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {"source": "curated_research", "notes": "COORDINATE FLAG: interpolated from the street address (1190-1220 Harbor Dr S), not independently geocoded - treat as approximate. A community-built park (developed by local service clubs) with a boardwalk to the beach and paved parking. Multiple independent sources specifically cite this site for megalodon tooth discoveries on the sandy Gulf floor just offshore (~15ft deep, ~100yd out, heading 250 degrees from the boardwalk steps), with a 'culvert' artificial reef roughly 200yd farther out. Limited/small parking noted as a drawback.", "validation_source": "venicegov.com,scubaboard.com"}
+  },
+  {
+    "name": "Venice Beach (Main/North Public Beach)",
+    "lat": 27.09758,
+    "lon": -82.46225,
+    "depth": 5.8,
+    "site_type": "beach",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {"source": "curated_research", "notes": "Venice's main public beach near the historic downtown/lifeguard-tower area, north of the pier. DEPTH CONFLICT: an official PADI dive-site listing states a maximum depth of only 6ft/1.8m, while independent diver reviews describe a productive zone ~100yd offshore from the lifeguard tower at 16-21ft with a stated site maximum of 19ft/5.8m - both figures reported here rather than resolved. Widely reported as a productive shore-snorkel/dive fossil site with rocky reef structures and sand dollars offshore; one reviewer reported finding upwards of 60 teeth in a one-hour dive, some over 4 inches - single-source claim, not independently corroborated. Visibility reported poor and choppy-condition-dependent (roughly 5-15ft typical, occasionally 1-2ft). Boat traffic is a specifically noted hazard - use of a dive flag/buoy is advised.", "validation_source": "padi.com,zentacle.com"}
+  },
+  {
+    "name": "Manasota Beach",
+    "lat": 26.94028,
+    "lon": -82.36389,
+    "depth": 1,
+    "site_type": "beach",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {"source": "curated_research", "notes": "A Sarasota County park beach on Manasota Key (8570 Manasota Key Rd, Englewood), described as 'the gateway to the Shark Tooth Capital of the World.' Distinctive, well-corroborated detail: shark teeth are visibly embedded in the concrete of the beach's boardwalk/walkway itself, in addition to being found in the sand and shallow water via wading (knee to waist deep).", "validation_source": "fossilguy.com,locallifehomes.com"}
+  },
+  {
+    "name": "Blind Pass Beach",
+    "lat": 26.958539,
+    "lon": -82.382810,
+    "depth": 1.5,
+    "site_type": "beach",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {"source": "curated_research", "notes": "A quieter, less-developed county beach park (6725 Manasota Key Rd, Englewood) at the tidal cut ('pass') between Manasota Key and Palm Island. Tidal action through the pass is described as consistently depositing shells, sand dollars, and shark teeth along the shoreline; multiple sources note clearer, emerald-tinted water than average for the area.", "validation_source": "visitflorida.com,visitsarasota.com"}
+  },
+  {
+    "name": "Nokomis Beach",
+    "lat": 27.124,
+    "lon": -82.470,
+    "depth": 1,
+    "site_type": "beach",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {"source": "curated_research", "notes": "COORDINATE FLAG: approximate (Nokomis Beach Pavilion area) - not independently geocoded. A public beach on the southern portion of Casey Key, north of Venice proper. Multiple sources explicitly caveat that teeth here are smaller and less concentrated than at Venice-area beaches like Caspersen, though the less-crowded northern stretch (a short walk from the main access point) is reported as more productive than the immediate access area.", "validation_source": "locallifehomes.com,floridawanderers.com"}
+  },
+  {
+    "name": "The Boneyard",
+    "lat": 27.085,
+    "lon": -82.468,
+    "depth": 8,
+    "site_type": "muck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {"source": "curated_research", "notes": "COORDINATE FLAG: approximate only - based on one hobbyist-shared GPS post on a dive forum (charter operators reportedly keep exact coordinates private); treat as unverified/approximate. An ancient, submerged riverbed roughly half a mile to a mile offshore from the Venice/Alhambra area, running roughly parallel to the coast. Per Richard C. Hulbert Jr. (Florida Museum of Natural History), sediments here were deposited 3-10 million years ago when Florida's coastline extended much farther into the Gulf. The bone bed contains megalodon teeth (reported up to 7 inches) plus remains attributed to saber-toothed cats, Columbian mammoths, 'bear dogs,' American lions, gomphotheres, camels, and horses - the primary target for local dive charters seeking larger, better-preserved teeth than typically survive to the beach. Depth reported 25-35ft across sources, most consistently ~25-30ft. Soft-sediment anchor-dive site with little to no current per charter descriptions (not a true current-driven drift site).", "validation_source": "floridatrend.com,scubaboard.com"}
+  }
+]
