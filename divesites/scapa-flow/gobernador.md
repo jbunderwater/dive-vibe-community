@@ -44,12 +44,13 @@ The Gobernador is described as one of the best-preserved blockships in Scapa Flo
 - **Renamed**: Gobernador Bories, 1906, for Sociede Ballenera Magallanes, Punta Arenas, Chile
 - **Service**: Whaling ship based near Cape Horn
 - **Acquired by Admiralty**: 1914, for use as blockship
-- **Sunk**: Burra Sound, 12 October 1914 — one of the earliest Scapa Flow blockships
-- **Current orientation**: On keel, slight list to starboard; seabed at 17.3 metres
+- **Sunk**: Burra Sound, 12 October 1914 (most sources; at least one secondary source cites 1915 — 1914 is the better-attested date, confirmed independently by Canmore/Historic Environment Scotland and divernet.com) — one of the earliest Scapa Flow blockships
+- **Former name**: Reported as *Wordsworth* prior to her Chilean whaling career, per Scottish Shipwrecks and Canmore/Trove records
+- **Current orientation**: On keel, slight list to starboard; seabed at 17.3 metres. Scuttled off-target — she reportedly drifted with the current before sinking in deeper water than intended, reducing her effectiveness as a channel blocker
 
 ## Marine Life
 
-The strong tidal currents that make the Gobernador challenging to dive create its exceptional marine life density. Plumose anemones in white and orange colonies cover every available surface. Dead man's fingers (Alcyonium digitatum) are prolific across the hull. Conger eels, edible crabs, and velvet swimming crabs occupy the wreck interior and keel sections. Large schools of saithe move through the sound. Nudibranchs are present on encrusting surfaces for patient observers.
+The strong tidal current that makes the Gobernador demanding to dive is the same force behind its dense anemone cover: plumose anemones (Metridium senile) form white and orange-pink colonies over the hull, especially thick along the exposed ribs where the hull plating has fallen away. This anemone growth is the marine life detail specifically confirmed for this wreck in the sources reviewed. Broader Scapa Flow invertebrate and fish life (crabs, conger eels, schooling saithe) is plausible here given the tidal feeding conditions but is not independently confirmed for the Gobernador specifically.
 
 ## Dive Profile
 
@@ -76,4 +77,4 @@ Burra Sound diving is the most technically demanding diving in Scapa Flow due to
 The Gobernador's exceptional invertebrate coverage — denser than most German fleet wrecks due to stronger tidal feeding — creates outstanding cold-water photography opportunities. Plumose anemone colonies in the clear tidal water photograph brilliantly with a video light or strobe. The white sand seabed visible through gaps in the hull structure creates a distinctive backdrop. Pre-set all camera controls before the dive — the slack window leaves no time for adjustments underwater.
 
 ---
-*Sources: [Gobernador Bories Dive Guide — Divernet](https://divernet.com/scuba-diving/wreck-tours/wreck-tour-22-the-gobernador-bories/), [Gobernador Bories, Burra Sound — Canmore (Historic Environment Scotland)](https://canmore.org.uk/site/102319/gobernador-bories-burra-sound-orkney), [The Blockships — Scottish Shipwrecks](https://www.scottishshipwrecks.com/the-blockships/), [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/). Last updated 2026-06-29.*
+*Sources: [Gobernador Bories Dive Guide — Divernet](https://divernet.com/scuba-diving/wreck-tours/wreck-tour-22-the-gobernador-bories/), [Gobernador Bories, Burra Sound — Canmore (Historic Environment Scotland)](https://canmore.org.uk/site/102319/gobernador-bories-burra-sound-orkney), [Gobernador Bories — Trove Scotland](https://www.trove.scot/place/102319), [The Blockships — Scottish Shipwrecks](https://www.scottishshipwrecks.com/the-blockships/), [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/). Re-audited and last updated 2026-09-04. Note: divernet.com returned an automated-access error (403) during this re-audit pass and could not be independently re-fetched; its previously recorded facts were cross-checked and corroborated against Canmore, Trove and Scottish Shipwrecks instead.*

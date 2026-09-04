@@ -61,7 +61,7 @@ The undulating reefscape provides unusual composition opportunities — shooting
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-09-04
 
 ---
-*Sources: [Scuba Junkie Sangalaki – Top Dive Sites Derawan](https://www.scubajunkiesangalaki.com/top-dive-sites-in-the-derawan/), [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Asia Dive Site – Sangalaki](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/sangalaki.php). Last updated 2026-06-27.*
+*Sources: [Scuba Junkie Sangalaki – Top Dive Sites Derawan](https://www.scubajunkiesangalaki.com/top-dive-sites-in-the-derawan/), [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Asia Dive Site – Sangalaki](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/sangalaki.php). Last updated 2026-09-04.*

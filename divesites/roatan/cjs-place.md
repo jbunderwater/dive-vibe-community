@@ -11,21 +11,25 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Cj's Place
+# Cj's Place
 
-Cj's Place is a wall dive site in Roatán, Caribbean.
+*No site-specific published source was found for Cj's Place despite targeted research today, including Roatan Marine Park's donor-naming blog posts and multiple dive-shop site listings for the area.*
 
 ## Overview
 
-CJ's Place is a Roatan Marine Park memorial mooring dedicated to CJ Simmons, who passed away at the age of 24. The site sits along the Sandy Bay wall, where the reef crest gives way to a vertical drop-off decorated with tube sponges, sea fans, and encrusting corals. Creole wrasse and chromis hover above the wall edge, while moray eels and lobsters shelter in crevices below. Visibility typically ranges from 20 to 40 meters, with water temperatures between 26 and 29 degrees Celsius.
+No site-specific published source was found for Cj's Place despite targeted research today, including Roatan Marine Park's donor-naming blog posts and multiple dive-shop site listings for the area. A previous version of this page included specific details (an alternate name, a precise visibility figure, or similar) that could not be traced to any source and have been removed rather than repeated. This entry is left unvalidated; treat its site type, depth and difficulty as provisional pending a confirming source.
 
 ## Site Information
 
-- **Location**: Roatán, Caribbean
+- **Location**: Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
 
+## Marine Life
+
+No site-specific marine-life source was found for Cj's Place. Roatán's regional reef fauna (Caribbean reef fish, occasional rays and turtles) may apply, but no confirmed site-specific sightings are reported here.
+
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-09-04.*

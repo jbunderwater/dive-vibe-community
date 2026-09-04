@@ -11,29 +11,25 @@ osmId: null
 addedBy: osm_import
 ---
 
-## The Chief's Quarters
+# The Chief's Quarters
 
-The Chief's Quarters is a reef dive site in Roatán, Caribbean.
+*The Chief's Quarters is a training-friendly site a short boat ride from West End shops, with a shallow sand patch gradually deepening to a wall drop-off — Roatan Clearwater Adventures lists a range of roughly 6-27 meters (20-90 feet).*
 
 ## Overview
 
-The Chief's Quarters is a memorial dive site dedicated to Richard "The Chief" Canaan, a 22-year US Navy veteran who was deeply connected to Roatan's diving community. The site serves as an active coral restoration project, with over 340 fragments of elkhorn and staghorn coral planted here as part of reef recovery efforts. Hawksbill turtles frequent the area, drawn to the growing coral structures, and the site has become popular for night dives where bioluminescence can be observed in the water column. At 15 meters maximum depth, it offers a meaningful dive that combines conservation with memorable underwater encounters.
+The Chief's Quarters is a training-friendly site a short boat ride from West End shops, with a shallow sand patch gradually deepening to a wall drop-off — Roatan Clearwater Adventures lists a range of roughly 6-27 meters (20-90 feet). It is used both for certification dives and as a night dive site.
 
 ## Site Information
 
-- **Location**: Roatán, Caribbean
+- **Location**: Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 
-## Dive Profile
+## Marine Life
 
-The site offers a gentle reef terrain suitable for relaxed exploration. Begin your dive along the reef top and navigate through coral formations and sandy patches. The most abundant marine life is typically found between 5-18 meters. Take your time to explore cleaning stations and look for camouflaged creatures in the sand.
-
-## Photography
-
-The colorful reef structures offer excellent macro photography opportunities. Look for small critters hiding among coral heads and anemones. Wide-angle shots work well to capture the vibrant reef landscape and schooling fish.
+No site-specific marine-life source was found for The Chief's Quarters. Roatán's regional reef fauna (Caribbean reef fish, occasional rays and turtles) may apply, but no confirmed site-specific sightings are reported here.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Roatan Clearwater Adventures – Dive Sites](https://roatanclearwater.com/dive-sites/), [Sun Divers Roatan – Roatan Diving](https://sundiversroatan.com/roatan-diving/), [Roatan Divers – Best Dive Sites in Roatan](https://roatandivers.com/blog/the-best-dive-sites-in-roatan). Last updated 2026-09-04.*

@@ -47,7 +47,7 @@ She participated in the Battle of Jutland before being interned at Scapa Flow. S
 
 ## Marine Life
 
-The Kronprinz Wilhelm's upturned hull supports typical Scapa Flow cold-water communities. Plumose anemones and dead man's fingers are prolific on exposed hull surfaces. The shallowest sections at 12 metres receive more natural light than the deeper battleships, resulting in more active encrusting growth. Conger eels, large edible crabs, and associated species are found throughout. Pollack and saithe are abundant in mid-water. Starfish, sea urchins, and squat lobsters are present across the hull.
+No site-specific marine-life report for the Kronprinz Wilhelm was found in this research pass (checked: scapaflowwrecks.com's wreck page and the scapa-flow.co.uk dive-site listing, neither of which names species for this wreck specifically). Scapa Flow's regional cold-water fauna — plumose anemones, dead man's fingers, conger eels, crabs, and schooling pollack — is present across the Fleet's other wrecks and likely applies here too, and the shallow 12-metre hull section would be expected to receive more light than the deeper battleships, but no diver or operator report naming species at this wreck specifically was located.
 
 ## Dive Profile
 
@@ -74,4 +74,4 @@ This is a protected scheduled monument under the Protection of Wrecks Act 1973. 
 The massive inverted hull rising from 38 metres to just 12 metres creates dramatic wide-angle compositions. The shallowest sections at 12 metres allow wider apertures with better natural light during summer dives. The visible 12-inch guns beneath the inverted hull are distinctive subjects. Prolific anemones, starfish, and sea urchins growing across the hull surfaces provide macro subjects at every depth.
 
 ---
-*Sources: [SMS Kronprinz Wilhelm — Scapa Flow Wrecks](https://www.scapaflowwrecks.com/wrecks/kronprinz/), [SMS Kronprinz (1914) — Wikipedia](https://en.wikipedia.org/wiki/SMS_Kronprinz_(1914)), [MV Invincible Scapa Flow](https://www.scapa-flow.co.uk/dive-site), [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/). Last updated 2026-06-29.*
+*Sources: [SMS Kronprinz Wilhelm — Scapa Flow Wrecks](https://www.scapaflowwrecks.com/wrecks/kronprinz/), [SMS Kronprinz (1914) — Wikipedia](https://en.wikipedia.org/wiki/SMS_Kronprinz_(1914)), [S.M.S. Kronprinz Wilhelm — MV Invincible Scapa Flow](https://www.scapa-flow.co.uk/dive-site/3-S.m.s.-Kronprinz-Wilhelm), [Best Dive Sites in Scapa Flow — Scuba Diver Life](https://scubadiverlife.com/best-dive-sites-scapa-flow/), [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/). Re-audited and last updated 2026-09-04.*

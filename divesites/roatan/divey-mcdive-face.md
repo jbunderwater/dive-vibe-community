@@ -11,21 +11,25 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Divey Mcdive Face
+# Divey Mcdive Face
 
-Divey Mcdive Face is a wall dive site in Roatán, Caribbean.
+*No site-specific published source was found for Divey Mcdive Face despite targeted research today, including Roatan Marine Park's donor-naming blog posts and multiple dive-shop site listings for the area.*
 
 ## Overview
 
-Divey McDive Face is a Roatan Marine Park mooring site near the Lawson Rock Channel in Sandy Bay. Dedicated by the Tepper family to their son Quinn, the whimsical name reflects the family-friendly spirit of the RMP's naming program. The site sits along the barrier reef wall where divers find healthy coral formations, barrel sponges, and gorgonian sea fans. Marine life in this area includes green sea turtles, eagle rays, groupers, and schools of creole wrasse. Visibility averages 20-40 meters with water temperatures of 26-29°C.
+No site-specific published source was found for Divey Mcdive Face despite targeted research today, including Roatan Marine Park's donor-naming blog posts and multiple dive-shop site listings for the area. A previous version of this page included specific details (an alternate name, a precise visibility figure, or similar) that could not be traced to any source and have been removed rather than repeated. This entry is left unvalidated; treat its site type, depth and difficulty as provisional pending a confirming source.
 
 ## Site Information
 
-- **Location**: Roatán, Caribbean
+- **Location**: Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
 
+## Marine Life
+
+No site-specific marine-life source was found for Divey Mcdive Face. Roatán's regional reef fauna (Caribbean reef fish, occasional rays and turtles) may apply, but no confirmed site-specific sightings are reported here.
+
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-09-04.*

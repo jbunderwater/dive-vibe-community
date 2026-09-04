@@ -28,4 +28,4 @@ Secca del Papa is widely regarded as one of the finest dive sites in the Mediter
 - **Maximum Depth**: 35 meters
 
 ---
-*Sources: [Tavolara Diving Center - Secca del Papa 1](https://www.tavolaradiving.it/en/secca-del-papa-1-en/), [CiaoSardinia - Diving Tavolara Secca del Papa](http://www.ciaosardinia.com/eng/sardinia/diving-snorkeling/tavolara/secca-del-papa), [PADI - Secca del Papa](https://www.padi.com/dive-site/italy/secca-del-papa-2/). Last updated 2026-06-29.*
+*Sources: [Tavolara Diving Center - Secca del Papa 1](https://www.tavolaradiving.it/en/secca-del-papa-1-en/), [CiaoSardinia - Diving Tavolara Secca del Papa](http://www.ciaosardinia.com/eng/sardinia/diving-snorkeling/tavolara/secca-del-papa), [PADI - Secca del Papa](https://www.padi.com/dive-site/italy/secca-del-papa-2/). Last updated 2026-09-04.*

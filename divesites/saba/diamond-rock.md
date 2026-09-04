@@ -17,7 +17,7 @@ An iconic above-water volcanic rock on Saba's northwest coast whose steep flanks
 
 ## Overview
 
-Diamond Rock is one of Saba's most recognisable dive sites — a volcanic rock formation that breaks the surface and is visible from shore, making it a landmark for navigating the island's northwest coast. Underwater, the rock's flanks descend in what ScubaBoard divers have described as "about as wall-like a dive as you'll see" — near-vertical faces densely encrusted with sponges, cup corals, and sea fans, sitting on a flat sandy bottom at 24 metres (80 feet). The site is classified as a pinnacle given that the structure rises from below the surface to above it, but the diving character is strongly wall-like on the steeper faces. A canyon on the northeast side allows divers to spiral upward in a natural ascent route. Diamond Rock sits in the Man O War Shoals zone (sites 6, 7, and 9 per Saba Park), along with Green Island and Man O War Shoals — all formed as extensions of the Torrens Point headland. The northwest position places it in the path of ocean swells and tidal flows that channel nutrient-rich water across the structure, driving the dense encrustation. Currents can be challenging here.
+Diamond Rock is one of Saba's most recognisable dive sites — a volcanic rock formation that breaks the surface and is visible from shore, making it a landmark for navigating the island's northwest coast. Underwater, the rock's flanks descend in what ScubaBoard divers have described as "about as wall-like a dive as you'll see" — near-vertical faces densely encrusted with sponges, cup corals, and sea fans, sitting on a flat sandy bottom at 24 metres (80 feet), a depth independently confirmed by PADI and by Joe's Scuba Shack. The site is classified as a pinnacle given that the structure rises from below the surface to above it, but the diving character is strongly wall-like on the steeper faces. Beyond the well-known canyon on the northeast side, which allows divers to spiral upward in a natural ascent route, PADI and Joe's Scuba Shack both independently describe the rock as riddled with additional swim-throughs, caverns, and tunnels. Diamond Rock sits in the Man O War Shoals zone (sites 6, 7, and 9 per Saba Park), along with Green Island and Man O War Shoals — all formed as extensions of the Torrens Point headland. The northwest position places it in the path of ocean swells and tidal flows that channel nutrient-rich water across the structure, driving the dense encrustation. Currents can be challenging here.
 
 ## Site Information
 
@@ -39,7 +39,7 @@ Sea Saba's site description for Diamond Rock confirms: southern stingrays on the
 
 ## Dive Profile
 
-The mooring is placed to access the upper structure at a shallow entry point. Divers typically circumnavigate the rock at their chosen depth, working the different faces for variety. The northeast canyon allows a natural spiral ascent — a distinctive feature of Diamond Rock. The sandy bottom at 24 metres makes a natural turnaround point; the south-facing and east-facing flanks tend to carry the heaviest encrustation. A full circumnavigation at 15–20 metres takes approximately 35–45 minutes. NDL at 20 metres allows approximately 50–60 minutes.
+The mooring is placed to access the upper structure at a shallow entry point. Divers typically circumnavigate the rock at their chosen depth, working the different faces for variety, and can detour through the swim-throughs and canyon passages that riddle the structure. The northeast canyon allows a natural spiral ascent — a distinctive feature of Diamond Rock. The sandy bottom at 24 metres makes a natural turnaround point; the south-facing and east-facing flanks tend to carry the heaviest encrustation. A full circumnavigation at 15–20 metres takes approximately 35–45 minutes. NDL at 20 metres allows approximately 50–60 minutes.
 
 ## Entry and Exit
 
@@ -60,8 +60,8 @@ The steep encrusted faces lend themselves to wide-angle photography at 15–20 m
 ## Additional Resources
 
 - Saba Conservation Foundation: sabapark.org — Diamond Rock is site #6 in the Man O War Shoals zone (sites 6, 7, 9)
-- Sea Saba: seasaba.com/saba-6-diamond-rock
+- Sea Saba: seasaba.com/dive-sites#wells-bay
 - Saba Divers: offer regular guided dives at Diamond Rock
 
 ---
-*Sources: [Sea Saba Dive Center — Diamond Rock](https://www.seasaba.com/saba-marine-park), [Saba Conservation Foundation — Dive Sites](https://sabapark.org/saba-national-marine-park/dive-sites-dive-operators/), [DAN Alert Diver — Diving in Saba](https://dan.org/alert-diver/article/diving-in-saba/), [Endless Caribbean — Saba Scuba Diving](https://www.endlesscaribbean.com/saba-scuba-diving/), [ScubaBoard — Saba Trip Report](https://scubaboard.com/community/threads/saba-trip-report.76861/). Last updated 2026-06-27.*
+*Sources: [Sea Saba Dive Center — Dive Sites (Wells Bay)](https://www.seasaba.com/dive-sites#wells-bay), [Saba Conservation Foundation — Dive Sites](https://sabapark.org/saba-national-marine-park/dive-sites-dive-operators/), [DAN Alert Diver — Diving in Saba](https://dan.org/alert-diver/article/diving-in-saba/), [PADI — Diamond Rock](https://www.padi.com/dive-site/saba/diamond-rock/), [Joe's Scuba Shack — Scuba Diving in Saba](https://myscubadivinggearguide.com/scuba-diving-in-saba/), [Endless Caribbean — Saba Scuba Diving](https://www.endlesscaribbean.com/saba-scuba-diving/), [ScubaBoard — Saba Trip Report](https://scubaboard.com/community/threads/saba-trip-report.76861/). Last updated 2026-09-04.*

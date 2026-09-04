@@ -11,21 +11,25 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Todd's Last Dance
+# Todd's Last Dance
 
-Todd's Last Dance is a wall dive site in Roatán, Caribbean.
+*No site-specific published source was found for Todd's Last Dance despite targeted research today, including Roatan Marine Park's donor-naming blog posts.*
 
 ## Overview
 
-Todd's Last Dance is a named mooring site within the Roatan Marine Park system, part of the conservation network that protects the West Bay reef corridor. Specific information about this individual location is limited, but the site sits on the reef shelf where coral formations and sandy areas create a varied seascape at depths to 18 meters. Blue tangs, yellowtail snapper, and parrotfish move among the corals while southern stingrays rest on the sandy bottom. Visibility averages 20-30 meters in the clear Caribbean water, with temperatures holding steady at 26-29 degrees Celsius.
+No site-specific published source was found for Todd's Last Dance despite targeted research today, including Roatan Marine Park's donor-naming blog posts. This entry is left unvalidated; treat its site type, depth and difficulty as provisional pending a confirming source.
 
 ## Site Information
 
-- **Location**: Roatán, Caribbean
+- **Location**: Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 
+## Marine Life
+
+No site-specific marine-life source was found for Todd's Last Dance. Roatán's regional reef fauna (Caribbean reef fish, occasional rays and turtles) may apply, but no confirmed site-specific sightings are reported here.
+
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-09-04.*

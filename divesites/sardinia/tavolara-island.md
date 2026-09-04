@@ -17,7 +17,7 @@ Tavolara Island is a reef dive site in Sardinia, Europe.
 
 ## Overview
 
-Tavolara Island sits at the heart of the Tavolara Punta Coda Cavallo Marine Protected Area, which covers 15,000 hectares of sea and 76 kilometres of coastline in northeastern Sardinia. The limestone and granite formations around the island shelter majestic dusky groupers, moray eels, barracuda, snappers, and clouds of damselfish in waters that have thrived since the area gained protection in the late 1990s. Diving is regulated across three zones with designated mooring buoys, and the area is managed across three zones with designated mooring buoys.
+Tavolara Island sits at the heart of the Tavolara Punta Coda Cavallo Marine Protected Area, established by ministerial decree on 12 December 1997 and covering approximately 15,000 hectares of sea along the coast of Olbia, Loiri Porto San Paolo, and San Teodoro (sources give coastline figures ranging from roughly 40 to 80 kilometres depending on how the boundary is measured, so we don't cite a single number here). The limestone and granite formations around the island shelter dusky groupers, moray eels, barracuda, and clouds of damselfish in waters that have thrived since the area gained protection. Diving is regulated across three zones (A, B, and C) with designated mooring buoys.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Tavolara Island sits at the heart of the Tavolara Punta Coda Cavallo Marine Prot
 - **Maximum Depth**: 25 meters
 
 ---
-*Sources: [Tavolara Diving Center - Marine Protected Area](https://www.tavolaradiving.it/en/marine-protected-area/), [Divessi - Tavolara MPA](https://www.divessi.com/en/mydiveguide/destination/Area-Marina-Protetta-di-Tavolara-9752351), [Porto San Paolo Dive Center](https://www.portospaolodiving.it/en/). Last updated 2026-06-29.*
+*Sources: [Tavolara Diving Center - Marine Protected Area](https://www.tavolaradiving.it/en/marine-protected-area/), [Divessi - Tavolara MPA](https://www.divessi.com/en/mydiveguide/destination/Area-Marina-Protetta-di-Tavolara-9752351), [SardegnaTurismo - Tavolara](https://www.sardegnaturismo.it/en/explore/tavolara). Last updated 2026-09-04.*

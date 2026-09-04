@@ -3,7 +3,7 @@ name: Dona Cleta
 lat: 16.270955
 lng: -86.602393
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 6
 entryType: boat
 siteType: wall
 ref: null
@@ -11,21 +11,25 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Dona Cleta
+# Dona Cleta
 
-Dona Cleta is a wall dive site in Roatán, Caribbean.
+*Doña Cleta, in West Bay close to Black Rock, is a Roatan Marine Park donor-named site at approximately 6 meters (20 feet) depth, per a Roatan Marine Park blog post.*
 
 ## Overview
 
-Dona Cleta forms part of the Roatan Marine Park's named dive site network on the West Bay reef, where conservation moorings protect the reef from anchor damage. While there is limited individual documentation for this site, it occupies the shallow reef platform between West End and West Bay at depths to 18 meters. Coral heads rise from sandy substrate, providing shelter for lobsters, moray eels, and a colorful array of reef fish including angelfish and butterflyfish. Visibility of 20-30 meters and 26-29 degree Celsius water temperatures are standard for this area.
+Doña Cleta, in West Bay close to Black Rock, is a Roatan Marine Park donor-named site at approximately 6 meters (20 feet) depth, per a Roatan Marine Park blog post.
 
 ## Site Information
 
-- **Location**: Roatán, Caribbean
+- **Location**: Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 6 meters
+
+## Marine Life
+
+No site-specific marine-life source was found for Dona Cleta. Roatán's regional reef fauna (Caribbean reef fish, occasional rays and turtles) may apply, but no confirmed site-specific sightings are reported here.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Roatan Marine Park – New Dive Sites in 2022](https://www.roatanmarinepark.org/post/new-dive-sites-in-2022). Last updated 2026-09-04.*

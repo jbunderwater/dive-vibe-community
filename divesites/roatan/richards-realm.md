@@ -11,21 +11,25 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Richard's Realm
+# Richard's Realm
 
-Richard's Realm is a wall dive site in Roatán, Caribbean.
+*Richard's Realm sits inside Spooky Channel (see that site's entry) and is a Roatan Marine Park donor-named site, dedicated by Gail Juppenlatz to her late husband, per two Roatan Marine Park blog posts.*
 
 ## Overview
 
-Richard's Realm is a Roatan Marine Park mooring site located within the Spooky Channel corridor in Sandy Bay. Named by Gail Juppenlatz in tribute to her late husband, it was one of 22 new dive sites added to the park in 2022. The site sits along the dramatic wall system near Spooky Channel, where ancient geological forces carved channels and swim-throughs into the reef. Divers can expect healthy coral formations with barrel sponges and sea fans adorning the wall, along with the toadfish, scorpionfish, and lettuce sea slugs typical of this area. Visibility averages 20-40 meters with water temperatures of 26-29°C year-round.
+Richard's Realm sits inside Spooky Channel (see that site's entry) and is a Roatan Marine Park donor-named site, dedicated by Gail Juppenlatz to her late husband, per two Roatan Marine Park blog posts.
 
 ## Site Information
 
-- **Location**: Roatán, Caribbean
+- **Location**: Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 27 meters
 
+## Marine Life
+
+No site-specific marine-life source was found for Richard's Realm. Roatán's regional reef fauna (Caribbean reef fish, occasional rays and turtles) may apply, but no confirmed site-specific sightings are reported here.
+
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Roatan Marine Park – New Dive Sites in 2022](https://www.roatanmarinepark.org/post/new-dive-sites-in-2022), [Roatan Marine Park – Dive Sites With Meaning](https://www.roatanmarinepark.org/post/dive-sites-with-meaning-stories). Last updated 2026-09-04.*

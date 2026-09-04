@@ -15,7 +15,7 @@ The Derawan Archipelago comprises 31 islands off East Kalimantan (Indonesian Bor
 - **Reef Diving**: Sites including Manta Run, Manta Avenue, Manta Parade, Coral Gardens, Turtle Town, Turtle Traffic, and North Sangalou, many featuring manta ray cleaning stations and turtle encounters
 - **Wall Diving**: Sites (Barracuda Point, Gorgonzola, Kelapa Dua) with dramatic drop-offs, gorgonian sea fans, and strong currents attracting large pelagics
 - **Drift Diving**: Site (Big Fish Country) off Maratua atoll with grey reef sharks, eagle rays, and schooling barracuda in strong currents
-- **Cave Diving**: Site (Blue Light Cave) at 65 meters depth off Kakaban, for experienced technical divers only
+- **Cave Diving**: Site (Blue Light Cave) off Kakaban, with a standard recreational exit at 44 meters (Advanced Open Water with deep-dive specialty) and a technical-only alternate exit at 64 meters
 - **Shore Diving**: Site (Kakaban Jellyfish Lake) for the unique experience of swimming among thousands of stingless jellyfish in a landlocked saltwater lake
 
 ### Accessibility
@@ -37,7 +37,7 @@ The Derawan Archipelago comprises 31 islands off East Kalimantan (Indonesian Bor
 - **Best Time to Visit**: March to October for the calmest seas. December to March brings plankton-rich waters that attract the highest concentrations of manta rays. Year-round diving is possible, though November to February can bring rougher seas and reduced visibility.
 - **Currency**: Indonesian Rupiah (IDR)
 - **Language**: Indonesian (Bahasa Indonesia) and Berau Malay locally
-- **Safety**: Manta sites are generally suitable for all levels, but wall and drift sites like Barracuda Point and Big Fish Country require advanced skills due to strong currents and depth. Blue Light Cave at 65 meters is strictly for technical divers. The remote island location means long evacuation times; the nearest hyperbaric chamber requires a boat-and-flight journey to Balikpapan.
+- **Safety**: Manta sites are generally suitable for all levels, but wall and drift sites like Barracuda Point and Big Fish Country require advanced skills due to strong currents and depth. Blue Light Cave's standard exit at 44 meters is advanced/deep-dive territory; its secondary 64-meter exit is strictly for technical divers. The remote island location means long evacuation times; the nearest hyperbaric chamber requires a boat-and-flight journey to Balikpapan.
 
 ---
-*Sources: [Liveaboard Indonesia - Derawan Islands](https://liveaboardindonesia.com/destinations/derawan-islands/), [Scuba Junkie Sangalaki - The Diving](https://www.scubajunkiesangalaki.com/the-diving/), [ZuBlu - Derawan, Sangalaki and Maratua](https://www.zubludiving.com/destination/indonesia/kalimantan/derawan-sangalaki-maratua), [Cruising Indonesia - Derawan Archipelago](https://cruisingindonesia.com/dive/derawan-archipelago/), [Starfish.ch - Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html). Last updated 2026-04-05.*
+*Sources: [Liveaboard Indonesia - Derawan Islands](https://liveaboardindonesia.com/destinations/derawan-islands/), [Scuba Junkie Sangalaki - The Diving](https://www.scubajunkiesangalaki.com/the-diving/), [ZuBlu - Derawan, Sangalaki and Maratua](https://www.zubludiving.com/destination/indonesia/kalimantan/derawan-sangalaki-maratua), [Cruising Indonesia - Derawan Archipelago](https://cruisingindonesia.com/dive/derawan-archipelago/), [Starfish.ch - Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html). Last updated 2026-09-04.*

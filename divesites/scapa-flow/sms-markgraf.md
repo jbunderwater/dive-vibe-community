@@ -46,7 +46,7 @@ The Markgraf now lies almost completely upturned on her starboard side, with the
 
 ## Marine Life
 
-The Markgraf's depth limits biological activity compared to shallower wrecks, but the cold-water community is still significant. Plumose anemones are established throughout the accessible hull surfaces. Large conger eels are resident in enclosed hull sections. Spider crabs and edible crabs are found across the wreck. Pollack and saithe use the dramatic bow section as a vertical reference point. The wreck rates 9/10 for marine life abundance according to local operators.
+The scapa-flow.co.uk operator listing's Wildlife section for the Markgraf reports: shoaling fish, pollock, occasional cod and poor-cod, ling, and conger; lobster, crab, velvet swimming crab, king and queen scallops, and squat lobster; sea urchins, starfish, and brittle stars; and plumose anemones with dead man's fingers throughout. This is a more extensive and better-attested list than the previous draft's generic invertebrate summary (which named unconfirmed "spider crabs" and a "9/10" abundance rating not found in the sources reviewed) — those items have been removed.
 
 ## Dive Profile
 
@@ -74,4 +74,4 @@ This is a protected scheduled monument under the Protection of Wrecks Act 1973. 
 The sheer bow rising from the seabed is one of the most photographed images in wreck diving worldwide. A wide-angle lens and powerful strobes are required to approach the scale of the bow. The twin stern rudders are slightly more manageable compositionally but equally impressive. These subjects reward a dedicated photography dive with no competing objectives. Powerful artificial lighting is mandatory — natural light at 45 metres in Scottish waters is negligible.
 
 ---
-*Sources: [SMS Markgraf Dive Guide — Scapa Flow Wrecks](https://www.scapaflowwrecks.com/wrecks/markgraf/diving.php), [SMS Markgraf — Wikipedia](https://en.wikipedia.org/wiki/SMS_Markgraf), [S.M.S. Markgraf — MV Invincible Scapa Flow](https://www.scapa-flow.co.uk/dive-site/1-S.M.S.-Markgarf), [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/). Last updated 2026-06-29.*
+*Sources: [SMS Markgraf Dive Guide — Scapa Flow Wrecks](https://www.scapaflowwrecks.com/wrecks/markgraf/diving.php), [SMS Markgraf — Wikipedia](https://en.wikipedia.org/wiki/SMS_Markgraf), [S.M.S. Markgraf — MV Invincible Scapa Flow](https://www.scapa-flow.co.uk/dive-site/1-S.M.S.-Markgarf), [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/). Re-audited and last updated 2026-09-04.*

@@ -11,21 +11,25 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Consuelo's
+# Consuelo's
 
-Consuelo's is a wall dive site in Roatán, Caribbean.
+*Consuelo's, in front of Lawson Rock, is a Roatan Marine Park donor-named site honoring a local dive master named Consuelo — one RMP post attributes the dedication generally, another specifically to Mary and David Casement.*
 
 ## Overview
 
-Consuelo's is a Roatan Marine Park mooring site located in front of Lawson Rock in Sandy Bay. Named by Mary and David Casement to honor their beloved Dive Master, it was added to the park's registry in 2022. The site sits along the barrier reef wall where healthy coral formations and sponge gardens create a vibrant underwater landscape. Divers in this area typically encounter eagle rays along the wall, green sea turtles on the reef top, and schools of creole wrasse in the blue water beyond. Visibility ranges from 20 to 40 meters.
+Consuelo's, in front of Lawson Rock, is a Roatan Marine Park donor-named site honoring a local dive master named Consuelo — one RMP post attributes the dedication generally, another specifically to Mary and David Casement.
 
 ## Site Information
 
-- **Location**: Roatán, Caribbean
+- **Location**: Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 27 meters
 
+## Marine Life
+
+No site-specific marine-life source was found for Consuelo's. Roatán's regional reef fauna (Caribbean reef fish, occasional rays and turtles) may apply, but no confirmed site-specific sightings are reported here.
+
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Roatan Marine Park – New Dive Sites in 2022](https://www.roatanmarinepark.org/post/new-dive-sites-in-2022), [Roatan Marine Park – Dive Sites With Meaning](https://www.roatanmarinepark.org/post/dive-sites-with-meaning-stories). Last updated 2026-09-04.*

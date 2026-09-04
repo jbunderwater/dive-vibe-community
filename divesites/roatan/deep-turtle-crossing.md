@@ -11,21 +11,25 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Deep Turtle Crossing
+# Deep Turtle Crossing
 
-Deep Turtle Crossing is a wall dive site in Roatán, Caribbean.
+*Turtle Crossing sits off the shore between West End and West Bay, near coral channels that lead to a wall drop-off.*
 
 ## Overview
 
-Deep Turtle Crossing extends from the second sandy plateau at around 14 meters down to the wall, which drops away to 36 meters and beyond. Coral channels from the shallows lead to the wall edge, where the reef gives way to a dramatic vertical drop reaching 36-45 meters. Turtles remain abundant at depth, joined by eels, lobsters, and a diverse community of reef fish including flounders and jawfish in the sandy areas. The wall section and greater depth earn this site an intermediate difficulty rating, with currents occasionally picking up along the drop-off.
+Turtle Crossing sits off the shore between West End and West Bay, near coral channels that lead to a wall drop-off. Splash Inn lists the site's plateaus spanning 6-45 meters; this 'Deep' mooring point accesses the lower end of that range, where the reef gives way to a wall reported by Roatan-Diving.com to drop to around 120 feet (36 meters).
 
 ## Site Information
 
-- **Location**: Roatán, Caribbean
+- **Location**: Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 36 meters
 
+## Marine Life
+
+Green sea turtles are the signature sighting the site is named for, per multiple West End operators; no further site-specific species list was confirmed.
+
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Sun Divers Roatan – Roatan Diving](https://sundiversroatan.com/roatan-diving/). Last updated 2026-09-04.*

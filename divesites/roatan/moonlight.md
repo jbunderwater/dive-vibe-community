@@ -11,21 +11,25 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Moonlight
+# Moonlight
 
-Moonlight is a wall dive site in Roatán, Caribbean.
+*Moonlight is a wall dive listed by Roatan Divers as suitable for Open Water certified divers, part of the West End wall system, sometimes combined with Dixies and Vern's Drop Off as an extended drift route.*
 
 ## Overview
 
-Moonlight forms part of a classic West End drift sequence that connects with Dixie's and Vern's Drop Off, allowing divers to travel along one of Roatan's longest continuous wall sections in a single dive. The wall here slopes into the abyss with overhangs and ledges where hawksbill turtles rest and nurse sharks tuck themselves into the shadows. Barrel sponges grow to impressive sizes along the wall face, and the drift current carries divers past fields of deepwater sea fans. When conditions align, the three-site drift offers a sustained journey through some of the West End's finest underwater scenery.
+Moonlight is a wall dive listed by Roatan Divers as suitable for Open Water certified divers, part of the West End wall system, sometimes combined with Dixies and Vern's Drop Off as an extended drift route.
 
 ## Site Information
 
-- **Location**: Roatán, Caribbean
+- **Location**: Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
 
+## Marine Life
+
+No site-specific marine-life source was found for Moonlight. Roatán's regional reef fauna (Caribbean reef fish, occasional rays and turtles) may apply, but no confirmed site-specific sightings are reported here.
+
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Roatan Divers – Best Dive Sites in Roatan](https://roatandivers.com/blog/the-best-dive-sites-in-roatan), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites). Last updated 2026-09-04.*

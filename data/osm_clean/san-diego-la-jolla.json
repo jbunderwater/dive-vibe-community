@@ -25,8 +25,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "en.wikipedia.org,lajollamom.com,hiddensandiego.com",
-      "last_qa_date": "2026-06-27",
-      "qa_notes": "Depth corrected from 20m to 6m — wreck lies in 1-6m of water, not 20m. The OSM node depth was erroneous. Mostly buried under sand."
+      "last_qa_date": "2026-09-04",
+      "qa_notes": "Depth corrected from 20m to 6m — wreck lies in 1-6m of water, not 20m. The OSM node depth was erroneous. Mostly buried under sand. RE-AUDIT 2026-09-04: re-pulled Wikipedia, La Jolla Mom, Hidden San Diego — all facts (build history as Old North State/McKittrick, 1932 casino conversion, New Year's Day 1937 grounding, shallow buried depth) reconfirmed unchanged. No corrections needed."
     }
   },
   {
@@ -54,8 +54,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "en.wikipedia.org,waterhorsecharters.com,lajolla.com",
-      "last_qa_date": "2026-06-27",
-      "qa_notes": "Sunken Harbor is the seafloor location name where HMCS Yukon was sunk. These coordinates are adjacent to the HMCS Yukon entry. The OSM node may refer to Wreck Alley complex generally. No separate named dive site 'Sunken Harbor' appears in published dive guides — it is the area designation, not an individual wreck."
+      "last_qa_date": "2026-09-04",
+      "qa_notes": "Sunken Harbor is the seafloor location name where HMCS Yukon was sunk. These coordinates are adjacent to the HMCS Yukon entry. The OSM node may refer to Wreck Alley complex generally. No separate named dive site 'Sunken Harbor' appears in published dive guides — it is the area designation, not an individual wreck. RE-AUDIT 2026-09-04: re-confirmed via fresh search — still no independent source lists 'Sunken Harbor' as a distinct dive site. Finding unchanged."
     }
   },
   {
@@ -85,9 +85,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "en.wikipedia.org,wreckedinmyrevo.com",
-      "last_qa_date": "2026-06-27",
-      "qa_notes": "Depth confirmed at 27m (90 fsw) per wreckedinmyrevo.com first-hand dive report. Site is a debris field, not an intact wreck — Navy demolition in 1945 and again in 1983 flattened most structure. Unexploded ordnance risk noted."
+      "validation_source": "en.wikipedia.org,wreckedinmyrevo.com,navsource.net",
+      "last_qa_date": "2026-09-04",
+      "qa_notes": "Depth confirmed at 27m (90 fsw) per wreckedinmyrevo.com first-hand dive report. Site is a debris field, not an intact wreck — Navy demolition in 1945 and again in 1983 flattened most structure. Unexploded ordnance risk noted. RE-AUDIT 2026-09-04: added navsource.net (official NavSource Naval History archive) as a 3rd independent source, satisfying the 3-source validation bar. NavSource cross-check surfaced a tonnage conflict: Wikipedia states 295 tons displacement while NavSource states 450 tons — both figures are plausible for a PC-461-class subchaser depending on whether standard or full-load displacement is meant, but neither source disambiguates. Flagged as a sourced conflict in the markdown rather than picking one number. All other facts (builder Albina Engine & Machine Works Portland OR, commissioned 20 April 1943, collision with USS Laffey 11 September 1945, November 1945 Navy demolition) reconfirmed across both sources."
     }
   },
   {
@@ -116,9 +116,9 @@
       "wreck:visible_at_low_tide": "no",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "en.wikipedia.org,sddivesites.com,sandiego.org,marissacharters.com",
-      "last_qa_date": "2026-06-27",
-      "qa_notes": "CRITICAL CORRECTIONS: (1) Pennant number corrected from DDE 265 to DDE 263 — DDE 265 does not exist in RCN records; Mackenzie-class: DDE 261 Mackenzie, DDE 262 Saskatchewan, DDE 263 Yukon, DDE 264 Qu'Appelle. (2) Difficulty upgraded from Intermediate to Advanced — at least 5 diver fatalities recorded per Wikipedia and sddivesites.com; site described as 'cold, confusing, deep, dark and surgy'. (3) Date sunk corrected from '15 July 2000' to '14 July 2000' per Wikipedia (sank prematurely on 14 July, not 15). (4) Wikipedia article title corrected from 'HMCS Yukon (DDE 263)' in link — was previously wrong in OSM tags."
+      "validation_source": "en.wikipedia.org,sddivesites.com,sandiego.org,marissacharters.com,wreckedinmyrevo.com",
+      "last_qa_date": "2026-09-04",
+      "qa_notes": "CRITICAL CORRECTIONS: (1) Pennant number corrected from DDE 265 to DDE 263 — DDE 265 does not exist in RCN records; Mackenzie-class: DDE 261 Mackenzie, DDE 262 Saskatchewan, DDE 263 Yukon, DDE 264 Qu'Appelle. (2) Difficulty upgraded from Intermediate to Advanced — at least 5 diver fatalities recorded per Wikipedia and sddivesites.com; site described as 'cold, confusing, deep, dark and surgy'. (3) Date sunk corrected from '15 July 2000' to '14 July 2000' per Wikipedia (sank prematurely on 14 July, not 15). (4) Wikipedia article title corrected from 'HMCS Yukon (DDE 263)' in link — was previously wrong in OSM tags. RE-AUDIT 2026-09-04: found and fixed a mismatch between this JSON tag and the markdown footer — the footer was missing marissacharters.com (confirmed live: marissacharters.com/scuba-san-diego-dive-sites/hmcs-yukon-wreck) and separately credited wreckedinmyrevo.com which wasn't in this tag. Both are legitimate, now listed in both places. Depth (30m/100ft, top at 18m/60ft), length (366ft/111.6m), sinking date (14 July 2000), and fatality count reconfirmed unchanged across all 5 sources."
     }
   },
   {
@@ -142,8 +142,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "cadivingnews.com,spearfactor.com,sandiegohistory.org",
-      "last_qa_date": "2026-06-27",
-      "qa_notes": "Depth corrected from 25m to 10m — published sources (California Diving News, Spearfactor) consistently describe the dive as 10-30ft (3-9m). The 25m figure was erroneous. Site is a shallow artificial reef dive along the jetty's rocky structure."
+      "last_qa_date": "2026-09-04",
+      "qa_notes": "Depth corrected from 25m to 10m — published sources (California Diving News, Spearfactor) consistently describe the dive as 10-30ft (3-9m). The 25m figure was erroneous. Site is a shallow artificial reef dive along the jetty's rocky structure. RE-AUDIT 2026-09-04: re-confirmed depth (10-30ft/3-9m) and jetty construction history (Army Corps of Engineers, 1890s-1904) via fresh search. Facts unchanged."
     }
   },
   {
@@ -170,9 +170,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "en.wikipedia.org,waterhorsecharters.com,lajolla.com,sddivesites.com",
-      "last_qa_date": "2026-06-27",
-      "qa_notes": "Difficulty upgraded from Intermediate to Advanced — the deepest and most complex wrecks (HMCS Yukon at 30m, Ruby E at 26m) require advanced planning. Some wrecks (NOSC Tower at 18m) are accessible to intermediate divers. Wrecks: HMCS Yukon (DDE 263) 30m, Ruby E (ex-USCG Cyane, 1934) 26m, El Rey (kelp harvester) 24m, NOSC Tower 18m, Ingraham Street Bridge 18m."
+      "validation_source": "en.wikipedia.org,waterhorsecharters.com,lajolla.com,sddivesites.com,ashunderwater.com,wreckedinmyrevo.com",
+      "last_qa_date": "2026-09-04",
+      "qa_notes": "Difficulty upgraded from Intermediate to Advanced — the deepest and most complex wrecks (HMCS Yukon at 30m, Ruby E at 26m) require advanced planning. Some wrecks (NOSC Tower at 18m) are accessible to intermediate divers. Wrecks: HMCS Yukon (DDE 263) 30m, Ruby E (ex-USCG Cyane, 1934) 26m, El Rey (kelp harvester) 23m, NOSC Tower 18m, Ingraham Street Bridge 18m. RE-AUDIT 2026-09-04: (1) El Rey depth corrected from 24m/80ft to 23m/75ft — ashunderwater.com and a cross-source aggregate both give 75ft; lajolla.com gives ~80ft, so a 75-80ft range is noted in the markdown. (2) El Rey years-of-service conflict found: Wikipedia and timesofsandiego.com say 35 years, lajolla.com says 41 years — flagged as a conflict rather than resolved. (3) Ruby E sinking date pinned to 18 July 1989 (specific time 3:30pm per ashunderwater.com) — previously only 'sunk 1989'. (4) Ruby E 'secret smuggling compartments delayed the sinking' detail, previously present in markdown, is now independently corroborated by ashunderwater.com (bulkhead compartments fore/aft of engine room) — added precise sourcing; one other source (wreckedinmyrevo.com, in a different article) calls the underlying smuggling story 'unverified family lore,' so the markdown notes that hedge. Added ashunderwater.com and wreckedinmyrevo.com to validation_source (now 6 domains)."
     }
   },
   {
@@ -182,14 +182,14 @@
     "depth": 15,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "divecalifornia.com,sandiegoscubaguide.com,sddivesites.com",
-      "last_qa_date": "2026-06-27",
-      "qa_notes": "Site type 'reef' confirmed correct — rocky reef with kelp forest. Not coral reef. Depth 15m confirmed. Difficulty Beginner confirmed — protected cove, calm conditions."
+      "validation_source": "divecalifornia.com,sandiegoscubaguide.com,sddivesites.com,waterhorsecharters.com",
+      "last_qa_date": "2026-09-04",
+      "qa_notes": "Site type 'reef' confirmed correct — rocky reef with kelp forest. Not coral reef. Depth 15m confirmed. RE-AUDIT 2026-09-04: re-confirmed Matlahuayl State Marine Reserve status, Seven Caves feature, and leopard shark season (June-December, peak Aug-Sept) via fresh search. Added waterhorsecharters.com to this tag — it was already credited in the markdown footer but missing here. DIFFICULTY CORRECTED from Beginner to Intermediate — while conditions here are among the calmest and most protected in San Diego, this is a cold-water California destination (13-19C/55-66F, 5-7mm wetsuit required) and per QA policy cold-water destinations carry a minimum Intermediate floor regardless of site-specific calm conditions."
     }
   },
   {
@@ -199,14 +199,14 @@
     "depth": 20,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "sddivesites.com,diveinscuba.com,sandiegoscubaguide.com",
-      "last_qa_date": "2026-06-27",
-      "qa_notes": "Site type 'reef' confirmed for the primary shallow sandy/reef zone. Depth 20m confirmed for recreational zone (canyon extends much deeper). Beginner difficulty confirmed for shallow zone — intermediate/advanced required for canyon ledges. Entry 'shore' confirmed."
+      "validation_source": "sddivesites.com,diveinscuba.com,lajollamom.com,waterhorsecharters.com",
+      "last_qa_date": "2026-09-04",
+      "qa_notes": "Site type 'reef' confirmed for the primary shallow sandy/reef zone. Depth 20m confirmed for recreational zone (canyon extends much deeper). Entry 'shore' confirmed. RE-AUDIT 2026-09-04: found this tag didn't match the markdown footer — footer actually credits sddivesites.com, lajollamom.com, diveinscuba.com, waterhorsecharters.com, but this tag listed 'sandiegoscubaguide.com' which the footer never cited. Corrected the tag to match the sources actually used. Leopard shark peak season (Aug-Sept, June-Dec range) reconfirmed via fresh search of multiple current sources. DIFFICULTY CORRECTED from Beginner to Intermediate — shallow sandy zone is easy, but this is a cold-water California destination (13-19C/55-66F, 7mm wetsuit recommended) and per QA policy cold-water destinations carry a minimum Intermediate floor; the canyon-approach zone at this same site is separately rated Advanced."
     }
   },
   {
@@ -222,8 +222,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "cadivingnews.com,waterhorsecharters.com,scubaboard.com,diveinscuba.com",
-      "last_qa_date": "2026-06-27",
-      "qa_notes": "CORRECTION: site_type changed from 'canyon' (not a valid type) to 'wall' — the dive experience is wall diving along the canyon walls and ledges at 12-33m. Depth 30m confirmed (accessible ledges to 30m; canyon continues to 900ft). Difficulty Advanced confirmed — requires strong buoyancy control, long surface swim, and careful air management."
+      "last_qa_date": "2026-09-04",
+      "qa_notes": "CORRECTION: site_type changed from 'canyon' (not a valid type) to 'wall' — the dive experience is wall diving along the canyon walls and ledges at 12-33m. Depth 30m confirmed (accessible ledges to 30m; canyon continues to 900ft). Difficulty Advanced confirmed — requires strong buoyancy control, long surface swim, and careful air management. RE-AUDIT 2026-09-04: JSON tag and markdown footer sources match (4 domains). No factual changes found on re-check; content preserved."
     }
   },
   {
@@ -239,8 +239,8 @@
       "addedBy": "gap_fill",
       "validated": "false",
       "validation_source": "en.wikipedia.org,sddivesites.com",
-      "last_qa_date": "2026-06-27",
-      "qa_notes": "UNRESOLVED DUPLICATE FLAG: 'DE-429' is a U.S. Navy destroyer escort hull number designation — it does not match HMCS Yukon (DDE 263, Royal Canadian Navy). No dive site named 'Yukon Wreck (DE-429)' appears in any published source. Coordinates (32.6825, -117.267) are approximately 10km south of HMCS Yukon (32.7715, -117.2710) and fall near Point Loma / Coronado area, not Wreck Alley. This entry is likely a gap-fill fabrication or mislabeled duplicate. Recommend removal or replacement with a legitimate site. Difficulty upgraded from Intermediate to Advanced pending resolution."
+      "last_qa_date": "2026-09-04",
+      "qa_notes": "UNRESOLVED DUPLICATE FLAG: 'DE-429' is a U.S. Navy destroyer escort hull number designation — it does not match HMCS Yukon (DDE 263, Royal Canadian Navy). No dive site named 'Yukon Wreck (DE-429)' appears in any published source. Coordinates (32.6825, -117.267) are approximately 10km south of HMCS Yukon (32.7715, -117.2710) and fall near Point Loma / Coronado area, not Wreck Alley. This entry is likely a gap-fill fabrication or mislabeled duplicate. Recommend removal or replacement with a legitimate site. Difficulty upgraded from Intermediate to Advanced pending resolution. RE-AUDIT 2026-09-04: repeated targeted searches (Navy hull records, San Diego dive site listings, ScubaBoard) still turn up no vessel or dive site matching 'Yukon Wreck (DE-429)'. Status unchanged — validated remains false, left un-padded per the 3-source rule since no source at all confirms this entry's existence as described. Still recommend removal/replacement."
     }
   }
 ]

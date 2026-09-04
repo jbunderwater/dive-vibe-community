@@ -17,7 +17,7 @@ A small volcanic island pinnacle on Saba's north coast, circumnavigated at 9–2
 
 ## Overview
 
-Green Island is a small volcanic islet on Saba's northern coast, classified as a pinnacle dive — divers circumnavigate the submerged flanks of the island rather than diving a flat reef. The mooring sits at 9 metres (30 feet); the sandy base is at 24 metres (80 feet). The site is weather-dependent — it is less frequently dived than the western sites and requires calm conditions or southerly winds to be safely accessible. Sea Saba notes that this is "less often dove" precisely because of the weather dependency. The flanks host a gorgonian grove, bushy black coral, and feather black coral colonies, alongside elkhorn coral formations. Of particular note on the sandy base: "Popeye's large anchor," embedded in the sand from Saba's historical sulphur-mining era, serves as a navigational waypoint and an unusual historical feature. Dark volcanic sand (rather than the white sand typical of carbonate reef environments) surrounds the base. Visibility is typically 20–30 metres.
+Green Island is a small volcanic islet on Saba's northern coast, classified as a pinnacle dive — divers circumnavigate the submerged flanks of the island rather than diving a flat reef. The mooring sits at 9 metres (30 feet); the sandy base is at 24 metres (80 feet). The site is weather-dependent — it is less frequently dived than the western sites and requires calm conditions or southerly winds to be safely accessible. Sea Saba notes that this is "less often dove" precisely because of the weather dependency. The flanks host a gorgonian grove, bushy black coral, and feather black coral colonies, alongside elkhorn coral formations. Of particular note on the sandy base: "Popeye's large anchor," embedded in the sand and linked by local operators to Saba's historical sulphur-mining era — a history Wikipedia confirms independently: in the 1870s, Green Island was connected to Saba's mainland sulphur mine by a cable to move ore between the two islands, though the anchor's own age and origin are not independently documented and should be treated as an operator anecdote rather than a dated historical fact. It serves as a navigational waypoint on the dive. Dark volcanic sand (rather than the white sand typical of carbonate reef environments) surrounds the base. Visibility is typically 20–30 metres.
 
 ## Site Information
 
@@ -59,8 +59,8 @@ The gorgonian grove provides strong wide-angle foreground subjects at 12–15 me
 
 ## Additional Resources
 
-- Sea Saba: seasaba.com — Green Island is site #31 in the dive site list
+- Sea Saba: seasaba.com/dive-sites#windwardside — Green Island in the Windwardside area
 - Saba Conservation Foundation: sabapark.org — north coast site; accessed when conditions allow
 
 ---
-*Sources: [Sea Saba Dive Center — Green Island](https://www.seasaba.com/saba-marine-park), [Endless Caribbean — Saba Scuba Diving](https://www.endlesscaribbean.com/saba-scuba-diving/), [Saba Conservation Foundation — Dive Sites](https://sabapark.org/saba-national-marine-park/dive-sites-dive-operators/). Last updated 2026-06-27.*
+*Sources: [Sea Saba Dive Center — Dive Sites (Windwardside)](https://www.seasaba.com/dive-sites#windwardside), [Endless Caribbean — Saba Scuba Diving](https://www.endlesscaribbean.com/saba-scuba-diving/), [Saba Conservation Foundation — Dive Sites](https://sabapark.org/saba-national-marine-park/dive-sites-dive-operators/), [Wikipedia — Green Island, Saba](https://en.wikipedia.org/wiki/Green_Island,_Saba). Last updated 2026-09-04.*

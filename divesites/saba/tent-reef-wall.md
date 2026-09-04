@@ -58,8 +58,8 @@ The overhanging ledges at 15–20 metres are among Saba's great photography subj
 ## Additional Resources
 
 - Saba Conservation Foundation: sabapark.org — advance information on the Tent Reef area (sites 16–19)
-- Sea Saba: primary operator, includes Tent Reef Wall on most multi-dive day itineraries
+- Sea Saba: primary operator, includes Tent Reef Wall on most multi-dive day itineraries (dive-sites page, Tent Reef area)
 - Saba Divers: offers guided night dives at this site
 
 ---
-*Sources: [Sea Saba Dive Center — Tent Reef Wall](https://www.seasaba.com/saba-19-tent-reef-wall), [Saba Conservation Foundation — Dive Sites](https://sabapark.org/saba-national-marine-park/dive-sites-dive-operators/), [DAN Alert Diver — Diving in Saba](https://dan.org/alert-diver/article/diving-in-saba/), [World of Diving — Saba](https://worldofdiving.com/saba/), [ScubaBoard — Saba Trip Report](https://scubaboard.com/community/threads/saba-trip-report.76861/). Last updated 2026-06-27.*
+*Sources: [Sea Saba Dive Center — Dive Sites (Tent Reef)](https://www.seasaba.com/dive-sites#tent-reef), [Saba Conservation Foundation — Dive Sites](https://sabapark.org/saba-national-marine-park/dive-sites-dive-operators/), [DAN Alert Diver — Diving in Saba](https://dan.org/alert-diver/article/diving-in-saba/), [World of Diving — Saba](https://worldofdiving.com/saba/), [ScubaBoard — Saba Trip Report](https://scubaboard.com/community/threads/saba-trip-report.76861/). Last updated 2026-09-04.*

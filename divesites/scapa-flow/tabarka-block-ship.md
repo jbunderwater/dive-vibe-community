@@ -31,7 +31,7 @@ In July 1940 she was requisitioned at Falmouth. She was sunk as a blockship in K
 - **Typical Visibility**: 8–25 metres — excellent during tidal flow, limited at full slack
 - **Current**: Extreme — slack tide only, negative entry required; peak flow 4–5 knots
 - **Water Temperature**: 6–14°C (43–57°F)
-- **Best Time**: May–October
+- **Best Time**: May–October (some sources list December–April for peak visibility; May–October is the standard operational dive season)
 
 ## Wreck History
 
@@ -47,7 +47,7 @@ In July 1940 she was requisitioned at Falmouth. She was sunk as a blockship in K
 
 ## Marine Life
 
-The Burra Sound tidal environment delivers exceptional marine life density. The Tabarka's upside-down hull carries prolific plumose anemones on its underside. Dead man's fingers corals are established throughout accessible surfaces. The intact propeller is encrusted with sessile organisms and surrounded by resident fish. Conger eels and edible crabs occupy hull interior spaces accessible through openings in the bow and stern. Schools of saithe pass through the sound on the tidal flow.
+The Burra Sound tidal current feeds an exceptionally dense anemone cover: plumose anemones (Metridium senile) form white and orange-pink forests across almost every vertical surface of the upturned hull — divers and dive guides consistently cite this as the site's defining biological feature. Lobsters, starfish, wrasse, and sea urchins are commonly reported among the hull structure. Species beyond these are not confirmed for this specific site in the sources reviewed; broader Scapa Flow cold-water fauna (conger eels, dead man's fingers, schooling saithe) is plausible here but not independently confirmed for the Tabarka.
 
 ## Dive Profile
 
@@ -74,4 +74,4 @@ The Tabarka is the most operationally demanding Scapa Flow dive site due to extr
 The intact propeller in the clear tidal water is one of Scapa Flow's most photographed features outside the German fleet. The upside-down hull orientation creates unusual perspectives. Pre-set camera exposure and strobe positioning before the dive — there is no time to adjust settings during the limited slack window. Tidal current visibility (often better than the main Flow) rewards the operational complexity with excellent image quality.
 
 ---
-*Sources: [Tabarka — Scapa Flow Wrecks](https://www.scapaflowwrecks.com/wrecks/tabarka/), [Tabarka History — Scapa Flow Wrecks](http://www.scapaflowwrecks.com/wrecks/tabarka/history.php), [Tabarka, Burra Sound — Canmore (Historic Environment Scotland)](https://canmore.org.uk/site/102329/tabarka-burra-sound-scapa-flow-orkney), [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/). Last updated 2026-06-29.*
+*Sources: [Tabarka — Scapa Flow Wrecks](https://www.scapaflowwrecks.com/wrecks/tabarka/), [Tabarka History — Scapa Flow Wrecks](http://www.scapaflowwrecks.com/wrecks/tabarka/history.php), [Dive Guide to the Tabarka — Scapa Flow Wrecks](http://www.scapaflowwrecks.com/wrecks/tabarka/diving.php), [Tabarka, Burra Sound — Canmore (Historic Environment Scotland)](https://canmore.org.uk/site/102329/tabarka-burra-sound-scapa-flow-orkney), [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/), [Best Dive Sites in Scapa Flow — Scuba Diver Life](https://scubadiverlife.com/best-dive-sites-scapa-flow/). Re-audited and last updated 2026-09-04.*

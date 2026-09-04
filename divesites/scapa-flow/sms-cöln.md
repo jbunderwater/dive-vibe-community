@@ -17,7 +17,7 @@ The most intact of the four light cruisers remaining at Scapa Flow — resting o
 
 ## Overview
 
-SMS Cöln was the lead ship of the Cöln-class light cruisers and one of only two ships of her class to be completed. Built by Blohm & Voss in Hamburg, she was launched on 5 October 1916 and commissioned on 17 January 1918. She measured 155.5 metres in length (diving operator sites cite 115 metres, but the class-level specifications confirmed by Wikipedia give 155.5 metres) and displaced 5,620 tonnes normally (7,486 tonnes at full combat load). Cöln saw limited wartime service — mining operations and patrols in the German Bight — before the fleet mutiny of October 1918 cancelled a planned final sortie.
+SMS Cöln was the lead ship of the Cöln-class light cruisers and one of only two ships of her class to be completed. Built by Blohm & Voss in Hamburg, she was launched on 5 October 1916 and commissioned on 17 January 1918. She measured 155.5 metres in length (diving operator sites cite 115 metres, but the class-level specifications confirmed by Wikipedia give 155.5 metres) and displaced 5,620 tonnes normally (7,486 tonnes at full combat load). Commissioned only ten months before the Armistice, Cöln saw limited action: by 1918 her squadron (II Scouting Group) was mainly occupied protecting the minelayers guarding Germany's North Sea bases. On 19 June 1918 she and her squadron sortied in an unsuccessful attempt to catch the British carrier HMS Furious following its raid on the German seaplane base at Tondern, and in late August she helped lay a minefield off Texel. She was dry-docked from 19 September to 11 October 1918 for screw damage repairs. A final fleet sortie planned for October 1918 was cancelled by the Wilhelmshaven mutiny.
 
 She arrived at Scapa Flow for internment on 22 November 1918. On 21 June 1919, Rear Admiral Ludwig von Reuter ordered the fleet scuttled; Cöln sank at 13:50. She was never raised for salvage and is considered the most intact of the four remaining light cruisers.
 
@@ -36,7 +36,7 @@ Cöln rests on her starboard side at 34–36 metres, with the shallowest accessi
 
 ## Marine Life
 
-Small shoaling fish are present throughout the hull. Pollack, cod, and ling school around the superstructure. Conger eels inhabit crevices. Lobster, edible crab, velvet swimming crab, scallops, squat lobster, starfish, and anemones colonise the wreck surfaces. Seal pups are occasionally encountered — a distinctive encounter unique among the Fleet wrecks.
+The scapa-flow.co.uk operator listing (visibility 10/10, sealife 10/10) reports small shoaling fish throughout the hull, with pollock, cod, ling, and conger around the superstructure. Lobster, edible crab, velvet swimming crab, king and queen scallops, and squat lobster occupy the wreck surfaces alongside sea urchins, starfish, plumose anemones, and dead man's fingers. The same source notes seal pups "quite often" playing around the shot line during decompression stops — a distinctive, site-specific encounter not reported for the other Fleet wrecks in this research pass.
 
 ## Dive Profile
 
@@ -63,4 +63,4 @@ Cöln's intact profile and relatively accessible entry point make it one of the 
 - **Best Time**: May–October
 
 ---
-*Sources: [SMS Cöln — Scapa Flow Wrecks](https://www.scapaflowwrecks.com/wrecks/coln/), [S.M.S. Cöln — MV Invincible Scapa Flow](https://www.scapa-flow.co.uk/dive-site/6-S.m.s.-Coln), [SMS Cöln (1916) — Wikipedia](https://en.wikipedia.org/wiki/SMS_C%C3%B6ln_(1916)), [Scuttling of the German Fleet at Scapa Flow — Wikipedia](https://en.wikipedia.org/wiki/Scuttling_of_the_German_fleet_at_Scapa_Flow). Last updated 2026-06-29.*
+*Sources: [SMS Cöln — Scapa Flow Wrecks](https://www.scapaflowwrecks.com/wrecks/coln/), [S.M.S. Cöln — MV Invincible Scapa Flow](https://www.scapa-flow.co.uk/dive-site/6-S.m.s.-Coln), [SMS Cöln (1916) — Wikipedia](https://en.wikipedia.org/wiki/SMS_C%C3%B6ln_(1916)), [Scuttling of the German Fleet at Scapa Flow — Wikipedia](https://en.wikipedia.org/wiki/Scuttling_of_the_German_fleet_at_Scapa_Flow). Re-audited and last updated 2026-09-04.*

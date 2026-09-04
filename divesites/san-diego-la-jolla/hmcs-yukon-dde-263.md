@@ -26,10 +26,10 @@ Before sinking, the ship was prepared with extensive diver-safety modifications:
 ## Site Information
 
 - **Location**: Wreck Alley, approximately 2 miles west of Mission Beach, San Diego
-- **Entry Type**: Boat dive (charter from Mission Bay)
-- **Site Type**: Wreck
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 metres (100 feet); top of wreck at approximately 18 metres (60 feet)
+- **Maximum Depth**: 30 meters
 - **Water Temperature**: 15–19°C (59–66°F); hood and gloves required
 
 ## Key Features
@@ -49,4 +49,4 @@ Descend the mooring line to the deck (approximately 18–23 metres) and begin ex
 Advanced Open Water certification is the minimum; Wreck Diver certification strongly recommended before any penetration. Carry redundant lights for interior sections. Cold thermoclines (water can drop to 13°C at depth) reduce thermal margin. Never dive solo. Book with an experienced local charter operator who knows the wreck.
 
 ---
-*Sources: [HMCS Yukon (DDE 263) — Wikipedia](https://en.wikipedia.org/wiki/HMCS_Yukon_(DDE_263)), [HMCS Yukon Wreck Dive — San Diego Dive Sites](https://www.sddivesites.com/hmcs-yukon.html), [The HMCS Yukon Dive in San Diego — sandiego.org](https://www.sandiego.org/article/the-hmcs-yukon-dive-in-san-diego), [HMCS Yukon Photogrammetry — Wrecked in my rEvo](https://wreckedinmyrevo.com/2024/02/02/hmcs-yukon-dde-263-photogrammetry-model/). Last updated 2026-06-27.*
+*Sources: [HMCS Yukon (DDE 263) — Wikipedia](https://en.wikipedia.org/wiki/HMCS_Yukon_(DDE_263)), [HMCS Yukon Wreck Dive — San Diego Dive Sites](https://www.sddivesites.com/hmcs-yukon.html), [The HMCS Yukon Dive in San Diego — sandiego.org](https://www.sandiego.org/article/the-hmcs-yukon-dive-in-san-diego), [HMCS Yukon Wreck — Marissa Charters](https://www.marissacharters.com/scuba-san-diego-dive-sites/hmcs-yukon-wreck), [HMCS Yukon Photogrammetry — Wrecked in my rEvo](https://wreckedinmyrevo.com/2024/02/02/hmcs-yukon-dde-263-photogrammetry-model/). Last updated 2026-09-04.*

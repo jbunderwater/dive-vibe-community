@@ -11,29 +11,25 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Nellie Bean
+# Nellie Bean
 
-Nellie Bean is a reef dive site in Roatán, Caribbean.
+*Nellie Bean, near Sandy Bay, is a Roatan Marine Park donor-named dive site, dedicated by Lisa and Sean Lacey to their deceased cat, per two Roatan Marine Park blog posts.*
 
 ## Overview
 
-Nellie Bean is a Roatan Marine Park mooring site in the Sandy Bay area, dedicated by Lisa and Sean Lacey in memory of their beloved cat Nellie. While individual published diving information for this site is limited, it sits along the barrier reef where healthy coral formations provide habitat for diverse tropical marine life. Divers typically encounter sea turtles, parrotfish, angelfish, and schools of blue tangs among the coral heads and sandy patches. Visibility ranges 20-40 meters.
+Nellie Bean, near Sandy Bay, is a Roatan Marine Park donor-named dive site, dedicated by Lisa and Sean Lacey to their deceased cat, per two Roatan Marine Park blog posts.
 
 ## Site Information
 
-- **Location**: Roatán, Caribbean
+- **Location**: Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 
-## Dive Profile
+## Marine Life
 
-The site offers a gentle reef terrain suitable for relaxed exploration. Begin your dive along the reef top and navigate through coral formations and sandy patches. The most abundant marine life is typically found between 5-18 meters. Take your time to explore cleaning stations and look for camouflaged creatures in the sand.
-
-## Photography
-
-The colorful reef structures offer excellent macro photography opportunities. Look for small critters hiding among coral heads and anemones. Wide-angle shots work well to capture the vibrant reef landscape and schooling fish.
+No site-specific marine-life source was found for Nellie Bean. Roatán's regional reef fauna (Caribbean reef fish, occasional rays and turtles) may apply, but no confirmed site-specific sightings are reported here.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Roatan Marine Park – New Dive Sites in 2022](https://www.roatanmarinepark.org/post/new-dive-sites-in-2022), [Roatan Marine Park – Dive Sites With Meaning](https://www.roatanmarinepark.org/post/dive-sites-with-meaning-stories). Last updated 2026-09-04.*

@@ -17,7 +17,7 @@ A WWI German Imperial Navy mine-laying cruiser scuttled on 21 June 1919, famous 
 
 ## Overview
 
-SMS Brummer was the lead ship of the Brummer-class fast mine-laying cruisers, built by AG Vulcan in Stettin. She was laid down on 24 April 1915, launched on 11 December 1915, and commissioned on 2 April 1916. She measured 140.4 metres in length, displaced 4,385 tonnes normally and 5,856 tonnes at full load, and could carry 400 mines while achieving speeds reported up to 34 knots on trials. Her one sister ship was SMS Bremse. In October 1917, Brummer and Bremse attacked a British convoy between Bergen and Shetland, sinking two destroyers (HMS Mary Rose and HMS Strongbow) and nine neutral merchant vessels.
+SMS Brummer was the lead ship of the Brummer-class fast mine-laying cruisers, built by AG Vulcan in Stettin. She was laid down on 24 April 1915, launched on 11 December 1915, and commissioned on 2 April 1916. She measured 140.4 metres in length, displaced 4,385 tonnes normally and 5,856 tonnes at full load, and could carry 400 mines. Her designed top speed was 28 knots, but she exceeded this substantially on trials — sources report bursts up to 34 knots, with an average trial speed around 30 knots at light load. Her one sister ship was SMS Bremse. In October 1917, Brummer and Bremse attacked a British convoy between Bergen and Shetland, sinking two destroyers (HMS Mary Rose and HMS Strongbow) and nine neutral merchant vessels.
 
 Following the Armistice, Brummer was interned at Scapa Flow in November 1918. On 21 June 1919, Rear Admiral Ludwig von Reuter transmitted the order to scuttle the fleet; Brummer sank at 13:05. Unlike her sister SMS Bremse, which was raised for scrap in 1929, the Brummer was never salvaged and remains on the seabed. She lies on her starboard side in 36 metres of water, with the shallowest point rising to 22 metres.
 
@@ -50,7 +50,7 @@ Her most celebrated feature is the brass bridge — constructed of brass to avoi
 
 ## Marine Life
 
-The Brummer's hull and superstructure carry dense cold-water invertebrate communities. Plumose anemones and dead man's fingers colonise every available surface. Conger eels occupy sheltered spaces within the hull. Edible crabs and velvet swimming crabs are abundant across the wreck. Schools of pollack and saithe hover in the water column above. Nudibranchs are present on encrusted surfaces.
+The scapa-flow.co.uk operator listing describes the Brummer as "teeming with small shoaling fish, pollock and cod, ling, conger, lobster, edible crab and velvets, king and queen scallops, squat lobster, sea urchins, dead man's fingers and various different types of starfish." The same source notes that seals are often seen "playing peekaboo with visiting divers" — a wildlife encounter specifically reported for this wreck, distinct from the standard invertebrate cover found across the Fleet.
 
 ## Dive Profile
 
@@ -77,4 +77,4 @@ This is a protected scheduled monument under Scottish law — removal of any art
 The brass bridge is one of Scapa Flow's most photographed single features. Wide-angle shots capturing the bridge's structure and scale are the primary objective. Natural light at 22–25 metres is limited in Scottish waters — a powerful video light or strobe is essential. The guns, searchlight irises, and encrusted surfaces throughout the wreck reward both wide-angle and close-up work.
 
 ---
-*Sources: [SMS Brummer — Scapa Flow Wrecks](https://www.scapaflowwrecks.com/wrecks/brummer/), [SMS Brummer Dive Guide — Scapa Flow Wrecks](http://www.scapaflowwrecks.com/wrecks/brummer/diving.php), [SMS Brummer — Wikipedia](https://en.wikipedia.org/wiki/SMS_Brummer), [S.M.S. Brummer — MV Invincible Scapa Flow](https://www.scapa-flow.co.uk/dive-site/5-S.M.S.-Brummer). Last updated 2026-06-29.*
+*Sources: [SMS Brummer — Scapa Flow Wrecks](https://www.scapaflowwrecks.com/wrecks/brummer/), [SMS Brummer Dive Guide — Scapa Flow Wrecks](http://www.scapaflowwrecks.com/wrecks/brummer/diving.php), [SMS Brummer — Wikipedia](https://en.wikipedia.org/wiki/SMS_Brummer), [S.M.S. Brummer — MV Invincible Scapa Flow](https://www.scapa-flow.co.uk/dive-site/5-S.M.S.-Brummer). Re-audited and last updated 2026-09-04.*

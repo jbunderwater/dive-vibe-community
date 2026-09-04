@@ -11,19 +11,25 @@ osmId: null
 addedBy: rmp_canonical_kml_import
 ---
 
-## Cemetery
+# Cemetery
 
-Rare south-side Roatan site with fields of flowing soft corals and a dramatic sheer wall; accessible only when south-side conditions allow.
+*Cemetery Wall is listed by Sun Divers Roatan as a wall dive good for pelagic sightings, among the West End sites.*
+
+## Overview
+
+Cemetery Wall is listed by Sun Divers Roatan as a wall dive good for pelagic sightings, among the West End sites.
 
 ## Site Information
 
-- **Location**: Roatán, Honduras
+- **Location**: Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 
-*Sources: [sundiversroatan.com](https://sundiversroatan.com). Last updated 2026-04-19.*
+## Marine Life
+
+No site-specific marine-life source was found for Cemetery. Roatán's regional reef fauna (Caribbean reef fish, occasional rays and turtles) may apply, but no confirmed site-specific sightings are reported here.
 
 ---
-*Sources: [Roatan Marine Park canonical mooring map](https://www.google.com/maps/d/u/0/viewer?mid=1VAAlEKHNYaqEzG1-mQVxQSmVTYVjdyfA), [sundiversroatan.com](https://sundiversroatan.com). Last updated 2026-04-19.*
+*Sources: [Sun Divers Roatan – Roatan Diving](https://sundiversroatan.com/roatan-diving/). Last updated 2026-09-04.*

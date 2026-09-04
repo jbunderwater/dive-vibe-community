@@ -21,7 +21,7 @@ SMS König was the lead ship of the König-class dreadnought battleships of the 
 
 König served as vanguard of the III Battle Squadron at the Battle of Jutland on 31 May–1 June 1916, sustaining ten large-calibre shell hits that killed 45 men and wounded 27. She arrived at Scapa Flow for internment on 6 December 1918. On 21 June 1919, Rear Admiral Ludwig von Reuter ordered the fleet scuttled to prevent capture; König sank at 14:00 that day. She was never raised for salvage and was designated a maritime scheduled ancient monument in 2001.
 
-Today, König lies completely inverted on a sandy floor, with the hull rising to approximately 22–24 metres and the seabed at 40 metres. Salvage operations by Metal Industries used dynamite to create access holes, making this the only wreck in the High Seas Fleet where divers can view internal machinery. Despite the extensive salvage damage, the exposed engine room retains four of its six turbines, seven casemate guns, boilers, a 12-inch armoured citadel at the stern, and propeller shafts. She is described as the least-visited of the three surviving battleships.
+Today, König lies completely inverted (bows pointing north), with the hull rising to approximately 22–24 metres. Maximum depth is reported inconsistently across sources: scapaflowwrecks.com states 38 metres, while the scapa-flow.co.uk operator listing states 40 metres — this page uses 40 m pending further confirmation. Salvage operations by Metal Industries used dynamite to create access holes, making this the only wreck in the High Seas Fleet where divers can view internal machinery. Despite the extensive salvage damage, the exposed engine room retains four of its six turbines, seven casemate guns, boilers, a 12-inch armoured citadel at the stern, and propeller shafts. She is described as the least-visited of the three surviving battleships.
 
 ## Wreck History
 
@@ -46,7 +46,7 @@ Today, König lies completely inverted on a sandy floor, with the hull rising to
 
 ## Marine Life
 
-Schools of pollack are commonly seen at the descent line. Cod, ling, and conger inhabit sheltered areas of the hull. Lobster, edible crab, velvet swimming crab, scallops, squat lobster, starfish, and anemones encrust the wreck structure. As the least-visited of the three battleships, marine life is described as abundant relative to the König and Markgraf.
+Per the scapa-flow.co.uk dive-site listing (visibility rated 8/10, current 6/10), divers commonly encounter small shoaling fish, pollock, cod, ling, and conger at the descent line and sheltered hull sections. Lobster, edible crab, velvet swimming crab, king and queen scallops, and squat lobster are found across the structure, alongside sea urchins, several starfish species, plumose anemones, and dead man's fingers.
 
 ## Safety
 
@@ -64,4 +64,4 @@ Diving SMS König requires Advanced certification minimum. Depth reaches 40 m, a
 - **Best Time**: May–October
 
 ---
-*Sources: [SMS König — Scapa Flow Wrecks](https://www.scapaflowwrecks.com/wrecks/konig/), [S.M.S. König — MV Invincible Scapa Flow](https://www.scapa-flow.co.uk/dive-site/2-S.M.S.-Konig), [SMS König — Wikipedia](https://en.wikipedia.org/wiki/SMS_K%C3%B6nig), [Scuttling of the German Fleet at Scapa Flow — Wikipedia](https://en.wikipedia.org/wiki/Scuttling_of_the_German_fleet_at_Scapa_Flow). Last updated 2026-06-29.*
+*Sources: [SMS König — Scapa Flow Wrecks](https://www.scapaflowwrecks.com/wrecks/konig/), [S.M.S. König — MV Invincible Scapa Flow](https://www.scapa-flow.co.uk/dive-site/2-S.M.S.-Konig), [SMS König — Wikipedia](https://en.wikipedia.org/wiki/SMS_K%C3%B6nig), [Scuttling of the German Fleet at Scapa Flow — Wikipedia](https://en.wikipedia.org/wiki/Scuttling_of_the_German_fleet_at_Scapa_Flow). Re-audited and last updated 2026-09-04.*

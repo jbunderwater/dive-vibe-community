@@ -59,8 +59,8 @@ The Atlantic Spadefish are the photographic highlight — a wide-angle or medium
 
 ## Additional Resources
 
-- Sea Saba: seasaba.com — site #7 in the Man O War Shoals zone
+- Sea Saba: seasaba.com/dive-sites#wells-bay — Man O'War Shoals in the Wells Bay area
 - Saba Conservation Foundation: sabapark.org — sites 6, 7, 9 in the Man O War Shoals group
 
 ---
-*Sources: [Sea Saba Dive Center — Man O War Shoals](https://www.seasaba.com/saba-marine-park), [Saba Conservation Foundation — Dive Sites](https://sabapark.org/saba-national-marine-park/dive-sites-dive-operators/), [Endless Caribbean — Saba Scuba Diving](https://www.endlesscaribbean.com/saba-scuba-diving/), [World of Diving — Saba](https://worldofdiving.com/saba/). Last updated 2026-06-27.*
+*Sources: [Sea Saba Dive Center — Dive Sites (Wells Bay)](https://www.seasaba.com/dive-sites#wells-bay), [Saba Conservation Foundation — Dive Sites](https://sabapark.org/saba-national-marine-park/dive-sites-dive-operators/), [PADI — Man O'War](https://www.padi.com/dive-site/saba/man-owar/), [Endless Caribbean — Saba Scuba Diving](https://www.endlesscaribbean.com/saba-scuba-diving/), [World of Diving — Saba](https://worldofdiving.com/saba/). Last updated 2026-09-04.*

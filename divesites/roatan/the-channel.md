@@ -11,19 +11,25 @@ osmId: null
 addedBy: rmp_canonical_kml_import
 ---
 
-## The Channel
+# The Channel
 
-A popular, relatively easy channel dive around 30 ft (9 m) deep, frequented by many West End dive operators.
+*The Channel is an RMP-mapped mooring point near a boat channel.*
+
+## Overview
+
+The Channel is an RMP-mapped mooring point near a boat channel. The prior claim that it is 'frequented by many West End dive operators' could not be traced to any source found in this audit and has been removed. Treat depth and difficulty as provisional pending a confirming source.
 
 ## Site Information
 
-- **Location**: Roatán, Honduras
+- **Location**: Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 9 meters
 
-*Sources: [roatan-diving.com](https://roatan-diving.com). Last updated 2026-04-19.*
+## Marine Life
+
+No site-specific marine-life source was found for The Channel. Roatán's regional reef fauna (Caribbean reef fish, occasional rays and turtles) may apply, but no confirmed site-specific sightings are reported here.
 
 ---
-*Sources: [Roatan Marine Park canonical mooring map](https://www.google.com/maps/d/u/0/viewer?mid=1VAAlEKHNYaqEzG1-mQVxQSmVTYVjdyfA), [roatan-diving.com](https://roatan-diving.com). Last updated 2026-04-19.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-09-04.*
