@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Three Sisters Springs",
+    "filename": "three-sisters-springs.md",
+    "lat": 28.888725,
+    "lng": -82.589191,
+    "difficulty": "Beginner",
+    "maxDepth": 3,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "King Spring",
+    "filename": "king-spring.md",
+    "lat": 28.881719,
+    "lng": -82.59505,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Idiot's Delight",
+    "filename": "idiots-delight.md",
+    "lat": 28.88795184,
+    "lng": -82.58945355,
+    "difficulty": "Beginner",
+    "maxDepth": 6,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Hunter Springs Park",
+    "filename": "hunter-springs-park.md",
+    "lat": 28.89564,
+    "lng": -82.59203,
+    "difficulty": "Beginner",
+    "maxDepth": 3,
+    "entryType": "shore",
+    "siteType": "beach",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Jurassic Spring",
+    "filename": "jurassic-spring.md",
+    "lat": 28.89507562,
+    "lng": -82.58991977,
+    "difficulty": "Beginner",
+    "maxDepth": 5,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Rainbow Springs Headspring",
+    "filename": "rainbow-springs-headspring.md",
+    "lat": 29.1026,
+    "lng": -82.437,
+    "difficulty": "Beginner",
+    "maxDepth": 4,
+    "entryType": "shore",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "K.P. Hole County Park",
+    "filename": "kp-hole-county-park.md",
+    "lat": 29.08678,
+    "lng": -82.43029,
+    "difficulty": "Beginner",
+    "maxDepth": 6,
+    "entryType": "shore",
+    "siteType": "drift",
+    "ref": "",
+    "osmId": null
+  }
+]

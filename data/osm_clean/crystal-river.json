@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Three Sisters Springs",
+    "lat": 28.888725,
+    "lon": -82.589191,
+    "depth": 3,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {"source": "curated_research", "notes": "A 57-acre unit of Crystal River National Wildlife Refuge on Kings Bay, comprising three linked spring pools (Little Sister, Big Sister, Pretty Sister). Water holds a stable ~73F year-round. Documented as the only enclosed water body in the US open to the public for entering the water with wintering manatees, present roughly Nov 15-Mar 31. No direct road/shore water access - reached by kayak, paddle-craft, or swimming from an outside launch (a land-based boardwalk offers viewing only, no water entry from it). Scuba diving is permitted only April 1-Nov 14; snorkeling is year-round but subject to sanctuary boundary closures. Depth not stated precisely by sources - estimated shallow based on descriptions of wading/snorkeling pools.", "validation_source": "en.wikipedia.org,fws.gov"}
+  },
+  {
+    "name": "King Spring",
+    "lat": 28.881719,
+    "lon": -82.595050,
+    "depth": 18,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {"source": "curated_research", "notes": "The largest spring in Kings Bay and the original spring whose winter manatee concentrations prompted the 1983 creation of Crystal River National Wildlife Refuge. Boat/kayak access only (via boat landings or paddle from Crystal River launch points, south side of Banana Island). DEPTH CONFLICT: sources disagree significantly - one gives ~15ft at the vent, another lists 51-60ft, another describes a ~30ft open basin with an associated cave descending another ~60ft; a further source's ~65ft figure may conflate King Spring with the separately-monitored Tarpon Hole spring nearby (naming/identity ambiguity between these two sites was not resolved by research - treat as a known open question). Scuba is allowed year-round outside marked manatee 'keyhole' sanctuary zones, with access most restricted Nov 15-Mar 31. Has an associated cavern/cave system requiring cave/cavern certification beyond the open vent.", "validation_source": "flsprings.com,divebuddy.com,dtmag.com,fws.gov"}
+  },
+  {
+    "name": "Idiot's Delight",
+    "lat": 28.88795184,
+    "lon": -82.58945355,
+    "depth": 6,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {"source": "curated_research", "notes": "A cluster of narrow spring vents/shafts (at least three numbered vents, the largest ~5ft diameter) at the confluence of a canal and the Three Sisters Springs run. Part of the Kings Bay SpringsWatch monitoring network. Kayak/paddle or swim-in access only from the adjoining canal/spring run; no dedicated shore parking. Sometimes closed as a roped manatee sanctuary during the winter season (Nov-Mar) - verify current access status before visiting, as closures are periodic rather than fixed.", "validation_source": "floridaspringlife.com,floridacaves.com"}
+  },
+  {
+    "name": "Hunter Springs Park",
+    "lat": 28.89564,
+    "lon": -82.59203,
+    "depth": 3,
+    "site_type": "beach",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {"source": "curated_research", "notes": "A public park (104 NE 1st Ave, Crystal River) at the mouth of Hunter Spring Run, historically known as 'Legion Beach'/American Legion Spring before being renamed. The most accessible independent shore/kayak put-in on Kings Bay, with a small beach, roped swimming area, kayak/canoe launch, and boardwalk. Clear water over a white sand/partial grass bottom. Manatee encounters possible but not guaranteed, more likely Nov-Mar. Depth not stated precisely by sources - estimated shallow based on descriptions of a roped shallow swim area.", "validation_source": "floridarambler.com,tripshock.com"}
+  },
+  {
+    "name": "Jurassic Spring",
+    "lat": 28.89507562,
+    "lon": -82.58991977,
+    "depth": 5,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {"source": "curated_research", "notes": "A second-magnitude spring on Hunter Spring Run, reached via kayak/paddle/swim from Hunter Springs Park (small cove roughly 800ft east of Hunter Spring). One of the Kings Bay SpringsWatch monitoring stations. Depth reported to vary with tide (roughly 15-20ft/4.5-6m). Manatees reported to frequent it seasonally for warmth (winter months); the site may close periodically during cold snaps or heavy manatee presence. Name reportedly ties to mammoth fossil finds per secondary sources, not independently verified against a primary geological record.", "validation_source": "floridaspringlife.com,springsinflorida.com"}
+  },
+  {
+    "name": "Rainbow Springs Headspring",
+    "lat": 29.1026,
+    "lon": -82.4370,
+    "depth": 4,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {"source": "curated_research", "notes": "The first-magnitude headspring (reported flow ~410-600 million gal/day depending on source) of the Rainbow River, emerging from dozens of vents into a wide swimmable basin within Rainbow Springs State Park (19158 SW 81st Place Road, Dunnellon). Water holds ~72F year-round with commonly reported visibility of 20-40+ ft (reduced after heavy rain per one source). Historically called 'Blue Spring' until a 1930s tourism rebrand (submarine boat tours, 1950s mermaid shows); state-acquired in 1990. This is explicitly a swimming/snorkeling site, NOT a scuba destination - the park's own activity guidance centers on swimming/snorkeling/canoeing/kayaking, and snorkeling is permitted only within a buoyed swim area. Depth figure is from a single aggregator source, not independently cross-confirmed - treat as approximate.", "validation_source": "en.wikipedia.org,floridastateparks.org"}
+  },
+  {
+    "name": "K.P. Hole County Park",
+    "lat": 29.08678,
+    "lon": -82.43029,
+    "depth": 6,
+    "site_type": "drift",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {"source": "curated_research", "notes": "The primary public access point for the Rainbow River downstream of Rainbow Springs State Park (9435 SW 190th Avenue Rd, Dunnellon), with a boat ramp and kayak/canoe/paddleboard launch. Water ~72F with commonly cited visibility of 100+ft. Sources describe the river as a drift/snorkel experience rather than a fixed dive site - shallow channels (roughly 5-8ft) connect to deeper holes (up to ~20-27ft depending on source) that can be scuba-dived; divers commonly shuttle upstream and drift back down. This is a snorkel/drift-dive river, not a technical scuba destination. Tubing (seasonal, Apr-Sep), alcohol, and disposable containers are regulated as part of an Outstanding Florida Water/Aquatic Preserve.", "validation_source": "visitfloridasprings.org,scubaboard.com"}
+  }
+]

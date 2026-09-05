@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Caspersen Beach",
+    "filename": "caspersen-beach.md",
+    "lat": 27.057233,
+    "lng": -82.4427,
+    "difficulty": "Beginner",
+    "maxDepth": 2,
+    "entryType": "shore",
+    "siteType": "beach",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Brohard Beach (North Brohard Paw Park)",
+    "filename": "brohard-beach-north-brohard-paw-park.md",
+    "lat": 27.0745,
+    "lng": -82.4503,
+    "difficulty": "Beginner",
+    "maxDepth": 1,
+    "entryType": "shore",
+    "siteType": "beach",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "South Brohard Park",
+    "filename": "south-brohard-park.md",
+    "lat": 27.068,
+    "lng": -82.448,
+    "difficulty": "Intermediate",
+    "maxDepth": 4.5,
+    "entryType": "shore",
+    "siteType": "beach",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Venice Fishing Pier (Sharky's Beach)",
+    "filename": "venice-fishing-pier-sharkys-beach.md",
+    "lat": 27.073216,
+    "lng": -82.449724,
+    "difficulty": "Beginner",
+    "maxDepth": 5,
+    "entryType": "shore",
+    "siteType": "beach",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Service Club Park",
+    "filename": "service-club-park.md",
+    "lat": 27.076,
+    "lng": -82.451,
+    "difficulty": "Beginner",
+    "maxDepth": 4.5,
+    "entryType": "shore",
+    "siteType": "beach",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Venice Beach (Main/North Public Beach)",
+    "filename": "venice-beach-mainnorth-public-beach.md",
+    "lat": 27.09758,
+    "lng": -82.46225,
+    "difficulty": "Beginner",
+    "maxDepth": 5.8,
+    "entryType": "shore",
+    "siteType": "beach",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Manasota Beach",
+    "filename": "manasota-beach.md",
+    "lat": 26.94028,
+    "lng": -82.36389,
+    "difficulty": "Beginner",
+    "maxDepth": 1,
+    "entryType": "shore",
+    "siteType": "beach",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Blind Pass Beach",
+    "filename": "blind-pass-beach.md",
+    "lat": 26.958539,
+    "lng": -82.38281,
+    "difficulty": "Beginner",
+    "maxDepth": 1.5,
+    "entryType": "shore",
+    "siteType": "beach",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Nokomis Beach",
+    "filename": "nokomis-beach.md",
+    "lat": 27.124,
+    "lng": -82.47,
+    "difficulty": "Beginner",
+    "maxDepth": 1,
+    "entryType": "shore",
+    "siteType": "beach",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "The Boneyard",
+    "filename": "the-boneyard.md",
+    "lat": 27.085,
+    "lng": -82.468,
+    "difficulty": "Intermediate",
+    "maxDepth": 8,
+    "entryType": "boat",
+    "siteType": "muck",
+    "ref": "",
+    "osmId": null
+  }
+]
