@@ -61,7 +61,7 @@ Manta Parade's undulating terrain provides natural framing for wide-angle images
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-09-04
 
 ---
-*Sources: [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Scuba Junkie Sangalaki – Why Dive Derawan](https://www.scubajunkiesangalaki.com/why-dive-the-derawan-archipelago/), [Maratua.com – Sangalaki](https://www.maratua.com/en/nearby-islands/sangalaki), [Asia Diving Vacation – Sangalaki](https://asiadivingvacation.com/diving/sangalaki-island), [Scuba Junkie Sangalaki – Manta Research](https://www.scubajunkiesangalaki.com/world-day-manta-rays-in-sangalaki/). Last updated 2026-06-27.*
+*Sources: [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Scuba Junkie Sangalaki – Why Dive Derawan](https://www.scubajunkiesangalaki.com/why-dive-the-derawan-archipelago/), [Maratua.com – Sangalaki](https://www.maratua.com/en/nearby-islands/sangalaki), [Asia Diving Vacation – Sangalaki](https://asiadivingvacation.com/diving/sangalaki-island), [Scuba Junkie Sangalaki – Manta Research](https://www.scubajunkiesangalaki.com/world-day-manta-rays-in-sangalaki/). Last updated 2026-09-04.*

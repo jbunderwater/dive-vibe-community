@@ -35,7 +35,7 @@ Third Encounter is an offshore pinnacle on the southwestern side of Saba, locate
 
 ## Marine Life
 
-Third Encounter is renowned for its consistently excellent shark activity. Caribbean reef sharks are regular visitors, patrolling the edges of the seamount. Nurse sharks are confirmed resting on the plateau. Sea Saba documents a resident Nassau grouper that divers encounter repeatedly, along with yellowtail snappers and creole wrasse in large numbers. Creole fish school in formations. Manta rays have been confirmed at this site specifically by Sea Saba — they appear during safety stops rather than on the main dive. Sea turtles are reliably present on the seamount. During winter months (January–April), humpback whales pass through Saba's waters and whale song is sometimes audible at offshore sites including Third Encounter.
+Third Encounter is renowned for its consistently excellent shark activity. Caribbean reef sharks are regular visitors, patrolling the edges of the seamount. Nurse sharks are confirmed resting on the plateau. Sea Saba and PADI both document a resident Nassau grouper that divers encounter repeatedly — PADI's site page names it "Charlie," a single-source detail offered here as local color rather than a confirmed fact — along with yellowtail snappers and creole wrasse in large numbers. Creole fish school in formations. Manta rays have been confirmed at this site by both Sea Saba and PADI — they appear during safety stops rather than on the main dive. Sea turtles are reliably present on the seamount. During winter months (January–April), humpback whales pass through Saba's waters and whale song is sometimes audible at offshore sites including Third Encounter.
 
 *Note on manta rays: Manta ray sightings at Third Encounter are confirmed by Sea Saba but should be understood as opportunistic encounters, not reliable occurrences on every dive.*
 
@@ -61,8 +61,8 @@ Third Encounter is a wide-angle site. The open-ocean setting delivers schooling 
 
 ## Additional Resources
 
-- Sea Saba: seasaba.com — site #2; Third Encounter is described as Sea Saba's signature site
+- Sea Saba: seasaba.com/dive-sites#pinnacles — Third Encounter is described as Sea Saba's signature site
 - Saba Conservation Foundation: sabapark.org — The Pinnacles zone (sites 1–5)
 
 ---
-*Sources: [DAN Alert Diver — Diving in Saba](https://dan.org/alert-diver/article/diving-in-saba/), [Sea Saba Dive Center — Third Encounter](https://www.seasaba.com/saba-marine-park), [Saba Conservation Foundation — Dive Sites](https://sabapark.org/saba-national-marine-park/dive-sites-dive-operators/), [World of Diving — Saba](https://worldofdiving.com/saba/), [Endless Caribbean — Saba Scuba Diving](https://www.endlesscaribbean.com/saba-scuba-diving/). Last updated 2026-06-27.*
+*Sources: [DAN Alert Diver — Diving in Saba](https://dan.org/alert-diver/article/diving-in-saba/), [Sea Saba Dive Center — Dive Sites (The Pinnacles)](https://www.seasaba.com/dive-sites#pinnacles), [PADI — Third Encounter](https://www.padi.com/dive-site/saba/third-encounter/), [Saba Conservation Foundation — Dive Sites](https://sabapark.org/saba-national-marine-park/dive-sites-dive-operators/), [World of Diving — Saba](https://worldofdiving.com/saba/), [Endless Caribbean — Saba Scuba Diving](https://www.endlesscaribbean.com/saba-scuba-diving/). Last updated 2026-09-04.*

@@ -11,29 +11,25 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Pillar Coral
+# Pillar Coral
 
-Pillar Coral is a pinnacle dive site in Roatán, Caribbean.
+*No site-specific published source was found for Pillar Coral despite targeted research today, including Roatan Marine Park's donor-naming blog posts and multiple dive-shop site listings for the area.*
 
 ## Overview
 
-Pillar Coral takes its name from a distinctive coral pinnacle that juts off the wall at approximately 27 meters (90 feet). The site works well as a drift dive between Overheat Reef and the El Aguila wreck, with swim-throughs, chimneys, and channels cutting through the reef structure along the way. Eagle rays are commonly seen gliding through the deeper water, while moray eels shelter in the overhangs. Rated Intermediate to Advanced, this site rewards experienced divers with 20 to 40 meters of visibility and water temperatures averaging 26 to 29 degrees Celsius.
+No site-specific published source was found for Pillar Coral despite targeted research today, including Roatan Marine Park's donor-naming blog posts and multiple dive-shop site listings for the area. A previous version of this page included specific details (an alternate name, a precise visibility figure, or similar) that could not be traced to any source and have been removed rather than repeated. This entry is left unvalidated; treat its site type, depth and difficulty as provisional pending a confirming source.
 
 ## Site Information
 
-- **Location**: Roatán, Caribbean
+- **Location**: Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 27 meters
 
-## Dive Profile
+## Marine Life
 
-Descend to the pinnacle and explore around its circumference at varying depths. The most abundant marine life congregates on the current-facing side. Maintain good buoyancy and watch for currents that may increase around the structure.
-
-## Photography
-
-The pinnacle offers excellent wide-angle opportunities with schooling fish and dramatic structure. Shoot upward toward the surface for dramatic silhouettes. Macro subjects cluster in crevices on the lee side.
+No site-specific marine-life source was found for Pillar Coral. Roatán's regional reef fauna (Caribbean reef fish, occasional rays and turtles) may apply, but no confirmed site-specific sightings are reported here.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-09-04.*

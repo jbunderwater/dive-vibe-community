@@ -17,7 +17,7 @@ Porto Conte Reef is a reef dive site in Sardinia, Europe.
 
 ## Overview
 
-Porto Conte Reef lies within the calm natural bay of Porto Conte on Sardinia's northwestern coast, part of the same Capo Caccia-Isola Piana Marine Protected Area that surrounds the Nereo Cave system. Extensive posidonia oceanica meadows cover the shallower sandy areas and provide habitat for molluscs, crustaceans, and lobsters, while rocky formations at depth carry sea fans and encrusting corals. Underwater excursions here require authorization from dive operators approved by the MPA managing body. The protected bay setting means this is one of Sardinia's most accessible reef dives, with calm conditions suitable for divers of most levels. Access is via MPA-approved dive operators.
+Porto Conte Reef lies within the calm natural bay of Porto Conte on Sardinia's northwestern coast, part of the same Capo Caccia-Isola Piana Marine Protected Area that surrounds the Nereo Cave system. Extensive posidonia oceanica meadows cover the shallower sandy areas and provide habitat for molluscs and crustaceans, while rocky formations at depth carry sea fans and encrusting corals. The local dive operator serving the bay reports groupers, dentex, and conger/moray eels in the wider Porto Conte diving area, along with red coral visible from as shallow as 4 metres in places — though the deepest named sites in the bay (some to 35m) are outside this beginner-friendly reef's depth range. Underwater excursions here require authorization from dive operators approved by the MPA managing body. The protected bay setting means this is one of Sardinia's most accessible reef dives, with calm conditions suitable for divers of most levels.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Porto Conte Reef lies within the calm natural bay of Porto Conte on Sardinia's n
 - **Maximum Depth**: 16 meters
 
 ---
-*Sources: [Porto Conte Diving Center](https://www.portoconte.it/diving/english.html), [Porto Conte Marina - Diving](https://www.portocontemarina.it/en/diving/), [SardegnaTurismo - Porto Conte Regional Natural Park](https://www.sardegnaturismo.it/en/explore/porto-conte-regional-natural-park). Last updated 2026-06-29.*
+*Sources: [Porto Conte Diving Center](https://www.portoconte.it/diving/english.html), [SardegnaTurismo - Porto Conte Regional Natural Park](https://www.sardegnaturismo.it/en/explore/porto-conte-regional-natural-park), [ArchiMete Diving - Capo Caccia Area](https://www.archimete.it/en/attivita/diving-tours/percorsi-subacquei/). Last updated 2026-09-04.*

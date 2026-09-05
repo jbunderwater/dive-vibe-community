@@ -33,7 +33,7 @@ Ladder Labyrinth sits on the west coast of Saba, just southwest of the Babylon m
 
 ## Marine Life
 
-Ladder Labyrinth is a macro site. The ridge crevices shelter shrimp, crabs, and Saba lobster in high density. In the sandy alleyways between ridges: yellowhead jawfish and the less-commonly-seen pikeblennies and lancer dragonets are the star residents — all three species probe or hover above their burrows and retreat quickly when approached, requiring patient observation. Tarpons congregate near the mooring line and are reliably present at safety stop depth. Filefish and schoolmasters occupy the outer ridge areas; chromis cloud the upper reef sections. Nudibranchs, flamingo tongue shells, and fingerprint cyphoma snails feed on soft corals throughout the ridges. Frogfish have been reported in the Ladder Bay area by multiple divers.
+Ladder Labyrinth is a macro site. The ridge crevices shelter shrimp, crabs, and Saba lobster in high density. In the sandy alleyways between ridges: yellowhead jawfish and the less-commonly-seen pikeblennies and lancer dragonets are the star residents — confirmed independently by both Sea Saba and PADI — all three species probe or hover above their burrows and retreat quickly when approached, requiring patient observation. Tarpons congregate near the mooring line and are reliably present at safety stop depth, also confirmed by PADI. Filefish, chromis, and schoolmasters occupy the ridges and upper reef sections (PADI). Nudibranchs, flamingo tongue shells, and fingerprint cyphoma snails feed on soft corals throughout the ridges. Frogfish have been reported in the Ladder Bay area by multiple divers.
 
 *Note: Glassy sweepers and hawksbill turtles are confirmed in the broader Ladder Bay zone but not specifically documented at Ladder Labyrinth's mooring by Sea Saba — treat as possible encounters rather than reliable sightings.*
 
@@ -59,8 +59,8 @@ Ladder Labyrinth is one of Saba's best macro sites. Yellowhead jawfish hovering 
 
 ## Additional Resources
 
-- Sea Saba: seasaba.com/saba-14-ladder-labyrinth — site profile and diving schedule
+- Sea Saba: seasaba.com/dive-sites#ladder-bay — area profile and diving schedule
 - Saba Conservation Foundation: sabapark.org — Ladder Bay area (sites 11–15) maps and information
 
 ---
-*Sources: [Sea Saba Dive Center — Ladder Labyrinth](https://www.seasaba.com/saba-14-ladder-labyrinth), [DAN Alert Diver — Diving in Saba](https://dan.org/alert-diver/article/diving-in-saba/), [Endless Caribbean — Saba Scuba Diving](https://www.endlesscaribbean.com/saba-scuba-diving/), [PADI — Ladder Lab Saba](https://www.padi.com/dive-site/saba/ladder-lab/), [ScubaBoard — Saba diving depths](https://scubaboard.com/community/threads/ease-of-diving-and-relative-depths-in-saba-stkitts-and-question-about-sharks.498910/). Last updated 2026-06-27.*
+*Sources: [Sea Saba Dive Center — Dive Sites (Ladder Bay)](https://www.seasaba.com/dive-sites#ladder-bay), [DAN Alert Diver — Diving in Saba](https://dan.org/alert-diver/article/diving-in-saba/), [Endless Caribbean — Saba Scuba Diving](https://www.endlesscaribbean.com/saba-scuba-diving/), [PADI — Ladder Lab Saba](https://www.padi.com/dive-site/saba/ladder-lab/), [ScubaBoard — Saba diving depths](https://scubaboard.com/community/threads/ease-of-diving-and-relative-depths-in-saba-stkitts-and-question-about-sharks.498910/). Last updated 2026-09-04.*

@@ -11,21 +11,25 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Dixies
+# Dixies
 
-Dixies is a wall dive site in Roatán, Caribbean.
+*Dixies is referenced by Roatan Divers as part of a named drift route ("Moonlight over Dixies to Vern's Drop Off") along the West End wall system.*
 
 ## Overview
 
-Dixie's features an impressive underwater wall cut through with inviting channels that draw divers deeper into the reef. The reef descends from the iron shore coastline, with large sandy patches breaking up the coral and sand channels running perpendicular to the coast. A gentle slope leads from the reef crest down to where the wall begins its vertical plunge. The combination of shallow reef terrain and the nearby wall makes Dixie's suitable for both divers exploring the drop-off and snorkelers enjoying the sunlit shallows above. Schools of horse-eye jacks occasionally sweep through the channels, and spotted drumfish hide beneath the ledges.
+Dixies is referenced by Roatan Divers as part of a named drift route ("Moonlight over Dixies to Vern's Drop Off") along the West End wall system. No independent site-specific description was found.
 
 ## Site Information
 
-- **Location**: Roatán, Caribbean
+- **Location**: Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 27 meters
 
+## Marine Life
+
+No site-specific marine-life source was found for Dixies. Roatán's regional reef fauna (Caribbean reef fish, occasional rays and turtles) may apply, but no confirmed site-specific sightings are reported here.
+
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Roatan Divers – Best Dive Sites in Roatan](https://roatandivers.com/blog/the-best-dive-sites-in-roatan). Last updated 2026-09-04.*

@@ -3,29 +3,33 @@ name: Temptation
 lat: 16.27396
 lng: -86.602604
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 13
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## Temptation
+# Temptation
 
-Temptation is a wall dive site in Roatán, Caribbean.
+*Temptation Reef, in West Bay, is a beginner-friendly boat/shore dive site reaching a maximum depth of about 13 meters (42 feet) per Zentacle.*
 
 ## Overview
 
-Temptation is a wall dive site in the West Bay area, positioned near Black Rock and Mandy's Eel Garden along Roatan's southwest coast. An active dive mooring marks the site, which features wall terrain dropping to 18 meters with typical West Bay marine life patrolling the reef face. The proximity to The Point complex means currents can vary, contributing to the intermediate difficulty rating. Visibility in this area generally ranges from 20-30 meters with warm water temperatures year-round.
+Temptation Reef, in West Bay, is a beginner-friendly boat/shore dive site reaching a maximum depth of about 13 meters (42 feet) per Zentacle. Divers glide through schools of fish and past small caverns while swimming alongside turtles and rays.
 
 ## Site Information
 
-- **Location**: Roatán, Caribbean
+- **Location**: Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 13 meters
+
+## Marine Life
+
+Sea turtles and rays are the site's noted sightings per Splash Inn Dive Resort; no further site-specific species list was confirmed.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Splash Inn Dive Resort – Temptation Reef](https://roatansplashinn.com/en/roatan-diving-sites/temptation-reef/), [Zentacle – Temptation Reef](https://www.zentacle.com/Beach/10730/temptation-reef), [Wannadive – Temptation Reef](https://www.wannadive.net/spot/Central_America/Honduras/Bay_Islands/Roatan_Island/Temptation_reef/). Last updated 2026-09-04.*

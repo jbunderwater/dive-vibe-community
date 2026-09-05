@@ -57,8 +57,8 @@ Torrens Point is excellent for both wide-angle and macro photography. The boulde
 
 ## Additional Resources
 
-- Sea Saba: seasaba.com/saba-9-torrens-point — site description and Coral Nursery information
+- Sea Saba: seasaba.com/dive-sites#wells-bay — area description; the site's Coral Nursery is confirmed independently by World of Diving and Endless Caribbean
 - Saba Conservation Foundation: sabapark.org — Wells Bay and Torrens Point area (sites 6–10); also manages the Coral Nursery programme
 
 ---
-*Sources: [Sea Saba Dive Center — Torrens Point](https://www.seasaba.com/saba-9-torrens-point), [Saba Conservation Foundation — Dive Sites](https://sabapark.org/saba-national-marine-park/dive-sites-dive-operators/), [DAN Alert Diver — Diving in Saba](https://dan.org/alert-diver/article/diving-in-saba/), [Endless Caribbean — Saba Scuba Diving](https://www.endlesscaribbean.com/saba-scuba-diving/), [World of Diving — Saba](https://worldofdiving.com/saba/). Last updated 2026-06-27.*
+*Sources: [Sea Saba Dive Center — Dive Sites (Wells Bay)](https://www.seasaba.com/dive-sites#wells-bay), [Saba Conservation Foundation — Dive Sites](https://sabapark.org/saba-national-marine-park/dive-sites-dive-operators/), [Endless Caribbean — Saba Scuba Diving](https://www.endlesscaribbean.com/saba-scuba-diving/), [World of Diving — Saba](https://worldofdiving.com/saba/). Last updated 2026-09-04.*

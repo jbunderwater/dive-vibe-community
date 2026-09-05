@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Isola dei Cavoli
 
-Isola dei Cavoli is a reef dive site in Sardinia, Europe.
+Isola dei Cavoli is one of southeastern Sardinia's signature wall dives, a small granite island whose boulders drop into deep fissures to 40 metres.
 
 ## Overview
 
-Isola dei Cavoli is a small granite island within the Capo Carbonara Marine Protected Area near Villasimius in southeastern Sardinia, where massive boulders create deep fissures, cavities, and eroded formations descending to over 40 metres. Divers visit the iconic Madonna del Naufrago statue at shallow depth, explore the ship-shaped granite monolith of La Nave Romana, and encounter red gorgonians at the Sandbank of Mezzo. The crystalline waters shelter schools of barracuda, mullet, lobsters, dentex, amberjack, sea bream, salps, and damselfish among the granite formations. The Madonna del Naufrago statue sits at 11 metres depth and was placed here in 1979.
+Isola dei Cavoli is a small granite island within the Capo Carbonara Marine Protected Area (established 1998) near Villasimius in southeastern Sardinia, where massive boulders create deep fissures, cavities, and eroded formations descending to over 40 metres. Divers visit the iconic Madonna del Naufrago (Madonna of the Castaway) statue and explore the ship-shaped granite monolith known as La Nave. The statue, sculpted by Pinuccio Sciola from pink Ozieri trachyte and standing over 3 metres tall, was placed on the seabed at 11 metres depth on 8 July 1979. The crystalline waters shelter groupers, barracuda, dentex, amberjack, sea bream, moray eels, octopus, and lobsters among the granite formations — reported consistently across multiple dive-site sources for this specific location. (Earlier notes here also listed mullet and salps; those weren't corroborated by current sources and have been dropped.)
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Isola dei Cavoli is a small granite island within the Capo Carbonara Marine Prot
 - **Maximum Depth**: 40 meters
 
 ---
-*Sources: [Sardinia Point - Diving Villasimius](https://sardiniapoint.it/en/new-styles-of-tourism/diving-and-snorkellingdiving-areasvillasimius/), [Villasimius - Madonna del Naufrago](https://www.villasimius.com/en/la-nave-dellisola-dei-cavoli/), [PADI - Isola dei Cavoli / La Nave](https://www.padi.com/dive-site/italy/la-nave/). Last updated 2026-06-29.*
+*Sources: [Sardinia Point - Diving Villasimius](https://sardiniapoint.it/en/new-styles-of-tourism/diving-and-snorkellingdiving-areasvillasimius/), [Villasimius - Madonna del Naufrago](https://www.villasimius.com/en/la-nave-dellisola-dei-cavoli/), [PADI - Isola dei Cavoli / La Nave](https://www.padi.com/dive-site/italy/la-nave/). Last updated 2026-09-04.*

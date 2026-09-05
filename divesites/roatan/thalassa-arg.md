@@ -30,4 +30,4 @@ No published information about this wreck's history, vessel type, dimensions, or
 **Previous description note:** An earlier version of this page speculated that "Arg" indicated Argentine registry. This was editorial inference with no factual basis and has been removed.
 
 ---
-*Description based on Roatan Marine Park GPS data. No site-specific sources found. Last updated 2026-06-27.*
+*Description based on Roatan Marine Park GPS data. No site-specific sources found. Last updated 2026-09-04.*

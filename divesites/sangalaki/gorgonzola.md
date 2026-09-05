@@ -61,7 +61,7 @@ Gorgonzola is one of the standout wide-angle photography sites in the Derawan Ar
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-09-04
 
 ---
-*Sources: [Scuba Junkie Sangalaki – Top Dive Sites Derawan](https://www.scubajunkiesangalaki.com/top-dive-sites-in-the-derawan/), [Sienna Resort – Ultimate Guide Maratua Dive Spots](https://sienna-resort.com/amp/dnews/51/sienna-resort%E2%80%99s-ultimate-guide-to-maratua-islands-best-diving-spots.html), [Premier Liveaboard Diving – Kalimantan Itinerary](https://premierliveaboarddiving.com/assets/itineraries/carpe-diem-phinisi/Kalimantan.pdf). Last updated 2026-06-27.*
+*Sources: [Scuba Junkie Sangalaki – Top Dive Sites Derawan](https://www.scubajunkiesangalaki.com/top-dive-sites-in-the-derawan/), [Sienna Resort – Ultimate Guide Maratua Dive Spots](https://sienna-resort.com/amp/dnews/51/sienna-resort%E2%80%99s-ultimate-guide-to-maratua-islands-best-diving-spots.html), [Premier Liveaboard Diving – Kalimantan Itinerary](https://premierliveaboarddiving.com/assets/itineraries/carpe-diem-phinisi/Kalimantan.pdf). Last updated 2026-09-04.*

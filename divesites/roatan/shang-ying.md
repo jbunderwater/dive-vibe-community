@@ -28,4 +28,4 @@ Shang Ying is a wreck dive site registered in the Roatan Marine Park database, l
 No published information about this wreck's history, vessel type, dimensions, or sinking date was found in any publicly accessible source. The wreck is listed in the Roatan Marine Park database and confirmed by GPS coordinates. Contact a local Roatán dive operator for current site conditions and access.
 
 ---
-*Description based on Roatan Marine Park GPS data. No site-specific sources found. Last updated 2026-06-27.*
+*Description based on Roatan Marine Park GPS data. No site-specific sources found. Last updated 2026-09-04.*

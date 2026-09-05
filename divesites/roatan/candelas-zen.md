@@ -11,21 +11,25 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Candelas Zen
+# Candelas Zen
 
-Candelas Zen is a wall dive site in Roatán, Caribbean.
+*No site-specific published source was found for Candelas Zen despite targeted research today, including Roatan Marine Park's donor-naming blog posts and multiple dive-shop site listings for the area.*
 
 ## Overview
 
-Candelas Zen sits adjacent to the Anthony's Key Resort channel in Sandy Bay and has been adopted by Sun Divers as part of the PADI AWARE Adopt the Blue conservation program. The site has been affected by community runoff, and regular cleanup dives are organized here to maintain reef health. Beyond its conservation significance, the mooring provides access to typical Sandy Bay wall terrain with hard corals, sponge growth, and resident reef fish. Visibility varies from 20 to 40 meters depending on conditions, with water temperatures between 26 and 29 degrees Celsius.
+No site-specific published source was found for Candelas Zen despite targeted research today, including Roatan Marine Park's donor-naming blog posts and multiple dive-shop site listings for the area. A previous version of this page included specific details (an alternate name, a precise visibility figure, or similar) that could not be traced to any source and have been removed rather than repeated. This entry is left unvalidated; treat its site type, depth and difficulty as provisional pending a confirming source.
 
 ## Site Information
 
-- **Location**: Roatán, Caribbean
+- **Location**: Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
 
+## Marine Life
+
+No site-specific marine-life source was found for Candelas Zen. Roatán's regional reef fauna (Caribbean reef fish, occasional rays and turtles) may apply, but no confirmed site-specific sightings are reported here.
+
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-09-04.*

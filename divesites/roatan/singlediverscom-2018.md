@@ -11,29 +11,25 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Singledivers.com 2018
+# Singledivers.com 2018
 
-Singledivers.com 2018 is a reef dive site in Roatán, Caribbean.
+*No site-specific published source was found for Singledivers.com 2018 despite targeted research today, including Roatan Marine Park's donor-naming blog posts and multiple dive-shop site listings for the area.*
 
 ## Overview
 
-Singledivers.com 2018 is a Roatan Marine Park mooring site donated through the singledivers.com dive community, reflecting the online community's commitment to reef conservation in Roatan. Located along the West Bay reef corridor at a maximum depth of 12 meters, the site offers gentle reef terrain with coral heads separated by sandy patches. Typical marine life includes sea turtles, southern stingrays, parrotfish, and the colorful assortment of reef fish found throughout this stretch of coast. Visibility ranges from 20-30 meters with water temperatures of 26-29 degrees Celsius year-round.
+No site-specific published source was found for Singledivers.com 2018 despite targeted research today, including Roatan Marine Park's donor-naming blog posts and multiple dive-shop site listings for the area. A previous version of this page included specific details (an alternate name, a precise visibility figure, or similar) that could not be traced to any source and have been removed rather than repeated. This entry is left unvalidated; treat its site type, depth and difficulty as provisional pending a confirming source.
 
 ## Site Information
 
-- **Location**: Roatán, Caribbean
+- **Location**: Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 
-## Dive Profile
+## Marine Life
 
-The site offers a gentle reef terrain suitable for relaxed exploration. Begin your dive along the reef top and navigate through coral formations and sandy patches. The most abundant marine life is typically found between 5-18 meters. Take your time to explore cleaning stations and look for camouflaged creatures in the sand.
-
-## Photography
-
-The colorful reef structures offer excellent macro photography opportunities. Look for small critters hiding among coral heads and anemones. Wide-angle shots work well to capture the vibrant reef landscape and schooling fish.
+No site-specific marine-life source was found for Singledivers.com 2018. Roatán's regional reef fauna (Caribbean reef fish, occasional rays and turtles) may apply, but no confirmed site-specific sightings are reported here.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-09-04.*

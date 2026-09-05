@@ -11,29 +11,25 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Rino Phores
+# Rino Phores
 
-Rino Phores is a reef dive site in Roatán, Caribbean.
+*Rino Phores, near West Bay point (one RMP post specifies 'near Pablo's'), is a Roatan Marine Park donor-named site, a memorial for Rino Jackson, per two Roatan Marine Park blog posts.*
 
 ## Overview
 
-Rino Phores is a shallow reef site in the West End corridor, and the playful name nods to the rhinophores of nudibranchs, those sensory organs that make sea slugs such prized finds for macro photographers. The reef here tops out at around 12 meters, with scattered coral heads and sponge formations creating habitat for the small creatures that reward a slow, observant approach. Flamingo tongues browse on sea fans, Christmas tree worms dot the brain corals, and patient divers may find lettuce sea slugs or the occasional goldentail moray peering from a crevice. The site's shallow depth allows for extended bottom times and makes it an ideal second dive or macro photography session.
+Rino Phores, near West Bay point (one RMP post specifies 'near Pablo's'), is a Roatan Marine Park donor-named site, a memorial for Rino Jackson, per two Roatan Marine Park blog posts.
 
 ## Site Information
 
-- **Location**: Roatán, Caribbean
+- **Location**: Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
 
-## Dive Profile
+## Marine Life
 
-The site offers a gentle reef terrain suitable for relaxed exploration. Begin your dive along the reef top and navigate through coral formations and sandy patches. The most abundant marine life is typically found between 5-18 meters. Take your time to explore cleaning stations and look for camouflaged creatures in the sand.
-
-## Photography
-
-The colorful reef structures offer excellent macro photography opportunities. Look for small critters hiding among coral heads and anemones. Wide-angle shots work well to capture the vibrant reef landscape and schooling fish.
+No site-specific marine-life source was found for Rino Phores. Roatán's regional reef fauna (Caribbean reef fish, occasional rays and turtles) may apply, but no confirmed site-specific sightings are reported here.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Roatan Marine Park – New Dive Sites in 2022](https://www.roatanmarinepark.org/post/new-dive-sites-in-2022), [Roatan Marine Park – Dive Sites With Meaning](https://www.roatanmarinepark.org/post/dive-sites-with-meaning-stories). Last updated 2026-09-04.*

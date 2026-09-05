@@ -11,21 +11,25 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Black Rock
+# Black Rock
 
-Black Rock is a wall dive site in Roatán, Caribbean.
+*Black Rock is a continuation of West End Wall, with numerous fissures in the reef wall and giant barrel sponges.*
 
 ## Overview
 
-Black Rock forms part of 'The Point' complex at Roatan's southwest tip, where the reef structure supports impressive stands of black coral colonies, barrel sponges, and sea fans. The wall drops to 24 meters with the deeper sections harboring barracudas, triggerfish, nurse sharks, and stingrays cruising along the reef face. During the right season, whale sharks have been spotted passing through these waters, adding a pelagic element to what is already one of the more diverse dives in the area. The intermediate rating reflects both the depth and the occasional currents that sweep around the point.
+Black Rock is a continuation of West End Wall, with numerous fissures in the reef wall and giant barrel sponges. It is most commonly dived as a drift, with a mooring around 18 meters (60 feet), and includes small caves along the wall face.
 
 ## Site Information
 
-- **Location**: Roatán, Caribbean
+- **Location**: Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
 
+## Marine Life
+
+Soft coral formations and barrel sponges are the site's noted features per Stingy Nomads; no source consulted confirms specific fish or pelagic species at this site, so none are listed here beyond the general West End reef fauna.
+
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [PADI – Black Rock](https://www.padi.com/dive-site/united-states-of-america-usa/black-rock-5/), [Divessi – Black Rock](https://www.divessi.com/en/mydiveguide/divesite/black-rock-honduras-238562), [Stingy Nomads – Complete Guide to Dive Roatan](https://stingynomads.com/diving-roatan/). Last updated 2026-09-04.*

@@ -17,7 +17,7 @@ Kelapa Dua is a wall dive site near Kakaban Island in the Derawan Archipelago, E
 
 ## Overview
 
-Kelapa Dua sits on the southeast tip of Kakaban Island — PADI describes it as "a relatively new site, making it less crowded than established dive locations." The site features a steep vertical wall "bursting with colourful coral and sea fans" (PADI) down to a maximum recreational depth of 28 metres (91 feet, per PADI). Its primary draw is thresher shark (*Alopias* spp.) cleaning behaviour: pelagic threshers visit the wall in the early morning hours, where cleaner fish remove parasites — ISRA research data indicates approximately 70% encounter probability on morning dives. The Derawan Islands ISRA report documents cleaning stations in the Kelapa Dua area at 30–38 metres depth, with threshers circling slowly while cleaner fish (Pennant Coral Fish, Yellow-axis Chromis, and Bicolour Cleanerfish) service them. Open Water divers can explore the colourful upper wall to 18 metres; Advanced certification with deep dive specialty is required for the thresher observation depths.
+Kelapa Dua sits on the southeast tip of Kakaban Island — PADI describes it as "a relatively new site, making it less crowded than established dive locations." The site features a steep vertical wall "bursting with colourful coral and sea fans" (PADI) down to a maximum recreational depth of 28 metres (91 feet, per PADI). Its primary draw is thresher shark (*Alopias* spp.) cleaning behaviour: pelagic threshers visit the wall in the early morning hours, where cleaner fish remove parasites. Note on sourcing: the Derawan Islands ISRA (Important Shark and Ray Areas) report documents a thresher cleaning station generically "off the southern tip of Kakaban Island" with an estimated 70% success rate on morning dives (~7am) at 30–38 metres depth, with cleaner fish including Pennant Coral Fish, Yellow-axis Chromis, and Bicolour Cleanerfish — but the ISRA report does not itself name "Kelapa Dua" as the station. Kelapa Dua, on Kakaban's SE tip, is the dive site PADI and local operators specifically point to for this same thresher-cleaning behaviour, so the two very likely describe the same phenomenon, but that link is inferred rather than stated directly in the ISRA document. Open Water divers can explore the colourful upper wall to 18 metres; Advanced certification with deep dive specialty is required for the thresher observation depths.
 
 ## Marine Life
 
@@ -61,7 +61,7 @@ Thresher sharks at cleaning stations are one of the most prized underwater photo
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-09-04
 
 ---
-*Sources: [PADI – Kelapa Dua](https://www.padi.com/dive-site/indonesia/kelapa-dua/), [Scuba Junkie Sangalaki – Diving Maratua](https://www.scubajunkiesangalaki.com/diving-maratua/), [Green Nirvana Resort – Fun Dives](https://www.greennirvanaresort.com/Fun-Dives), [Derawan Islands ISRA – Important Shark & Ray Areas](https://sharkrayareas.org/portfolio-item/derawan-islands-isra/). Last updated 2026-06-27.*
+*Sources: [PADI – Kelapa Dua](https://www.padi.com/dive-site/indonesia/kelapa-dua/), [Asia Dive Site – Kakaban](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/kakaban.php), [Scuba Junkie Sangalaki – Diving Maratua](https://www.scubajunkiesangalaki.com/diving-maratua/), [Green Nirvana Resort – Fun Dives](https://www.greennirvanaresort.com/Fun-Dives), [Derawan Islands ISRA – Important Shark & Ray Areas](https://sharkrayareas.org/portfolio-item/derawan-islands-isra/). Last updated 2026-09-04.*

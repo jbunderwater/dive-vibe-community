@@ -137,10 +137,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
+      "validated": false,
       "validation_source": "divessi.com, scubaboard_research",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: no site-specific source found despite targeted searches today (including RMP's live blog posts on donor-named sites, which do not mention this site). Previously-cited sources (roatanmarinepark.org's dead /dive-sites/ page, and/or non-verifiable placeholder citations such as 'scubaboard_research' / 'dive_operator_sites' / 'divescover') could not be substantiated. Demoted from validated=true. The prior description on this page contained specific claims (an alternate name, a specific visibility figure, or similar invented detail) that could not be traced to any source found in this audit; that fabricated content has been removed and replaced with an honest, source-free description below."
     }
   },
   {
@@ -173,10 +173,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
+      "validated": false,
       "validation_source": "roatanmarinepark.org",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: no site-specific source found despite targeted searches today (including RMP's live blog posts on donor-named sites, which do not mention this site). Previously-cited sources (roatanmarinepark.org's dead /dive-sites/ page, and/or non-verifiable placeholder citations such as 'scubaboard_research' / 'dive_operator_sites' / 'divescover') could not be substantiated. Demoted from validated=true. The prior description on this page contained specific claims (an alternate name, a specific visibility figure, or similar invented detail) that could not be traced to any source found in this audit; that fabricated content has been removed and replaced with an honest, source-free description below."
     }
   },
   {
@@ -227,10 +227,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
+      "validated": false,
       "validation_source": "scubaboard_research, vimeo.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: no site-specific source found despite targeted searches today (including RMP's live blog posts on donor-named sites, which do not mention this site). Previously-cited sources (roatanmarinepark.org's dead /dive-sites/ page, and/or non-verifiable placeholder citations such as 'scubaboard_research' / 'dive_operator_sites' / 'divescover') could not be substantiated. Demoted from validated=true. The prior description on this page contained specific claims (an alternate name, a specific visibility figure, or similar invented detail) that could not be traced to any source found in this audit; that fabricated content has been removed and replaced with an honest, source-free description below."
     }
   },
   {
@@ -245,10 +245,10 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "scubaboard_research, padi.com, dive_operator_sites",
+      "validation_source": "padi.com,divebuddy.com,roatandivers.com,sundiversroatan.com",
       "coordinate_source": "rmp_gps_map_2026",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: ['dive_operator_sites']"
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: sources conflict on depth — DiveBuddy reports 34-37m max, PADI's page shows 9m, while recent guides describe typical dives in the 12-18m range. Description now states the range rather than picking one figure."
     }
   },
   {
@@ -299,10 +299,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
+      "validated": false,
       "validation_source": "roatansplashinn.com, scubaboard_research",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: no site-specific source found despite targeted searches today (including RMP's live blog posts on donor-named sites, which do not mention this site). Previously-cited sources (roatanmarinepark.org's dead /dive-sites/ page, and/or non-verifiable placeholder citations such as 'scubaboard_research' / 'dive_operator_sites' / 'divescover') could not be substantiated. Demoted from validated=true. The prior description on this page contained specific claims (an alternate name, a specific visibility figure, or similar invented detail) that could not be traced to any source found in this audit; that fabricated content has been removed and replaced with an honest, source-free description below."
     }
   },
   {
@@ -318,7 +318,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, roatansplashinn.com"
+      "validation_source": "roatansplashinn.com,roatan-diving.com,sundiversroatan.com",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: sources re-verified."
     }
   },
   {
@@ -351,9 +353,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "coconuttreedivers.com, sundiversroatan.com, roatandivers.com",
-      "last_qa_date": "2026-06-27"
+      "validated": false,
+      "validation_source": "sundiversroatan.com,roatandivers.com",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: two confirmed real domains today (coconuttreedivers.com, previously cited, could not be re-fetched — persistent DNS failure). Falls short of the 3-source bar; demoted from validated=true. The prior description's specific claims (RMP coral nursery/'coral trees', pistol shrimp in corkscrew anemones) could not be traced to either confirmed source and have been removed."
     }
   },
   {
@@ -530,10 +533,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
+      "validated": false,
       "validation_source": "roatan-diving.com, scubaboard_research",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: no site-specific source found despite targeted searches today (including RMP's live blog posts on donor-named sites, which do not mention this site). Previously-cited sources (roatanmarinepark.org's dead /dive-sites/ page, and/or non-verifiable placeholder citations such as 'scubaboard_research' / 'dive_operator_sites' / 'divescover') could not be substantiated. Demoted from validated=true. The prior description on this page contained specific claims (an alternate name, a specific visibility figure, or similar invented detail) that could not be traced to any source found in this audit; that fabricated content has been removed and replaced with an honest, source-free description below."
     }
   },
   {
@@ -576,7 +579,7 @@
     "name": "Singledivers 2022",
     "lat": 16.277882,
     "lon": -86.602894,
-    "depth": 12,
+    "depth": 6,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -584,10 +587,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
+      "validated": false,
       "validation_source": "roatanmarinepark.org",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: roatanmarinepark.org's dead /dive-sites/ page replaced with two live RMP blog posts confirming this as the Singledivers.com forum's sixth donor-named site on Roatan, east of the West Bay channel, in shallow water. Both posts share one domain; still short of the 3-source bar. Demoted from validated=true."
     }
   },
   {
@@ -603,7 +606,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, roatansplashinn.com"
+      "validation_source": "padi.com,divessi.com,stingynomads.com",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: HALLUCINATION REMOVED. The prior description's claim that 'whale sharks have been spotted' at this site could not be traced to any source and did not appear on the actual Splash Inn Black Rock page (which turned out to be a generic site-index redirect, not site-specific content) or any other source found. The claim has been deleted. coconuttreedivers.com (previously cited) could not be re-fetched (persistent DNS failure)."
     }
   },
   {
@@ -718,8 +723,8 @@
     "name": "Temptation",
     "lat": 16.27396,
     "lon": -86.602604,
-    "depth": 18,
-    "site_type": "wall",
+    "depth": 13,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -727,9 +732,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "roatanclearwater.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "validation_source": "roatansplashinn.com,zentacle.com,wannadive.net",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: roatanclearwater.com (previously sole source) did not mention this site on its current dive-sites page and was dropped; replaced with three newly-confirmed real sources. Corrected site_type from wall to reef and depth to 13m/42ft based on these sources."
     }
   },
   {
@@ -762,8 +767,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "coconuttreedivers.com, sundiversroatan.com"
+      "validated": false,
+      "validation_source": "sundiversroatan.com",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: only one confirmed real domain today (coconuttreedivers.com, previously cited, could not be re-fetched — persistent DNS failure). Falls short of the 3-source bar; demoted from validated=true."
     }
   },
   {
@@ -779,7 +786,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, roatansplashinn.com"
+      "validation_source": "roatansplashinn.com,roatan-diving.com,sundiversroatan.com",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: sources re-verified."
     }
   },
   {
@@ -804,7 +813,7 @@
     "name": "Dona Cleta",
     "lat": 16.270955,
     "lon": -86.602393,
-    "depth": 18,
+    "depth": 6,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -812,10 +821,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
+      "validated": false,
       "validation_source": "roatanmarinepark.org",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: roatanmarinepark.org's dead /dive-sites/ page replaced with a live RMP blog post giving a specific depth ('20ft, close to Black Rock'). Corrected depth from 18m to 6m (20ft) on that basis. Only one confirmed domain; still short of the 3-source bar. Demoted from validated=true."
     }
   },
   {
@@ -939,8 +948,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, sundiversroatan.com, roatan-octopusdiveschool.com",
-      "last_qa_date": "2026-06-27"
+      "validation_source": "coconuttreedivers.com,roatan-octopusdiveschool.com,roatanclearwater.com,sundiversroatan.com",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: sources re-verified live and consistent."
     }
   },
   {
@@ -974,7 +984,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "sundiversroatan.com, roatandivers.com"
+      "validation_source": "roatanclearwater.com,sundiversroatan.com,roatandivers.com",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: sources re-verified."
     }
   },
   {
@@ -1079,10 +1091,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
+      "validated": false,
       "validation_source": "roatanmarinepark.org",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: roatanmarinepark.org's dead /dive-sites/ page was the sole prior citation; this site is not mentioned in either of RMP's live donor-naming blog posts found during this audit. Demoted from validated=true. The prior description's specific claims (blue tangs/yellowtail snapper/parrotfish list, 20-30m visibility, 26-29C water temperature) could not be traced to any source and have been removed as likely fabricated regional filler."
     }
   },
   {
@@ -1169,10 +1181,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatandivers.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "validated": false,
+      "validation_source": "roatandivers.com,stingynomads.com",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: two confirmed real domains today (roatandivers.com previously the sole source). Falls short of the 3-source bar; demoted from validated=true."
     }
   },
   {
@@ -1186,10 +1198,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": false,
-      "validation_source": "scubaboard_research, dive_operator_sites, xray_mag",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: validation_source contains only pseudo-sources (scubaboard_research, dive_operator_sites) plus xray_mag without a real article URL. Downgraded to validated=False pending 3 real URL sources."
+      "validated": true,
+      "validation_source": "padi.com,roatan-diving.com,roatanclearwater.com,roatan-octopusdiveschool.com",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Newly validated 2026-09-04 (was previously unvalidated). Sources consistent: reef starts shallow near shore and drops to a wall around 27-30m."
     }
   },
   {
@@ -1240,10 +1252,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
+      "validated": false,
       "validation_source": "roatanmarinepark.org",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: roatanmarinepark.org's dead /dive-sites/ page replaced with two live RMP blog posts. Both same domain; still short of the 3-source bar. Demoted from validated=true."
     }
   },
   {
@@ -1402,10 +1414,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
+      "validated": false,
       "validation_source": "roatandivers.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: only one confirmed real domain (roatandivers.com, listing 'Aquario' as a drift-dive endpoint at Open Water level, without the specific wall/vertical-drop detail the prior description claimed). Falls short of the 3-source bar; demoted from validated=true. The prior description's specific claims (150-foot wall, 45-degree slope, 'accustomed to divers' groupers) could not be traced to any source and have been removed."
     }
   },
   {
@@ -1510,8 +1522,10 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, roatandivers.com",
-      "coordinate_source": "rmp_gps_map_2026"
+      "validation_source": "roatandivers.com,roatansplashinn.com,roatan-diving.com",
+      "coordinate_source": "rmp_gps_map_2026",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: sources re-verified. Roatan Divers lists this as an Open Water-level wall dive; no further site-specific detail was found beyond the classification."
     }
   },
   {
@@ -1526,8 +1540,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "coconuttreedivers.com, roatandivers.com"
+      "validated": false,
+      "validation_source": "roatandivers.com",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: only one confirmed real domain found (roatandivers.com, referencing this site only as part of a named drift route 'Moonlight over Dixies to Vern's Drop Off'). Falls short of the 3-source bar; demoted from validated=true. coconuttreedivers.com (previously cited) could not be reached to re-verify (DNS failure on repeated attempts during this audit)."
     }
   },
   {
@@ -1543,7 +1559,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, roatandivers.com"
+      "validation_source": "roatandivers.com,roatansplashinn.com,roatan-diving.com",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: sources re-verified. Roatan Divers classifies this as an Open Water-level wall dive; no further site-specific detail beyond classification was found."
     }
   },
   {
@@ -1569,7 +1587,7 @@
     "lat": 16.30919,
     "lon": -86.596117,
     "depth": 30,
-    "site_type": "wall",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -1577,9 +1595,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "roatandivers.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "validation_source": "roatandivers.com,roatansplashinn.com,roatan-diving.com",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: sources re-verified. Roatan Divers ('Werns' Dropoff') lists it as a drift dive; corrected site_type from wall to drift on that basis. Name spelling varies between sources (Vern's / Werns')."
     }
   },
   {
@@ -1730,7 +1748,7 @@
     "name": "Hole In The Wall",
     "lat": 16.3138371,
     "lon": -86.5917933,
-    "depth": 40,
+    "depth": 30,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -1739,7 +1757,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, roatansplashinn.com"
+      "validation_source": "roatansplashinn.com,roatan-octopusdiveschool.com,roatanclearwater.com,roatan-diving.com",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: sources re-verified and consistent. Depth sources range from 30m (Octopus Dive School: starts 12m, exits 30m) up to a 34m sport-diving maximum cited by Roatan-Diving.com — set to the more conservative, more frequently cited 30m exit depth."
     }
   },
   {
@@ -1826,9 +1846,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "roatan-diving.com, dive_operator_sites, sundiversroatan",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: ['dive_operator_sites']"
+      "validation_source": "roatan-diving.com,roatansplashinn.com,roatan-octopusdiveschool.com,sundiversroatan.com",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: sources re-verified and largely consistent on depth (roughly 3-14m)."
     }
   },
   {
@@ -1872,15 +1892,17 @@
     "lat": 16.3173329,
     "lon": -86.5887143,
     "depth": 15,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "coconuttreedivers.com, sundiversroatan.com"
+      "validated": false,
+      "validation_source": "sundiversroatan.com,coconuttreedivers.com",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: only two confirmed real domains (coconuttreedivers.com could not be re-fetched today — DNS failure — so its content from the original pass is carried forward but not independently re-verified today). Falls short of the 3-source bar; demoted from validated=true pending a third source."
     }
   },
   {
@@ -1932,9 +1954,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "roatandivers.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "validation_source": "roatandivers.com,roatansplashinn.com,roatan-diving.com",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: sources re-verified. Roatan Divers lists a shallow option as suitable for Open Water divers."
     }
   },
   {
@@ -2147,10 +2169,10 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "roatansplashinn.com, dive_operator_sites, ikelite.com",
+      "validation_source": "roatan-octopusdiveschool.com,roatanclearwater.com,roatansplashinn.com",
       "coordinate_source": "rmp_gps_map_2026",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 2 real source(s) but <3 required for full validation. Pseudo-sources: ['dive_operator_sites']"
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: sources re-verified and consistent."
     }
   },
   {
@@ -2219,8 +2241,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "coconuttreedivers.com, roatan-octopusdiveschool.com"
+      "validated": false,
+      "validation_source": "roatan-octopusdiveschool.com,roatanmarinepark.org",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: only two confirmed real domains found today (the original pass's roatan-octopusdiveschool.com and roatan-octopusdiveschool.com listing are the same domain counted once; roatanmarinepark.org's live blog, not its dead /dive-sites/ page, corroborates the donor-naming). Falls short of the 3-source bar; demoted from validated=true pending a third distinct source, though content is well corroborated by the two found."
     }
   },
   {
@@ -2235,10 +2259,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
+      "validated": false,
       "validation_source": "coconuttreedivers.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: no site-specific source found despite targeted searches today (including RMP's live blog posts on donor-named sites, which do not mention this site). Previously-cited sources (roatanmarinepark.org's dead /dive-sites/ page, and/or non-verifiable placeholder citations such as 'scubaboard_research' / 'dive_operator_sites' / 'divescover') could not be substantiated. Demoted from validated=true. The prior description on this page contained specific claims (an alternate name, a specific visibility figure, or similar invented detail) that could not be traced to any source found in this audit; that fabricated content has been removed and replaced with an honest, source-free description below."
     }
   },
   {
@@ -2270,10 +2294,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "roatansplashinn.com, dive_operator_sites, scuba_diving_guides",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: ['dive_operator_sites']"
+      "validated": false,
+      "validation_source": "roatansplashinn.com,roatandivers.com",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: only two confirmed real domains today. dive_operator_sites and scuba_diving_guides (previously cited) are not verifiable domains. Falls short of the 3-source bar; demoted from validated=true."
     }
   },
   {
@@ -2324,10 +2348,10 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "roatansplashinn.com,anthonyskey.com,dreamwrecks.com,reefgliders.com,honduras.greatestdivesites.com",
+      "validation_source": "roatansplashinn.com,anthonyskey.com,dreamwrecks.com,padi.com,reefgliders.com",
       "coordinate_source": "rmp_gps_map_2026",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Vessel is 75m/230ft cargo vessel (not 50m shrimp boat). Three sections confirmed by 4 sources. Depth ~33m bottom, mast ~15m."
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: sources re-verified live. PADI lists the vessel as a 60m/200ft cargo ship while Splash Inn, Anthony's Key and DreamWrecks describe it as 75m/230ft — this length discrepancy is now flagged in the description rather than picking one figure."
     }
   },
   {
@@ -2344,8 +2368,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
       "validation_source": "roatansplashinn.com,anthonyskey.com,dreamwrecks.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Alternate mooring for El Aguila complex (75m/230ft cargo vessel, not 220ft). See El Aguila Wreck entry."
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: sources re-verified. This entry is treated as an alternate mooring/GPS point on the same El Aguila wreck complex described in the 'El Aguila Wreck' entry."
     }
   },
   {
@@ -2380,8 +2404,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": false,
       "validation_source": "scubaboard_research, roatan_dive_operators",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: scubaboard_research, roatan_dive_operators"
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: no site-specific source found for a distinct 4m-deep section of El Aguila; existing depth value is inconsistent with all sources found for the wreck (shallowest documented point is PADI's ~9m reference). Left unvalidated; depth not changed without a confirming source."
     }
   },
   {
@@ -2486,10 +2510,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "makarl.wordpress.com, scubaboard_research",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "validated": false,
+      "validation_source": "roatanmarinepark.org,makarl.wordpress.com",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: roatanmarinepark.org's dead /dive-sites/ page replaced with a live RMP blog post; combined with the previously-cited dive blog, this is two distinct real domains — still short of the 3-source bar. Demoted from validated=true. scubaboard_research (previously cited) is not a verifiable source and was dropped."
     }
   },
   {
@@ -2558,8 +2582,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "sundiversroatan.com, roatanmarinepark.org"
+      "validated": false,
+      "validation_source": "sundiversroatan.com, roatanmarinepark.org",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: no site-specific source found despite targeted searches today (including RMP's live blog posts on donor-named sites, which do not mention this site). Previously-cited sources (roatanmarinepark.org's dead /dive-sites/ page, and/or non-verifiable placeholder citations such as 'scubaboard_research' / 'dive_operator_sites' / 'divescover') could not be substantiated. Demoted from validated=true. The prior description on this page contained specific claims (an alternate name, a specific visibility figure, or similar invented detail) that could not be traced to any source found in this audit; that fabricated content has been removed and replaced with an honest, source-free description below."
     }
   },
   {
@@ -2574,10 +2600,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
+      "validated": false,
       "validation_source": "roatanmarinepark.org",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: roatanmarinepark.org's dead /dive-sites/ page replaced with two live RMP blog posts. Both same domain; still short of the 3-source bar. Demoted from validated=true."
     }
   },
   {
@@ -2628,10 +2654,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
+      "validated": false,
       "validation_source": "roatandivers.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: only one confirmed real domain found (roatandivers.com). Falls short of the 3-source bar; demoted from validated=true."
     }
   },
   {
@@ -2646,9 +2672,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "coconuttreedivers.com, roatan-octopusdiveschool.com, roatandivers.com",
-      "last_qa_date": "2026-06-27"
+      "validated": false,
+      "validation_source": "roatandivers.com,roatan-octopusdiveschool.com",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: two confirmed real domains today. Falls short of the 3-source bar; demoted from validated=true pending a third source."
     }
   },
   {
@@ -2717,10 +2744,10 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "roatansplashinn.com,roatan-diving.com,sundiversroatan.com",
+      "validation_source": "sundiversroatan.com,roatansplashinn.com,roatan-octopusdiveschool.com",
       "coordinate_source": "rmp_gps_map_2026",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Site is cavern/chimney chute (120ft chute at 50ft depth into circular cavern at 30ft). Nurse shark claim removed - not confirmed at this site. Confirmed marine life: spotted drum, glassy sweepers, crabs, lobsters, nudibranchs."
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: sources re-verified and consistent."
     }
   },
   {
@@ -2753,10 +2780,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
+      "validated": false,
       "validation_source": "roatanmarinepark.org",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: no site-specific source found despite targeted searches today (including RMP's live blog posts on donor-named sites, which do not mention this site). Previously-cited sources (roatanmarinepark.org's dead /dive-sites/ page, and/or non-verifiable placeholder citations such as 'scubaboard_research' / 'dive_operator_sites' / 'divescover') could not be substantiated. Demoted from validated=true. The prior description on this page contained specific claims (an alternate name, a specific visibility figure, or similar invented detail) that could not be traced to any source found in this audit; that fabricated content has been removed and replaced with an honest, source-free description below."
     }
   },
   {
@@ -2825,10 +2852,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "scubaboard_research, roatansplashinn.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "validated": false,
+      "validation_source": "roatansplashinn.com",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: only one confirmed real domain today (scubaboard_research is not a verifiable citation). Falls short of the 3-source bar; demoted from validated=true."
     }
   },
   {
@@ -2879,9 +2906,10 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, roatan-octopusdiveschool.com, roatandivers.com",
+      "validation_source": "roatan-diving.com,roatansplashinn.com,roatan-octopusdiveschool.com,roatanmarinepark.org",
       "coordinate_source": "rmp_gps_map_2026",
-      "last_qa_date": "2026-06-27"
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: sources re-verified and consistent. Roatan Marine Park confirms 'Richard's Realm' sits inside Spooky Channel, corroborating its location."
     }
   },
   {
@@ -2932,10 +2960,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
+      "validated": false,
       "validation_source": "roatanmarinepark.org",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: roatanmarinepark.org's dead /dive-sites/ page replaced with two live RMP blog posts confirming the naming story and location. Both same domain; still short of the 3-source bar. Demoted from validated=true."
     }
   },
   {
@@ -3075,10 +3103,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
+      "validated": false,
       "validation_source": "roatanmarinepark.org",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: roatanmarinepark.org's dead /dive-sites/ page replaced with two live RMP blog posts (which give slightly different dedication details — one credits 'Dive Master Consuelo' generally, the other 'Mary and David Casement's Dive Master' specifically; both are noted). Both posts share one domain; still short of the 3-source bar. Demoted from validated=true."
     }
   },
   {
@@ -3201,9 +3229,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "scubaboard_research, roatan-diving.com, dive_operator_sites",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: ['dive_operator_sites']"
+      "validation_source": "roatan-diving.com,cocoviewresort.com,sundiversroatan.com",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: sources re-verified and consistent."
     }
   },
   {
@@ -3292,8 +3320,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": false,
       "validation_source": "rmp_gps_only_no_published_source",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "No published information found in any source. Asian origin claim removed - unverified speculation."
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: targeted searches (vessel name + 'Roatan' + 'wreck'/'dive site') repeated today, no site-specific source found beyond RMP/OSM GPS listing. Left unvalidated; no new content written."
     }
   },
   {
@@ -3326,10 +3354,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
+      "validated": false,
       "validation_source": "roatanmarinepark.org",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: no site-specific source found despite targeted searches today (including RMP's live blog posts on donor-named sites, which do not mention this site). Previously-cited sources (roatanmarinepark.org's dead /dive-sites/ page, and/or non-verifiable placeholder citations such as 'scubaboard_research' / 'dive_operator_sites' / 'divescover') could not be substantiated. Demoted from validated=true. The prior description on this page contained specific claims (an alternate name, a specific visibility figure, or similar invented detail) that could not be traced to any source found in this audit; that fabricated content has been removed and replaced with an honest, source-free description below."
     }
   },
   {
@@ -3418,8 +3446,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
       "validation_source": "roatansplashinn.com,roatantourismbureau.com,dreamwrecks.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "91m/300ft freighter confirmed. Stern tilted to starboard. Cargo hold collapsed."
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: sources re-verified. Fixed a duplicated markdown heading left over from the prior pass."
     }
   },
   {
@@ -3434,10 +3462,10 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "roatansplashinn.com,roatantourismbureau.com,dreamwrecks.com,anthonyskey.com,sundiversroatan.com",
+      "validation_source": "roatansplashinn.com,roatantourismbureau.com,dreamwrecks.com,anthonyskey.com",
       "coordinate_source": "rmp_gps_map_2026",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Vessel is 91m/300ft freighter (not 73m container ship). Sunk 2002 after fire. Cargo hold has partially collapsed."
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: sources re-verified live, content confirmed consistent."
     }
   },
   {
@@ -3488,10 +3516,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
+      "validated": false,
       "validation_source": "roatanmarinepark.org",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: roatanmarinepark.org's /dive-sites/ page (previously cited) returns 404 and is dead; replaced with two live RMP blog posts confirming this site's naming story. Both are the same domain (roatanmarinepark.org), so this remains under the 3-distinct-domain bar; demoted from validated=true pending a second, independent domain."
     }
   },
   {
@@ -3587,8 +3615,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "openstreetmap_only_no_published_source",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "No published information found. Marine life description was regional inference, removed."
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: targeted searches (vessel name + 'Roatan' + 'wreck'/'dive site') repeated today, no site-specific source found beyond RMP/OSM GPS listing. Left unvalidated; no new content written."
     }
   },
   {
@@ -3749,8 +3777,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": false,
       "validation_source": "rmp_gps_only_no_published_source",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "No published information found as a named wreck dive. Military vessel claim removed - unverified speculation."
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: targeted searches (vessel name + 'Roatan' + 'wreck'/'dive site') repeated today, no site-specific source found beyond RMP/OSM GPS listing. Left unvalidated; no new content written."
     }
   },
   {
@@ -3767,8 +3795,8 @@
       "coordinate_source": "rmp_gps_map_2026",
       "validated": false,
       "validation_source": "rmp_gps_only_no_published_source",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "No published information found. Argentine registry claim removed - unverified speculation."
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: targeted searches (vessel name + 'Roatan' + 'wreck'/'dive site') repeated today, no site-specific source found beyond RMP/OSM GPS listing. Left unvalidated; no new content written."
     }
   },
   {
@@ -3783,9 +3811,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "roatan-diving.com, dive_operator_sites, divescover",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: ['dive_operator_sites']"
+      "validation_source": "roatan-diving.com,sundiversroatan.com,roatan-octopusdiveschool.com,roatanclearwater.com",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: sources re-verified and consistent."
     }
   },
   {
@@ -3836,10 +3864,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
+      "validated": false,
       "validation_source": "roatanmarinepark.org",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: roatanmarinepark.org's dead /dive-sites/ page replaced with two live RMP blog posts. Both same domain; still short of the 3-source bar. Demoted from validated=true."
     }
   },
   {
@@ -3884,7 +3912,7 @@
     "lon": -86.5007403,
     "osm_id": 20255613,
     "osm_type": "relation",
-    "depth": 30,
+    "depth": 20,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -3902,8 +3930,8 @@
       "addedBy": "extended_overpass",
       "validated": true,
       "validation_source": "roatantourismbureau.com,payamag.com,shipspotting.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Beached in Dixon Cove 1981, NOT an underwater dive wreck. 107m long, built 1951 Germany as Rimon for Zim Lines. Prince of Wales claim removed - no documentary basis."
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: sources re-verified, content confirmed consistent. Fixed an internal inconsistency — the JSON/frontmatter listed 30m maxDepth while the body text (correctly) describes the stern at 18-20m; corrected the data field to 20m to match the sourced text."
     }
   },
   {
@@ -4277,7 +4305,9 @@
       "coordinate_source": "rmp_canonical_kml_2026_03",
       "validated": false,
       "validation_source": "rmp_canonical_kml_only",
-      "depth_inferred_from_name": false
+      "depth_inferred_from_name": false,
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: targeted searches (vessel name + 'Roatan' + 'wreck'/'dive site') repeated today, no site-specific source found beyond RMP/OSM GPS listing. Left unvalidated; no new content written."
     }
   },
   {
@@ -4547,12 +4577,12 @@
       "source": "rmp_canonical_2026_03",
       "addedBy": "rmp_canonical_kml_import",
       "coordinate_source": "rmp_canonical_kml_2026_03",
-      "validated": true,
+      "validated": false,
       "validation_source": "roatan-diving.com",
       "depth_inferred_from_name": false,
       "validated_at": "2026-04-19",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: roatan-diving.com's dive-sites page (re-fetched today) lists 'Blue Channel' but does not mention a separately-named 'The Channel' site — the prior single citation does not actually corroborate this entry. Demoted from validated=true; description softened to remove the unconfirmed 'frequented by many West End dive operators' claim."
     }
   },
   {
@@ -4873,12 +4903,12 @@
       "source": "rmp_canonical_2026_03",
       "addedBy": "rmp_canonical_kml_import",
       "coordinate_source": "rmp_canonical_kml_2026_03",
-      "validated": true,
+      "validated": false,
       "validation_source": "sundiversroatan.com",
       "depth_inferred_from_name": false,
       "validated_at": "2026-04-19",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: only one confirmed real domain today. Falls short of the 3-source bar; demoted from validated=true."
     }
   },
   {
@@ -5922,7 +5952,7 @@
     "name": "Newman's Wall",
     "lat": 16.3535771,
     "lon": -86.4350463,
-    "depth": 18,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -5931,11 +5961,11 @@
       "addedBy": "rmp_canonical_kml_import",
       "coordinate_source": "rmp_canonical_kml_2026_03",
       "validated": true,
-      "validation_source": "cocoviewresort.com",
+      "validation_source": "cocoviewresort.com,scuba.spanglers.com,bottomlessdivers.com",
       "depth_inferred_from_name": false,
       "validated_at": "2026-04-19",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: expanded from a single source (cocoviewresort.com) to three confirmed real domains. Average depth corrected to 30m per Spanglers' Scuba (was 18m)."
     }
   },
   {
@@ -6079,16 +6109,18 @@
     "lat": 16.348363,
     "lon": -86.446089,
     "depth": 18,
-    "site_type": "reef",
+    "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "rmp_canonical_2026_03",
       "addedBy": "rmp_canonical_kml_import",
       "coordinate_source": "rmp_canonical_kml_2026_03",
-      "validated": false,
-      "validation_source": "rmp_canonical_kml_only",
-      "depth_inferred_from_name": false
+      "validated": true,
+      "validation_source": "reefsmartguides.com,cocoviewresort.com,aggressor.com",
+      "depth_inferred_from_name": false,
+      "last_qa_date": "2026-09-04",
+      "qa_note": "Re-audit 2026-09-04: MAJOR CORRECTION — site_type was incorrectly 'reef'; this is a documented wreck. Vessel type and sinking year conflict across sources (fishing boat sunk 1994 per Reef Smart Guides, vs. other regional accounts describing a cargo/shrimp boat scuttled around 1994-1995); this conflict is stated explicitly rather than resolved by guessing."
     }
   },
   {

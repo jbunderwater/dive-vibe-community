@@ -14,9 +14,9 @@
       "name": "MuMart (museo sommerso)",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubadiving.com,hotelgabbianoazzurro.com,tripadvisor.com",
-      "description": "Underwater art museum with contemporary sculptures anchored on sandy seabed at Golfo Aranci, 4-7m depth",
-      "last_qa_date": "2026-06-29"
+      "validation_source": "hotelgabbianoazzurro.com,golfoaranci.eu,artribune.com",
+      "description": "Underwater art museum with 14 contemporary sculptures anchored on sandy seabed at Golfo Aranci, 4-7m depth. Inaugurated 26 July 2013 in the presence of art critic Vittorio Sgarbi.",
+      "last_qa_date": "2026-09-04"
     }
   },
   {
@@ -38,9 +38,9 @@
       "sport": "scuba_diving",
       "surface": "pebblestone",
       "validated": "true",
-      "validation_source": "calamariolu.it,sardegnaturismo.it,protecsardinia.com",
-      "description": "Protected Gulf of Orosei cove with cave-riddled limestone cliffs; walls extend below waterline with caverns and narrow tunnels. Visibility frequently exceeds 30m. Groupers common at cave entrances. Accessible only by boat or long coastal walk.",
-      "last_qa_date": "2026-06-29"
+      "validation_source": "calamariolu.it,sardegnaturismo.it,mareogliastra.com",
+      "description": "Protected Gulf of Orosei cove with cave-riddled limestone cliffs; south wall walls extend below waterline with caverns and narrow tunnels. Visibility in the Gulf of Orosei typically runs 10-30m, averaging around 20m (best in summer). Groupers, barracuda, and sea bream commonly reported near the cave entrances. Accessible only by boat or a long coastal walk.",
+      "last_qa_date": "2026-09-04"
     }
   },
   {
@@ -56,8 +56,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "wikipedia.org,sardegnaturismo.it,caveatlas.com",
-      "description": "Largest marine cave in Mediterranean; full system approximately 4 km (Wikipedia) with ~10 entrances; individual dive routes cover 300-500m of passage. Depths 0-35m. Walls colonised by red coral and Leptopsammia pruvoti yellow cup corals; air chambers inside. Lobsters, conger eels, moray eels, groupers. Within Capo Caccia-Isola Piana MPA (est. 2002).",
-      "last_qa_date": "2026-06-29"
+      "description": "Widely cited as the largest marine cave in the Mediterranean, carved into the limestone of Capo Caccia. Sources disagree on scale: Wikipedia and CaveAtlas give a total system length of approximately 4 km with around 10 entrances, arches and tunnels, while SardegnaTurismo describes a shorter ~500m main tunnel (300m primary passage plus side chambers) with 3 main entrances -- likely a difference in how the passage network is measured/mapped. Individual dive routes typically cover 300-500m of passage. Depths 0-35m. Walls colonised by red coral and Leptopsammia pruvoti yellow cup corals; air chambers inside. Lobsters, conger eels, moray eels, and groupers reported by both sources. Within Capo Caccia-Isola Piana MPA (est. 2002).",
+      "last_qa_date": "2026-09-04"
     }
   },
   {
@@ -72,9 +72,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "archimete.it,wikipedia.org,sardegnaturismo.it",
-      "description": "Dramatic vertical walls to 30m in Capo Caccia-Isola Piana MPA (est. 2002); caves, cracks, and overhangs carpeted in red coral and encrusting sponges. Moray eels and large groupers occupy deeper crevices. Barracuda patrol open water.",
-      "last_qa_date": "2026-06-29"
+      "validation_source": "archimete.it,wikipedia.org,padi.com",
+      "description": "Dramatic vertical walls to 30m in Capo Caccia-Isola Piana MPA (est. 2002); caves, cracks, and overhangs carpeted in red coral and encrusting sponges. Same headland as the Nereo Cave system; exterior walls share its biological richness -- barracuda patrol open water while moray eels and large groupers occupy deeper crevices.",
+      "last_qa_date": "2026-09-04"
     }
   },
   {
@@ -89,9 +89,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "bluforia.com,protecsardinia.com,fourjandals.com",
-      "description": "WWII German KriegsTransporter KT12, 834 tonnes, approximately 68 metres length (Italian dive operator sources cite 68m; some sources give 60m). Built OTO Livorno, commissioned May 1943. Torpedoed June 10 1943 by British submarine HMS Safari on maiden voyage with fuel drums and vehicles for North Africa. Bow separated and settled 700-800m from main hull; both sections rest at 27-34m off Orosei. Stern gun, propeller, rudder intact; cargo cranes on seabed. Groupers, moray eels, scorpionfish, slipper lobsters resident.",
-      "last_qa_date": "2026-06-29"
+      "validation_source": "bluforia.com,protecsardinia.com,fourjandals.com,wannadive.net",
+      "description": "WWII German KriegsTransporter KT12, built at the OTO shipyards in Livorno and delivered 19 May 1943, commissioned into the Kriegsmarine. Torpedoed 10 June 1943 by the British submarine HMS Safari on her maiden voyage, carrying fuel drums and vehicles for North Africa, roughly two miles off Marina di Orosei (one source gives 10 May 1943, but this is contradicted by the majority of independently reviewed accounts). Tonnage is reported as 834 tons by most sources; one dive operator estimates 1,200 tons. Exact length is not consistently documented -- only one source reviewed (Four Jandals) gives a figure, approximately 60m/225ft, which could not be corroborated elsewhere, so it is treated as unconfirmed. The torpedo severed the bow, which sank immediately roughly 300m from the main hull (not 700-800m as previously recorded); the bowless stern burned for about 40-41 minutes before sinking. Both sections rest on sand at 24-34m depth. Stern gun, propeller, and rudder remain visible on the main hull; cargo cranes and scattered cargo fragments lie nearby. Groupers, moray eels, scorpionfish, slipper lobsters, and nudibranchs are commonly reported by divers at the wreck.",
+      "last_qa_date": "2026-09-04"
     }
   },
   {
@@ -107,8 +107,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "tavolaradiving.it,divessi.com,sardegnaturismo.it",
-      "description": "Tavolara-Punta Coda Cavallo MPA (est. 1997), 15,000 hectares, 76 km of coastline. Paleozoic granite formations; dusky groupers, moray eels, barracuda, damselfish; regulated zones with mooring buoys.",
-      "last_qa_date": "2026-06-29"
+      "description": "Tavolara-Punta Coda Cavallo MPA established 12 December 1997, covering approximately 15,000 hectares of sea along the coast of Olbia, Loiri Porto San Paolo, and San Teodoro (sources vary on total coastline length -- roughly 40-80km depending on how it is measured). Paleozoic granite formations; dusky groupers, moray eels, barracuda, and damselfish. Diving regulated across three zones (A/B/C) with designated mooring buoys.",
+      "last_qa_date": "2026-09-04"
     }
   },
   {
@@ -125,7 +125,7 @@
       "validated": "true",
       "validation_source": "tavolaradiving.it,ciaosardinia.com,padi.com",
       "description": "Three limestone pinnacles 300m east of Punta del Papa at Tavolara Island; Papa 1 shallowest at 15m, Papa 2 at 24m, base 45-50m. Damselfish clouds, large dusky groupers, barracuda, red and yellow gorgonian fans. Current always present, sometimes strong; Nitrox recommended. Two mooring buoys; anchoring prohibited.",
-      "last_qa_date": "2026-06-29"
+      "last_qa_date": "2026-09-04"
     }
   },
   {
@@ -141,8 +141,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "sardiniapoint.it,villasimius.com,padi.com",
-      "description": "Granite island in Capo Carbonara MPA; granite boulders create deep fissures to 40m. Madonna del Naufrago statue at 11m (placed 1979); granite monolith La Nave Romana to 40m; red gorgonian colony at Sandbank of Mezzo. Groupers, barracuda, sea bream, lobsters.",
-      "last_qa_date": "2026-06-29"
+      "description": "Granite island in Capo Carbonara MPA (est. 1998); granite boulders create deep fissures to 40m. Madonna del Naufrago statue rests at 11m depth (placed 8 July 1979, sculpted by Pinuccio Sciola from pink Ozieri trachyte); granite monolith La Nave (Roman Ship rock) descends to 40m. Groupers, barracuda, dentex, amberjack, sea bream, moray eels, octopus, and lobsters reported at the site.",
+      "last_qa_date": "2026-09-04"
     }
   },
   {
@@ -158,8 +158,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "argonauta.it,protecsardinia.com,sardegnaturismo.it",
-      "description": "Gateway to Bue Marino sea caves on Gulf of Orosei; halocline from fresh spring water meeting salt sea inside cave chambers; depths to ~9m inside. Stalactites formed when caverns were above sea level. Rocky reef and posidonia meadows outside cave entrance. Boat access required; cave diving requires guided access.",
-      "last_qa_date": "2026-06-29"
+      "description": "Gateway to the Bue Marino sea caves on the Gulf of Orosei; a halocline forms where fresh spring water meets salt sea inside the cave chambers. Stalactites formed when the caverns were above sea level. Rocky reef and posidonia meadows outside the cave entrance. Boat access required; cave diving requires guided access. No site-specific marine life reports were found beyond general Mediterranean reef fish outside the cave entrance.",
+      "last_qa_date": "2026-09-04"
     }
   },
   {
@@ -174,9 +174,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "subaquadive.it,escursi.com,scubago.com",
-      "description": "Capo Carbonara MPA with granite boulders and pinnacles; large dusky groupers (Epinephelus marginatus), barracuda schools, corb, sparidae; visibility often exceeds 30m",
-      "last_qa_date": "2026-06-29"
+      "validation_source": "subaquadive.it,escursi.com,sardiniapoint.it",
+      "description": "Capo Carbonara MPA (est. 1998) with granite boulders and pinnacles; dusky groupers (Epinephelus marginatus), barracuda schools, dentex, corb, and sparidae reported by local operators; visibility often exceeds 30m.",
+      "last_qa_date": "2026-09-04"
     }
   },
   {
@@ -192,8 +192,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "portoconte.it,sardegnaturismo.it,archimete.it",
-      "description": "Calm natural bay within Capo Caccia-Isola Piana MPA; posidonia oceanica meadows providing habitat for molluscs, crustaceans, and lobsters; rocky formations carry sea fans and encrusting corals. Dive access requires authorization via MPA-approved operators.",
-      "last_qa_date": "2026-06-29"
+      "description": "Calm natural bay within Capo Caccia-Isola Piana MPA; posidonia oceanica meadows provide habitat for molluscs and crustaceans, while rocky formations carry sea fans and encrusting corals. Local operators report grouper, dentex, and conger/moray eels in the wider bay, along with red coral visible from as shallow as 4m at some points. Dive access requires authorization via MPA-approved operators.",
+      "last_qa_date": "2026-09-04"
     }
   }
 ]

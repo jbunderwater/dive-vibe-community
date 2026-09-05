@@ -28,4 +28,4 @@ Cala Gonone is the gateway to the Bue Marino sea caves on Sardinia's Gulf of Oro
 - **Maximum Depth**: 15 meters
 
 ---
-*Sources: [Argonauta Diving Cala Gonone](https://www.argonauta.it/en/activities/scuba-diving/), [Protec Sardinia - Bue Marino](https://protecsardinia.com/bue-marino/?lang=en), [TripAdvisor - Grotta del Bue Marino](https://www.tripadvisor.com/Attraction_Review-g608907-d3219116-Reviews-Grotta_del_Bue_Marino-Cala_Gonone_Dorgali_Province_of_Nuoro_Sardinia.html). Last updated 2026-06-29.*
+*Sources: [Argonauta Diving Cala Gonone](https://www.argonauta.it/en/activities/scuba-diving/), [Protec Sardinia - Bue Marino](https://protecsardinia.com/bue-marino/?lang=en), [SardegnaTurismo - Grotta del Bue Marino](https://www.sardegnaturismo.it/en/explore/bue-marino-cave). Last updated 2026-09-04.*

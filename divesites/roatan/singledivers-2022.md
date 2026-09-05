@@ -3,7 +3,7 @@ name: Singledivers 2022
 lat: 16.277882
 lng: -86.602894
 difficulty: Beginner
-maxDepth: 12
+maxDepth: 6
 entryType: boat
 siteType: reef
 ref: null
@@ -11,29 +11,25 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Singledivers 2022
+# Singledivers 2022
 
-Singledivers 2022 is a reef dive site in Roatán, Caribbean.
+*Singledivers 2022 is the sixth Roatan Marine Park donor-named dive site sponsored by the Singledivers.com online community, located east of the West Bay channel in shallow water, per two Roatan Marine Park blog posts.*
 
 ## Overview
 
-Singledivers 2022 is the second Roatan Marine Park mooring site donated by the singledivers.com community, positioned in the shallows to the east of the West Bay channel. At 12 meters maximum depth, the site offers a relaxed shallow reef experience with coral formations and sandy areas that support a range of Caribbean reef species. Turtles, stingrays, and schools of blue tangs and sergeant majors are commonly seen here. The protected shallow location means conditions are typically calm with visibility averaging 20-30 meters.
+Singledivers 2022 is the sixth Roatan Marine Park donor-named dive site sponsored by the Singledivers.com online community, located east of the West Bay channel in shallow water, per two Roatan Marine Park blog posts.
 
 ## Site Information
 
-- **Location**: Roatán, Caribbean
+- **Location**: Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
+- **Maximum Depth**: 6 meters
 
-## Dive Profile
+## Marine Life
 
-The site offers a gentle reef terrain suitable for relaxed exploration. Begin your dive along the reef top and navigate through coral formations and sandy patches. The most abundant marine life is typically found between 5-18 meters. Take your time to explore cleaning stations and look for camouflaged creatures in the sand.
-
-## Photography
-
-The colorful reef structures offer excellent macro photography opportunities. Look for small critters hiding among coral heads and anemones. Wide-angle shots work well to capture the vibrant reef landscape and schooling fish.
+No site-specific marine-life source was found for Singledivers 2022. Roatán's regional reef fauna (Caribbean reef fish, occasional rays and turtles) may apply, but no confirmed site-specific sightings are reported here.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Roatan Marine Park – New Dive Sites in 2022](https://www.roatanmarinepark.org/post/new-dive-sites-in-2022), [Roatan Marine Park – Dive Sites With Meaning](https://www.roatanmarinepark.org/post/dive-sites-with-meaning-stories). Last updated 2026-09-04.*

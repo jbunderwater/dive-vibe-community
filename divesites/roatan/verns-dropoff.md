@@ -5,27 +5,31 @@ lng: -86.596117
 difficulty: Intermediate
 maxDepth: 30
 entryType: boat
-siteType: wall
+siteType: drift
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## Vern's Dropoff
+# Vern's Dropoff
 
-Vern's Dropoff is a wall dive site in Roatán, Caribbean.
+*Vern's Drop-off (listed by Roatan Divers as "Werns' Dropoff") is a drift dive at Open Water level, part of the West End wall system, often combined with Moonlight and Dixies on a single drift.*
 
 ## Overview
 
-Vern's Drop Off completes the popular drift sequence with Moonlight and Dixie's, serving as the final stretch of a wall dive that ranks among the West End's most requested. The drop-off here is steep and clean, falling away beneath overhanging coral heads where yellowtail snappers gather in loose schools. Divers drifting in from Moonlight arrive along a wall decorated with purple tube sponges and orange encrusting sponges, with the occasional reef shark cruising the deeper water. The current that makes the drift possible also brings nutrients that keep the wall alive with color and movement.
+Vern's Drop-off (listed by Roatan Divers as "Werns' Dropoff") is a drift dive at Open Water level, part of the West End wall system, often combined with Moonlight and Dixies on a single drift.
 
 ## Site Information
 
-- **Location**: Roatán, Caribbean
+- **Location**: Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 
+## Marine Life
+
+No site-specific marine-life source was found for Vern's Dropoff. Roatán's regional reef fauna (Caribbean reef fish, occasional rays and turtles) may apply, but no confirmed site-specific sightings are reported here.
+
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Roatan Divers – Best Dive Sites in Roatan](https://roatandivers.com/blog/the-best-dive-sites-in-roatan), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites). Last updated 2026-09-04.*

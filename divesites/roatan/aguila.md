@@ -11,21 +11,25 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Aguila
+# Aguila
 
-Aguila is a wreck dive site in Roatán, Caribbean.
+*Aguila is an alternate mooring point on the El Aguila wreck complex near Sandy Bay, giving access to a section of the vessel that Hurricane Mitch broke into three pieces in 1998.*
 
 ## Overview
 
-Aguila serves as an alternate mooring for the El Aguila wreck complex near Sandy Bay, providing access to one of the three sections of a 75-meter (230-foot) cargo vessel intentionally sunk in 1997. Hurricane Mitch broke the ship into three pieces in 1998. This mooring point gives access to sections at intermediate depth (around 24 meters) while the deepest sections of the main wreck reach 33 meters. The hull surfaces are encrusted with sponges and corals after nearly three decades submerged. Groupers, moray eels, and garden eels are reported in the surrounding sand flats. See El Aguila Wreck for full site history and details.
+Aguila is an alternate mooring point on the El Aguila wreck complex near Sandy Bay, giving access to a section of the vessel that Hurricane Mitch broke into three pieces in 1998. See the main "El Aguila Wreck" entry for full vessel history, including the length discrepancy across sources (60m per PADI vs 75m per Splash Inn/Anthony's Key/DreamWrecks). This mooring accesses an intermediate-depth section of the wreck.
 
 ## Site Information
 
-- **Location**: Roatán, Caribbean
+- **Location**: Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
 
+## Marine Life
+
+Groupers, moray eels and garden eels are reported in the sand flats surrounding the wreck sections by Splash Inn and Anthony's Key Resort.
+
 ---
-*Sources: [Splash Inn Dive Resort – El Aguila Shipwreck](https://roatansplashinn.com/en/roatan-diving-sites/el-aguila-shipwreck/), [Anthony's Key Resort – El Aguila](https://anthonyskey.com/el-aguila/), [DreamWrecks – El Aguila Roatan](https://dreamwrecks.com/el-aguila-roatan-shipwreck). Last updated 2026-06-27.*
+*Sources: [Splash Inn Dive Resort – El Aguila Shipwreck](https://roatansplashinn.com/en/roatan-diving-sites/el-aguila-shipwreck/), [Anthony's Key Resort – El Aguila](https://anthonyskey.com/el-aguila/), [DreamWrecks – El Aguila Roatan](https://dreamwrecks.com/el-aguila-roatan-shipwreck). Last updated 2026-09-04.*

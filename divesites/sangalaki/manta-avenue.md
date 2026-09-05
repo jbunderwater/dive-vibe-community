@@ -17,7 +17,7 @@ Manta Avenue is a reef dive site on the east side of Sangalaki Island, forming t
 
 ## Overview
 
-Manta Avenue opens near The Lighthouse on Sangalaki's eastern shore and features a staircase-like reef topography — a succession of coral steps descending from shallow crest to a sandy flat. This "coral avenue" structure channels both mantas and divers along the same route: reef manta rays (*Manta alfredi*) travel the corridor to feeding grounds and cleaning stations, while divers explore the steps that host an unusually rich community of small reef species. The site connects directly to Manta Parade to the north, allowing longer drift dives along the manta highway in suitable current conditions.
+Manta Avenue opens just east of The Lighthouse marker on Sangalaki's eastern shore and features a staircase-like reef topography — a succession of coral steps descending from shallow crest to a sandy flat. This "coral avenue" structure channels both mantas and divers along the same route: reef manta rays (*Manta alfredi*) travel the corridor to feeding grounds and cleaning stations, while divers explore the steps that host an unusually rich community of small reef species. Asia Dive Site's site guide places two small wooden boat wrecks directly within Manta Avenue itself, in the sandy-track area near the Lighthouse entry point. The site connects directly to Manta Parade to the north, allowing longer drift dives along the manta highway in suitable current conditions.
 
 ## Marine Life
 
@@ -40,7 +40,7 @@ Boat entry only. Divers descend at the Lighthouse marker and navigate north alon
 
 - The coral steps are excellent for spotting small cryptic species — scan slowly and low rather than rushing along at manta eye-level.
 - The site transitions naturally into Manta Parade on the same dive if currents allow; confirm the plan with your guide beforehand.
-- The adjacent Lighthouse Reef site (a separate dive) features two small wooden boat wrecks — ask your dive guide about combining the two sites on a single outing.
+- Ask your guide to route past the two small wooden boat wrecks near the Lighthouse entry point — they sit within Manta Avenue itself and host small reef fish and encrusting growth.
 
 ## Safety Considerations
 
@@ -60,7 +60,7 @@ The coral staircase creates natural framing for wide-angle reef compositions. Ma
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-09-04
 
 ---
-*Sources: [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Asia Dive Site – Sangalaki](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/sangalaki.php), [Maratua.com – Sangalaki](https://www.maratua.com/en/nearby-islands/sangalaki), [Asia Diving Vacation – Sangalaki](https://asiadivingvacation.com/diving/sangalaki-island). Last updated 2026-06-27.*
+*Sources: [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Asia Dive Site – Sangalaki](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/sangalaki.php), [Maratua.com – Sangalaki](https://www.maratua.com/en/nearby-islands/sangalaki), [Asia Diving Vacation – Sangalaki](https://asiadivingvacation.com/diving/sangalaki-island). Last updated 2026-09-04.*

@@ -17,7 +17,7 @@ Villasimius Marine Park is a reef dive site in Sardinia, Europe.
 
 ## Overview
 
-The Villasimius Marine Park encompasses the Capo Carbonara headland and surrounding waters in southeastern Sardinia, protecting granite reef formations, posidonia meadows, and a rich assemblage of Mediterranean fish species. Dusky groupers of considerable size are regularly seen here, along with barracuda, dentex, and large sea bream that have recovered in number since the park's creation. The park's shallow inner reef areas are excellent for snorkeling while the deeper granite pinnacles and the nearby dive sites around Isola dei Cavoli attract more experienced divers looking for walls and pelagic encounters.
+The Villasimius Marine Park encompasses the Capo Carbonara headland and surrounding waters in southeastern Sardinia (Capo Carbonara MPA established 1998), protecting granite reef formations, posidonia meadows, and a rich assemblage of Mediterranean fish species. Local operators report dusky groupers of considerable size here, along with barracuda schools, dentex, corb, and sparidae (sea bream family) that have recovered in number since the park's creation. The park's shallow inner reef areas are excellent for snorkeling while the deeper granite pinnacles and the nearby dive sites around Isola dei Cavoli attract more experienced divers looking for walls and pelagic encounters.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ The Villasimius Marine Park encompasses the Capo Carbonara headland and surround
 - **Maximum Depth**: 12 meters
 
 ---
-*Sources: [SubAqua Dive Service Villasimius - Capo Carbonara MPA](https://www.subaquadive.it/en/about-us/capo-carbonara-marine-protected-area), [Escursi - Diving Capo Carbonara](https://www.escursi.com/en/experiences/water-sports/diving-capo-carbonara-villasimius), [Sardinia Point - Diving Villasimius](https://sardiniapoint.it/en/new-styles-of-tourism/diving-and-snorkellingdiving-areasvillasimius/). Last updated 2026-06-29.*
+*Sources: [SubAqua Dive Service Villasimius - Capo Carbonara MPA](https://www.subaquadive.it/en/about-us/capo-carbonara-marine-protected-area), [Escursi - Diving Capo Carbonara](https://www.escursi.com/en/experiences/water-sports/diving-capo-carbonara-villasimius), [Sardinia Point - Diving Villasimius](https://sardiniapoint.it/en/new-styles-of-tourism/diving-and-snorkellingdiving-areasvillasimius/). Last updated 2026-09-04.*

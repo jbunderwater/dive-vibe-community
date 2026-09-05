@@ -13,9 +13,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "seasaba.com,sabapark.org,dan.org,scubaboard.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "DEPTH CORRECTED: Sea Saba gives mooring 20ft/7m, max 100ft/30m. Previous value of 40m was wrong — corrected to 30m. Wall confirmed by multiple sources. Tubular sponges, elephant ear sponges, black coral on wall. DAN Alert Diver: archway leading into boulder maze at shallow end; wall drops to 100ft. Multilevel dive: deep wall at 30m, overhang return at 18m. Mooring top at 7m not 10m."
+      "validation_source": "seasaba.com,sabapark.org,dan.org,worldofdiving.com,scubaboard.com",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "DEPTH CORRECTED: Sea Saba gives mooring 20ft/7m, max 100ft/30m. Previous value of 40m was wrong — corrected to 30m. Wall confirmed by multiple sources. Tubular sponges, elephant ear sponges, black coral on wall. DAN Alert Diver: archway leading into boulder maze at shallow end; wall drops to 100ft. Multilevel dive: deep wall at 30m, overhang return at 18m. Mooring top at 7m not 10m. RE-AUDIT 2026-09-04: seasaba.com redesigned its site — the old per-site page (saba-19-tent-reef-wall) now redirects to seasaba.com/dive-sites#tent-reef, a consolidated area page with no site-specific depth/species detail; footer link updated to the live URL. All facts re-confirmed against DAN Alert Diver and World of Diving (scorpionfish, white-nose pipefish, frogfish, queen angelfish, barracuda all independently confirmed by worldofdiving.com). No factual corrections needed. worldofdiving.com added to validation_source (was already cited in the markdown footer but missing from this tag)."
     },
     "depth_max": 30
   },
@@ -33,9 +33,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "seasaba.com,sabapark.org,dan.org,worldofdiving.com,endlesscaribbean.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "DEPTH CONFIRMED: Sea Saba mooring 95ft/29m, max 110ft/35m. Horseshoe-shaped pinnacle confirmed. Caribbean reef sharks and nurse sharks confirmed at site by multiple sources. Manta ray claim removed — insufficient site-specific sourcing; general Saba/Caribbean claim only. Named as 'arguably the most legendary dive site on Saba' per DAN Alert Diver. Nitrox recommended per DAN."
+      "validation_source": "seasaba.com,sabapark.org,dan.org,worldofdiving.com,endlesscaribbean.com,padi.com",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "DEPTH CONFIRMED: Sea Saba mooring 95ft/29m, max 110ft/35m. Horseshoe-shaped pinnacle confirmed. Caribbean reef sharks and nurse sharks confirmed at site by multiple sources. Manta ray claim removed — insufficient site-specific sourcing; general Saba/Caribbean claim only. Named as 'arguably the most legendary dive site on Saba' per DAN Alert Diver. Nitrox recommended per DAN. RE-AUDIT 2026-09-04: seasaba.com redesigned its site — the old per-site page now redirects to seasaba.com/dive-sites#pinnacles; footer link updated. padi.com/dive-site/saba/third-encounter/ added as a live independent source — it independently confirms Caribbean reef sharks, nurse sharks, manta rays during safety stops, and a resident Nassau grouper (PADI names it 'Charlie', a single-source detail added to markdown with attribution, not treated as cross-confirmed). No factual corrections needed."
     }
   },
   {
@@ -53,8 +53,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "seasaba.com,padi.com,endlesscaribbean.com,funseaker.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "DEPTH CORRECTED: Sea Saba gives mooring 40ft/12m, max 80ft/24m. Previous value of 25m corrected to 24m. Volcanic vents confirmed: magma sends gases through sand, mustard/brown coloring on spots. Resident nurse shark confirmed by Sea Saba. Seagrass beds at shallow section confirmed. Garden eels, stingrays, flying gurnards confirmed. Night diving highlight (ostracod bioluminescence). Volcano described as 'between eruption periods' not extinct."
+      "last_qa_date": "2026-09-04",
+      "qa_note": "DEPTH CORRECTED: Sea Saba gives mooring 40ft/12m, max 80ft/24m. Previous value of 25m corrected to 24m. Volcanic vents confirmed: magma sends gases through sand, mustard/brown coloring on spots. Resident nurse shark confirmed by Sea Saba. Seagrass beds at shallow section confirmed. Garden eels, stingrays, flying gurnards confirmed. Night diving highlight (ostracod bioluminescence). Volcano described as 'between eruption periods' not extinct. RE-AUDIT 2026-09-04: seasaba.com redesigned its site — old per-site page now redirects to seasaba.com/dive-sites#ladder-bay; footer link updated. padi.com/dive-site/saba/hot-springs/ independently re-confirms the 'extremely friendly resident Nurse Shark' description, geothermal vent explanation, garden eels, stingrays, flying gurnards, and night-diving bioluminescence — this fact survives the seasaba.com redesign because PADI's page preserves it independently. No factual corrections needed."
     },
     "depth_max": 24
   },
@@ -72,9 +72,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "seasaba.com,dan.org,endlesscaribbean.com,scubaboard.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "DEPTH CORRECTED: Sea Saba gives mooring 40ft/12m, max 80ft/24m. Previous value of 20m corrected to 24m. SITE TYPE CORRECTED: changed from 'pinnacle' to 'reef' — it is a reef formed over a lava flow jumble with 10ft ridges (not true pinnacles). Specific marine life confirmed: yellowhead jawfish, pikeblennies, lancer dragonets, tarpons, nudibranchs, flamingo tongue shells, frogfish. DAN confirms: sand chutes transitioning east from ridges. Nurse sharks also confirmed at Ladder Bay area per ScubaBoard."
+      "validation_source": "seasaba.com,dan.org,endlesscaribbean.com,scubaboard.com,padi.com",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "DEPTH CORRECTED: Sea Saba gives mooring 40ft/12m, max 80ft/24m. Previous value of 20m corrected to 24m. SITE TYPE CORRECTED: changed from 'pinnacle' to 'reef' — it is a reef formed over a lava flow jumble with 10ft ridges (not true pinnacles). Specific marine life confirmed: yellowhead jawfish, pikeblennies, lancer dragonets, tarpons, nudibranchs, flamingo tongue shells, frogfish. DAN confirms: sand chutes transitioning east from ridges. Nurse sharks also confirmed at Ladder Bay area per ScubaBoard. RE-AUDIT 2026-09-04: seasaba.com redesigned its site — old per-site page now redirects to seasaba.com/dive-sites#ladder-bay; footer link updated. padi.com/dive-site/saba/ladder-lab/ added as a live independent source — it independently re-confirms yellowhead jawfish, pikeblennies, lancer dragonets, filefish, chromis, schoolmasters, tarpons at the mooring, and the '10 foot coral and rock ridges' description survives the seasaba.com redesign. No factual corrections needed."
     }
   },
   {
@@ -91,9 +91,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "seasaba.com,sabapark.org,liveaboard.com,funseaker.com,divezone.net",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "DEPTH CORRECTED: Multiple sources confirm pinnacle top at 90ft/27m — entire dive is at depth (no shallow section). Previous description of top 'within a few meters of surface' was WRONG. Pinnacle is a narrow spike ~few feet wide surrounded by 150ft water. Adjacent to Third Encounter. Caribbean reef sharks confirmed. Horse-eye jacks confirmed. Manta rays: occasional per liveaboard.com — flagged as uncertain, low-frequency sighting. 'Swim-through passage' mentioned by funseaker but not confirmed by 2+ sources — flagged as unverified."
+      "validation_source": "seasaba.com,sabapark.org,liveaboard.com,funseaker.com,divezone.net,scubaboard.com",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "DEPTH CORRECTED: Multiple sources confirm pinnacle top at 90ft/27m — entire dive is at depth (no shallow section). Previous description of top 'within a few meters of surface' was WRONG. Pinnacle is a narrow spike ~few feet wide surrounded by 150ft water. Adjacent to Third Encounter. Caribbean reef sharks confirmed. Horse-eye jacks confirmed. Manta rays: occasional per liveaboard.com — flagged as uncertain, low-frequency sighting. 'Swim-through passage' mentioned by funseaker but not confirmed by 2+ sources — flagged as unverified. RE-AUDIT 2026-09-04: this site was never sourced to seasaba.com's dead per-site pages (its citations were always sabapark.org/liveaboard.com/funseaker.com/divezone.net/scubaboard.com), so it is unaffected by the seasaba.com redesign; all facts re-verified live and unchanged. Manta ray and swim-through hedges retained as still-unconfirmed."
     }
   },
   {
@@ -110,9 +110,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "seasaba.com,sabapark.org,endlesscaribbean.com,worldofdiving.com,scubaboard.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "DEPTH CORRECTED: Multiple sources give max depth 80ft/24m (not 32m). Previous 32m value was incorrect. Rock breaks the surface — visible landmark. ScubaBoard describes as 'about as wall-like a dive as you'll see' — wall character confirmed alongside pinnacle designation. Currents confirmed as challenging. Marine life confirmed: jacks, queen/French angelfish, flying gurnards, stingrays, great barracuda. Naming origin story (sailor/ring) mentioned by funseaker.com but unconfirmed by 2nd source — not included in descriptions."
+      "validation_source": "seasaba.com,sabapark.org,endlesscaribbean.com,worldofdiving.com,scubaboard.com,padi.com,myscubadivinggearguide.com",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "DEPTH CORRECTED: Multiple sources give max depth 80ft/24m (not 32m). Previous 32m value was incorrect. Rock breaks the surface — visible landmark. ScubaBoard describes as 'about as wall-like a dive as you'll see' — wall character confirmed alongside pinnacle designation. Currents confirmed as challenging. Marine life confirmed: jacks, queen/French angelfish, flying gurnards, stingrays, great barracuda. Naming origin story (sailor/ring) mentioned by funseaker.com but unconfirmed by 2nd source — not included in descriptions. RE-AUDIT 2026-09-04: seasaba.com redesigned its site — old per-site page now redirects to seasaba.com/dive-sites#wells-bay; footer link updated. padi.com/dive-site/saba/diamond-rock/ and myscubadivinggearguide.com (Joe's Scuba Shack) both independently confirm 80ft/24m depth and describe the rock as having 'swim-throughs, caverns and tunnels' in addition to the NE canyon — added to Overview since 2 independent sources now confirm it. Southern stingrays, furry sea cucumbers, horse-eye jacks re-confirmed by PADI."
     }
   },
   {
@@ -129,9 +129,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "seasaba.com,sabapark.org,endlesscaribbean.com,worldofdiving.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "DEPTH CONFIRMED: Sandy base at 70ft/21m confirmed by multiple sources. Twin peaks at 15 and 20ft below surface confirmed. Atlantic Spadefish confirmed. Banded Jawfish confirmed. African Pompano added (endlesscaribbean.com). Sand Tile Fish confirmed (worldofdiving.com). Figure-eight dive pattern confirmed by multiple sources. Sergeant Majors confirmed. Black coral on deeper sections confirmed."
+      "validation_source": "seasaba.com,sabapark.org,endlesscaribbean.com,worldofdiving.com,padi.com",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "DEPTH CONFIRMED: Sandy base at 70ft/21m confirmed by multiple sources. Twin peaks at 15 and 20ft below surface confirmed. Atlantic Spadefish confirmed. Banded Jawfish confirmed. African Pompano added (endlesscaribbean.com). Sand Tile Fish confirmed (worldofdiving.com). Figure-eight dive pattern confirmed by multiple sources. Sergeant Majors confirmed. Black coral on deeper sections confirmed. RE-AUDIT 2026-09-04: seasaba.com redesigned its site — old per-site page now redirects to seasaba.com/dive-sites#wells-bay; footer link updated. padi.com/dive-site/saba/man-owar/ added as a live independent source — it independently re-confirms Atlantic Spadefish ('the only place' to see them), Banded Jawfish ('very uncommon'), sand tilefish, black coral, sergeant majors, and the figure-eight dive profile at 70ft with peaks at 15-20ft. No factual corrections needed."
     }
   },
   {
@@ -149,8 +149,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "seasaba.com,sabapark.org,endlesscaribbean.com,worldofdiving.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "DEPTH CORRECTED: Sea Saba gives mooring 25ft/7m, max 50ft/16m. Previous 15m value corrected to 16m. SIGNIFICANT CORRECTION: Site has tunnel 60ft/18m long (confirmed by Sea Saba) — not just boulders. Also Coral Nursery is here (conservation program). Known as 'Saba's Nursery'. Small caves confirmed. Juvenile spotted drums confirmed (DAN Alert Diver). Green and hawksbill turtles both confirmed. Bait balls frequent. Depth_max updated."
+      "last_qa_date": "2026-09-04",
+      "qa_note": "DEPTH CORRECTED: Sea Saba gives mooring 25ft/7m, max 50ft/16m. Previous 15m value corrected to 16m. SIGNIFICANT CORRECTION: Site has tunnel 60ft/18m long — confirmed independently by worldofdiving.com and secondary search sources — not just boulders. Also Coral Nursery is here (conservation program). Known as 'Saba's Nursery'. Small caves confirmed. Juvenile spotted drums confirmed. Green and hawksbill turtles both confirmed. Bait balls frequent. Depth_max updated. RE-AUDIT 2026-09-04: CORRECTION — DAN Alert Diver was previously credited as a source in the markdown footer, but re-reading dan.org/alert-diver/article/diving-in-saba/ in full confirms it never mentions Torrens Point by name; that citation was an over-attribution and has been removed from the markdown footer (it was already absent from this validation_source tag, so the JSON was correct). seasaba.com's old per-site page now redirects to seasaba.com/dive-sites#wells-bay — footer link updated; the tunnel and Coral Nursery claims, no longer present on the redesigned Sea Saba page, remain supported by worldofdiving.com and multiple secondary sources (Joe's Scuba Shack, Deeper Blue) so were kept rather than stripped."
     },
     "depth_max": 16
   },
@@ -168,9 +168,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "seasaba.com,endlesscaribbean.com",
-      "last_qa_date": "2026-06-27",
-      "qa_note": "DEPTH CORRECTED: Multiple sources give max depth 80ft/24m. Previous 22m corrected to 24m. SITE TYPE CONFIRMED pinnacle: 'sandy bottom at between 70 and 80ft, schools of blue tangs, big eye jacks and barracuda.' Dark volcanic sand confirmed. Flying gurnards and batfish confirmed. Sand tile fish and jawfish confirmed. Nurse sharks confirmed (endlesscaribbean.com). Located on north coast per endlesscaribbean. Previous description placed it on western flank — CORRECTED to north coast/northeast."
+      "validation_source": "seasaba.com,endlesscaribbean.com,sabapark.org,wikipedia.org",
+      "last_qa_date": "2026-09-04",
+      "qa_note": "DEPTH CORRECTED: Multiple sources give max depth 80ft/24m. Previous 22m corrected to 24m. SITE TYPE CONFIRMED pinnacle: 'sandy bottom at between 70 and 80ft, schools of blue tangs, big eye jacks and barracuda.' Dark volcanic sand confirmed. Flying gurnards and batfish confirmed. Sand tile fish and jawfish confirmed. Nurse sharks confirmed (endlesscaribbean.com). Located on north coast per endlesscaribbean. Previous description placed it on western flank — CORRECTED to north coast/northeast. RE-AUDIT 2026-09-04: FIXED UNDER-SOURCING — this tag previously listed only 2 distinct domains (seasaba.com, endlesscaribbean.com), below the 3-source minimum, even though the markdown footer already cited sabapark.org; sabapark.org added here to match. Also added en.wikipedia.org/wiki/Green_Island,_Saba, which independently confirms the site's sulphur-mining history: the islet was connected to Saba's mainland sulphur mine by a cable in the 1870s — this grounds the 'Popeye's anchor from Saba's historical sulphur-mining era' claim in a verifiable historical fact rather than only an operator anecdote. seasaba.com's old per-site page now redirects to seasaba.com/dive-sites#windwardside — footer link updated."
     },
     "depth_max": 24
   }

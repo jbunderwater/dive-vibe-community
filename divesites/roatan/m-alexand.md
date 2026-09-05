@@ -3,7 +3,7 @@ name: M Alexand
 lat: 16.3273466
 lng: -86.5007403
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 20
 entryType: boat
 siteType: wreck
 ref: null
@@ -31,7 +31,7 @@ The M Alexand is primarily a surface/photography attraction visible from the Dre
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 20 meters
 - **Current**: Variable; north coast conditions
 
 ## Marine Life
@@ -47,4 +47,4 @@ The submerged stern section reaches approximately 18–20 meters. The bow and mi
 The nearest dive operators are at Dixon Cove and Sandy Bay on Roatán's north coast. Check access conditions before planning a dive on the submerged stern.
 
 ---
-*Sources: [Roatan Tourism Bureau – M Alexand](https://roatantourismbureau.com/roatan-most-iconic-shipwreck-m-alexand), [PÄYÄ Magazine – M Alexand Guarding Dixon Cove](https://payamag.com/2022/02/22/m-alexand-guarding-dixon-cove/), [ShipSpotting – M Alexand IMO 5295193](https://www.shipspotting.com/photos/3475249). Last updated 2026-06-27.*
+*Sources: [Roatan Tourism Bureau – M Alexand](https://roatantourismbureau.com/roatan-most-iconic-shipwreck-m-alexand), [PÄYÄ Magazine – M Alexand Guarding Dixon Cove](https://payamag.com/2022/02/22/m-alexand-guarding-dixon-cove/), [ShipSpotting – M. Alexand IMO 5295193](https://www.shipspotting.com/photos/3475249). Last updated 2026-09-04.*

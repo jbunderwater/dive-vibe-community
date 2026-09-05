@@ -11,29 +11,25 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Shallow Seaquest
+# Shallow Seaquest
 
-Shallow Seaquest is a reef dive site in Roatán, Caribbean.
+*Sea Quest is described by Sun Divers Roatan as sandy plateaus and patch reef with a coral nursery, at Open Water diver level; this entry is presumed to be the shallow mooring of that complex, though no source specifically distinguishes a shallow section.*
 
 ## Overview
 
-Shallow Seaquest sits on sandy plateaus surrounded by patch reef, forming part of a larger dive complex shared with Deep Seaquest. This site is home to Roatan Marine Park's coral nursery, where underwater 'coral trees' support fragments of staghorn and elkhorn coral being cultivated for reef restoration. The macro life here is exceptional, with seahorses, pipe horses, and pistol shrimp hiding in corkscrew anemones among the reef structures. Stingrays, turtles, and eagle rays cruise the sandy areas between coral patches, while the shallow 12-meter maximum depth allows for extended bottom times to seek out the smaller inhabitants.
+Sea Quest is described by Sun Divers Roatan as sandy plateaus and patch reef with a coral nursery, at Open Water diver level; this entry is presumed to be the shallow mooring of that complex, though no source specifically distinguishes a shallow section.
 
 ## Site Information
 
-- **Location**: Roatán, Caribbean
+- **Location**: Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 
-## Dive Profile
+## Marine Life
 
-The site offers a gentle reef terrain suitable for relaxed exploration. Begin your dive along the reef top and navigate through coral formations and sandy patches. The most abundant marine life is typically found between 5-18 meters. Take your time to explore cleaning stations and look for camouflaged creatures in the sand.
-
-## Photography
-
-The colorful reef structures offer excellent macro photography opportunities. Look for small critters hiding among coral heads and anemones. Wide-angle shots work well to capture the vibrant reef landscape and schooling fish.
+No site-specific marine-life source was found for Shallow Seaquest. Roatán's regional reef fauna (Caribbean reef fish, occasional rays and turtles) may apply, but no confirmed site-specific sightings are reported here.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Sun Divers Roatan – Roatan Diving](https://sundiversroatan.com/roatan-diving/). Last updated 2026-09-04.*

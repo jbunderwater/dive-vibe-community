@@ -28,4 +28,4 @@ The underwater cliffs of Capo Caccia form the outer wall of the Capo Caccia-Isol
 - **Maximum Depth**: 30 meters
 
 ---
-*Sources: [ArchiMete Diving Capo Caccia](https://www.archimete.it/en/attivita/diving-tours/percorsi-subacquei/), [Wikipedia - Nereo Cave](https://en.wikipedia.org/wiki/Nereo_Cave), [PADI - Nereo Cave & Arches of Nereo](https://www.padi.com/dive-site/italy/nereo-cave-arches-of-nereo/). Last updated 2026-06-29.*
+*Sources: [ArchiMete Diving Capo Caccia](https://www.archimete.it/en/attivita/diving-tours/percorsi-subacquei/), [Wikipedia - Nereo Cave](https://en.wikipedia.org/wiki/Nereo_Cave), [PADI - Nereo Cave & Arches of Nereo](https://www.padi.com/dive-site/italy/nereo-cave-arches-of-nereo/). Last updated 2026-09-04.*

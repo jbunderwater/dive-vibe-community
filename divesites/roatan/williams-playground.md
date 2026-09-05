@@ -11,21 +11,25 @@ osmId: null
 addedBy: osm_import
 ---
 
-## William's Playground
+# William's Playground
 
-William's Playground is a wall dive site in Roatán, Caribbean.
+*William's Playground, just west of the Anthony's Key Resort boat channel in Sandy Bay, is a Roatan Marine Park donor-named site commemorating a trip by William Emmett and William Webb.*
 
 ## Overview
 
-William's Playground lies west of the Anthony's Key Resort channel and has been described as a hidden gem that barely appears on the typical Roatan dive map. Black groupers lurk in the reef structure, blue tangs school above the coral, and seahorses have been reported clinging to gorgonians in the shallows. The wall drops off into deep blue water beyond the reef crest, following the same continuous barrier reef that defines Sandy Bay's western shore. Visibility is generally 20 to 40 meters, with water temperatures between 26 and 29 degrees Celsius.
+William's Playground, just west of the Anthony's Key Resort boat channel in Sandy Bay, is a Roatan Marine Park donor-named site commemorating a trip by William Emmett and William Webb. A visiting diver's 2025 blog post describes it as a shallow reef site 'not even on the Roatan dive map' at the time.
 
 ## Site Information
 
-- **Location**: Roatán, Caribbean
+- **Location**: Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
 
+## Marine Life
+
+Large black groupers, a school of blue tang, and a yellow-colored seahorse were reported by a diver on a single visit (makarl.wordpress.com) — a single trip report, not a confirmed pattern of sightings.
+
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*
+*Sources: [Roatan Marine Park – New Dive Sites in 2022](https://www.roatanmarinepark.org/post/new-dive-sites-in-2022), [Scuba Diving at Roatan Island: William's Playground (dive blog)](https://makarl.wordpress.com/2025/07/26/scuba-diving-at-roatan-island-williams-playground/). Last updated 2026-09-04.*
