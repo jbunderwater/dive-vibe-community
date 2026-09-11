@@ -13,11 +13,13 @@ addedBy: osm_import
 
 # The Ledges
 
-A series of volcanic rock terraces stepping down Statia's northern leeward wall, each ledge carrying dense encrusting sponges and cup corals with resident groupers and lobster beneath the overhangs.
+A series of volcanic rock terraces stepping down Statia's northern leeward wall, carrying encrusting sponges and cup corals on the horizontal faces and overhangs of each level.
 
 ## Overview
 
 The Ledges is a terraced wall site on the northern section of Sint Eustatius's leeward coast, characterised by a series of horizontal ledge formations stepping down the volcanic wall from 8 to 15 meters. Each ledge represents a distinct geological layer of the volcanic structure, and each carries its own community of organisms on the horizontal face and overhang beneath. The STENAPA marine park's protection has allowed these slow-growing organisms — orange cup corals, encrusting sponges, and wire coral — to develop on the undersides of each ledge over decades. The site is in relatively calm water on the northern leeward coast. Visibility averages 20–30 meters.
+
+**Re-audit note (2026-09-11):** this destination's cited sources (Golden Rock Dive Center, DAN Alert Diver, Divertrek) were re-pulled and none currently name "The Ledges" or describe it specifically. Two additional targeted searches turned up only a general reference to "Ledges 1 & 2" on a dive-guide page (caribdiveguide.com) that could not be confirmed as the same site and could not be fully retrieved for site-specific depth or marine-life data. No source was found either confirming or contradicting the topography and depth described above, which remain from the original curated entry. This site could not be independently re-verified this cycle.
 
 ## Site Information
 
@@ -33,11 +35,11 @@ The Ledges is a terraced wall site on the northern section of Sint Eustatius's l
 
 ## Marine Life
 
-Each ledge level supports a distinct assemblage. The upper ledges at 8–10 meters carry hard coral formations with parrotfish and surgeonfish. The intermediate ledges at 11–13 meters have overhangs sheltering copper sweepers and glassfish clouds, with Caribbean spiny lobster beneath. The deepest ledges at 14–15 meters carry black coral bushes in their shadow zones. Hawksbill turtles visit throughout the site. Spotted moray eels occupy crevices in the ledge walls. At the base of the deepest ledge, southern stingrays rest in the sandy clearings.
+No site-specific marine-life report for The Ledges was found in this or the original research pass. Statia's regional reef fauna (documented island-wide by STENAPA and local operators) broadly applies to terraced volcanic wall terrain like this, but no source confirms particular species sightings at this specific site, so none are named here per the anti-hallucination policy.
 
 ## Dive Profile
 
-Descent via mooring to the top ledge at 8 meters. Navigation follows the ledge system south, descending from one terrace to the next in sequence. The guide leads divers to the specific features on each ledge — the overhang with sweepers, the lobster crevice, the cup coral ceiling. Ascent uses the ledge steps in reverse, rising one level at a time back to the mooring. Bottom time at 15 meters: approximately 55–60 minutes.
+Descent via mooring to the top ledge at 8 meters. Navigation follows the ledge system south, descending from one terrace to the next in sequence. Ascent uses the ledge steps in reverse, rising one level at a time back to the mooring. Bottom time at 15 meters: approximately 55–60 minutes.
 
 ## Entry and Exit
 
@@ -45,7 +47,7 @@ Boat dive with STENAPA mooring on the northern leeward coast. Access via Golden 
 
 ## Tips and Recommendations
 
-The Ledges rewards slow, systematic diving — work each ledge face thoroughly before descending to the next level. Carry a torch for the underside of each ledge where cup corals and sweepers concentrate. The terraced structure means this site is excellent for practicing depth control and methodical navigation. Evening dives at The Ledges are reported to produce good encounters with lobster and moray eels emerging from their daytime shelters.
+The Ledges rewards slow, systematic diving — work each ledge face thoroughly before descending to the next level. Carry a torch for the underside of each ledge where cup corals concentrate. The terraced structure means this site is excellent for practicing depth control and methodical navigation.
 
 ## Safety Considerations
 
@@ -53,7 +55,7 @@ The ledge overhangs are all open — no enclosed overhead environments — but r
 
 ## Photography
 
-The step-terrace structure is visually distinctive — a wide-angle shot looking up a ledge face with the diver descending to the next level captures the unique topography. The overhang undersides with cup coral and sponge colour are excellent with supplemental lighting. Fish portraits on the upper ledge crests in ambient light are effective for the angelfish and parrotfish species found here.
+The step-terrace structure is visually distinctive — a wide-angle shot looking up a ledge face with the diver descending to the next level captures the unique topography. The overhang undersides with cup coral and sponge colour are excellent with supplemental lighting.
 
 ## Additional Resources
 
@@ -61,4 +63,4 @@ The step-terrace structure is visually distinctive — a wide-angle shot looking
 - Golden Rock Dive Center: guided dives at The Ledges and throughout Statia's marine park
 
 ---
-*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [DAN Alert Diver — St. Eustatius](https://dan.org/alert-diver/article/st-eustatius/), [DiverTrek — Diving St. Eustatius](https://divertrek.com/diving-st-eustatius-the-historical-gem/). Last updated 2026-06-29.*
+*Description based on regional diving characteristics and the original curated entry. No site-specific source could be re-confirmed for "The Ledges" on re-audit — Golden Rock Dive Center, DAN Alert Diver, and Divertrek were re-checked and none currently name this site specifically. Last updated 2026-09-11.*

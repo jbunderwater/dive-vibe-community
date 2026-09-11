@@ -55,7 +55,7 @@ All artifacts are protected — touching, moving, or collecting is illegal. Fire
 
 ## Photography
 
-Iron anchors against coral backdrop provide strong compositional elements. Wide-angle shots with an anchor as foreground and a diver in the midground are a signature image of Statia diving. Macro subjects around anchor encrustation are rich. The volcanic rock texture adds visual interest distinctly different from typical Caribbean reef photography.
+The French anchor against a coral backdrop provides a strong compositional element. A wide-angle shot with the anchor as foreground and a diver in the midground is a signature image of Statia diving. Macro subjects around the anchor's encrustation are rich. The volcanic rock texture adds visual interest distinctly different from typical Caribbean reef photography.
 
 ## Additional Resources
 

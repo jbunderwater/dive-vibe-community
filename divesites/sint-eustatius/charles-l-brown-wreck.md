@@ -53,7 +53,7 @@ Interior sections involve overhead environments — bring adequate lighting and 
 
 ## Photography
 
-The scale of the vessel makes wide-angle the primary lens choice — fisheye or rectilinear 10–18mm captures hull structures, deck furniture, and winch mechanisms in context. The encrusted bow with a diver in the frame is a classic Statia image. Interior shots require strobe lighting to reveal the colour of encrusting organisms. Close-focus capability for the resident moray eels and groupers.
+The scale of the vessel makes wide-angle the primary lens choice — fisheye or rectilinear 10–18mm captures hull structures, deck furniture, and winch mechanisms in context. The encrusted bow with a diver in the frame is a classic Statia image. Interior shots require strobe lighting to reveal the colour of encrusting organisms. The resident barracuda ("Charlie") and passing horse-eye jack schools are good subjects in the open water around the hull.
 
 ## Additional Resources
 
