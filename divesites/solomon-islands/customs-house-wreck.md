@@ -32,7 +32,7 @@ This small vessel — likely a harbour utility craft or patrol boat — lies at 
 
 ## Marine Life
 
-The wreck's encrusted surfaces host an impressive variety of invertebrates well-suited to macro photography. Nudibranchs in multiple species are reliably found on the hull, along with flatworms, tiny crabs, and shrimp hiding in crevices. Lionfish and scorpionfish take up residence under overhangs, and frogfish are occasionally spotted on the more encrusted sections. Smaller resident reef fish — damselfish, cardinalfish, and anthias — occupy the structure in large numbers. Anemones with clownfish are distributed across the wreck. In the sand surrounding the wreck, garden eels emerge from their burrows and flatfish rest camouflaged against the bottom. The calm, sheltered nature of the site means marine life is undisturbed and easy to approach.
+No source specific to this wreck could be found describing what divers actually see here, despite searching local dive-shop pages, ScubaBoard, and Solomon Islands dive guides. The Solomon Islands' regional reef fauna — corals, small invertebrates, and typical Indo-Pacific reef fish — would be expected to colonise a small encrusted wreck in a sheltered harbour like this one, but no site-specific report confirms particular species at Custom's House Wreck itself. An earlier draft of this page listed a detailed set of species (nudibranchs, frogfish, garden eels, damselfish, and others); none of it could be traced to a source describing this specific wreck, so it has been removed rather than repeated.
 
 ## Dive Profile
 
@@ -56,7 +56,8 @@ This is one of the most benign dive sites near Honiara. Minimal current, shallow
 
 ## Photography
 
-The Custom's House Wreck rewards a dedicated macro setup — a 60mm or 100mm lens with dual strobes is ideal for the nudibranchs, flatworms, and crustaceans covering the hull. Frogfish and scorpionfish provide larger macro subjects. For photographers who want to practice wide-angle wreck composition before tackling the larger Bonegi wrecks, the smaller scale here makes framing and lighting more manageable. Night photography at this site can produce exceptional nudibranch and invertebrate images.
+Given the shallow depth and small scale, this could suit either macro or wide-angle wreck composition, but no photography-specific source describing this wreck was found — treat this as a general suggestion rather than a confirmed feature of the site.
 
 ---
-*Sources: [Emperor Divers - Guadalcanal](https://www.emperordivers.com/guadalcanal-dive-sites/), [Visit Solomons Dive Guide](https://www.visitsolomons.com.sb/wp-content/uploads/2023/11/Dive-Guide-Nov-10-2023-Digital.pdf), [Dive the World - Solomon Islands](https://www.dive-the-world.com/diving-sites-solomon-islands.php). Last updated 2026-06-30.*
+*Sourcing note: after extensive re-checking, no source could be found that specifically names or describes "Custom's House Wreck." The three domains previously listed as validation sources (bilikiki.com, dive-the-world.com, visitsolomons.com.sb) are general Solomon Islands/Honiara dive overviews that do not mention this site by name, and emperordivers.com/guadalcanal-dive-sites/ (previously cited in this footer) returns a 404. Location, depth, and site type are not disputed, but the site does not currently meet the 3-independent-source bar for its content beyond those basics. Flagged for further research.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-09-11.*

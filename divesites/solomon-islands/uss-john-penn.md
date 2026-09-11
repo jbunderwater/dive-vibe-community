@@ -19,7 +19,7 @@ The wreck of a US Naval Transport (AP-51, formerly the SS Excambion) torpedoed o
 
 On 13 August 1943, the USS John Penn was attacked by Japanese torpedo bombers off Lunga Point, Guadalcanal. The ship sank and now lies in two pieces on the seabed. The main section rests on its starboard side with the shallowest point at approximately 36 metres. The bridge, holds, forward gun, and derricks are identifiable features on the main wreck. At the junction of the deck and bridge structure, at approximately 60 metres depth, lies the wreck of a Japanese Nakajima B5N "Kate" torpedo bomber -- likely the aircraft that delivered the fatal torpedo.
 
-Approximately 20 metres away from the main wreck, a military Jeep sits upright on the sand -- one of the more surreal sights on any Solomon Islands wreck dive. The stern section with its propeller lies roughly 400 metres from the main hull at approximately 72 metres depth.
+Approximately 20 metres away from the main wreck, a military Jeep sits upright on the sand -- one of the more surreal sights on any Solomon Islands wreck dive. The stern section, with its propeller, was found separately roughly 400 metres from the main hull -- confirmed by both McFadyen and a New Zealand dive-magazine account of its discovery -- but no source found gives a reliable depth for this detached section, so no figure is given here; treat it as a separate, deep technical objective rather than part of the main-hull dive.
 
 ## Site Information
 
@@ -34,7 +34,7 @@ Approximately 20 metres away from the main wreck, a military Jeep sits upright o
 
 ## Dive Profile
 
-Most dives focus on the main hull section, with the shallowest point at around 36 metres. Descend to the wreck and explore the bridge area, forward gun, holds, and derrick structures. The Japanese Kate aircraft wreck at the deck/bridge junction sits at approximately 60 metres -- reaching it requires technical diving certification and appropriate gas mixes. The upright Jeep on the sand approximately 20 metres from the main hull is worth seeking out. The separated stern section with its propeller at around 72 metres depth is a separate dive entirely and strictly for experienced technical divers.
+Most dives focus on the main hull section, with the shallowest point at around 36 metres. Descend to the wreck and explore the bridge area, forward gun, holds, and derrick structures. The Japanese Kate aircraft wreck at the deck/bridge junction sits at approximately 60 metres -- reaching it requires technical diving certification and appropriate gas mixes. The upright Jeep on the sand approximately 20 metres from the main hull is worth seeking out. The separated stern section, roughly 400 metres from the main hull, is a separate dive entirely and strictly for experienced technical divers; its exact depth is not reliably documented in available sources.
 
 ## Tips and Recommendations
 
@@ -46,8 +46,8 @@ Most dives focus on the main hull section, with the shallowest point at around 3
 
 ## Safety Considerations
 
-This is a war grave -- do not disturb or remove any artefacts. The minimum depth of 36 metres on the main section means all diving here is deep. Bottom time on air is extremely limited at these depths. The Kate wreck at 60 metres and the stern at 72 metres are beyond recreational limits and require technical diving training, equipment, and gas planning. Decompression stops are mandatory for most dive profiles on this wreck. Strong currents are possible off Lunga Point -- carry an SMB and be prepared for mid-water ascents away from the wreck.
+This is a war grave -- do not disturb or remove any artefacts. The minimum depth of 36 metres on the main section means all diving here is deep. Bottom time on air is extremely limited at these depths. The Kate wreck at 60 metres and the separated stern section (depth not reliably documented, but reached only as a dedicated technical objective) are beyond recreational limits and require technical diving training, equipment, and gas planning. Decompression stops are mandatory for most dive profiles on this wreck. Strong currents are possible off Lunga Point -- carry an SMB and be prepared for mid-water ascents away from the wreck.
 
 ---
-*Note: The Japanese Kate torpedo bomber at the wreck is reported by McFadyen as his personal assessment ("I believe") rather than a confirmed identification from official records — treat this claim with appropriate caution.*
-*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=378), [Pacific Wrecks - USS John Penn](https://pacificwrecks.com/ships/ap/john-penn/), [NavSource - USS John Penn](https://www.navsource.net/archives/09/01/0151.htm). Last updated 2026-06-30.*
+*Note: The Japanese Kate torpedo bomber at the wreck is reported by McFadyen as his personal assessment ("I believe") rather than a confirmed identification from official records — treat this claim with appropriate caution. Ship dimensions (450ft/9,360 tons) confirmed directly via McFadyen. Re-audit note: the previous footer cited a Pacific Wrecks URL that does not match that site's real structure and a navsource.net page that returned a server error on re-check — both replaced below.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=378), [Wikipedia - USS John Penn (AP-51)](https://en.wikipedia.org/wiki/USS_John_Penn_(AP-51)), [Naval History and Heritage Command - John Penn](https://www.history.navy.mil/research/histories/ship-histories/danfs/j/john-penn.html). Last updated 2026-09-11.*

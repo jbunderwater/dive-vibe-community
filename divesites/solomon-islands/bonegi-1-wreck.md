@@ -32,7 +32,7 @@ The Hirokawa Maru lies on her port side with bow sections beginning in approxima
 
 ## Marine Life
 
-The Hirokawa Maru hosts an impressive resident population of glassy sweepers, batfish, and lionfish that hover in the corridors and hold openings. The coral-encrusted deck and railings attract schooling anthias and butterflyfish, while Napoleon wrasse and sea turtles are regularly seen patrolling the hull. Whitetip reef sharks rest on the sandy bottom near the stern. The shallow bow sections, lit by sun streaming through the surface, support dense anemone fields and clownfish colonies. Scorpionfish and frogfish hide in the encrusted steel, rewarding patient observers.
+DivePlanIt, describing this wreck specifically, reports snapper, butterflyfish, sweetlips, batfish, and lionfish, along with basslets and fusiliers, plus a cleaning station worked by damsels and pullers. The hard coral growth is extensive and reaches well below 20 metres, with large gorgonian sea fans and sizeable cabbage and brain coral colonies. Earlier drafts of this page also listed glassy sweepers, Napoleon wrasse, sea turtles, whitetip reef sharks, anemone fields with clownfish, scorpionfish, and frogfish — none of which are confirmed by the site-specific source used here, so they have been removed rather than repeated.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ Currents are generally mild at this site, which contributes to its accessibility
 The Hirokawa Maru is one of the most photogenic wrecks in the Pacific. The shallow bow sections provide stunning natural-light wide-angle shots, with the silhouette of the hull rising toward the surface. The coral-encrusted railings and anchor chain offer beautiful foreground detail. In the holds, a torch reveals vivid color on the encrusted walls. Macro photographers should search slowly along the hull plating for frogfish, nudibranchs, and decorator crabs.
 
 ---
-*Sources: [Michael McFadyen's Scuba - Hirokawa Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=374), [DivePlanIt - Hirokawa Maru](https://www.diveplanit.com/dive-site/hirokawa-maru-bonegi-1/), [Wannadive - Hirokawa Maru](https://www.wannadive.net/spot/Australia_Pacific/Solomon/Guadalcanal_island/Hirokawa_Maru_-_Bonegi_1/). Last updated 2026-06-30.*
+*Sources: [Michael McFadyen's Scuba - Hirokawa Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=374), [DivePlanIt - Hirokawa Maru](https://www.diveplanit.com/dive-site/hirokawa-maru-bonegi-1/), [Wannadive - Hirokawa Maru](https://www.wannadive.net/spot/Australia_Pacific/Solomon/Guadalcanal_island/Hirokawa_Maru_-_Bonegi_1/). Last updated 2026-09-11.*

@@ -13,50 +13,46 @@ addedBy: osm_import
 
 ## Devil's Highway
 
-Devil's Highway is one of the most exhilarating drift dives in the Solomon Islands — a narrow, current-scoured channel between islands that funnels oceanic water with enough force to send divers flying past coral outcrops, sharks, and eagle rays at remarkable speed. It earns its name.
+Devil's Highway is the Solomon Islands' best-known manta ray site — a strong tidal channel at Maravagi in the Florida Islands where divers hook onto the reef top and watch mantas feed in the current overhead. The name comes from the manta's old nickname "devil ray," a reference to the horn-like shape of its cephalic fins, not from the current alone.
 
 ## Overview
 
-The site is a passage between islands in the Florida Islands or surrounding area northeast of Honiara, where tidal exchange concentrates current through a relatively confined channel. Depending on tidal state, the drift can range from brisk and manageable to genuinely fast-moving, which is why this site is firmly in the Advanced category. The reward for the adrenaline is outstanding pelagic action — grey reef sharks patrol the channel walls, eagle rays glide through mid-water, and the compressed current draws schooling fish life that in turn attracts larger predators.
+Devil's Highway is a current-washed channel at Maravagi, in the Florida Islands. Strong tidal flow — reported by local operators as reaching 8-10 knots at times — sweeps nutrient-rich water through the site, and manta rays gather to feed on the plankton it carries. Divers typically descend to shallow water near the top of a reef wall, hook or hold position, and watch as up to a dozen mantas glide back and forth performing their feeding pass just overhead. Sightings are not guaranteed on every trip — because the current needs to be running strongly, operators describe timing a dive here as depending on tide, moon phase, and weather lining up, so it isn't run on every itinerary.
 
 ## Site Information
 
-- **Location**: Florida Islands area, northeast of Honiara, Solomon Islands
+- **Location**: Maravagi, Florida Islands, Solomon Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20–40 meters
-- **Current**: Strong (tidal-dependent, can be very fast)
-- **Best Time**: April to November; dive on the correct tidal window
+- **Current**: Very strong, tidal-dependent (operators report up to 8-10 knots at peak flow)
+- **Best Time**: Dry season; correct tidal window essential
 
 ## Marine Life
 
-Grey reef sharks are the signature species here, regularly encountered cruising the current-swept channel walls in numbers. Eagle rays soar through in mid-water, using the current to their advantage. Schools of barracuda hang in formation facing into the flow, and big-eye trevally are commonly massed in dense, swirling balls on the down-current side of coral outcrops. Whitetip reef sharks are occasionally encountered resting on the bottom in calmer eddies at the channel edges. The coral outcrops on the channel walls, battered by constant current, support sea fans, whip corals, and crinoids that have adapted to the high-flow environment.
+Manta rays are the reason divers come to Devil's Highway — sightings of up to a dozen individuals feeding together in the current are reported by local operators, making this the most reliable manta site in the Solomons. Sweetlips, jacks, and bumphead parrotfish are reported alongside the mantas. Earlier drafts of this page described grey reef sharks, eagle rays, and schooling barracuda and trevally as the headline species here; no source found during this review confirms those specifically at this site, so they have been removed rather than repeated. Divers should still expect general current-loving reef fish given the site's tidal-channel setting, but the confirmed, defining encounter is the manta feeding aggregation.
 
 ## Dive Profile
 
-Timing the dive to the correct tidal window is essential — local dive guides know the precise entry time for the best current speed and direction. Divers enter up-current and are carried along the channel, maintaining depth by angling slightly into the current and using the reef wall as a reference. Most of the action occurs in the 15–25 meter range. The boat follows divers' bubbles or a surface marker and picks up the group at the end of the drift. Bottom time is partly dictated by the speed of the drift — fast days produce short dives that feel like an underwater roller-coaster.
+Timing to the tidal window is essential — a local guide determines when the current and manta activity will be best, and the dive may be skipped on a trip entirely if conditions aren't right. Divers typically enter and descend to shallow water (operators describe roughly 4-5 meters) near the top of the reef wall, then hold position — often using a reef hook — to watch mantas pass in formation over the reef top. This is a hold-and-watch dive rather than a fast, sweeping drift through open water.
 
 ## Entry and Exit
 
-Boat dive only. Entry is timed to the current. The boat drops divers at the up-current entry point and follows the drift for pickup. Deploy an SMB well before ascending to ensure the boat crew can track your position. Ascents in strong current require care — use a reef hook or hold a coral head if available to conduct a safety stop without being swept off site.
+Boat dive only, timed to the current. The boat drops divers at the entry point identified by the guide and recovers them at a pre-arranged pickup location. Deploy an SMB before ascending so the boat crew can track your position, particularly if the current is running strongly.
 
 ## Tips and Recommendations
 
-- Only dive this site with a local guide who knows the tidal windows — mistiming the entry significantly affects both safety and the experience
-- A reef hook is highly recommended for maintaining position during safety stops
-- Carry a surface marker buoy (SMB) and be prepared to deploy it early
-- Streamline your gear before entry — loose equipment creates drag and can catch on coral
-- Surrender to the current rather than fighting it; work with the flow
+- Only dive this site with a local guide who knows the tidal windows — manta activity and current strength both depend on getting the timing right
+- A reef hook is genuinely useful here for holding position at the shallow viewing spot without disturbing the mantas or burning air fighting the current
+- Manta sightings are excellent but not guaranteed — ask your operator about recent conditions before the trip
+- Keep a respectful distance from feeding mantas; do not attempt to touch or block their feeding pass
+- Streamline your gear before entry — loose equipment creates drag and can catch on coral in strong current
 
 ## Safety Considerations
 
-This site is for Advanced divers only due to the strength and unpredictability of the current. Divers who cannot handle strong current or are not comfortable with drift diving should not attempt Devil's Highway. Separation from the group is a real risk in fast current — establish buddy protocols before entering. An SMB is mandatory. The boat crew must remain attentive throughout. If the current is running harder than expected on arrival, conditions should be assessed before committing to entry.
-
-## Photography
-
-Fast drift photography is challenging but rewarding. A wide-angle lens captures the shark and ray encounters that define this dive, and the sweeping compositions available in strong current — sharks banking against the current, rays gliding overhead — are difficult to achieve in calmer conditions. Autofocus is essential. Video divers will find the site produces cinematic footage even with basic equipment. Secure all lens caps and accessories before entry.
+This site is Advanced-only because of current strength, which local operators describe reaching as much as 8-10 knots at times — well beyond typical recreational drift conditions. Only dive it with an operator experienced at reading the site's tidal window. An SMB is essential, and buddy separation is a real risk if the current is running hard. If conditions on arrival are stronger than briefed, reassess before entering the water.
 
 ---
-*Sources: [Bilikiki Cruises - Dive Sites](https://www.bilikiki.com/about/dive-sites), [Visit Solomons Dive Guide](https://www.visitsolomons.com.sb/wp-content/uploads/2023/11/Dive-Guide-Nov-10-2023-Digital.pdf), [Bluewater Dive Travel - Solomon Islands](https://www.bluewaterdivetravel.com/destination/solomon-islands-diving). Last updated 2026-06-30.*
+*Sources: [Bilikiki Cruises - Dive Sites](https://www.bilikiki.com/about/dive-sites), [Bluewater Dive Travel - Solomon Islands](https://www.bluewaterdivetravel.com/destination/solomon-islands-diving), [DiveIn - Best Diving the Solomon Islands](https://www.divein.com/diving/solomon-islands/). Last updated 2026-09-11.*

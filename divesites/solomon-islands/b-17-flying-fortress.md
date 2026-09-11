@@ -51,4 +51,4 @@ Enter from the shore near Ndomo village. The aircraft lies only about 20 metres 
 This is a war grave and the final resting place of crew members who were never recovered — do not remove any artefacts or disturb the site. The shallow depth and shore access make this one of the safest wreck dives in the Solomon Islands from a diving standpoint. Be mindful of boat traffic in the area. The wreck structure may have sharp edges from corrosion — maintain good buoyancy control and avoid contact with the airframe.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=380), [Emperor Divers - B-17 Wreck](https://www.emperordivers.com/b-17-flying-fortress-wreck-guadalcanal/), [Pacific Wrecks - B-17E 41-2420](https://pacificwrecks.com/aircraft/b-17/41-2420.html). Last updated 2026-06-30.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=380), [Emperor Divers - B-17 Wreck](https://www.emperordivers.com/b-17-flying-fortress-wreck-guadalcanal/), [Pacific Wrecks - B-17E 41-2420](https://pacificwrecks.com/aircraft/b-17/41-2420.html). Last updated 2026-09-11.*
