@@ -32,7 +32,7 @@ Marovo Lagoon is a UNESCO World Heritage-listed area encompassing hundreds of is
 
 ## Marine Life
 
-The reef top in 5–12 meters hosts a dense community of hard corals — table corals, staghorns, and massive Porites — with fish life to match. Parrotfish, surgeonfish, and large grouper are common. As the wall descends, enormous sea fans and wire corals become the defining features, some spanning several meters. Crinoids cling to the fan structures, and small hawkfish perch on the fan branches. Whitetip and grey reef sharks are reliably encountered along the wall edge. The blue water beyond the wall may produce eagle rays, trevally, and Napoleon wrasse. In the crevices, moray eels, nudibranchs, and small crustaceans reward careful inspection.
+Bluewater Dive Travel, describing this site specifically, confirms "plentiful reef sharks and big schools of jacks and barracuda," along with bumphead parrotfish, Napoleon wrasse, and tuna — the site is noted there primarily as a wide-angle photography location. The reef top in 5–12 meters hosts hard corals — table corals, staghorns, and massive Porites — and as the wall descends, sea fans and wire corals become the defining structural features. Additional specifics in earlier drafts of this page (surgeonfish, large grouper, hawkfish, moray eels) are plausible for this reef type but are not independently confirmed at this exact site, so are presented here as general expectation rather than confirmed sightings.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Currents in Marovo Lagoon are generally moderate, though tidal state can affect 
 Mary Island's wall is a wide-angle photographer's subject. The combination of large sea fans, colourful soft corals, and the deep blue beyond the wall face creates compelling compositions with significant depth and colour. Shooting upward from the base of the sea fans toward the surface light produces dramatic silhouettes. On the reef top, natural light and macro work on crinoids, nudibranchs, and coral details reward a second lens setup.
 
 ---
-*Sources: [Bilikiki Cruises - Dive Sites](https://www.bilikiki.com/about/dive-sites), [Dive the World - Solomon Islands](https://www.dive-the-world.com/diving-sites-solomon-islands.php), [Visit Solomons Dive Guide](https://www.visitsolomons.com.sb/wp-content/uploads/2023/11/Dive-Guide-Nov-10-2023-Digital.pdf). Last updated 2026-06-30.*
+*Sources: [Bluewater Dive Travel - Solomon Islands](https://www.bluewaterdivetravel.com/destination/solomon-islands-diving), [Bilikiki Cruises - Dive Sites](https://www.bilikiki.com/about/dive-sites), [Dive the World - Solomon Islands](https://www.dive-the-world.com/diving-sites-solomon-islands.php). Last updated 2026-09-11.*

@@ -34,4 +34,4 @@ The fissure descends deeper than the recreational limit of 18 metres here, but t
 - **Visibility**: 100+ metres
 
 ---
-*Sources: [DIVE.IS — Silfra dive site](https://www.dive.is/dive-sites/silfra), [Silfra Fissure — sections](https://www.silfrafissure.com/sections/), [Silfra.org — sections](https://www.silfra.org/different_sections_of_Silfra.html), [Þingvellir National Park — Silfra](https://www.thingvellir.is/en/education/nature/silfra/). Last updated 2026-06-08.*
+*Sources: [DIVE.IS — Silfra dive site](https://www.dive.is/dive-sites/silfra), [Silfra Fissure — sections](https://www.silfrafissure.com/sections/), [Silfra.org — sections](https://www.silfra.org/different_sections_of_Silfra.html), [Þingvellir National Park — Silfra](https://www.thingvellir.is/en/education/nature/silfra/). Last updated 2026-09-11.*

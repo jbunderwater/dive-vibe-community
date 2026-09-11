@@ -34,7 +34,7 @@ The wreck's harbour location and shallow depth make it one of the most accessibl
 
 ## Marine Life
 
-Batfish are a characteristic resident of the wreck, often hovering in small groups around the superstructure. Firefish (lionfish) shelter in shadowed areas of the hull and deck fittings. Trevally patrol the mid-water around the vessel. The wreck structure provides habitat for a variety of small reef fish and invertebrates.
+Dive Gizo, which runs this site as a house reef and night-diving spot, specifically reports lionfish, batfish, and puffers, with the wreck "surrounded by vibrant anemones." Trevally passing through mid-water is plausible for a harbour wreck of this kind but is not independently confirmed by name.
 
 ## Dive Profile
 
@@ -53,4 +53,5 @@ Descend to the wreck in the sheltered waters of Gizo Harbour. The vessel lists t
 The harbour location provides sheltered conditions, making this one of the safest wreck dives in the Gizo area. The shallow depth eliminates decompression concerns for standard dive profiles. The wreck structure may have been weakened by age and possible tsunami damage -- avoid entering unstable-looking sections. Maintain buoyancy to avoid disturbing silt inside the hull.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=393), [DiveGizo - Dive Sites](https://www.divegizo.com/dive-sites/), [Bluewater Dive Travel - Solomon Islands](https://www.bluewaterdivetravel.com/destination/solomon-islands-diving). Last updated 2026-06-30.*
+*Re-audit note: the previous footer cited a broken DiveGizo listing page and a Bluewater Dive Travel page that does not mention this wreck anywhere — both replaced below. Dive Gizo's own page calls the site simply "Petaj" and does not use the "MV Roylen Petaj" name or give a depth figure; ML 805 identity, lionfish/batfish/puffers, and anemone coverage are confirmed there.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=393), [Dive Gizo - Petaj](https://divegizo.com/dive-site/petaj/). Last updated 2026-09-11.*

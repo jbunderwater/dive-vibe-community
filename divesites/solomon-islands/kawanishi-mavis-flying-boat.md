@@ -49,4 +49,5 @@ Descend to Mavis No 2 at approximately 30 metres. The aircraft's large wingspan 
 This is a war grave -- do not touch, disturb, or remove any artefacts including instruments and equipment. The 30-metre depth requires advanced certification and careful gas planning. The airframe structure may have sharp corroded edges; maintain buoyancy clearance from the wreck at all times. The area can experience variable currents. Carry an SMB for ascent.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=386), [Pacific Wrecks - Ghavutu](https://pacificwrecks.com/provinces/solomon_islands/florida-islands/ghavutu.html), [Emperor Divers - Guadalcanal](https://www.emperordivers.com/guadalcanal-dive-sites/). Last updated 2026-06-30.*
+*Re-audit note: the previous footer cited a Pacific Wrecks URL that does not match that site's real structure and an Emperor Divers page that returns 404 — both replaced below. The "15 aircraft total" figure (7 H6K Mavis + 8 Rufe floatplanes) was independently re-confirmed during this review.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=386), [Pacific Wrecks - Gavutu Harbor](https://pacificwrecks.com/location/solomons_gavutu_harbor.html). Last updated 2026-09-11.*

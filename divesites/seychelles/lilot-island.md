@@ -17,9 +17,13 @@ L'Ilot (The Islet) is a tiny granite island at the northeast end of Beau Vallon 
 
 ## Overview
 
-L'Ilot sits roughly half a kilometre from Mahé's Beau Vallon coast, recognisable by the two coconut palms on its summit. The site is rated CMAS 2 (Intermediate) by Tribloo and is described as a drop-off and rocky canyon site with an arch formation, with sheer granite drops creating deep ravines bordered by large boulders draped in soft coral. Tribloo cites a maximum depth of 40 metres at the deepest points of the drop-off, though most recreational dives are conducted in the 18–20 metre range. The 10-minute boat ride from Beau Vallon makes this one of the most accessible offshore sites on Mahé.
+L'Ilot sits roughly half a kilometre from Mahé's Beau Vallon coast, recognisable by the two coconut palms on its summit. The site is rated CMAS 2 (Intermediate) by Tribloo and is described as a drop-off and rocky canyon site with an arch formation, with sheer granite drops creating deep ravines bordered by large boulders draped in soft coral. Tribloo cites a maximum depth of 30–40 metres at the deepest points of the drop-off, and divingseychelles.com's listing puts the shallower part of the site at surface-to-18 metres, consistent with most recreational dives being conducted in the 18–20 metre range. The 10-minute boat ride from Beau Vallon makes this one of the most accessible offshore sites on Mahé.
 
-Species confirmed at L'Ilot across multiple sources include whitetip reef sharks, turtles, barracudas, moray eels, stingrays, groupers, scorpionfish, hogfish, and crayfish in the crevices. Seyvillas notes that whale sharks have been sighted seasonally at this site, with November to March cited as the most likely window. The site is described as well-suited for night dives when different species emerge, and it is used regularly by local dive schools for training dives due to its reliable conditions.
+Species confirmed at L'Ilot across multiple sources include whitetip reef sharks, turtles, barracudas, moray eels, stingrays, groupers, scorpionfish, hogfish, and crayfish in the crevices; divingseychelles.com additionally reports dolphins and eagle rays here. Equinoxe Diving School's listing for the site (as "Lilôt") gives October–December as the whale shark season.
+
+**Correction from prior version**: this page previously cited "November to March" as the whale-shark window, attributed to Seyvillas. That claim could not be re-confirmed against Seyvillas' current site content this round, while Equinoxe's current listing for this same site gives October–December — that figure is used above instead of presenting an unconfirmable conflict.
+
+The site is described as well-suited for night dives when different species emerge, and it is used regularly by local dive schools for training dives due to its reliable conditions.
 
 ## Site Information
 
@@ -30,4 +34,4 @@ Species confirmed at L'Ilot across multiple sources include whitetip reef sharks
 - **Maximum Depth**: 20 meters
 
 ---
-*Sources: [Tribloo – L'Ilot The Islet](https://tribloo.com/en/dive-sites/365/lilot---the-islet.html), [Seyvillas – Mahé Diving Guide](https://www.seyvillas.com/en/guide/islands/mahe/diving), [Equinoxe Diving School – Dive Sites](https://equinoxe-diving-seychelles.com/dive-sites/). Last updated 2026-06-29.*
+*Sources: [Tribloo – L'Ilot The Islet](https://tribloo.com/en/dive-sites/365/lilot---the-islet.html), [Divingseychelles.com – Dive Sites](https://divingseychelles.com/dive-sites), [Equinoxe Diving School – Dive Sites](https://equinoxe-diving-seychelles.com/dive-sites/). Re-audited 2026-09-11: Seyvillas' current Mahé guide could not be confirmed to cover this site and has been replaced with Divingseychelles.com; the whale-shark season was corrected from an unconfirmed "Nov–Mar" to Equinoxe's confirmed "Oct–Dec" (see note above). Last updated 2026-09-11.*

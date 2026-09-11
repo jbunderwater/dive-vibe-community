@@ -2,7 +2,7 @@
 name: Hangover
 lat: 17.4637
 lng: -62.9832
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 17
 entryType: boat
 siteType: wall
@@ -13,18 +13,20 @@ addedBy: osm_import
 
 # Hangover
 
-A shallow volcanic wall on Statia's northern leeward coast featuring dramatic overhanging rock formations draped with black coral, orange cup corals, and dense encrusting sponges.
+A shallow volcanic wall on Statia's northern leeward coast, its ledges and overhangs coated in multicolored sponges and fans and rated a Beginner-friendly dive by the local operators who run it.
 
 ## Overview
 
-Hangover earned its name from the prominent overhang formations that define the site — sections of the volcanic wall protrude outward above the diver, creating cave-like overhangs at various depths between 10 and 17 meters. These overhangs are heavily colonised by organisms that thrive in the reduced-light environment: orange cup corals (Tubastraea), black coral bushes, and encrusting sponges in vivid yellows and purples cover every available surface on the overhang undersides. STENAPA's marine park has allowed these slow-growing organisms to develop undisturbed for decades. The site is on the calmer northern side of Statia's leeward coast, with lighter current than southern sites. Visibility is typically 20–30 meters.
+Hangover earned its name from the prominent overhang formations that define the site — sections of the volcanic wall protrude outward above the diver at various depths between 10 and 17 meters. Golden Rock Dive Center describes the site as a coral-encrusted lava flow, and independent reporting describes it as a series of ledges coated in multicolored sponges and fans, with cracks and crevices sheltering smaller life. STENAPA's marine park has allowed these organisms to develop undisturbed for decades. The site is on the calmer northern side of Statia's leeward coast, with lighter current than southern sites. Visibility is typically 20–30 meters.
+
+**Correction (2026-09-11 re-audit):** difficulty corrected from Intermediate to Beginner. Golden Rock Dive Center's own site page rates Hangover Reef as Beginner, and Scubaqua lists it at open-water-diver level; no current source supports an Intermediate rating.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
 | Depth Range | 8–17 m |
-| Difficulty | Intermediate |
+| Difficulty | Beginner |
 | Entry Type | Boat |
 | Site Type | Wall |
 | Visibility | 20–30 m |
@@ -33,7 +35,7 @@ Hangover earned its name from the prominent overhang formations that define the 
 
 ## Marine Life
 
-The overhangs shelter populations of copper sweepers and glassfish that school in dense clouds inside the cave-like formations. Bar jacks and horse-eye jacks hunt through the sweeper schools in morning dives. Caribbean spiny lobster and banded coral shrimp occupy crevices in the overhang walls. French and grey angelfish are common on the surrounding reef. Hawksbill turtles feed on the sponges covering the overhang surfaces. Green moray eels emerge from the deeper crevices.
+Cross-referencing Golden Rock, Scubaqua, a PADI-sourced site summary, and a 2026 ScubaBoard dive report yields a consistent, site-specific picture: queen conch and spiny lobster (Golden Rock, Scubaqua), hawksbill turtles (independently confirmed by both the PADI summary and the ScubaBoard report), horse-eye jacks and permit, yellowhead jawfish, peacock flounder, and angelfish (Scubaqua and the PADI summary), plus longlure frogfish and longsnout seahorse tucked into the site's cracks and crevices. *Removed during the 2026-09-11 re-audit: copper sweepers, glassfish clouds, bar jacks, banded coral shrimp, French/grey angelfish, and green moray eels — none of these were confirmed by any current source for this specific site.*
 
 ## Dive Profile
 
@@ -61,4 +63,4 @@ Hangover is one of Statia's best photography sites. The overhang interiors with 
 - Golden Rock Dive Center: regularly dives Hangover on afternoon dive trips
 
 ---
-*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [DAN Alert Diver — St. Eustatius](https://dan.org/alert-diver/article/st-eustatius/), [Scubaverse — St Eustatius](https://scubaverse.com/dive-guide/caribbean/st-eustatius/). Last updated 2026-06-29.*
+*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [Scubaqua — Dive Sites](https://www.scubaqua.com/divesites/), [PADI — Hangover Dive Site](https://www.padi.com/de/tauchplatz/sint-eustatius/hangover/), [ScubaBoard — A Dive at Hangover Reef, Sint Eustatius](https://scubaboard.com/community/threads/a-dive-at-hangover-reef-sint-eustatius.462676/). Last updated 2026-09-11.*

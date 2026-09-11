@@ -34,4 +34,4 @@ The Lagoon is open to the sky — there is no overhead environment. It is not a 
 - **Visibility**: 100–120+ metres
 
 ---
-*Sources: [Wikipedia — Silfra](https://en.wikipedia.org/wiki/Silfra), [Silfra Fissure — sections](https://www.silfrafissure.com/sections/), [DIVE.IS — Silfra dive site](https://www.dive.is/dive-sites/silfra). Last updated 2026-06-08.*
+*Sources: [Wikipedia — Silfra](https://en.wikipedia.org/wiki/Silfra), [Silfra Fissure — sections](https://www.silfrafissure.com/sections/), [DIVE.IS — Silfra dive site](https://www.dive.is/dive-sites/silfra). Last updated 2026-09-11.*

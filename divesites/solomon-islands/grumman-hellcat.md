@@ -49,4 +49,5 @@ Descend to the aircraft at 11 metres. The Hellcat sits intact on the seabed -- t
 This is a war grave -- do not touch, sit on, or remove any part of the aircraft. The shallow depth makes this an extremely safe dive. Maintain buoyancy clearance above the aircraft to avoid damaging the fragile instrument panel and cockpit fittings. Be careful not to fin-kick sand onto the wreck.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=392), [Pacific Wrecks - F6F-3 BuNo 25389](https://pacificwrecks.com/aircraft/f6f/25389.html), [DiveGizo - Grumman Hellcat](https://www.divegizo.com/dive-sites/). Last updated 2026-06-30.*
+*Re-audit note: the previous footer cited a DiveGizo listing page that returns 404 — replaced below with the site's real, working page ("American Hellcat Fighter Plane"), which independently confirms the shallow depth (~10m) and fully intact condition.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=392), [Pacific Wrecks - F6F-3 BuNo 25389](https://pacificwrecks.com/aircraft/f6f/25389.html), [Dive Gizo - American Hellcat Fighter Plane](https://divegizo.com/dive-site/american-hellcat-fighter-plane/). Last updated 2026-09-11.*

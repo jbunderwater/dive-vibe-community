@@ -25,7 +25,7 @@ STENAPA Reef is an artificial reef complex on Sint Eustatius's leeward coast, cr
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 5–20 m |
+| Depth Range | 18–20 m |
 | Difficulty | Beginner |
 | Entry Type | Boat |
 | Site Type | Wreck (artificial reef complex) |
@@ -35,7 +35,7 @@ STENAPA Reef is an artificial reef complex on Sint Eustatius's leeward coast, cr
 
 ## Marine Life
 
-Golden Rock Dive Center reports large schools of reef fish, angelfish, garden eels, and Caribbean stingrays as characteristic marine life at this site. The artificial structures provide complex hard substrate that supports encrusting corals and sponges, with resident populations of groupers and moray eels in the hull structures. The site is particularly productive for juvenile fish due to the shelter provided by the multiple structures.
+Golden Rock Dive Center and Scubaqua (two independent operators) both report reef fish, angelfish, garden eels, and Caribbean stingrays as characteristic sightings; Golden Rock adds pipefish and Scubaqua adds octopus. The artificial structures provide complex hard substrate supporting encrusting corals and sponges, and the site is particularly productive for juvenile fish due to the shelter provided by the multiple structures. *Removed during the 2026-09-11 re-audit: "groupers and moray eels in the hull structures" — no current source confirms these specifically at this site.*
 
 ## Dive Profile
 
@@ -63,4 +63,4 @@ The multiple structures offer diverse wide-angle subjects — hull profiles, sch
 - STENAPA: stenapafoundation.com — manages the marine park and artificial reef program
 
 ---
-*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [DAN Alert Diver — St. Eustatius](https://dan.org/alert-diver/article/st-eustatius/), [MyScubaDivingGearGuide — Scuba Diving St. Eustatius](https://myscubadivinggearguide.com/scuba-diving-st-eustatius/). Last updated 2026-06-29.*
+*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [MyScubaDivingGearGuide — Scuba Diving St. Eustatius](https://myscubadivinggearguide.com/scuba-diving-st-eustatius/), [Scubaqua — Dive Sites](https://www.scubaqua.com/divesites/). Last updated 2026-09-11.*

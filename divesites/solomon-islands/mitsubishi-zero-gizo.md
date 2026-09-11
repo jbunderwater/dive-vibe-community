@@ -34,7 +34,7 @@ The Zero shows signs of having been deliberately placed rather than crash-landed
 
 ## Dive Profile
 
-This is one of the simplest dive profiles in the Solomon Islands. Descend to the aircraft at 8-10 metres directly off the Gizo waterfront. The main fuselage section with the cockpit area (minus instruments and guns) is the primary feature. Examine the break point behind the cockpit where the fuselage is severed, then find the inverted tail section nearby. The port wing buried in sand and the landing gear in the down position are details worth noting. The extreme shallowness allows unlimited bottom time for photography and exploration. Snorkellers can observe the aircraft from the surface.
+This is one of the simplest dive profiles in the Solomon Islands. Descend to the aircraft at 8-10 metres directly off the Gizo waterfront. The main fuselage section with the cockpit area (minus instruments and guns) is the primary feature. Examine the break point behind the cockpit where the fuselage is severed, then find the inverted tail section nearby. The port wing buried in sand and the landing gear in the down position are details worth noting. Dive Gizo, which runs this site, reports resident lionfish and colourful reef life on the wreck. The extreme shallowness allows unlimited bottom time for photography and exploration. Snorkellers can observe the aircraft from the surface.
 
 ## Tips and Recommendations
 
@@ -49,4 +49,5 @@ This is one of the simplest dive profiles in the Solomon Islands. Descend to the
 The shallow depth and sheltered harbour location make this one of the safest dive sites in the Solomon Islands. Be mindful of boat traffic in the Gizo waterfront area -- use a dive flag and maintain awareness of surface activity. Do not touch or stand on the aircraft. The broken fuselage may have sharp edges at the break point.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=391), [DiveGizo - Dive Sites](https://www.divegizo.com/dive-sites/), [Pacific Wrecks - A6M Zero Gizo](https://pacificwrecks.com/provinces/solomon_islands/western-province/gizo.html). Last updated 2026-06-30.*
+*Re-audit note: the previous footer cited a broken DiveGizo listing page and a Pacific Wrecks URL that does not match that site's real structure — both replaced below. The "deliberately placed, not crashed" theory (no guns/instruments, gear down, no impact damage) was re-confirmed verbatim against McFadyen's original page.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=391), [Dive Gizo - Japanese Zero](https://divegizo.com/dive-site/japanese-zero/). Last updated 2026-09-11.*

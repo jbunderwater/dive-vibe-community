@@ -19,7 +19,7 @@ A New Zealand Bird-class minesweeper -- 51.2 metres long (168 feet), 607 tons st
 
 HMNZS Moa was a Bird-class minesweeper serving with the Royal New Zealand Navy during the Guadalcanal campaign. On 7 April 1943, Japanese aircraft (including Aichi D3A "Val" dive bombers) attacked Tulagi anchorage during Operation I-Go. A direct bomb hit through the captain's cabin detonated in the bowels of the ship; Moa sank within approximately four minutes. Five crew members were killed. The same air raid also sank USS Kanawha and USS Aaron Ward that day.
 
-The wreck now sits upright on the seabed at 36–40 metres with a slight list to port. A large bomb hole is visible in the starboard hull — the damage that sank her. The propeller and rudder at the stern are intact. Twin depth charge racks remain in position on the stern deck. The 4-inch bow gun is still mounted forward, and an anti-aircraft gun is positioned amidships. The engine room is accessible and contains the boiler and propulsion machinery. Lionfish are found throughout the wreck structure. The Moa is the only Royal New Zealand Navy warship sunk by enemy action that is diveable.
+The wreck now sits upright on the seabed at 36–40 metres with a slight list to port. A large bomb hole is visible in the starboard hull — the damage that sank her. The propeller and rudder at the stern are intact. Twin depth charge racks remain in position on the stern deck. The 4-inch bow gun is still mounted forward, and an anti-aircraft gun is positioned amidships. The engine room is accessible and contains the boiler and propulsion machinery. McFadyen specifically notes firefish throughout the wreck -- "lots of firefish on this wreck." The Moa is the only Royal New Zealand Navy warship sunk by enemy action that is diveable.
 
 ## Site Information
 
@@ -49,4 +49,4 @@ Descend to the wreck, which sits upright at 36-40 metres. Begin at the bow where
 This is a war grave -- do not disturb or remove any artefacts. The 36-40 metre depth requires advanced certification and careful gas management. Engine room penetration should only be attempted by divers with wreck penetration training, a torch, and backup light. The bomb hole in the starboard hull has sharp, corroded edges. Decompression stops may be required depending on your dive profile. Carry an SMB for ascent.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=383), [Wikipedia - HMNZS Moa](https://en.wikipedia.org/wiki/HMNZS_Moa_(T233)), [NZ History - Sinking of the Moa](https://nzhistory.govt.nz/war/bird-class-minesweepers/sinking-of-the-moa). Last updated 2026-06-30.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=383), [Wikipedia - HMNZS Moa](https://en.wikipedia.org/wiki/HMNZS_Moa_(T233)), [NZ History - Sinking of the Moa](https://nzhistory.govt.nz/war/bird-class-minesweepers/sinking-of-the-moa). Last updated 2026-09-11.*

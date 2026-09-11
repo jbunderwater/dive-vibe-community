@@ -49,4 +49,5 @@ Descend to the inverted bow section at 15-20 metres. Orient yourself at the cut 
 This is a war grave site -- do not disturb or remove any artefacts, including the china plates and portlights on the seabed. The inverted hull structure has limited penetration opportunities but sharp corroded edges are present. Maintain good buoyancy to avoid contact with the structure. The moderate depth makes this one of the more forgiving wreck dives in the Tulagi area.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=752), [NavSource - USS Minneapolis](https://www.navsource.net/archives/04/036.htm), [Wikipedia - Battle of Tassafaronga](https://en.wikipedia.org/wiki/Battle_of_Tassafaronga). Last updated 2026-06-30.*
+*Re-audit note: re-pulled McFadyen's page directly and confirmed it does describe this exact site (bow cut away after Tassafaronga torpedo damage, 15-22m, china plates, portlights, nearby landing craft/barrels/tires) — content matches this page accurately.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=752), [NavSource - USS Minneapolis](https://www.navsource.net/archives/04/036.htm), [Wikipedia - Battle of Tassafaronga](https://en.wikipedia.org/wiki/Battle_of_Tassafaronga). Last updated 2026-09-11.*

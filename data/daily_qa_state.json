@@ -2,13 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "scotland",
-    "seychelles",
-    "silfra-fissure",
-    "sint-eustatius",
-    "sipadan",
-    "socorro-islands",
-    "solomon-islands",
     "south-africa",
     "south-australia-neptune-islands",
     "south-florida",
@@ -174,7 +167,14 @@
     "puget-sound",
     "raja-ampat",
     "red-sea",
-    "reunion"
+    "reunion",
+    "scotland",
+    "seychelles",
+    "silfra-fissure",
+    "sint-eustatius",
+    "sipadan",
+    "socorro-islands",
+    "solomon-islands"
   ],
   "history": [
     {
@@ -255,7 +255,7 @@
             "marine_life_stripped": 4,
             "wreck_conflicts_flagged": 3,
             "sites_unresolved": 0,
-            "notes": "All 10 sites are wreck-type and already validated=true; full re-audit against scapaflowwrecks.com, Wikipedia, scapa-flow.co.uk, and other maritime sources. Removed an untraceable 'most prolific marine life of any Fleet wreck' claim on SMS Karlsruhe and an inaccurate wartime-activity summary on SMS Cöln, replaced with the real sourced sequence (Tondern raid pursuit, Texel minefield, dry-docking, mutiny-cancelled sortie). Depth conflicts flagged for SMS König (38m vs 40m) and SMS Karlsruhe (25m vs 27m); Gobernador's sinking year (1914 vs a lone 1915 citation) also flagged. Marine-life sections for 4 sites corrected from generic cross-site boilerplate to confirmed per-site operator data."
+            "notes": "All 10 sites are wreck-type and already validated=true; full re-audit against scapaflowwrecks.com, Wikipedia, scapa-flow.co.uk, and other maritime sources. Removed an untraceable 'most prolific marine life of any Fleet wreck' claim on SMS Karlsruhe and an inaccurate wartime-activity summary on SMS C\u00f6ln, replaced with the real sourced sequence (Tondern raid pursuit, Texel minefield, dry-docking, mutiny-cancelled sortie). Depth conflicts flagged for SMS K\u00f6nig (38m vs 40m) and SMS Karlsruhe (25m vs 27m); Gobernador's sinking year (1914 vs a lone 1915 citation) also flagged. Marine-life sections for 4 sites corrected from generic cross-site boilerplate to confirmed per-site operator data."
           }
         }
       },
@@ -3700,6 +3700,95 @@
         "sites_unresolved": 13
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/162"
+    },
+    {
+      "date": "2026-09-11",
+      "slugs": [
+        "scotland",
+        "seychelles",
+        "silfra-fissure",
+        "sint-eustatius",
+        "sipadan",
+        "socorro-islands",
+        "solomon-islands"
+      ],
+      "summary": {
+        "sites_total": 87,
+        "sites_validated_today": 41,
+        "sites_re_audited": 87,
+        "hallucinations_removed": 21,
+        "marine_life_stripped": 15,
+        "wreck_conflicts_flagged": 6,
+        "sites_unresolved": 10,
+        "by_destination": {
+          "scotland": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory) -- skipped, consistent with prior-cycle precedent for group slugs; solomon-islands pulled forward to keep the day's real-destination count at 6."
+          },
+          "seychelles": {
+            "sites_total": 12,
+            "sites_validated_today": 0,
+            "sites_re_audited": 12,
+            "hallucinations_removed": 4,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 3,
+            "notes": "All 12 sites already validated=true; full re-audit. Corrected 4 misattributed/unconfirmed claims (Brissare Rocks whale-shark season, Aldabra species-count statistic, Marianne Island tuna claim, Ennerdale sinking detail). Ennerdale Wreck's length/tonnage documented as sourced ranges rather than picked. Found and flagged a location error (Roche Grand Maman coordinates match Praslin, not Mahe) and a coordinate/data-integrity issue on Ave Maria Rock. Roche Grand Maman, Trompeuse Rocks, and Whale Rock remain below the 3-domain bar."
+          },
+          "silfra-fissure": {
+            "sites_total": 7,
+            "sites_validated_today": 7,
+            "sites_re_audited": 7,
+            "hallucinations_removed": 1,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "No wreck sites (freshwater glacial fissure diving). Removed a fabricated scientific name for dwarf char and a bogus freshwater-nudibranch claim. Flagged genuine depth and access-distance conflicts on Davidsgja rather than picking one figure. All 7 sites confirmed at or above the cold-water Intermediate difficulty floor."
+          },
+          "sint-eustatius": {
+            "sites_total": 10,
+            "sites_validated_today": 8,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 8,
+            "marine_life_stripped": 10,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 2,
+            "notes": "Corrected Blue Bead Hole's depth/entry-type and its blue-bead-collection legality (confirmed as STENAPA's one explicit exception to the no-collection rule). Fixed a turtle-species error at Double Wreck and dropped an unreliable source (scubaverse.com) whose Statia page referenced a Bonaire wreck. Charles L. Brown Wreck's length documented as a sourced range. Five Fingers South and The Ledges could not be re-confirmed against 3 independent domains this cycle -- left validated as-is and flagged honestly rather than padded."
+          },
+          "sipadan": {
+            "sites_total": 10,
+            "sites_validated_today": 0,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 5,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "No wreck sites. Upgraded Lobster Lairs and Staghorn Crest to Advanced difficulty after sources confirmed under-reported current strength. Removed a fabricated night-diving shark narrative at White Tip Avenue plus several other unsourced species/measurement claims. Turtle Cavern depth and Lobster Lairs current strength documented as open conflicts rather than guessed."
+          },
+          "socorro-islands": {
+            "sites_total": 8,
+            "sites_validated_today": 0,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "No wreck sites. Corrected a tiger-shark claim misattributed from Punta Tosca to Cabo Pearce and an unsupported species-count statistic at San Benedicto Canyon. Softened an unsupported dolphin superlative at Punta Tosca. Roca Partida's disputed distance figure documented as a sourced range. All 8 sites confirmed Advanced-difficulty-compliant for this remote liveaboard destination."
+          },
+          "solomon-islands": {
+            "sites_total": 30,
+            "sites_validated_today": 26,
+            "sites_re_audited": 30,
+            "hallucinations_removed": 8,
+            "marine_life_stripped": 6,
+            "wreck_conflicts_flagged": 3,
+            "sites_unresolved": 5,
+            "notes": "Devil's Highway had the wrong marine-life profile entirely -- rewritten to reflect its real status as the Solomons' signature manta ray feeding site rather than a generic shark/eagle-ray channel. Found and corrected a systemic sourcing issue where several wreck pages cited broken or fabricated URLs (Wikipedia, NavSource, PacificWrecks, dive-shop pages) that did not actually cover the cited content. Toa Maru's length and stern depth documented as sourced ranges. Custom's House Wreck, Top Secret Place, and Tokuyo Maru remain below the 3-domain bar despite renewed search."
+          }
+        }
+      },
+      "pr_url": null,
+      "errors": []
     }
   ]
 }

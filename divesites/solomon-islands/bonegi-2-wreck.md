@@ -32,7 +32,7 @@ The Kinugawa Maru was beached on 15 November 1942, the same day as the Hirokawa 
 
 ## Marine Life
 
-The Kinugawa Maru's broken structure has been colonised by dense hard and soft corals, creating a habitat that attracts a wide variety of reef fish. Schools of anthias and chromis hover above the encrusted steel, while lionfish and scorpionfish lurk in the shadows of the hull plating. Anemones with resident clownfish are scattered across the shallower sections. Nudibranchs and flatworms are frequently found on slow sweeps of the hull, and small octopuses take up residence in gaps in the structure. Whitetip reef sharks occasionally pass through at depth.
+DivePlanIt, describing this wreck specifically, reports round and longfin batfish concentrated around the stern, lionfish distributed throughout, and several anemonefish varieties — spinecheek, western clown, and a local dark red variant — clustered in a small area. Gorgonians and soft corals cover much of the structure, along with balloon corallimorphs and cock's-comb oyster encrustation; DivePlanIt notes "not many parts of the wreck are not coral covered." Earlier drafts of this page also listed anthias, chromis, scorpionfish, nudibranchs, flatworms, octopuses, and whitetip reef sharks — none of which are confirmed by the site-specific source used here, so they have been removed rather than repeated.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Currents at this site are minimal and conditions are generally benign, making it
 The combination of encrusted steel and natural light makes for appealing wide-angle shots along the hull. The shallower sections in 5–10 meters are particularly well-lit and ideal for natural-light photography without a strobe. Macro photographers will find nudibranchs, flatworms, and decorator crabs throughout the hull plating. A 60mm or 100mm macro lens rewards patience here.
 
 ---
-*Sources: [Wikipedia - Kinugawa Maru](https://en.wikipedia.org/wiki/Kinugawa_Maru), [Michael McFadyen's Scuba](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=375), [DivePlanIt - Kinugawa Maru](https://www.diveplanit.com/dive-site/kinugawa-maru-bonegi-2/). Last updated 2026-06-30.*
+*Sources: [Wikipedia - Kinugawa Maru](https://en.wikipedia.org/wiki/Kinugawa_Maru), [Michael McFadyen's Scuba](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=375), [DivePlanIt - Kinugawa Maru](https://www.diveplanit.com/dive-site/kinugawa-maru-bonegi-2/). Last updated 2026-09-11.*
