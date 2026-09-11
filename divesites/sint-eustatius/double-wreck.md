@@ -13,17 +13,21 @@ addedBy: osm_import
 
 # Double Wreck
 
-The cannon, anchors, and ballast stones of two 18th-century sailing vessels lying side by side on Statia's seafloor — among the oldest diveable colonial-era shipwrecks in the Caribbean.
+The cannon, anchors, and ballast stones of two sailing-era vessels lying side by side on Statia's seafloor — sources broadly place them in the 18th century, though one recovered anchor has been dated slightly later.
 
 ## Overview
 
-Double Wreck is Sint Eustatius's most historically significant dive site — the remains of two wooden sailing vessels likely dating from the 18th century during Statia's peak as the Caribbean's busiest commercial harbour. The wooden hulls have long since decayed, leaving behind iron cannon, anchors, ballast stones, and ceramic fragments spread across the sandy bottom in two overlapping clusters at 12–17 meters. The archaeological significance is considerable: researchers from the St. Eustatius Center for Archaeological Research (SECAR) have conducted systematic survey work here, and the site is protected under STENAPA's marine park regulations and Dutch law. The name "Double Wreck" reflects the two distinct concentrations of artifacts visible on the seafloor. Visibility averages 20–25 meters in calm conditions.
+Double Wreck is Sint Eustatius's most historically significant dive site — the remains of two wooden sailing vessels spread across the sandy bottom in two overlapping clusters at 17–18 meters. The wooden hulls have long since decayed, leaving behind iron cannon, anchors, and ballast stones. The archaeological significance is considerable: researchers from the St. Eustatius Center for Archaeological Research (SECAR) have conducted systematic survey work here, and the site is protected under STENAPA's marine park regulations and Dutch law. The name "Double Wreck" reflects the two distinct concentrations of artifacts visible on the seafloor. Visibility averages 20–25 meters in calm conditions.
+
+**Dating conflict (2026-09-11 re-audit):** general accounts, including Golden Rock Dive Center's own "Archeological Site" listing, place the wrecks in the 18th century during Statia's peak as a trading harbour. Divertrek's site-specific account, however, identifies the recovered anchor as an English Admiralty Longshank type dated to the early 19th century. Both are retained here as a flagged discrepancy rather than resolved by guessing. Divertrek also reports that one of the two anchors was buried by Hurricane Irma (2017) — a single-sourced claim, noted as such.
+
+**Vessel identity — unverified, likely spurious:** one source, scubaverse.com's general St Eustatius dive-guide page, names the two vessels "Charles Brown" and "Berkeley Springs" and calls them 18th-century British naval ships. This is not corroborated by any other source (Golden Rock and DAN do not confirm it), and that same scubaverse.com page separately references "Hilma Hooker" — a well-known Bonaire wreck, not a Statia site — which suggests the page mixes in non-Statia content. The vessel names should be treated as unverified and probably incorrect, not merely "unconfirmed."
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 15–18 m |
+| Depth Range | 17–18 m |
 | Difficulty | Beginner |
 | Entry Type | Boat |
 | Site Type | Wreck (historic) |
@@ -33,7 +37,7 @@ Double Wreck is Sint Eustatius's most historically significant dive site — the
 
 ## Marine Life
 
-The scattered cannon and ballast stone formations provide excellent hard substrate, hosting corals, sponges, and encrusting organisms accumulated over two centuries. Caribbean spiny lobster shelter beneath cannon tubes. Moray eels occupy gaps between ballast stone piles. French and grey angelfish are abundant throughout the area. Sandy zones between artifact clusters host southern stingrays. Hawksbill turtles are common visitors.
+Three independent sources (Golden Rock, Divertrek, Scubaqua) confirm southern stingrays at this site. Divertrek and Scubaqua both specify green turtles here — not hawksbill as previously listed, which has been corrected. Scubaqua additionally lists seahorses, frogfish, and blennies, and Divertrek lists lobsters and general reef fish schools. *Removed during the 2026-09-11 re-audit: moray eels and French/grey angelfish — not confirmed for this site by any current source.*
 
 ## Dive Profile
 
@@ -45,7 +49,7 @@ Boat dive with STENAPA mooring. Access via Golden Rock Dive Center. Entry by gia
 
 ## Tips and Recommendations
 
-A historical briefing before the dive significantly enhances the experience — understanding Statia's extraordinary 18th-century commerce makes the cannon clusters far more evocative. Carry a torch for examining the undersides of cannon tubes, where banded coral shrimp and juvenile fish congregate. Pair this dive with Blue Bead Hole or Crooks Castle for a full day of Statia's unique historical diving.
+A historical briefing before the dive significantly enhances the experience — understanding Statia's extraordinary trading-era commerce makes the cannon clusters far more evocative. Carry a torch for examining the undersides of cannon tubes, where juvenile fish and other small life congregate. Pair this dive with Blue Bead Hole or Crooks Castle for a full day of Statia's unique historical diving.
 
 ## Safety Considerations
 
@@ -61,4 +65,4 @@ Cannon lying in the sand with coral and sponge growth are the defining images of
 - SECAR: St. Eustatius Center for Archaeological Research — published research on Double Wreck
 
 ---
-*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [DiverTrek — Diving St. Eustatius](https://divertrek.com/diving-st-eustatius-the-historical-gem/), [Scubaverse — St Eustatius](https://scubaverse.com/dive-guide/caribbean/st-eustatius/). Last updated 2026-06-29.*
+*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [DiverTrek — Diving St. Eustatius](https://divertrek.com/diving-st-eustatius-the-historical-gem/), [Scubaqua — Dive Sites](https://www.scubaqua.com/divesites/), [We Are Statia — Diving](https://wearestatia.com/discover-the-depths-diving-in-st-eustatius/). Last updated 2026-09-11.*
