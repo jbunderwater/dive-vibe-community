@@ -11,8 +11,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "nautilusliveaboards.com,dive-the-world.com,indopacificimages.com,adcdiving.be,xray-mag.com,oysterdiving.com",
-      "last_qa_date": "2026-06-30"
+      "validation_source": "nautilusliveaboards.com,dive-the-world.com,indopacificimages.com,adcdiving.be,xray-mag.com,oysterdiving.com,wikipedia.org,divertrek.com",
+      "last_qa_date": "2026-09-11"
     }
   },
   {
@@ -28,7 +28,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "nautilusliveaboards.com,dive-the-world.com,indopacificimages.com,adcdiving.be,divessi.com,oysterdiving.com",
-      "last_qa_date": "2026-06-30"
+      "last_qa_date": "2026-09-11"
     }
   },
   {
@@ -44,7 +44,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "nautilusliveaboards.com,dive-the-world.com,indopacificimages.com,adcdiving.be,divessi.com,oysterdiving.com",
-      "last_qa_date": "2026-06-30"
+      "last_qa_date": "2026-09-11"
     }
   },
   {
@@ -60,7 +60,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "nautilusliveaboards.com,dive-the-world.com,divessi.com,bluewaterdivetravel.com,oysterdiving.com",
-      "last_qa_date": "2026-06-30"
+      "last_qa_date": "2026-09-11"
     }
   },
   {
@@ -76,7 +76,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "nautilusliveaboards.com,dive-the-world.com,xray-mag.com,adcdiving.be,divertrek.com,bluewaterdivetravel.com",
-      "last_qa_date": "2026-06-30"
+      "last_qa_date": "2026-09-11"
     }
   },
   {
@@ -92,7 +92,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "uwphotographyguide.com,divessi.com,nautilusliveaboards.com",
-      "last_qa_date": "2026-06-30"
+      "last_qa_date": "2026-09-11"
     }
   },
   {
@@ -108,7 +108,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "dive-the-world.com,uwphotographyguide.com,oysterdiving.com,scubago.com",
-      "last_qa_date": "2026-06-30"
+      "last_qa_date": "2026-09-11"
     }
   },
   {
@@ -124,7 +124,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "adcdiving.be,divertrek.com,kflansburg.com,divessi.com,uwphotographyguide.com",
-      "last_qa_date": "2026-06-30"
+      "last_qa_date": "2026-09-11"
     }
   }
 ]
