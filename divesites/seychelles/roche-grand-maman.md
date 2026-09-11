@@ -13,21 +13,25 @@ addedBy: osm_import
 
 ## Roche Grand Maman
 
-Roche Grand Maman ("Grandmother Rock") is a granite outcrop in the Seychelles Inner Islands, typical of the dramatic submerged boulder and wall landscapes that define diving in this archipelago.
+Roche Grand Maman (also listed by PADI as "Roche Grand Manman") is a granite dive site whose confirmed coordinates place it in the Praslin/Curieuse area of the Inner Islands — not off Mahé as this page previously stated.
 
 ## Overview
 
-Roche Grand Maman is listed among the notable dive sites around the Mahé region by Equinoxe Diving School and Big Blue Divers, both of which operate regular trips to granite boulder and wall sites in the Inner Islands. The site features steep walls and boulder-formed crevices characteristic of the Seychelles' granitic underwater terrain, with the exposed offshore position drawing open-water species along the walls. Dive conditions are best during the inter-monsoon seasons of April–May and October–November when seas are calm and visibility is at its peak.
+This re-audit found a material correction: the site's coordinates (-4.2900691, 55.6859107) match a PADI dive-site listing for "Roche Grand Manman" almost exactly, and PADI places that site in the Praslin area. The two previously-cited sources for this page (Equinoxe Diving School and Big Blue Divers, both Mahé-based operators) do not actually name Roche Grand Maman anywhere on their current dive-site pages — on re-check, neither lists it. The earlier description of "Inner Islands, near Mahé" and "exposed offshore wall best suited to experienced divers" appears to have been inferred from those operators' general Mahé wall-diving character rather than from a source naming this specific site, and is corrected here.
 
-No site-specific diver reports with species lists or precise depth profiles for Roche Grand Maman were located in available online sources. The name does not appear with individual-site depth or marine life data in major dive databases. Species observations should be considered consistent with other exposed Inner Islands wall sites — large snappers, barracuda, kingfish, and reef sharks are typical of sites with this profile in the Seychelles — but are not attributable to named sources specific to this site.
+PADI's own listing for the site is the only source-specific data found, and it conflicts with this destination's stored difficulty rating: PADI describes it as "a good dive site for beginners," while our record carries an Advanced rating carried over from the original (unverified) write-up. PADI's own maximum-depth figure for the site (3 ft / 1 m) is almost certainly a data error and is not usable. Given the conflict between PADI's beginner characterization and the Advanced rating on file, and the absence of any second source to arbitrate, the difficulty and depth values here should be treated as unconfirmed pending a source that names this site directly with a plausible depth profile.
+
+## Marine Life
+
+PADI's listing reports batfish, whitetip reef shark, sea turtle, moray eel, angelfish, and scorpionfish at this site. No other source-specific marine life reports were found; regional Seychelles granite-reef species (snapper, barracuda, reef sharks) may occur here but are not separately confirmed for this site.
 
 ## Site Information
 
-- **Location**: Inner Islands, near Mahé, Seychelles
+- **Location**: Praslin/Curieuse area, Inner Islands, Seychelles (corrected from a previous "near Mahé" listing — see note above)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 
 ---
-*Sources: [Equinoxe Diving School – Dive Sites](https://equinoxe-diving-seychelles.com/dive-sites/), [Big Blue Divers – Dive Sites](https://diveinseychelles.com/dive-sites/), [Seyvillas – Mahé Diving Guide](https://www.seyvillas.com/en/guide/islands/mahe/diving). No site-specific depth or marine life sources found for Roche Grand Maman. Last updated 2026-06-29.*
+*Sources: [PADI Dive Site – Roche Grand Manman](https://www.padi.com/dive-site/seychelles/roche-grand-manman/). Only one site-specific source was found this round; the two previously cited Mahé dive-shop sites do not name this location. Last updated 2026-09-11.*
