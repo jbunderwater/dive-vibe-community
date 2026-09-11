@@ -27,8 +27,8 @@ Water conditions differ from Silfra: temperature is typically slightly warmer th
 
 ## Dive Profile
 
-- **Entry**: Shore entry; shallow swim across lake to fissure opening
-- **Maximum depth**: 21 m (confirmed by DIVE.IS and PADI)
+- **Entry**: Shore entry; shallow swim across lake to fissure opening. Sources disagree on the walk to the water: a PADI first-hand trip report describes a roughly 100 m walk (in winter conditions) ending in a giant-stride entry off an icy rock, while Divers-Guide states a 300 m walk over a rocky bank. Plan for a longer approach in full kit rather than assuming the shorter figure.
+- **Maximum depth**: 21 m — independently confirmed by three sources (DIVE.IS, Magmadive, PADI). One source (Divers-Guide) lists 15 m instead; given three sources agree on 21 m, that figure is treated as the outlier and not used.
 - **Fissure top**: Approximately 7 m below lake surface
 - **Dive duration**: 30–40 minutes typically
 - **Visibility**: Typically 100 m+, but more weather-dependent than Silfra
@@ -43,7 +43,7 @@ Water conditions differ from Silfra: temperature is typically slightly warmer th
 
 ## Marine Life
 
-Marine life is sparse, as in all Icelandic freshwater dive sites. Brown trout are documented at the site by DIVE.IS — they are commonly encountered swimming near the fissure opening. Þingvallavatn Lake is home to four unique fish species including dwarf char (Salvelinus devarius), but no dive-specific sources reviewed confirm dwarf char sightings specifically within the Davíðsgjá fissure. The primary visual draw is geological: the fissure walls, tectonic geometry, and glacial water colour.
+Marine life is sparse, as in all Icelandic freshwater dive sites. Brown/lake trout are documented at this specific site by three independent sources — DIVE.IS, the PADI blog trip report, and Divers-Guide — and are commonly encountered swimming near the fissure. Þingvallavatn Lake is also home to polymorphic Arctic char (Salvelinus alpinus), including a dwarf morph found elsewhere in the lake, but no dive-specific source confirms dwarf char sightings specifically within the Davíðsgjá fissure, so none are attributed to this site. (A distinct scientific name for the dwarf morph appeared in an earlier version of this page — that name could not be verified against any primary source and has been removed.) The primary visual draw is geological: the fissure walls, tectonic geometry, and glacial water colour.
 
 ## Photography
 
@@ -63,4 +63,4 @@ Water temperature of 2–5°C requires a high-quality drysuit with adequate ther
 - **Protected Status**: UNESCO World Heritage Site (Þingvellir National Park)
 
 ---
-*Sources: [DIVE.IS — Davíðsgjá dive site](https://www.dive.is/dive-sites/davidsgja), [PADI — Diving Davíðsgjá](https://blog.padi.com/diving-davidsgja-silfras-darker-spookier-sibling/), [Adventures.is — Davíðsgjá](https://adventures.is/iceland/attractions/davidsgja/), [Divers-Guide — Davíðsgjá](https://www.divers-guide.com/en/davisgja). Last updated 2026-06-08.*
+*Sources: [DIVE.IS — Davíðsgjá dive site](https://www.dive.is/dive-sites/davidsgja), [PADI — Diving Davíðsgjá](https://blog.padi.com/diving-davidsgja-silfras-darker-spookier-sibling/), [Magmadive — Davíðsgjá](https://magmadive.is/dive-sites/davidsgja/), [Adventures.is — Davíðsgjá](https://adventures.is/iceland/attractions/davidsgja/), [Divers-Guide — Davíðsgjá](https://www.divers-guide.com/en/davisgja) (depth and marine-life claims from this source conflict with the other four and were not used — see Dive Profile and Marine Life notes above). Last updated 2026-09-11.*

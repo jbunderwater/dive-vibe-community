@@ -34,4 +34,4 @@ Bright green "troll hair" algae (Vaucheria sp.) coats the lava walls throughout,
 - **Visibility**: 100+ metres
 
 ---
-*Sources: [DIVE.IS — Silfra dive site](https://www.dive.is/dive-sites/silfra), [Wikipedia — Silfra](https://en.wikipedia.org/wiki/Silfra), [Silfra.org — sections](https://www.silfra.org/different_sections_of_Silfra.html), [Silfra Fissure — sections](https://www.silfrafissure.com/sections/). Last updated 2026-06-08.*
+*Sources: [DIVE.IS — Silfra dive site](https://www.dive.is/dive-sites/silfra), [Wikipedia — Silfra](https://en.wikipedia.org/wiki/Silfra), [Silfra.org — sections](https://www.silfra.org/different_sections_of_Silfra.html), [Silfra Fissure — sections](https://www.silfrafissure.com/sections/). Last updated 2026-09-11.*

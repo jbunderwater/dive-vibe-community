@@ -34,4 +34,4 @@ Marine life in this freshwater, near-freezing environment is extremely limited. 
 - **Visibility**: 100+ metres (end-to-end corridor visible)
 
 ---
-*Sources: [Wikipedia — Silfra](https://en.wikipedia.org/wiki/Silfra), [Silfra.org — sections](https://www.silfra.org/different_sections_of_Silfra.html), [Silfra Fissure — sections](https://www.silfrafissure.com/sections/), [DIVE.IS — Silfra dive site](https://www.dive.is/dive-sites/silfra). Last updated 2026-06-08.*
+*Sources: [Wikipedia — Silfra](https://en.wikipedia.org/wiki/Silfra), [Silfra.org — sections](https://www.silfra.org/different_sections_of_Silfra.html), [Silfra Fissure — sections](https://www.silfrafissure.com/sections/), [DIVE.IS — Silfra dive site](https://www.dive.is/dive-sites/silfra). Last updated 2026-09-11.*
