@@ -2,7 +2,7 @@
 name: White Tip Avenue
 lat: 4.1117
 lng: 118.6256
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 40
 entryType: boat
 siteType: wall
@@ -16,13 +16,13 @@ addedBy: osm_import
 A wall lined with sandy ledges where whitetip reef sharks rest by day and hunt by night, making this one of Sipadan's finest night diving destinations
 
 ## Overview
-White Tip Avenue runs along Sipadan's southwestern wall, named for the large numbers of whitetip reef sharks that use the sandy ledges and overhangs along the wall face as daytime resting spots. During the day, divers drift along the wall encountering groups of whitetips lying motionless on the sand shelves — sometimes five or six sharks on a single ledge. At night, the site transforms entirely as the sharks become active hunters, and dozens of whitetips can be seen coursing along the reef in pursuit of prey. The wall here is somewhat more sheltered from the prevailing currents than the island's northern and southern points, making it more accessible for intermediate divers while still delivering reliable shark encounters.
+White Tip Avenue runs along Sipadan's southwestern wall, named for the large numbers of whitetip reef sharks that use the sandy ledges and overhangs along the wall face as daytime resting spots. During the day, divers drift along the wall encountering groups of whitetips lying motionless on the sand shelves — sometimes five or six sharks on a single ledge. At night, the site transforms entirely as the sharks become active hunters, and dozens of whitetips can be seen coursing along the reef in pursuit of prey. The wall here is somewhat more sheltered from the prevailing currents than the island's northern and southern points, making for relatively more relaxed conditions while still delivering reliable shark encounters — though Sabah Parks requires Advanced Open Water certification for all diving at Sipadan regardless of individual site conditions.
 
 ## Site Information
 - **Location**: Sipadan Island, Sabah, Malaysia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15-30 metres
 - **Current**: Mild to moderate — more sheltered than the exposed points
@@ -41,14 +41,14 @@ Boat dive from Mabul or Kapalai island resorts. Giant stride entry. The more she
 - Request a night dive at this site if your operator offers it — the hunting whitetip sharks are extraordinary
 - During day dives, approach resting sharks slowly and avoid shining torches directly at them, which may disturb their rest
 - Look along the wall edge below 30 metres for gorgonian fans and black coral colonies
-- Sipadan permits (176 per day) are required — night dives may require separate arrangements
-- The more moderate current conditions make this a good site for divers building wall diving experience
+- Sipadan permits are limited to 254 per day (raised from 176 in 2022) and require Advanced Open Water certification — night dives may require separate arrangements
+- The more moderate current conditions make this one of the less demanding Sipadan wall dives, though Advanced Open Water certification is still mandatory
 
 ## Safety Considerations
-Though more sheltered than Barracuda Point or South Point, currents can still pick up without warning. Maintain awareness of your depth along the vertical wall. For night dives, carry a primary torch and a backup, and stay close to the divemaster. An SMB and signalling device are essential. The nearest hyperbaric chamber is in Kota Kinabalu.
+Though more sheltered than Barracuda Point or South Point, currents can still pick up without warning. Maintain awareness of your depth along the vertical wall. For night dives, carry a primary torch and a backup, and stay close to the divemaster. An SMB and signalling device are essential. A naval decompression chamber serves the Semporna/Tawau area, with a further facility in Kota Kinabalu for more complex cases; confirm current evacuation procedures with your operator.
 
 ## Photography
 For day dives, the resting whitetip sharks on sandy ledges are excellent subjects for wide-angle compositions with natural light. Night photography is the real highlight — hunting whitetips, active moray eels, and the dramatic torch-lit wall create powerful images. A video light or focus light is essential for night work. The east-facing wall is best lit in the morning and early afternoon when the sun illuminates the reef's colours. Macro subjects including nudibranchs and crustaceans emerge at night along the wall crevices.
 
 ---
-*Sources: [Scuba Dive Advisor White Tip Avenue Sipadan](https://www.scubadiveadvisor.com/?p=403), [Dive The World Sipadan](https://www.dive-the-world.com/diving-sites-malaysia-sipadan-island.php), [SSI Guide to Diving Sipadan](https://www.divessi.com/en/blog/guide-to-scuba-diving-in-sipadan-9852.html), [Pulau Mabul Sipadan Dive Sites](https://www.pulaumabul.com/sipadan-dive-sites/), [Mabul.com Diving in Sipadan](https://www.mabul.com/diving-in-sipadan/). Last updated 2026-06-30.*
+*Sources: [Scuba Dive Advisor White Tip Avenue Sipadan](https://www.scubadiveadvisor.com/?p=403), [Dive The World Sipadan](https://www.dive-the-world.com/diving-sites-malaysia-sipadan-island.php), [SSI Guide to Diving Sipadan](https://www.divessi.com/en/blog/guide-to-scuba-diving-in-sipadan-9852.html), [Pulau Mabul Sipadan Dive Sites](https://www.pulaumabul.com/sipadan-dive-sites/), [Mabul.com Diving in Sipadan](https://www.mabul.com/diving-in-sipadan/), [Scuba Junkie: Sipadan Diving Update 2026](https://www.scuba-junkie.com/sipadan-diving-update-2026/). Last updated 2026-09-18.*

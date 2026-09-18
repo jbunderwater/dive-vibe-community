@@ -2,7 +2,7 @@
 name: Coral Gardens Sipadan
 lat: 4.12
 lng: 118.6333
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 23
 entryType: boat
 siteType: reef
@@ -16,13 +16,13 @@ addedBy: osm_import
 A shallow coral reef on Sipadan's northeastern side, with acropora table corals, feather stars, and large numbers of turtles — one of the island's most colourful and accessible sites
 
 ## Overview
-Coral Gardens — sometimes called Coral Garden — is located northeast of Sipadan's reef. The site is characterised by its exceptional hard coral coverage: large acropora formations, table corals, Dendronephthya tree corals in pastel colours, crinoids (feather stars), and barrel sponges create a complex three-dimensional habitat. Unlike Sipadan's dramatic deep walls, Coral Gardens is primarily a reef site with a wall dropping away at the edge, ranging from roughly 5 metres on the shallowest section to 23 metres at the reef edge. Multiple sources describe it as suitable for Open Water divers, making it one of the island's more accessible sites. Green and hawksbill turtles are exceptionally habituated to divers here and are seen on virtually every dive. The site is also a favourite for night dives, when the reef comes alive with crustaceans, cephalopods, and hunting predators.
+Coral Gardens — sometimes called Coral Garden — is located northeast of Sipadan's reef. The site is characterised by its exceptional hard coral coverage: large acropora formations, table corals, Dendronephthya tree corals in pastel colours, crinoids (feather stars), and barrel sponges create a complex three-dimensional habitat. Unlike Sipadan's dramatic deep walls, Coral Gardens is primarily a reef site with a wall dropping away at the edge, ranging from roughly 5 metres on the shallowest section to 23 metres at the reef edge, and its shallow, generally mild-current profile makes it one of the island's more relaxed sites. Note, however, that Sabah Parks has required Advanced Open Water certification for all Sipadan diving since October 2022, regardless of individual site conditions. Green and hawksbill turtles are exceptionally habituated to divers here and are seen on virtually every dive. The site is also a favourite for night dives, when the reef comes alive with crustaceans, cephalopods, and hunting predators.
 
 ## Site Information
 - **Location**: Sipadan Island, Sabah, Malaysia (northeastern side)
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 23 meters
 - **Typical Visibility**: 15-30 metres
 - **Current**: Mild to moderate
@@ -41,14 +41,14 @@ Boat dive from Mabul or Kapalai island resorts. Giant stride entry onto the reef
 - Request a night dive here if your operator offers it — the macro life that emerges after dark is exceptional
 - Bring a macro lens or switch to close-up mode — this is Sipadan's best macro site
 - Move slowly across the reef and check under coral overhangs and in sand patches for hidden creatures
-- Sipadan permits (176 per day) are required and must be arranged through your resort
+- Sipadan permits are limited to 254 per day (raised from 176 in 2022) and require Advanced Open Water certification; arrange through your resort
 - The shallow profile and moderate conditions make this an ideal site for your third or fourth dive of the day when no-decompression limits are reduced
 
 ## Safety Considerations
-The shallower profile and more moderate currents make this one of Sipadan's more forgiving sites, but standard wall-diving awareness still applies at the reef edge. For night dives, carry primary and backup torches and stay with the group. An SMB and signalling device are essential. The nearest hyperbaric chamber is in Kota Kinabalu.
+The shallower profile and more moderate currents make this one of Sipadan's more forgiving sites, but standard wall-diving awareness still applies at the reef edge. For night dives, carry primary and backup torches and stay with the group. An SMB and signalling device are essential. A naval decompression chamber serves the Semporna/Tawau area, with a further facility in Kota Kinabalu for more complex cases; confirm current evacuation procedures with your operator.
 
 ## Photography
 The shallow, well-lit reef allows strong natural-light wide-angle images of the coral gardens, with turtles as reliable foreground subjects. Feather stars (crinoids) on coral heads provide colourful close-focus wide-angle compositions. Night photography rewards a macro lens — nocturnal crustaceans and small reef fish emerge from hiding in the coral crannies. The shallow depth means natural light is strong during day dives, reducing dependence on strobes for ambient shots in the upper reef zone.
 
 ---
-*Sources: [Dive The World Sipadan](https://www.dive-the-world.com/diving-sites-malaysia-sipadan-island.php), [SSI Guide to Diving Sipadan](https://www.divessi.com/en/blog/guide-to-scuba-diving-in-sipadan-9852.html), [Pulau Mabul Sipadan Dive Sites](https://www.pulaumabul.com/sipadan-dive-sites/), [Mabul.com Diving in Sipadan](https://www.mabul.com/diving-in-sipadan/), [Scuba Junkie Complete Guide to Diving Sipadan](https://www.scuba-junkie.com/complete-guide-dive-sipadan-island/). Last updated 2026-06-30.*
+*Sources: [Dive The World Sipadan](https://www.dive-the-world.com/diving-sites-malaysia-sipadan-island.php), [SSI Guide to Diving Sipadan](https://www.divessi.com/en/blog/guide-to-scuba-diving-in-sipadan-9852.html), [Pulau Mabul Sipadan Dive Sites](https://www.pulaumabul.com/sipadan-dive-sites/), [Mabul.com Diving in Sipadan](https://www.mabul.com/diving-in-sipadan/), [Scuba Junkie Complete Guide to Diving Sipadan](https://www.scuba-junkie.com/complete-guide-dive-sipadan-island/), [Scuba Junkie: Sipadan Diving Update 2026](https://www.scuba-junkie.com/sipadan-diving-update-2026/). Corrected 2026-09-18: removed an outdated "suitable for Open Water divers" claim, since Sabah Parks has required Advanced Open Water certification for all Sipadan diving since October 2022. Last updated 2026-09-18.*

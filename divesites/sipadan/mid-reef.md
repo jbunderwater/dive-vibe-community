@@ -2,7 +2,7 @@
 name: Mid Reef
 lat: 4.115
 lng: 118.6311
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 40
 entryType: boat
 siteType: wall
@@ -22,7 +22,7 @@ Mid Reef sits on Sipadan's eastern wall between the island's two most famous cur
 - **Location**: Sipadan Island, Sabah, Malaysia (eastern wall, between Barracuda Point and South Point)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15-30 metres
 - **Current**: Moderate to strong — can also push upward due to cold water thermoclines rising from depth
@@ -41,14 +41,14 @@ Boat dive from Mabul or Kapalai island resorts. Giant stride entry into the curr
 - Relax into the drift and let the current carry you — fighting it wastes air and energy
 - Scan the blue water constantly as pelagics can appear from any direction in the current
 - The reef crest coral gardens are worth extended exploration during the shallow phase of the dive
-- Sipadan permits (176 per day) must be arranged through your resort in advance
+- Sipadan permits are limited to 254 per day (raised from 176 in 2022) and require Advanced Open Water certification; arrange through your resort in advance
 - This site pairs well with Barracuda Point or South Point for a two-dive morning session along the eastern wall
 
 ## Safety Considerations
-Currents can be stronger than expected given the intermediate rating, particularly in sections where the wall geometry funnels the flow. Maintain buddy contact and carry an SMB, whistle, and signalling mirror. Do not fight the current — if separated from the group, ascend safely and deploy your SMB. The nearest hyperbaric chamber is in Kota Kinabalu.
+Currents can be stronger than expected given the intermediate rating, particularly in sections where the wall geometry funnels the flow. Maintain buddy contact and carry an SMB, whistle, and signalling mirror. Do not fight the current — if separated from the group, ascend safely and deploy your SMB. A naval decompression chamber serves the Semporna/Tawau area, with a further facility in Kota Kinabalu for more complex cases; confirm current evacuation procedures with your operator.
 
 ## Photography
 Wide-angle for reef-scape compositions along the coral-covered wall edge, with schooling fish and the blue water background. Turtles on the reef crest are reliable subjects. The drift conditions make steady shooting challenging in stronger current — brace yourself or use the reef structure (without touching coral) to stabilize. The shallow reef crest in good light produces vibrant ambient-light images of the coral gardens.
 
 ---
-*Sources: [Dive The World Sipadan — Midreef](https://www.dive-the-world.com/diving-sites-malaysia-sipadan-island.php), [Pulau Mabul Sipadan Dive Sites](https://www.pulaumabul.com/sipadan-dive-sites/), [Mabul.com Diving in Sipadan](https://www.mabul.com/diving-in-sipadan/), [SSI Guide to Diving Sipadan](https://www.divessi.com/en/blog/guide-to-scuba-diving-in-sipadan-9852.html), [Scuba Junkie Complete Guide to Diving Sipadan](https://www.scuba-junkie.com/complete-guide-dive-sipadan-island/). Last updated 2026-06-30.*
+*Sources: [Dive The World Sipadan — Midreef](https://www.dive-the-world.com/diving-sites-malaysia-sipadan-island.php), [Pulau Mabul Sipadan Dive Sites](https://www.pulaumabul.com/sipadan-dive-sites/), [Mabul.com Diving in Sipadan](https://www.mabul.com/diving-in-sipadan/), [SSI Guide to Diving Sipadan](https://www.divessi.com/en/blog/guide-to-scuba-diving-in-sipadan-9852.html), [Scuba Junkie Complete Guide to Diving Sipadan](https://www.scuba-junkie.com/complete-guide-dive-sipadan-island/), [Scuba Junkie: Sipadan Diving Update 2026](https://www.scuba-junkie.com/sipadan-diving-update-2026/). Last updated 2026-09-18.*
