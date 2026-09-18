@@ -19,7 +19,7 @@ The severed bow section of the heavy cruiser USS Minneapolis (CA-36), cut off af
 
 At the Battle of Tassafaronga on 30 November 1942, the heavy cruiser USS Minneapolis took a torpedo hit that severely damaged her bow. The damaged bow section was later cut away to allow the ship to be repaired (the Minneapolis survived the war). The severed bow was disposed of and now lies upside down at 15-20 metres depth, facing north.
 
-The torpedo damage that caused the bow to be cut off is clearly visible in the hull plating. The anchor hawser remains in position. Scattered on and around the wreck are china plates, portlights, and other ship fittings. The surrounding seabed holds additional WWII debris including a landing craft and other military artefacts, extending the dive beyond the bow section itself. The maximum depth of 22 metres makes this an accessible intermediate-level dive.
+The torpedo damage that caused the bow to be cut off is clearly visible in the hull plating. The anchor hawser remains in position. Scattered on and around the wreck are china plates, portlights, and other ship fittings. The surrounding seabed holds additional WWII debris including a landing craft and other military artefacts, extending the dive beyond the bow section itself. **A cluster of 50-100 live/unexploded 8-inch naval shells lies nearby (roughly 20-22 metres depth, northeast of the bow) — this is unexploded ordnance and must not be approached, touched, or disturbed.** The maximum depth of 22 metres makes this an accessible intermediate-level dive.
 
 ## Site Information
 
@@ -46,7 +46,7 @@ Descend to the inverted bow section at 15-20 metres. Orient yourself at the cut 
 
 ## Safety Considerations
 
-This is a war grave site -- do not disturb or remove any artefacts, including the china plates and portlights on the seabed. The inverted hull structure has limited penetration opportunities but sharp corroded edges are present. Maintain good buoyancy to avoid contact with the structure. The moderate depth makes this one of the more forgiving wreck dives in the Tulagi area.
+This is a war grave site -- do not disturb or remove any artefacts, including the china plates and portlights on the seabed. **Unexploded 8-inch naval shells lie nearby (see Overview) — never approach or handle any ordnance found underwater; report it to your dive operator instead.** The inverted hull structure has limited penetration opportunities but sharp corroded edges are present. Maintain good buoyancy to avoid contact with the structure. The moderate depth makes this one of the more forgiving wreck dives in the Tulagi area.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=752), [NavSource - USS Minneapolis](https://www.navsource.net/archives/04/036.htm), [Wikipedia - Battle of Tassafaronga](https://en.wikipedia.org/wiki/Battle_of_Tassafaronga). Last updated 2026-06-30.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=752), [NavSource - USS Minneapolis](https://www.navsource.net/archives/04/036.htm), [Wikipedia - Battle of Tassafaronga](https://en.wikipedia.org/wiki/Battle_of_Tassafaronga). Last updated 2026-09-18.*

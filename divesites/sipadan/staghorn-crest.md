@@ -2,7 +2,7 @@
 name: Staghorn Crest
 lat: 4.1167
 lng: 118.6278
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 40
 entryType: boat
 siteType: wall
@@ -22,7 +22,7 @@ Staghorn Crest is named for the dense fields of staghorn coral (Acropora) that d
 - **Location**: Sipadan Island, Sabah, Malaysia (western side)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15-30 metres
 - **Current**: Mild to moderate; can be stronger in sections
@@ -41,14 +41,14 @@ Boat dive from Mabul or Kapalai island resorts. Giant stride entry onto the reef
 - Spend ample time on the reef crest — the staghorn coral gardens are the highlight and are best appreciated slowly
 - Excellent buoyancy is essential in the coral gardens — the staghorn formations are brittle and easily broken by fin strikes
 - Look for hawkfish perched on sea fans and gorgonians along the wall — they hold still for photographers
-- Sipadan permits (176 per day) are required and must be arranged through your resort
+- Sipadan permits are limited to 254 per day (raised from 176 in 2022) and require Advanced Open Water certification; arrange through your resort
 - The shallow profile makes this an ideal late-afternoon dive when no-decompression limits are reduced from earlier deep dives
 
 ## Safety Considerations
-The shallow depth and moderate currents make this one of Sipadan's most forgiving sites, but care is still needed. The brittle staghorn coral formations can cause cuts if a diver makes contact, and the damage to the coral is disproportionate — a single fin kick can destroy years of growth. Maintain a safe distance above the reef at all times. An SMB and signalling device are standard equipment. The nearest hyperbaric chamber is in Kota Kinabalu.
+The shallow depth and moderate currents make this one of Sipadan's most forgiving sites, but care is still needed. The brittle staghorn coral formations can cause cuts if a diver makes contact, and the damage to the coral is disproportionate — a single fin kick can destroy years of growth. Maintain a safe distance above the reef at all times. An SMB and signalling device are standard equipment. A naval decompression chamber serves the Semporna/Tawau area, with a further facility in Kota Kinabalu for more complex cases; confirm current evacuation procedures with your operator.
 
 ## Photography
 The staghorn coral fields photographed from above with natural light create striking reef-scape images. Afternoon dives here benefit from particularly good natural light conditions on the western-facing sections. Wide-angle with a slow shutter for ambient light works well in the shallow, bright conditions. Turtles resting on ledges provide strong foreground subjects. Macro opportunities include gobies on coral heads, nudibranch details, and the resident shrimp. Red seawhip corals on the wall make vivid close-focus wide-angle subjects when lit by strobe.
 
 ---
-*Sources: [Dive The World Sipadan](https://www.dive-the-world.com/diving-sites-malaysia-sipadan-island.php), [DiveZone Staghorn Crest](https://divezone.net/divesite/staghorn-crest), [SSI Guide to Diving Sipadan](https://www.divessi.com/en/blog/guide-to-scuba-diving-in-sipadan-9852.html), [Pulau Mabul Sipadan Dive Sites](https://www.pulaumabul.com/sipadan-dive-sites/), [Mabul.com Diving in Sipadan](https://www.mabul.com/diving-in-sipadan/). Last updated 2026-06-30.*
+*Sources: [Dive The World Sipadan](https://www.dive-the-world.com/diving-sites-malaysia-sipadan-island.php), [DiveZone Staghorn Crest](https://divezone.net/divesite/staghorn-crest), [SSI Guide to Diving Sipadan](https://www.divessi.com/en/blog/guide-to-scuba-diving-in-sipadan-9852.html), [Pulau Mabul Sipadan Dive Sites](https://www.pulaumabul.com/sipadan-dive-sites/), [Mabul.com Diving in Sipadan](https://www.mabul.com/diving-in-sipadan/), [Scuba Junkie: Sipadan Diving Update 2026](https://www.scuba-junkie.com/sipadan-diving-update-2026/). Last updated 2026-09-18.*

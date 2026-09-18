@@ -2,7 +2,7 @@
 name: Lobster Lairs
 lat: 4.1083
 lng: 118.6244
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 30
 entryType: boat
 siteType: wall
@@ -22,7 +22,7 @@ Lobster Lairs sits on Sipadan's southwestern wall, named for the large numbers o
 - **Location**: Sipadan Island, Sabah, Malaysia (southwestern wall)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-30 metres
 - **Current**: Mild to moderate
@@ -41,14 +41,14 @@ Boat dive from Mabul or Kapalai island resorts. Giant stride entry. The southwes
 - Request a night dive at this site — the lobsters, octopuses, and cuttlefish encounters are far more dramatic after dark
 - During day dives, shine your torch into crevices to spot lobsters, morays, and crustaceans sheltering in the shadows
 - Move slowly along the wall — the macro life rewards patience and a careful eye
-- Sipadan permits (176 per day) are required and must be arranged through your resort
+- Sipadan permits are limited to 254 per day (raised from 176 in 2022) and require Advanced Open Water certification; arrange through your resort
 - Pair with a morning dive at one of the pelagic sites for the ideal contrast between Sipadan's big-animal and small-animal diving
 
 ## Safety Considerations
-Current conditions are generally moderate, making this one of Sipadan's more relaxed wall dives. The irregular wall with its caves and overhangs can create mild disorientation — maintain awareness of the wall face and open water at all times. For night dives, carry primary and backup torches and stay close to the group. An SMB and signalling device are essential. The nearest hyperbaric chamber is in Kota Kinabalu.
+Current conditions are generally moderate, making this one of Sipadan's more relaxed wall dives. The irregular wall with its caves and overhangs can create mild disorientation — maintain awareness of the wall face and open water at all times. For night dives, carry primary and backup torches and stay close to the group. An SMB and signalling device are essential. A naval decompression chamber serves the Semporna/Tawau area, with a further facility in Kota Kinabalu for more complex cases; confirm current evacuation procedures with your operator.
 
 ## Photography
 Macro is the primary discipline here. A macro lens will find lobster portraits, moray eel close-ups, nudibranch details, and octopus behaviour shots. Night photography is particularly rewarding — hunting octopuses changing colour, cuttlefish displays, and lobsters emerging from their lairs are all strong subjects. Use a snoot or focused strobe to isolate subjects against the dark wall background. Wide-angle can capture the wall structure with its many holes and overhangs, particularly with a diver's torch beam illuminating a crevice.
 
 ---
-*Sources: [Dive The World Sipadan](https://www.dive-the-world.com/diving-sites-malaysia-sipadan-island.php), [DiveZone Lobster Lairs](https://divezone.net/divesite/lobster-lairs), [SSI Guide to Diving Sipadan](https://www.divessi.com/en/blog/guide-to-scuba-diving-in-sipadan-9852.html), [Pulau Mabul Sipadan Dive Sites](https://www.pulaumabul.com/sipadan-dive-sites/), [Mabul.com Diving in Sipadan](https://www.mabul.com/diving-in-sipadan/). Last updated 2026-06-30.*
+*Sources: [Dive The World Sipadan](https://www.dive-the-world.com/diving-sites-malaysia-sipadan-island.php), [DiveZone Lobster Lairs](https://divezone.net/divesite/lobster-lairs), [SSI Guide to Diving Sipadan](https://www.divessi.com/en/blog/guide-to-scuba-diving-in-sipadan-9852.html), [Pulau Mabul Sipadan Dive Sites](https://www.pulaumabul.com/sipadan-dive-sites/), [Mabul.com Diving in Sipadan](https://www.mabul.com/diving-in-sipadan/), [Scuba Junkie: Sipadan Diving Update 2026](https://www.scuba-junkie.com/sipadan-diving-update-2026/). Last updated 2026-09-18.*

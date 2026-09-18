@@ -16,11 +16,11 @@ The diving character here is defined by large pelagic encounters in open Pacific
 
 Sites are spread across three islands:
 
-**San Benedicto Island**: The Boiler (manta cleaning station pinnacle, regarded as one of the world's best sites for giant manta interactions), San Benedicto Canyon/El Canyon (horseshoe volcanic canyon with two cleaning stations and high shark diversity), The Aquarium (shallow macro and fish-density site), and Fondeadero (checkout dive on three lava block formations near the anchorage).
+**San Benedicto Island**: The Boiler (manta cleaning station pinnacle, regarded as one of the world's best sites for giant manta interactions), San Benedicto Canyon/El Canyon (horseshoe volcanic canyon with two cleaning stations and high shark diversity), and Fondeadero (checkout dive on three lava block formations near the anchorage).
 
-**Socorro Island**: Cabo Pearce (wall dive with manta cleaning station and the famous interactive bottlenose dolphin pod), Punta Tosca (lava finger wall, the archipelago's best site for tiger shark encounters and humpback whale in-water encounters), and O'Neal Rock/Roca O'Neal (pinnacle nicknamed "Hammerhead Central" with plateau at 10–12 meters and a photogenic cavern below).
+**Socorro Island**: Cabo Pearce (wall dive with manta cleaning station and the famous interactive bottlenose dolphin pod), Punta Tosca (lava finger wall, the archipelago's best site for tiger shark encounters and humpback whale in-water encounters), O'Neal Rock/Roca O'Neal (pinnacle nicknamed "Hammerhead Central" with plateau at 10–12 meters and a photogenic cavern below), and The Aquarium (shallow macro and fish-density site on the east side of the island).
 
-**Roca Partida**: The isolated volcanic pinnacle approximately 64 miles west of San Benedicto — regarded as one of the best big-animal dive sites on the planet. Its vertical walls and sheer remoteness concentrate whitetip reef sharks (stacked in resting recesses), schooling hammerheads, oceanic whitetips, and multiple manta ray species around a structure small enough to circumnavigate in a single dive.
+**Roca Partida**: The isolated volcanic pinnacle west of San Benedicto (sources report the distance as between 64 and 85 miles) — regarded as one of the best big-animal dive sites on the planet. Its vertical walls and sheer remoteness concentrate whitetip reef sharks (stacked in resting recesses), schooling hammerheads, oceanic whitetips, and multiple manta ray species around a structure small enough to circumnavigate in a single dive.
 
 ### Diving Conditions
 
@@ -49,4 +49,4 @@ The Revillagigedo Archipelago became a UNESCO World Heritage Site in 2016. It is
 - **Nearest Emergency Care**: Cabo San Lucas (approximately 30 hours transit); nearest hyperbaric chamber is in La Paz or Cabo San Lucas
 
 ---
-*Sources: [Mexico Liveaboards - Socorro Revillagigedo](https://mexicoliveaboards.com/destination-socorro.html), [Baja Wild Encounters - Socorro Islands Diving](https://bajawildencounters.com/socorro-islands-scuba-diving-liveaboard-expedition-mexico), [Bluewater Dive Travel - Socorro Island Diving](https://www.bluewaterdivetravel.com/destination/socorro-island-diving), [Nautilus Liveaboards - Scuba Diving Socorro Islands](https://nautilusliveaboards.com/2025/08/21/scuba-diving-socorro-islands/), [Dive Worldwide - Socorro Revillagigedo](https://www.diveworldwide.com/locations/socorro). Last updated 2026-04-04.*
+*Sources: [Mexico Liveaboards - Socorro Revillagigedo](https://mexicoliveaboards.com/destination-socorro.html), [Baja Wild Encounters - Socorro Islands Diving](https://bajawildencounters.com/socorro-islands-scuba-diving-liveaboard-expedition-mexico), [Bluewater Dive Travel - Socorro Island Diving](https://www.bluewaterdivetravel.com/destination/socorro-island-diving), [Nautilus Liveaboards - Scuba Diving Socorro Islands](https://nautilusliveaboards.com/2025/08/21/scuba-diving-socorro-islands/), [Dive Worldwide - Socorro Revillagigedo](https://www.diveworldwide.com/locations/socorro). Dive site island assignments corrected 2026-09-18 (The Aquarium and Fondeadero) per site-level re-audit. Last updated 2026-09-18.*

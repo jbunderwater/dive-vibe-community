@@ -50,4 +50,4 @@ This is a war grave -- do not remove any artefacts. The 46-metre maximum depth a
 
 ---
 *Note: The precise beaching date is given as 15 October 1942 by McFadyen and Wikipedia; some sources cite 14 October 1942. The 15 October date is used here as it is supported by multiple independent sources.*
-*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=377), [Pacific Wrecks - Kyusyu Maru](https://pacificwrecks.com/ships/maru/kyusyu-maru/), [Wikipedia - Kyushu Maru](https://en.wikipedia.org/wiki/Japanese_transport_Kyushu_Maru). Last updated 2026-06-30.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=377), [Pacific Wrecks - Kyusyu Maru](https://pacificwrecks.com/ships/maru/kyusyu-maru/), [Wikipedia - Kyushu Maru](https://en.wikipedia.org/wiki/Japanese_transport_Kyushu_Maru). Last updated 2026-09-18.*

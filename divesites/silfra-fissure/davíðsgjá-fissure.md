@@ -27,11 +27,11 @@ Water conditions differ from Silfra: temperature is typically slightly warmer th
 
 ## Dive Profile
 
-- **Entry**: Shore entry; shallow swim across lake to fissure opening
-- **Maximum depth**: 21 m (confirmed by DIVE.IS and PADI)
-- **Fissure top**: Approximately 7 m below lake surface
+- **Entry**: Shore entry. Accounts vary by source and likely by season/ice conditions: DIVE.IS and Adventures.is describe walking straight in for a shallow swim to the fissure opening; Divers-Guide.com describes a roughly 300-metre walk over a rocky bank to the entry point; the PADI blog describes a winter dive with a "giant stride entry from an icy rock."
+- **Maximum depth**: Sources disagree — DIVE.IS and the PADI blog both give 21 m, while Divers-Guide.com lists 15 m. The two independent operator/publisher sources agreeing on 21 m are treated as the more reliable figure here, but the discrepancy has not been fully resolved.
+- **Fissure top**: Approximately 7 m below lake surface (DIVE.IS)
 - **Dive duration**: 30–40 minutes typically
-- **Visibility**: Typically 100 m+, but more weather-dependent than Silfra
+- **Visibility**: Typically 100 m+ (DIVE.IS, Adventures.is); Divers-Guide.com reports a range of 100–300 m with an average around 200 m. More weather-dependent than Silfra.
 
 ## Requirements
 
@@ -43,7 +43,7 @@ Water conditions differ from Silfra: temperature is typically slightly warmer th
 
 ## Marine Life
 
-Marine life is sparse, as in all Icelandic freshwater dive sites. Brown trout are documented at the site by DIVE.IS — they are commonly encountered swimming near the fissure opening. Þingvallavatn Lake is home to four unique fish species including dwarf char (Salvelinus devarius), but no dive-specific sources reviewed confirm dwarf char sightings specifically within the Davíðsgjá fissure. The primary visual draw is geological: the fissure walls, tectonic geometry, and glacial water colour.
+Marine life is sparse, as in all Icelandic freshwater dive sites. Brown trout are documented at the site by DIVE.IS — they are commonly encountered swimming near the fissure opening. Þingvallavatn Lake is home to three fish species in total (Þingvellir National Park's own "Fish in the Lake" page): brown trout, Arctic char (which occurs in four distinct morphs, including a dwarf morph), and three-spined stickleback. Dwarf char, one of those Arctic char morphs, live in the lake's crevices generally, but no dive-specific source reviewed confirms dwarf char sightings specifically within the Davíðsgjá fissure itself. Note: an earlier version of this description used the scientific name "Salvelinus devarius" for dwarf char — this name does not appear in any source reviewed (including Þingvellir National Park's own materials) and has been removed as unverified/fabricated. The dwarf morph is a form of Arctic char (Salvelinus alpinus); a separate name, "Salvelinus thingvallensis," appears on some third-party taxonomy sites but is not used by the National Park itself, so it is omitted here pending better sourcing. The primary visual draw at Davíðsgjá is geological: the fissure walls, tectonic geometry, and glacial water colour.
 
 ## Photography
 
@@ -63,4 +63,4 @@ Water temperature of 2–5°C requires a high-quality drysuit with adequate ther
 - **Protected Status**: UNESCO World Heritage Site (Þingvellir National Park)
 
 ---
-*Sources: [DIVE.IS — Davíðsgjá dive site](https://www.dive.is/dive-sites/davidsgja), [PADI — Diving Davíðsgjá](https://blog.padi.com/diving-davidsgja-silfras-darker-spookier-sibling/), [Adventures.is — Davíðsgjá](https://adventures.is/iceland/attractions/davidsgja/), [Divers-Guide — Davíðsgjá](https://www.divers-guide.com/en/davisgja). Last updated 2026-06-08.*
+*Sources: [DIVE.IS — Davíðsgjá dive site](https://www.dive.is/dive-sites/davidsgja), [PADI — Diving Davíðsgjá](https://blog.padi.com/diving-davidsgja-silfras-darker-spookier-sibling/), [Adventures.is — Davíðsgjá](https://adventures.is/iceland/attractions/davidsgja/), [Divers-Guide — Davíðsgjá](https://www.divers-guide.com/en/davisgja), [Þingvellir National Park — Fish in the Lake](https://www.thingvellir.is/en/education/nature/fish-in-the-lake/). Re-audited 2026-09-18: fabricated species name "Salvelinus devarius" removed; depth and entry-distance conflicts across sources now flagged. Last updated 2026-09-18.*

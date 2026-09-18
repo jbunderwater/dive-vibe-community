@@ -13,21 +13,21 @@ addedBy: osm_import
 
 ## Roche Grand Maman
 
-Roche Grand Maman ("Grandmother Rock") is a granite outcrop in the Seychelles Inner Islands, typical of the dramatic submerged boulder and wall landscapes that define diving in this archipelago.
+Roche Grand Maman ("Grandmother Rock," listed by PADI as "Roche Grand Manman") is a granite dive site in the Seychelles' Inner Islands, near Praslin and Curieuse rather than Mahé as earlier listed here.
 
 ## Overview
 
-Roche Grand Maman is listed among the notable dive sites around the Mahé region by Equinoxe Diving School and Big Blue Divers, both of which operate regular trips to granite boulder and wall sites in the Inner Islands. The site features steep walls and boulder-formed crevices characteristic of the Seychelles' granitic underwater terrain, with the exposed offshore position drawing open-water species along the walls. Dive conditions are best during the inter-monsoon seasons of April–May and October–November when seas are calm and visibility is at its peak.
+**Correction from re-audit (September 2026):** The three sources previously cited for this site (Equinoxe Diving School, Big Blue Divers, Seyvillas' Mahé guide) do not actually name Roche Grand Maman anywhere in their current content — Big Blue Divers' website has since gone offline (it now shows only a "coming soon" placeholder), and the other two list Mahé-area sites generally without mentioning this rock. The only source located that names this exact site is a PADI dive site listing at coordinates -4.28954, 55.68601 — a close match to this entry's coordinates — which associates the site with UDive Centre Praslin, placing it near Praslin/Curieuse rather than Mahé.
 
-No site-specific diver reports with species lists or precise depth profiles for Roche Grand Maman were located in available online sources. The name does not appear with individual-site depth or marine life data in major dive databases. Species observations should be considered consistent with other exposed Inner Islands wall sites — large snappers, barracuda, kingfish, and reef sharks are typical of sites with this profile in the Seychelles — but are not attributable to named sources specific to this site.
+PADI describes Roche Grand Maman as beginner-friendly, with confirmed sightings of batfish, whitetip reef sharks, sea turtles, moray eels, angelfish, and scorpionfish. Note that PADI's listing records a nominal maximum depth of just 1 metre, which almost certainly refers to the shallow summit of the rock breaking the surface rather than the depth range divers actually work — no source gives a full dive-profile depth for this site, so the destination's existing 25m figure is retained here without independent confirmation. Given the conflict between PADI's "beginner" framing and this site's un-verified 25m/Advanced classification, this discrepancy should be treated as unresolved pending a dedicated operator source.
 
 ## Site Information
 
-- **Location**: Inner Islands, near Mahé, Seychelles
+- **Location**: Inner Islands, near Praslin/Curieuse, Seychelles
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 
 ---
-*Sources: [Equinoxe Diving School – Dive Sites](https://equinoxe-diving-seychelles.com/dive-sites/), [Big Blue Divers – Dive Sites](https://diveinseychelles.com/dive-sites/), [Seyvillas – Mahé Diving Guide](https://www.seyvillas.com/en/guide/islands/mahe/diving). No site-specific depth or marine life sources found for Roche Grand Maman. Last updated 2026-06-29.*
+*Sources: [PADI Dive Site – Roche Grand Manman](https://www.padi.com/dive-site/seychelles/roche-grand-manman/). Only one site-specific source was found despite a dedicated re-search; the three domains cited in an earlier pass did not actually reference this site by name and have been removed. Last updated 2026-09-18.*

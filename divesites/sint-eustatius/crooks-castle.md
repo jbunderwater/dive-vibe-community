@@ -33,11 +33,11 @@ Crooks Castle sits along the southwestern coast of Sint Eustatius, directly belo
 
 ## Marine Life
 
-The shallow coral structures host French and queen angelfish, spotted drums, yellowhead jawfish, and abundant cleaning stations. Green and hawksbill sea turtles graze on sea grass patches nearby. Reef squid hover in mid-water, and southern stingrays rest on sandy patches between the coral heads. Frogfish have been spotted on the encrusted colonial stonework, camouflaged against the algae-covered masonry.
+Current sources consistently describe sea turtles and stingrays as the reliable sightings here — PADI's dive-site listing, Zentacle, and STENAPA's own park page all independently note a sea turtle or stingray "always" present around the site. (An earlier version of this page named French and queen angelfish, spotted drums, yellowhead jawfish, reef squid, and frogfish as if site-specific — none of these traced to a current source confirming them at Crooks Castle, and the list has been corrected. The destination's regional reef fauna likely applies, but no site-specific report of those species was found.)
 
 ## Dive Profile
 
-This is a relaxed, multi-level dive in 3-10 meters of water. Divers typically navigate among the scattered colonial ruins and coral heads before ascending to explore the shallowest sections. Extended bottom times are possible given the depth. A safety stop at 5 meters over the sand is easy to maintain. Night diving here reveals octopus, sleeping parrotfish, and foraging spotted moray eels.
+This is a relaxed, multi-level dive in 3-10 meters of water. Divers typically navigate among the scattered colonial ruins and coral heads before ascending to explore the shallowest sections. Extended bottom times are possible given the depth. A safety stop at 5 meters over the sand is easy to maintain.
 
 ## Entry and Exit
 
@@ -53,11 +53,11 @@ Access is exclusively by boat; there is no shore entry from the fort ruins. Dive
 
 ## Safety Considerations
 
-Boat traffic along the southwest coast requires deploying an SMB on ascent. Fire coral encrusts many of the colonial stonework pieces — watch fin placement. Surgeonfish are territorial around certain coral heads. Dive within sport diving limits; the maximum depth is well within recreational range.
+Boat traffic along the southwest coast requires deploying an SMB on ascent. Fire coral encrusts many of the colonial stonework pieces — watch fin placement. Dive within sport diving limits; the maximum depth is well within recreational range.
 
 ## Photography
 
-Wide-angle shots capturing encrusted anchors and cannons against healthy coral create compelling historical-underwater compositions. Macro subjects include flamingo tongue cowries on sea fans, cleaning shrimp in crevices, and peacock flounders on the sand. Morning light angles from the east provide good ambient illumination at these shallow depths.
+Wide-angle shots capturing encrusted anchors and cannons against healthy coral create compelling historical-underwater compositions, and the site's reliable turtle and stingray sightings are good macro-to-medium subjects. Morning light angles from the east provide good ambient illumination at these shallow depths.
 
 ---
-*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [DiverTrek — Diving St. Eustatius](https://divertrek.com/diving-st-eustatius-the-historical-gem/), [We Are Statia — Diving](https://wearestatia.com/discover-the-depths-diving-in-st-eustatius/). Last updated 2026-06-29.*
+*Sources: [PADI — Crook's Castle Dive Site](https://www.padi.com/dive-site/sint-eustatius/crooks-castle/), [Zentacle — Crook's Castle](https://www.zentacle.com/Beach/4717/crooks-castle), [St. Eustatius National Parks — Diving](https://statiapark.org/diving-2/). Last updated 2026-09-18. Note: this site is not currently listed on Golden Rock Dive Center's or Scubaqua's own dive-site pages; sourcing here comes from PADI's directory (contributed by Golden Rock), Zentacle, and STENAPA's park page.*

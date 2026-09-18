@@ -40,15 +40,15 @@ Boat dive from Mabul or Kapalai island resorts, approximately 15 minutes by spee
 ## Tips and Recommendations
 - Arrive on the first boat for the best chance of encountering the bumphead parrotfish school — they move along the reef crest in early morning
 - Allow the bigeye jack school to approach you rather than swimming into the formation
-- Sipadan permits are limited to 176 per day — confirm your permit allocation with your resort before travel
+- Sipadan permits are limited to 254 per day (raised from 176 in 2022) and require Advanced Open Water certification — confirm your permit allocation with your resort before travel
 - The shallow wall start makes this an excellent site for longer bottom times at moderate depths
 - Carry a torch to illuminate the rich colours of soft corals and gorgonians growing on the wall face
 
 ## Safety Considerations
-The sheer vertical wall dropping from 3 metres means there is no gradual slope to control depth — divers must manage buoyancy carefully from the moment they leave the reef flat. Currents can be strong and changeable. An SMB, whistle, and audible signalling device are essential. The wall's proximity to the old resort jetty area does not reduce the seriousness of the dive — depth and current management remain critical. The nearest hyperbaric chamber is in Kota Kinabalu.
+The sheer vertical wall dropping from 3 metres means there is no gradual slope to control depth — divers must manage buoyancy carefully from the moment they leave the reef flat. Currents can be strong and changeable. An SMB, whistle, and audible signalling device are essential. The wall's proximity to the old resort jetty area does not reduce the seriousness of the dive — depth and current management remain critical. A naval decompression chamber serves the Semporna/Tawau area, with a further facility in Kota Kinabalu for more complex cases; confirm current evacuation procedures with your operator.
 
 ## Photography
 Wide-angle is the primary lens choice. The bigeye jack vortex formations are among the most photogenic subjects at Sipadan — shoot upward with natural light for dramatic silhouettes, or use strobes to bring out the silver and gold colouration. Bumphead parrotfish close-ups on the reef crest make powerful portraits. The vertical wall with soft corals and a diver for scale creates classic wall-dive compositions. Turtles resting on wall ledges are reliable subjects at any time of day.
 
 ---
-*Sources: [Scuba Junkie Complete Guide to Diving Sipadan](https://www.scuba-junkie.com/complete-guide-dive-sipadan-island/), [Dive The World Sipadan](https://www.dive-the-world.com/diving-sites-malaysia-sipadan-island.php), [SSI Guide to Diving Sipadan](https://www.divessi.com/en/blog/guide-to-scuba-diving-in-sipadan-9852.html), [Pulau Mabul Sipadan Dive Sites](https://www.pulaumabul.com/sipadan-dive-sites/), [Mabul.com Diving in Sipadan](https://www.mabul.com/diving-in-sipadan/). Last updated 2026-06-30.*
+*Sources: [Scuba Junkie Complete Guide to Diving Sipadan](https://www.scuba-junkie.com/complete-guide-dive-sipadan-island/), [Dive The World Sipadan](https://www.dive-the-world.com/diving-sites-malaysia-sipadan-island.php), [SSI Guide to Diving Sipadan](https://www.divessi.com/en/blog/guide-to-scuba-diving-in-sipadan-9852.html), [Pulau Mabul Sipadan Dive Sites](https://www.pulaumabul.com/sipadan-dive-sites/), [Mabul.com Diving in Sipadan](https://www.mabul.com/diving-in-sipadan/), [Scuba Junkie: Sipadan Diving Update 2026](https://www.scuba-junkie.com/sipadan-diving-update-2026/). Last updated 2026-09-18.*

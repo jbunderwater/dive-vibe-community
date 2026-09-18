@@ -14,7 +14,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "scuba-junkie.com,dive-the-world.com,divessi.com,bluewaterdivetravel.com,pulaumabul.com",
-      "last_qa_date": "2026-06-30"
+      "last_qa_date": "2026-09-18"
     }
   },
   {
@@ -32,7 +32,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "scuba-junkie.com,dive-the-world.com,divessi.com,bluewaterdivetravel.com,mabul.com",
-      "last_qa_date": "2026-06-30"
+      "last_qa_date": "2026-09-18"
     }
   },
   {
@@ -50,7 +50,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "scuba-junkie.com,dive-the-world.com,divessi.com,pulaumabul.com,mabul.com",
-      "last_qa_date": "2026-06-30"
+      "last_qa_date": "2026-09-18"
     }
   },
   {
@@ -67,8 +67,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "blog.padi.com,pulaumabul.com,mabul.com,divessi.com,scuba-junkie.com",
-      "last_qa_date": "2026-06-30"
+      "validation_source": "blog.padi.com,pulaumabul.com,mabul.com,divessi.com,scuba-junkie.com,divezone.net",
+      "last_qa_date": "2026-09-18"
     }
   },
   {
@@ -80,13 +80,13 @@
     "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubadiveadvisor.com,dive-the-world.com,divessi.com,pulaumabul.com,mabul.com",
-      "last_qa_date": "2026-06-30"
+      "validation_source": "scubadiveadvisor.com,dive-the-world.com,divessi.com,pulaumabul.com,mabul.com,scuba-junkie.com",
+      "last_qa_date": "2026-09-18"
     }
   },
   {
@@ -98,13 +98,13 @@
     "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "dive-the-world.com,scuba-junkie.com,divessi.com,pulaumabul.com,mabul.com",
-      "last_qa_date": "2026-06-30"
+      "validation_source": "dive-the-world.com,scuba-junkie.com,divessi.com,pulaumabul.com,mabul.com,divezone.net",
+      "last_qa_date": "2026-09-18"
     }
   },
   {
@@ -116,13 +116,13 @@
     "depth": 23,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "dive-the-world.com,divessi.com,pulaumabul.com,mabul.com,scuba-junkie.com",
-      "last_qa_date": "2026-06-30"
+      "last_qa_date": "2026-09-18"
     }
   },
   {
@@ -134,13 +134,13 @@
     "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "dive-the-world.com,pulaumabul.com,mabul.com,divessi.com,scuba-junkie.com",
-      "last_qa_date": "2026-06-30"
+      "last_qa_date": "2026-09-18"
     }
   },
   {
@@ -152,13 +152,13 @@
     "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "dive-the-world.com,divezone.net,divessi.com,pulaumabul.com,mabul.com",
-      "last_qa_date": "2026-06-30"
+      "validation_source": "dive-the-world.com,divezone.net,divessi.com,pulaumabul.com,mabul.com,scuba-junkie.com",
+      "last_qa_date": "2026-09-18"
     }
   },
   {
@@ -170,13 +170,13 @@
     "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "dive-the-world.com,divezone.net,divessi.com,pulaumabul.com,mabul.com",
-      "last_qa_date": "2026-06-30"
+      "validation_source": "dive-the-world.com,divezone.net,divessi.com,pulaumabul.com,mabul.com,scuba-junkie.com",
+      "last_qa_date": "2026-09-18"
     }
   }
 ]

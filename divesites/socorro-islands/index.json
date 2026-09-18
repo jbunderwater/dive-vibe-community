@@ -62,8 +62,8 @@
   {
     "name": "The Aquarium",
     "filename": "the-aquarium.md",
-    "lat": 19.31,
-    "lng": -110.81,
+    "lat": 18.78,
+    "lng": -110.9,
     "difficulty": "Advanced",
     "maxDepth": 15,
     "entryType": "boat",
@@ -86,8 +86,8 @@
   {
     "name": "Fondeadero",
     "filename": "fondeadero.md",
-    "lat": 18.75,
-    "lng": -110.94,
+    "lat": 19.285,
+    "lng": -110.805,
     "difficulty": "Advanced",
     "maxDepth": 30,
     "entryType": "boat",

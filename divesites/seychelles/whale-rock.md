@@ -17,9 +17,11 @@ Whale Rock is a large stacked granite boulder formation near Mahé, with archway
 
 ## Overview
 
-Whale Rock consists of large granite boulders stacked into archways and corridors, with a notable tunnel of around 10 metres length that divers can pass through. Equinoxe Diving School lists the site among its regular offerings, describing the large granite boulders creating archways and swim-throughs. The flanks of the rock formation descend to between 15 and 25 metres.
+Whale Rock consists of large granite boulders stacked into archways and corridors, with a notable swim-through of around 10 metres length that divers can pass through. Equinoxe Diving School lists the site among its regular offerings near Mahé, and Divebooker's listing (found ~15 minutes from Beau Vallon Beach) independently corroborates the archway/swim-through topography and a maximum depth around 15–25 metres.
 
-Confirmed species at Whale Rock across multiple sources include moray eels, hawksbill and green turtles, lionfish, scorpionfish, soldierfish, stingrays, anemones, clownfish (referred to locally as Seychelles clownfish), leaf fish, and eagle rays. Whitetip reef sharks are cited by multiple operators as regular visitors. The site also functions well as a night dive, when cryptic species become more active. Whale sharks have been reported seasonally at Whale Rock, though this appears to be opportunistic rather than a defining feature of the site.
+Confirmed species at Whale Rock, reported consistently by both sources, include moray eels, turtles, lionfish, scorpionfish, soldierfish, stingrays, anemones, Seychelles clownfish, and leaf fish. Whale sharks are cited as the site's namesake seasonal draw (best conditions reported as April–May and October–November), with eels, turtles, lionfish, eagle rays, and reef sharks present year-round. The site also functions well as a night dive, when cryptic species become more active.
+
+**Re-audit note:** two of the three sources previously cited for this page (Seyvillas' Mahé guide and Scubavox) could not be re-confirmed — Seyvillas' current Mahé diving guide does not mention Whale Rock at all, and Scubavox's domain now redirects to an unrelated site. Only Equinoxe Diving School and Divebooker could be independently confirmed as still describing this specific site, so this page currently has two rather than three confirmed independent sources; a third has not been located despite additional searching, and this is flagged rather than padded with a weak citation.
 
 ## Site Information
 
@@ -30,4 +32,4 @@ Confirmed species at Whale Rock across multiple sources include moray eels, hawk
 - **Maximum Depth**: 25 meters
 
 ---
-*Sources: [Equinoxe Diving School – Dive Sites](https://equinoxe-diving-seychelles.com/dive-sites/), [Seyvillas – Mahé Diving Guide](https://www.seyvillas.com/en/guide/islands/mahe/diving), [ScubaVox – Whale Rock Seychelles](https://www.scubavox.com/seychelles/whale-rock). Last updated 2026-06-29.*
+*Sources: [Equinoxe Diving School – Dive Sites](https://equinoxe-diving-seychelles.com/dive-sites/), [Divebooker – Whale Rock](https://divebooker.com/whale-rock-baz10961). Only two independent site-specific sources could be confirmed as of this re-audit; a third was not found despite additional searching (see note above), so this falls short of this destination's 3-source standard. Last updated 2026-09-18.*

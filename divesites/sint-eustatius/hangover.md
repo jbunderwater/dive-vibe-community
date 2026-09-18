@@ -33,7 +33,7 @@ Hangover earned its name from the prominent overhang formations that define the 
 
 ## Marine Life
 
-The overhangs shelter populations of copper sweepers and glassfish that school in dense clouds inside the cave-like formations. Bar jacks and horse-eye jacks hunt through the sweeper schools in morning dives. Caribbean spiny lobster and banded coral shrimp occupy crevices in the overhang walls. French and grey angelfish are common on the surrounding reef. Hawksbill turtles feed on the sponges covering the overhang surfaces. Green moray eels emerge from the deeper crevices.
+Golden Rock Dive Center reports sharks, turtles, rays, queen conch, and spiny lobster here. Scubaqua independently adds yellow-head jawfish, peacock flounder, spotted drumfish, moray eels, four species of angelfish, and yellow-tail damselfish, and also confirms queen conch, lobster, and Caribbean reef sharks. DAN's "A Salute to St. Eustatius" specifies hawksbill turtles and snapper. (An earlier version of this page listed copper sweepers, glassfish, bar jacks, horse-eye jacks, and banded coral shrimp — none of these are confirmed by current site-specific sources, and the list has been corrected.)
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ Hangover is one of Statia's best photography sites. The overhang interiors with 
 - Golden Rock Dive Center: regularly dives Hangover on afternoon dive trips
 
 ---
-*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [DAN Alert Diver — St. Eustatius](https://dan.org/alert-diver/article/st-eustatius/), [Scubaverse — St Eustatius](https://scubaverse.com/dive-guide/caribbean/st-eustatius/). Last updated 2026-06-29.*
+*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [Scubaqua — Dive Sites](https://www.scubaqua.com/divesites/), [DAN Alert Diver — A Salute to St. Eustatius](https://dan.org/alert-diver/article/a-salute-to-st-eustatius/). Last updated 2026-09-18.*

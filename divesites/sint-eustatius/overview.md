@@ -8,7 +8,7 @@ The Dutch Caribbean's hidden gem — a volcanic island with a marine park larger
 
 ## Description
 
-Sint Eustatius (Statia) offers diverse dive sites ranging from 6 to 29 meters depth within a protected marine park encompassing 36 official moored sites. Named the best diving in the Caribbean by National Geographic and topping Scuba Diving Magazine's 2023 Reader's Choice Awards, Statia delivers uncrowded diving on volcanic lava formations overgrown with coral and sponges. The Charles L. Brown, a 100-meter former AT&T cable-laying vessel deliberately sunk in 2003, is one of the Caribbean's largest accessible wrecks.
+Sint Eustatius (Statia) offers diverse dive sites within a protected marine park with permanently moored sites throughout — sources give different counts for the total (STENAPA's own park page cites 60; several operator and travel-press sources cite 36; PADI's current directory lists 23), so treat any specific figure as approximate rather than a precise, agreed total. Named the best diving in the Caribbean by National Geographic and topping Scuba Diving Magazine's 2023 Reader's Choice Awards, Statia delivers uncrowded diving on volcanic lava formations overgrown with coral and sponges. The Charles L. Brown, a former AT&T cable-laying vessel deliberately scuttled in 2003 (length reported between roughly 300 and 340 feet depending on source), is one of the Caribbean's largest accessible wrecks.
 
 ### Diving Opportunities
 
@@ -41,4 +41,4 @@ Sint Eustatius (Statia) offers diverse dive sites ranging from 6 to 29 meters de
 - **Safety**: No recompression chamber on island; nearest chamber is on Saba or Sint Maarten. Divers should carry DAN insurance. The marine park is well-managed with professional dive operators.
 
 ---
-*Sources: [Scubaqua Dive Center - Dive Sites](https://www.scubaqua.com/divesites/), [National Geographic - Best Place to Dive in the Caribbean](https://www.nationalgeographic.com/travel/article/this-tiny-island-is-best-place-to-dive-in-caribbean), [St. Eustatius National Parks - Diving](https://statiapark.org/diving-2/), [Golden Rock Dive Center](https://www.goldenrockdive.com/). Last updated 2026-04-05.*
+*Sources: [Scubaqua Dive Center - Dive Sites](https://www.scubaqua.com/divesites/), [National Geographic - Best Place to Dive in the Caribbean](https://www.nationalgeographic.com/travel/article/this-tiny-island-is-best-place-to-dive-in-caribbean), [St. Eustatius National Parks - Diving](https://statiapark.org/diving-2/), [Golden Rock Dive Center](https://www.goldenrockdive.com/), [PADI - Dive Sites in Sint Eustatius](https://www.padi.com/dive-sites/sint-eustatius/). Last updated 2026-09-18.*

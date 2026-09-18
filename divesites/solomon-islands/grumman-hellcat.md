@@ -17,7 +17,7 @@ A fully intact Grumman F6F-3 Hellcat fighter (serial number 25389) resting at ju
 
 ## Overview
 
-On 16 September 1943, this F6F-3 Hellcat (serial 25389) was shot down by friendly fire -- the shooter was none other than the famous Marine ace Gregory "Pappy" Boyington. The aircraft went down near Queue Island, south of Kolombangara in the New Georgia group.
+On 16 September 1943, this F6F-3 Hellcat (serial 25389), piloted by Lieutenant Dick Moore, was struck multiple times by friendly fire from Major Gregory "Pappy" Boyington's F4U Corsair, causing an oil leak. Moore ditched successfully near Queue Island, south of Kolombangara in the New Georgia group, and was rescued by local islanders and an Australian coastwatcher — he survived the incident.
 
 The Hellcat is fully intact at just 11 metres depth. The cockpit is open, and the instrument panel is readable -- gauges and dials can be examined in detail. The flaps are in the down position, consistent with a forced landing attempt. The aircraft sits upright on the seabed in excellent condition, making it one of the most photogenic WWII aircraft wrecks anywhere in the Solomon Islands.
 
@@ -46,7 +46,7 @@ Descend to the aircraft at 11 metres. The Hellcat sits intact on the seabed -- t
 
 ## Safety Considerations
 
-This is a war grave -- do not touch, sit on, or remove any part of the aircraft. The shallow depth makes this an extremely safe dive. Maintain buoyancy clearance above the aircraft to avoid damaging the fragile instrument panel and cockpit fittings. Be careful not to fin-kick sand onto the wreck.
+**Correction (2026-09-18):** the pilot survived this incident (see Overview), so this is a historic wreck rather than a war grave. Do not touch, sit on, or remove any part of the aircraft — it remains a protected historical site. The shallow depth makes this an extremely safe dive. Maintain buoyancy clearance above the aircraft to avoid damaging the fragile instrument panel and cockpit fittings. Be careful not to fin-kick sand onto the wreck.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=392), [Pacific Wrecks - F6F-3 BuNo 25389](https://pacificwrecks.com/aircraft/f6f/25389.html), [DiveGizo - Grumman Hellcat](https://www.divegizo.com/dive-sites/). Last updated 2026-06-30.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=392), [Pacific Wrecks - F6F-3 BuNo 25389](https://pacificwrecks.com/aircraft/f6f/25389.html), [DiveGizo - Grumman Hellcat](https://www.divegizo.com/dive-sites/). Last updated 2026-09-18.*

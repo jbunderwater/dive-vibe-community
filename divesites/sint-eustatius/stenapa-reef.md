@@ -35,7 +35,7 @@ STENAPA Reef is an artificial reef complex on Sint Eustatius's leeward coast, cr
 
 ## Marine Life
 
-Golden Rock Dive Center reports large schools of reef fish, angelfish, garden eels, and Caribbean stingrays as characteristic marine life at this site. The artificial structures provide complex hard substrate that supports encrusting corals and sponges, with resident populations of groupers and moray eels in the hull structures. The site is particularly productive for juvenile fish due to the shelter provided by the multiple structures.
+Golden Rock Dive Center reports large schools of reef fish, angelfish, garden eels, Caribbean stingrays, and pipefish here. Scubaqua independently confirms garden eels and stingrays, and adds octopus, juvenile fish, yellow sponges, and orange cup coral colonising the structures. DAN's "A Salute to St. Eustatius" adds barracuda and lobsters. (An earlier version of this page claimed "resident populations of groupers and moray eels in the hull structures" — this was not confirmed by any source and has been removed.) The site is particularly productive for juvenile fish due to the shelter provided by the multiple structures.
 
 ## Dive Profile
 
@@ -63,4 +63,4 @@ The multiple structures offer diverse wide-angle subjects — hull profiles, sch
 - STENAPA: stenapafoundation.com — manages the marine park and artificial reef program
 
 ---
-*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [DAN Alert Diver — St. Eustatius](https://dan.org/alert-diver/article/st-eustatius/), [MyScubaDivingGearGuide — Scuba Diving St. Eustatius](https://myscubadivinggearguide.com/scuba-diving-st-eustatius/). Last updated 2026-06-29.*
+*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [Scubaqua — Dive Sites](https://www.scubaqua.com/divesites/), [MyScubaDivingGearGuide — Scuba Diving St. Eustatius](https://myscubadivinggearguide.com/scuba-diving-st-eustatius/), [DAN Alert Diver — A Salute to St. Eustatius](https://dan.org/alert-diver/article/a-salute-to-st-eustatius/). Last updated 2026-09-18.*

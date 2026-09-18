@@ -17,9 +17,9 @@ Trompeuse Rocks is a submerged granite formation approximately 24 km northeast o
 
 ## Overview
 
-The Trompeuse Rocks protrude from the Indian Ocean approximately 24 km off Mahé's northeast coast. The site takes its name from the French word for "deceptive," reflecting the unpredictable nature of the currents here. The rocks rise significantly above the waterline and are surrounded by dense coral reef with thick growths of both hard and soft coral. Multiple sources note that currents at this site can be strong and that diver awareness and experience with drift conditions is important. A nearby shallow reef option exists at Mamelles Island for those wanting calmer conditions.
+The Trompeuse Rocks protrude from the Indian Ocean approximately 24 km off Mahé's northeast coast. The site takes its name from the French word for "deceptive," reflecting the unpredictable nature of the currents here. The rocks rise significantly above the waterline and are surrounded by dense coral reef with thick growths of both hard and soft coral. Seychellen.com describes tuna and small sharks as regular sightings among large fish schools drawn by the current, while a separate diver account (LIFE OF SHAL) describes technicolored wrasse, parrotfish, and octopus among the anemone-covered granite formations. Multiple sources agree that currents here can be strong and that diver awareness and experience with drift conditions is important. A nearby shallow reef option exists at Mamelles Island for those wanting calmer conditions.
 
-Schools of fusiliers and surgeonfish are regularly reported here, and the current draws reef sharks hunting in the current shadows. Because this site sits well offshore in open ocean, it is best visited when sea conditions are settled. The site is not recommended during monsoon periods when swells make the 24 km crossing challenging.
+Depth is reported inconsistently across sources: Seyvillas and Seychellen.com describe a deeper offshore profile (up to roughly 20–25 metres), while the LIFE OF SHAL account describes a shallower 5–13 metre dive — this may reflect different named areas of the same rock formation rather than a single depth. Because this site sits well offshore in open ocean, it is best visited when sea conditions are settled, and it is not recommended during monsoon periods when swells make the 24 km crossing challenging.
 
 ## Site Information
 
@@ -30,4 +30,4 @@ Schools of fusiliers and surgeonfish are regularly reported here, and the curren
 - **Maximum Depth**: 18 meters
 
 ---
-*Sources: [Seyvillas – Mahé Diving Guide](https://www.seyvillas.com/en/guide/islands/mahe/diving), [Equinoxe Diving School – Dive Sites](https://equinoxe-diving-seychelles.com/dive-sites/), [Seychellen.com – Dive Spots in the Seychelles](https://seychellen.com/en/diving-spots-seychelles/). Last updated 2026-06-29.*
+*Sources: [Seyvillas – Mahé Diving Guide](https://www.seyvillas.com/en/guide/islands/mahe/diving), [Seychellen.com – Tauchspots Seychellen](https://seychellen.com/tauchspots-seychellen/), [LIFE OF SHAL – 14 Best Dive Spots in the Seychelles](https://lifeofshal.com/2017/02/17/14-best-dive-spots-in-the-seychelles/). Note: Equinoxe Diving School's site listing was re-checked and does not actually mention Trompeuse Rocks by name; it has been removed from this citation list. Last updated 2026-09-18.*
