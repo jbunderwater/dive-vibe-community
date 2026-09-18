@@ -11,8 +11,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "nautilusliveaboards.com,dive-the-world.com,indopacificimages.com,adcdiving.be,xray-mag.com,oysterdiving.com",
-      "last_qa_date": "2026-06-30"
+      "validation_source": "nautilusliveaboards.com,dive-the-world.com,indopacificimages.com,adcdiving.be,xray-mag.com,oysterdiving.com,maresdemexico.com",
+      "last_qa_date": "2026-09-18"
     }
   },
   {
@@ -28,7 +28,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "nautilusliveaboards.com,dive-the-world.com,indopacificimages.com,adcdiving.be,divessi.com,oysterdiving.com",
-      "last_qa_date": "2026-06-30"
+      "last_qa_date": "2026-09-18"
     }
   },
   {
@@ -44,7 +44,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "nautilusliveaboards.com,dive-the-world.com,indopacificimages.com,adcdiving.be,divessi.com,oysterdiving.com",
-      "last_qa_date": "2026-06-30"
+      "last_qa_date": "2026-09-18"
     }
   },
   {
@@ -60,7 +60,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "nautilusliveaboards.com,dive-the-world.com,divessi.com,bluewaterdivetravel.com,oysterdiving.com",
-      "last_qa_date": "2026-06-30"
+      "last_qa_date": "2026-09-18"
     }
   },
   {
@@ -76,13 +76,13 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "nautilusliveaboards.com,dive-the-world.com,xray-mag.com,adcdiving.be,divertrek.com,bluewaterdivetravel.com",
-      "last_qa_date": "2026-06-30"
+      "last_qa_date": "2026-09-18"
     }
   },
   {
     "name": "The Aquarium",
-    "lat": 19.31,
-    "lon": -110.81,
+    "lat": 18.78,
+    "lon": -110.9,
     "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
@@ -91,8 +91,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "uwphotographyguide.com,divessi.com,nautilusliveaboards.com",
-      "last_qa_date": "2026-06-30"
+      "validation_source": "uwphotographyguide.com,divessi.com,nautilusliveaboards.com,scuba.com",
+      "last_qa_date": "2026-09-18",
+      "location_note": "2026-09-18 re-audit corrected island assignment from San Benedicto to Socorro Island (east side) per uwphotographyguide.com and scuba.com/AquaViews, which both place The Aquarium off Socorro Island; coordinates are approximate as no dive shop source publishes exact GPS for this site."
     }
   },
   {
@@ -108,13 +109,13 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "dive-the-world.com,uwphotographyguide.com,oysterdiving.com,scubago.com",
-      "last_qa_date": "2026-06-30"
+      "last_qa_date": "2026-09-18"
     }
   },
   {
     "name": "Fondeadero",
-    "lat": 18.75,
-    "lon": -110.94,
+    "lat": 19.285,
+    "lon": -110.805,
     "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
@@ -124,7 +125,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "adcdiving.be,divertrek.com,kflansburg.com,divessi.com,uwphotographyguide.com",
-      "last_qa_date": "2026-06-30"
+      "last_qa_date": "2026-09-18",
+      "location_note": "2026-09-18 re-audit corrected island assignment from Socorro Island to San Benedicto Island per 4 independent sources (adcdiving.be, divertrek.com, kflansburg.com, divessi.com) that consistently place Fondeadero's anchorage at San Benedicto Island; coordinates are approximate as no dive shop source publishes exact GPS for this site."
     }
   }
 ]
