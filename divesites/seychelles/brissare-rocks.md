@@ -17,7 +17,9 @@ Brissare Rocks is a pair of small rocky islands approximately 5 km north of Mah�
 
 ## Overview
 
-Brissare Rocks (also spelled Brissaire Rocks) sit in open water about 5 km north of Mahé, with the pinnacles rising close to the surface and dropping to around 20 metres on the flanks. The site is described by Equinoxe Diving School as lying between Mahé and Praslin and sitting in an area of reliable current. Multiple sources note fire coral coverage and dense assemblages of reef fish including red snappers, wrasse, barracuda, and batfish. Nurse sharks are reported as a regular occurrence here — notably, it is nurse sharks rather than whitetip reef sharks that are most commonly cited by sources. Eagle rays, hawksbill turtles, and large moray eels are also frequently seen. Whale sharks have been reported at this site from October through December. The strong current makes this more appropriate for intermediate or experienced divers, and the site is recommended September to May when conditions allow regular boat access.
+Brissare Rocks (also spelled Brissaire Rocks) sit in open water about 5 km north of Mahé, with the pinnacles rising close to the surface and dropping to around 20 metres on the flanks. Seyvillas describes the site as a pair of small rocky islands reachable only September to May, when conditions allow regular boat access; Equinoxe Diving School places it in the same broad area as neighboring Dragon's Teeth. Dense assemblages of reef fish are reported, including red snappers, wrasse, barracuda, and batfish, along with eagle rays, hawksbill turtles, and large moray eels.
+
+Shark species reported here are inconsistent across sources: koek.sc describes a resident nurse shark population as the near-certain sighting, while Equinoxe Diving School and other operator listings describe white-tip and black-tip reef sharks for this area instead. Both may be present; no single source confirms all three species together at Brissare specifically, so this is noted as an open discrepancy rather than resolved. A previous version of this page stated whale sharks were seen here October–December; that claim could not be re-confirmed by any current source (Equinoxe instead attributes an October–December whale shark window to nearby L'Ilot, not Brissare Rocks) and has been removed. The strong current makes this site more appropriate for intermediate or experienced divers.
 
 ## Site Information
 
@@ -28,4 +30,4 @@ Brissare Rocks (also spelled Brissaire Rocks) sit in open water about 5 km north
 - **Maximum Depth**: 20 meters
 
 ---
-*Sources: [Equinoxe Diving School – Dive Sites](https://equinoxe-diving-seychelles.com/dive-sites/), [Seyvillas – Mahé Diving Guide](https://www.seyvillas.com/en/guide/islands/mahe/diving), [Koek.sc – Seychelles Diving Guide](https://koek.sc/en/seychelles-diving-guide). Last updated 2026-06-29.*
+*Sources: [Divingseychelles.com – Dive Sites](https://divingseychelles.com/dive-sites), [Equinoxe Diving School – Dive Sites](https://equinoxe-diving-seychelles.com/dive-sites/), [Seyvillas – Mahé Diving Guide](https://www.seyvillas.com/en/guide/islands/mahe/diving), [Koek.sc – Seychelles Diving Guide](https://koek.sc/en/seychelles-diving-guide). Last updated 2026-09-18.*

@@ -15,8 +15,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "equinoxe-diving-seychelles.com,diveinseychelles.com,seyvillas.com",
-      "last_qa_date": "2026-06-29"
+      "validation_source": "padi.com",
+      "last_qa_date": "2026-09-18"
     }
   },
   {
@@ -36,7 +36,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "wikipedia.org,aldabraexpeditions.com,zubludiving.com",
-      "last_qa_date": "2026-06-29"
+      "last_qa_date": "2026-09-18"
     }
   },
   {
@@ -51,8 +51,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "padi.com,equinoxe-diving-seychelles.com,seyvillas.com,koek.sc",
-      "last_qa_date": "2026-06-29"
+      "validation_source": "padi.com,equinoxe-diving-seychelles.com,seyvillas.com,koek.sc,bluerides.com",
+      "last_qa_date": "2026-09-18"
     }
   },
   {
@@ -67,8 +67,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "equinoxe-diving-seychelles.com,seyvillas.com,koek.sc",
-      "last_qa_date": "2026-06-29"
+      "validation_source": "divingseychelles.com,equinoxe-diving-seychelles.com,seyvillas.com,koek.sc",
+      "last_qa_date": "2026-09-18"
     }
   },
   {
@@ -84,7 +84,7 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "aldabraexpeditions.com,wikipedia.org,zubludiving.com",
-      "last_qa_date": "2026-06-29"
+      "last_qa_date": "2026-09-18"
     }
   },
   {
@@ -99,8 +99,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "seyvillas.com,equinoxe-diving-seychelles.com,seychellen.com",
-      "last_qa_date": "2026-06-29"
+      "validation_source": "seyvillas.com,seychellen.com,lifeofshal.com",
+      "last_qa_date": "2026-09-18"
     }
   },
   {
@@ -115,8 +115,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "divingseychelles.com,equinoxe-diving-seychelles.com,seyvillas.com",
-      "last_qa_date": "2026-06-29"
+      "validation_source": "divingseychelles.com,equinoxe-diving-seychelles.com,divernet.com,sharkrayareas.org",
+      "last_qa_date": "2026-09-18"
     }
   },
   {
@@ -131,8 +131,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "seyvillas.com,divebooker.com,scubadiving.place",
-      "last_qa_date": "2026-06-29"
+      "validation_source": "seyvillas.com,divebooker.com,scubadiving.place,zubludiving.com",
+      "last_qa_date": "2026-09-18"
     }
   },
   {
@@ -147,8 +147,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "wikipedia.org,gvi.co.uk,thediveglobe.com",
-      "last_qa_date": "2026-06-29"
+      "validation_source": "wikipedia.org,thediveglobe.com,historicalrfa.uk,koek.sc",
+      "last_qa_date": "2026-09-18"
     }
   },
   {
@@ -164,7 +164,7 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "wannadive.net,seyvillas.com,zubludiving.com",
-      "last_qa_date": "2026-06-29"
+      "last_qa_date": "2026-09-18"
     }
   },
   {
@@ -179,8 +179,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "tribloo.com,seyvillas.com,equinoxe-diving-seychelles.com",
-      "last_qa_date": "2026-06-29"
+      "validation_source": "tribloo.com,seyvillas.com,equinoxe-diving-seychelles.com,divingseychelles.com",
+      "last_qa_date": "2026-09-18"
     }
   },
   {
@@ -195,8 +195,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "equinoxe-diving-seychelles.com,seyvillas.com,scubavox.com",
-      "last_qa_date": "2026-06-29"
+      "validation_source": "equinoxe-diving-seychelles.com,divebooker.com",
+      "last_qa_date": "2026-09-18"
     }
   }
 ]
