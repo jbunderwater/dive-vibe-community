@@ -2,7 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "scotland",
     "south-africa",
     "south-australia-neptune-islands",
     "south-florida",
@@ -174,12 +173,14 @@
     "sint-eustatius",
     "sipadan",
     "socorro-islands",
-    "solomon-islands"
+    "solomon-islands",
+    "scotland"
   ],
   "history": [
     {
       "date": "2026-09-18",
       "slugs": [
+        "scotland",
         "seychelles",
         "silfra-fissure",
         "sint-eustatius",
@@ -256,6 +257,10 @@
             "wreck_conflicts_flagged": 5,
             "sites_unresolved": 2,
             "notes": "Largest destination in today's batch. Corrected 3 significant location/content errors: Mirror Pond's entire described feature and location were fabricated and have been rewritten to the real Mane Island site; Mary Island and Leru Cut coordinates were off by roughly 150km (wrong island group) and have been corrected against Wikipedia/operator sources. Restored manta rays as the headline species at Devil's Highway and Sandfly Passage after both had omitted them despite multiple independent sources naming this as the Solomons' premier manta encounter. Fixed a B-17 Flying Fortress pilot-rank error and a Grumman Hellcat incorrectly labeled a war grave (the pilot survived). Five wreck-history conflicts (Toa Maru length/tank model, Hundred Thousand Dollar Point depth, Japanese Submarine I-1 depth range, USS Kanawha length typo, B-17 crew fate) documented as sourced ranges/hedges rather than picked. Custom's House Wreck and Maravagi Passage downgraded to unvalidated after their cited sources turned out not to describe them."
+          },
+          "scotland": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory) -- skipped, consistent with prior-cycle precedent for group slugs; solomon-islands was pulled forward from later in the queue to keep the day's real-destination count at 6."
           }
         }
       },
