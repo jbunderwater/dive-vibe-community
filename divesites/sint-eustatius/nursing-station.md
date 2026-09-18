@@ -33,9 +33,9 @@ Nursing Station is one of Sint Eustatius's most popular dive sites, combining th
 
 ## Marine Life
 
-Nurse sharks are the defining attraction — resting in sandy ledges and under lava overhangs during daylight hours. Golden Rock Dive Center confirms nurse sharks as resident at this site. These benthic sharks are generally indifferent to divers, remaining still unless approached too closely. Golden Rock also notes lettuce sea slugs in the sandy areas adjacent to the wall. The wall above the shark ledges carries healthy hard coral coverage with sea fans, tube sponges, and encrusting organisms. French and grey angelfish are ubiquitous on the reef. Caribbean spiny lobster occupy the deep ledge crevices. Bar jacks hunt in mid-water above the reef top. Hawksbill turtles are consistent sightings throughout STENAPA's marine park.
+Nurse sharks are the defining attraction — resting in sandy ledges and under lava overhangs during daylight hours. Golden Rock Dive Center confirms nurse sharks as resident at this site, and DAN's "A Salute to St. Eustatius" independently confirms nurse sharks sleeping here and adds squirrelfish schools. Golden Rock also notes lettuce sea slugs in the sandy areas adjacent to the wall. These benthic sharks are generally indifferent to divers, remaining still unless approached too closely.
 
-*Note: Specific counts of nurse sharks and precise size ranges are not confirmed by available sources and have been omitted per anti-hallucination policy.*
+*Note: an earlier version of this page also listed French and grey angelfish, Caribbean spiny lobster, bar jacks, and hawksbill turtles for this site. On re-audit, none of these traced to a source confirming them specifically at Nursing Station, so they have been removed. Statia's regional reef fauna likely includes them, but no site-specific report was found. Specific counts of nurse sharks and precise size ranges are also not confirmed by available sources and remain omitted per anti-hallucination policy.*
 
 ## Dive Profile
 
@@ -63,4 +63,4 @@ Nurse shark photography at Nursing Station is excellent — the animals are larg
 - Golden Rock Dive Center: Nursing Station is a regular inclusion in daily dive itineraries
 
 ---
-*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [DAN Alert Diver — St. Eustatius](https://dan.org/alert-diver/article/st-eustatius/), [Scubaverse — St Eustatius](https://scubaverse.com/dive-guide/caribbean/st-eustatius/). Last updated 2026-06-29.*
+*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [DAN Alert Diver — A Salute to St. Eustatius](https://dan.org/alert-diver/article/a-salute-to-st-eustatius/), [PADI — Nursing Station Dive Site](https://www.padi.com/dive-site/sint-eustatius/nursing-station/). Last updated 2026-09-18.*

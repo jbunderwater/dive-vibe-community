@@ -33,7 +33,7 @@ Double Wreck is Sint Eustatius's most historically significant dive site — the
 
 ## Marine Life
 
-The scattered cannon and ballast stone formations provide excellent hard substrate, hosting corals, sponges, and encrusting organisms accumulated over two centuries. Caribbean spiny lobster shelter beneath cannon tubes. Moray eels occupy gaps between ballast stone piles. French and grey angelfish are abundant throughout the area. Sandy zones between artifact clusters host southern stingrays. Hawksbill turtles are common visitors.
+Golden Rock, Scubaqua, and Divertrek independently agree on southern stingrays and turtles (Divertrek and Golden Rock specify green turtles rather than hawksbill) as the reliable sightings among the wreckage. Divertrek adds lobsters and schools of reef fish; Scubaqua adds blennies, cleaner shrimp, seahorses, and frogfish. (An earlier version of this page named French and grey angelfish, moray eels, and hawksbill turtles — these are not confirmed by current sources for this site, and the list has been corrected.)
 
 ## Dive Profile
 
@@ -45,7 +45,7 @@ Boat dive with STENAPA mooring. Access via Golden Rock Dive Center. Entry by gia
 
 ## Tips and Recommendations
 
-A historical briefing before the dive significantly enhances the experience — understanding Statia's extraordinary 18th-century commerce makes the cannon clusters far more evocative. Carry a torch for examining the undersides of cannon tubes, where banded coral shrimp and juvenile fish congregate. Pair this dive with Blue Bead Hole or Crooks Castle for a full day of Statia's unique historical diving.
+A historical briefing before the dive significantly enhances the experience — understanding Statia's extraordinary 18th-century commerce makes the cannon clusters far more evocative. Carry a torch for examining the undersides of cannon tubes, where blennies, cleaner shrimp, and juvenile fish congregate. Pair this dive with Blue Bead Hole or Crooks Castle for a full day of Statia's unique historical diving.
 
 ## Safety Considerations
 
@@ -61,4 +61,4 @@ Cannon lying in the sand with coral and sponge growth are the defining images of
 - SECAR: St. Eustatius Center for Archaeological Research — published research on Double Wreck
 
 ---
-*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [DiverTrek — Diving St. Eustatius](https://divertrek.com/diving-st-eustatius-the-historical-gem/), [Scubaverse — St Eustatius](https://scubaverse.com/dive-guide/caribbean/st-eustatius/). Last updated 2026-06-29.*
+*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [Scubaqua — Dive Sites](https://www.scubaqua.com/divesites/), [DiverTrek — Diving St. Eustatius](https://divertrek.com/diving-st-eustatius-the-historical-gem/), [MyScubaDivingGearGuide — Scuba Diving St. Eustatius](https://myscubadivinggearguide.com/scuba-diving-st-eustatius/). Last updated 2026-09-18. (Scubaverse's claim that the two wrecks are named "Charles Brown" and "Berkeley Springs" was re-checked and remains unconfirmed by any independent source — omitted from this description.)*

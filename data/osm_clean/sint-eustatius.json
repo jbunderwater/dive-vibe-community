@@ -11,9 +11,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "goldenrockdive.com,dan.org,divertrek.com",
-      "last_qa_date": "2026-06-29",
-      "qa_note": "Vessel is approximately 100m (320-327ft) long per DAN Alert Diver and Divertrek sources. Sunk July 25, 2003. Built 1954 in Naples, Italy as CS Salernum; renamed Charles L. Brown in 1984. Former AT&T cable-laying ship. Purchased by Statia for $1 USD. Lies on its STARBOARD SIDE at ~30m/100ft (not upright) — confirmed by DAN Alert Diver: 'The ship lies on its starboard side with an interesting debris field scattered in the sand below it.' Previous qa_note incorrectly implied upright orientation."
+      "validation_source": "goldenrockdive.com,dan.org,divertrek.com,scubaqua.com,atlantic-cable.com,scubadiving.com",
+      "last_qa_date": "2026-09-18",
+      "qa_note": "RE-AUDITED 2026-09-18 (6 independent sources). Built 1954 (Navalmeccanica shipyard, Castellammare di Stabia, Naples, Italy per Atlantic Cable historical archive) as CS Salernum; sold 1984 to Transoceanic Cableship Co. (AT&T subsidiary) and renamed Charles L. Brown — build year and rename corroborated by atlantic-cable.com, DAN, and Divertrek. Purchased by Statia for $1 in 2002; deliberately scuttled July 25, 2003 (date corroborated independently by DAN Alert Diver and Scuba Diving magazine/Caribbean Compass). LENGTH CONFLICTS ACROSS SOURCES: Golden Rock says 300ft; DAN, Caribbean Compass and Scuba Diving magazine say 320ft; Divertrek and Scubaqua say 327ft/100m; the vessel's original 1954 registry (Atlantic Cable archive) lists 339.6ft — sources report length between roughly 300 and 340 feet (91-104m). Gross tonnage (2,789 GT) appears in only ONE source (Atlantic Cable archive) and is NOT independently corroborated, so omitted from markdown per 2-source rule. Sinking cause: no accidental cause is corroborated — the ship was deliberately flooded/scuttled to create the reef; Scuba Diving magazine reports it took 1-2 hours to go under, consistent with a controlled flooding (one single-sourced Divertrek claim of a 'burst pipe' equipment failure could not be corroborated and was omitted). Lies on STARBOARD side per DAN, Divertrek, Scubaqua. MARINE LIFE CORRECTED: previous markdown listed groupers, moray eels, lionfish, snapper/grunt schools, stingrays, and hawksbill turtles — NONE of these are confirmed by current dive-shop sources for this specific wreck. Confirmed site-specific species (Golden Rock + Scubaqua + DiverTrek + DAN): Caribbean reef sharks, cubera snapper, a resident barracuda nicknamed 'Charlie' (confirmed independently by both Golden Rock and DAN), horse-eye jacks, yellow-headed jawfish, angelfish, sea turtles (species unspecified), spotted eagle rays. Markdown marine life section rewritten accordingly."
     }
   },
   {
@@ -28,16 +28,16 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "goldenrockdive.com,dan.org,divertrek.com",
-      "last_qa_date": "2026-06-29",
-      "qa_note": "Anchor Point confirmed on leeward coast with 18th-century French anchor c.1750-1775 per Divertrek. Max depth approximately 60ft/18m. French anchor description consistently confirmed across Divertrek and DAN sources (over 3m long, over 1 ton, dated 1750-1775)."
+      "validation_source": "scubaqua.com,divertrek.com,dan.org",
+      "last_qa_date": "2026-09-18",
+      "qa_note": "RE-AUDITED 2026-09-18. Anchor Point confirmed on leeward coast with 18th-century French anchor c.1750-1775 (over 3m long, over 1 ton) per Divertrek; DAN's separate 'A Salute to St. Eustatius' article independently confirms a large anchor embedded in the reef. Depth ~18m/60ft confirmed by Scubaqua. MARINE LIFE CORRECTED: previous markdown listed groupers, yellowtail snapper, blue tang, French angelfish, southern stingrays, garden eels, hawksbill turtles — none of these are confirmed by current site-specific sources. Confirmed: moray eels, Caribbean reef sharks, Spanish hogfish, drumfish, sharptail eels, lobsters (Scubaqua), hawksbill turtles (DAN, corroborating one prior claim). Markdown marine life section rewritten accordingly."
     }
   },
   {
     "name": "Blue Bead Hole",
     "lat": 17.4776,
     "lon": -62.9917,
-    "depth": 10,
+    "depth": 17,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
@@ -45,9 +45,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "goldenrockdive.com,divertrek.com,wearestatia.com,lifeonthegoldenrock.wordpress.com",
-      "last_qa_date": "2026-06-29",
-      "qa_note": "Confirmed shallow shore dive ~55ft/17m max per Divertrek. Beads are Dutch/Amsterdam-made cobalt-blue pentagonal glass trade beads (NOT Venetian as previously stated — beads were manufactured in Amsterdam and used in the slave trade). Research: beads made in Amsterdam (lifeonthegoldenrock.wordpress.com), multiple bead origins confirmed by archaeology (Dutch 17th-18th c, African, Indonesian, Spanish, and some Venetian). Protected by STENAPA. Beads best found after storms disturb sand."
+      "validation_source": "scubaqua.com,divertrek.com,dan.org,lifeonthegoldenrock.wordpress.com",
+      "last_qa_date": "2026-09-18",
+      "qa_note": "RE-AUDITED 2026-09-18. DEPTH BUG FIXED: field was still 10m despite the 2026-06-29 qa_note already stating '~55ft/17m confirmed' — corrected to 17m (Scubaqua and Divertrek both give ~55ft/17m). Beads are Dutch/Amsterdam-made cobalt-blue glass trade beads, confirmed by lifeonthegoldenrock.wordpress.com ('made in Amsterdam, out of glass') and DAN ('Dutch blue beads, historical currency'). ORIGIN THEORY CONFLICT: lifeonthegoldenrock.wordpress.com itself presents TWO competing, unconfirmed theories for how beads concentrated at this spot — (1) a bead-laden ship sank there, or (2) freed slaves threw beads into the sea after emancipation and they drifted to this spot — and does not assert either as fact. Divertrek separately floats a shipwreck-at-Crook's-reef origin. Markdown corrected to present both theories as unresolved speculation rather than asserting the emancipation story as settled history. DROPPED wearestatia.com as a source — it incorrectly describes the beads as 'currency used by indigenous people,' which contradicts every other source (beads were Dutch-made and used in Atlantic slave-trade commerce); its 'vertical swim-through called The Abyss' claim is also uncorroborated and removed from markdown. MARINE LIFE CORRECTED: previous markdown listed blue tang, parrotfish, sergeant majors, garden eels, flounder, green sea turtles — none confirmed for this specific site. Confirmed: flying gurnards (Scubaqua AND DAN, independently), pike blennies, sailfin blennies, scorpionfish, mantis shrimp (Scubaqua)."
     }
   },
   {
@@ -62,9 +62,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "goldenrockdive.com,dan.org,myscubadivinggearguide.com",
-      "last_qa_date": "2026-06-29",
-      "qa_note": "CORRECTED: Golden Rock Dive Center describes this as a modern wreck/artificial reef at 20m/66ft featuring a tugboat, barge, and hull. Not a natural shallow reef as previously listed (6m incorrect). Large schools of reef fish, angel fish, garden eels, Caribbean stingrays confirmed. Re-audited 2026-06-29: no new corrections required."
+      "validation_source": "goldenrockdive.com,scubaqua.com,myscubadivinggearguide.com,dan.org",
+      "last_qa_date": "2026-09-18",
+      "qa_note": "RE-AUDITED 2026-09-18 (4 independent sources). Golden Rock, Scubaqua, and MyScubaDivingGearGuide all independently confirm this as a modern artificial reef — a sunken tugboat, barge, and ship hull/tanker sections — at approximately 18-20m. DAN's 'A Salute to St. Eustatius' article independently corroborates the multi-structure description ('harbor boat, tugboat, tanker sections'). MARINE LIFE CORRECTED: previous markdown added 'resident populations of groupers and moray eels in the hull structures' — not confirmed by any source, removed. Confirmed: large schools of reef fish, angelfish, garden eels, Caribbean/southern stingrays, pipe fish (Golden Rock); octopus, juvenile fish, yellow sponges, orange cup coral (Scubaqua); barracuda, lobsters (DAN)."
     }
   },
   {
@@ -79,9 +79,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "goldenrockdive.com,dan.org,scubaverse.com",
-      "last_qa_date": "2026-06-29",
-      "qa_note": "Golden Rock confirms: coral-encrusted lava flow, 10-15m/30-45ft range, maze of lava flows with overhangs. Type is wall/overhang on volcanic lava. Re-audited 2026-06-29: no new corrections required."
+      "validation_source": "goldenrockdive.com,scubaqua.com,dan.org",
+      "last_qa_date": "2026-09-18",
+      "qa_note": "RE-AUDITED 2026-09-18. SOURCE CORRECTION: scubaverse.com was cited previously but on direct re-check it does NOT mention Hangover at all — replaced with scubaqua.com, which does. Golden Rock confirms: coral-encrusted lava flow, 10-15m/30-45ft range, maze of lava flows with overhangs; type kept as wall (closest available enum value for overhang/ledge terrain — operators classify it separately from their formal 'Wall Dive' sites like Drop Off East, so this is a judgment call, not a confirmed 'wall' per operator taxonomy). MARINE LIFE CORRECTED: previous markdown listed copper sweepers, glassfish, bar jacks, horse-eye jacks, banded coral shrimp, green moray eels — none confirmed for this site. Confirmed: Caribbean reef sharks, hawksbill turtles (DAN), rays, queen conch, spiny lobster (Golden Rock); yellow-head jawfish, peacock flounder, spotted drumfish, moray eels, angelfish (four species per Scubaqua), yellow-tail damselfish (Scubaqua); snapper (DAN)."
     }
   },
   {
@@ -96,9 +96,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "goldenrockdive.com,divertrek.com,wearestatia.com",
-      "last_qa_date": "2026-06-29",
-      "qa_note": "Shallow reef below historic fort with 17th-18th century artifacts (anchors, ballast stones, cannon). Protected by STENAPA. Re-audited 2026-06-29: no new corrections required."
+      "validation_source": "padi.com,zentacle.com,statiapark.org",
+      "last_qa_date": "2026-09-18",
+      "qa_note": "RE-AUDITED 2026-09-18. SOURCE CORRECTION: goldenrockdive.com, divertrek.com and wearestatia.com were cited previously, but on direct re-check none of the three currently mention Crooks Castle by name (Golden Rock's live dive-sites page lists only 9 sites and Crooks Castle is not among them; wearestatia.com and divertrek.com do not mention it either). Re-verified instead via PADI's dive-site directory (contributed by Golden Rock, coordinates match ours: boat access, buoy #21, beginner, max depth 32.8ft/10m), Zentacle (same depth/access/difficulty), and STENAPA's own park page (statiapark.org), which names Crooks Castle as a boat-accessible beginner site/snorkel spot near a historic fort with 'always a sea turtle or stingray hanging around.' Depth (10m) and difficulty (Beginner) reconfirmed. MARINE LIFE CORRECTED: previous markdown listed French/queen angelfish, spotted drums, yellowhead jawfish, cleaning stations, reef squid, frogfish — none confirmed by current sources. Confirmed: sea turtle, stingray (PADI/Zentacle/statiapark.org consistently)."
     }
   },
   {
@@ -113,9 +113,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "goldenrockdive.com,divertrek.com,scubaverse.com",
-      "last_qa_date": "2026-06-29",
-      "qa_note": "Golden Rock confirms: archaeological site, 18m/60ft depth, beginner level, 2 min from shore. Remains of two 18th-century wooden merchant ships (hulls gone, anchors/ballast/cannon remain). Flying gurnards, stingrays confirmed by Divertrek. Note: One source (Scubaverse) names the two vessels as 'Charles Brown' and 'Berkeley Springs' described as 18th-century British naval ships, but this cannot be independently verified — not confirmed by Golden Rock or DAN. Vessel identities remain unresolved. Markdown corrected: difficulty table was 'Intermediate' but should be 'Beginner' per Golden Rock; depth table corrected to 15-18m (not 12-17m)."
+      "validation_source": "goldenrockdive.com,scubaqua.com,divertrek.com,myscubadivinggearguide.com",
+      "last_qa_date": "2026-09-18",
+      "qa_note": "RE-AUDITED 2026-09-18 (4 independent sources). Golden Rock confirms: archaeological site, 18m/60ft depth, beginner level, ~2 min boat ride. Remains of two 18th-century wooden merchant ships (hulls gone, anchors/ballast/cannon remain) reconfirmed by Scubaqua, Divertrek and MyScubaDivingGearGuide (all independently call it a c.300-year-old shipwreck site with ballast stones/anchors, ~18m). VESSEL IDENTITIES STILL UNRESOLVED: Scubaverse names the two vessels as 'Charles Brown' and 'Berkeley Springs,' 18th-century British naval ships — re-searched 2026-09-18 and STILL cannot find independent corroboration; every other reference to this claim traces back to the same Scubaverse-derived text, not a second independent source, and having a wreck named identically to the island's separate famous 'Charles Brown' wreck is itself suspicious. Vessel names remain OMITTED from markdown per 2-source rule. MARINE LIFE CORRECTED: previous markdown listed French/grey angelfish and moray eels (not confirmed) and called turtles 'hawksbill' (sources specify green, not hawksbill). Confirmed: southern stingrays (Golden Rock, Scubaqua, Divertrek — 3-way agreement), green turtles/sea turtles (Golden Rock, Scubaqua, Divertrek), reef fish, lobsters (Divertrek), blennies, cleaner shrimp, seahorses, frogfish (Scubaqua)."
     }
   },
   {
@@ -130,9 +130,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "goldenrockdive.com,dan.org,scubaverse.com",
-      "last_qa_date": "2026-06-29",
-      "qa_note": "Golden Rock confirms: coral-encrusted lava flow, 19m/63ft, beginner-intermediate. Nurse sharks under overhangs confirmed. Lettuce sea slugs in sandy areas noted by Golden Rock. Re-audited 2026-06-29: no new corrections required. Note: kept as Intermediate (not Beginner) due to wall topography and potential current."
+      "validation_source": "goldenrockdive.com,dan.org,padi.com",
+      "last_qa_date": "2026-09-18",
+      "qa_note": "RE-AUDITED 2026-09-18. SOURCE CORRECTION: scubaverse.com was cited previously but on direct re-check it does NOT mention Nursing Station — replaced with padi.com, whose listed coordinates (17.46923,-62.99140) match ours almost exactly and which independently classifies the site as 'coral-encrusted lava flow.' Golden Rock confirms: 19m/63ft, beginner-intermediate, nurse sharks resting under overhangs. DAN's separate 'A Salute to St. Eustatius' article independently corroborates nurse sharks sleeping here and adds squirrelfish schools. MARINE LIFE CORRECTED: previous markdown also listed French/grey angelfish, Caribbean spiny lobster, bar jacks, and hawksbill turtles as if site-specific — none of these are confirmed by any source found this round; removed and replaced with the anti-hallucination caveat already used for shark counts, now extended to cover the rest of the list. Confirmed for this site: nurse sharks, lettuce sea slugs (Golden Rock); squirrelfish (DAN). Kept as Intermediate (not Beginner) due to topography and potential current, consistent with prior QA."
     }
   },
   {
@@ -147,9 +147,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "goldenrockdive.com,dan.org,divertrek.com",
-      "last_qa_date": "2026-06-29",
-      "qa_note": "Five volcanic lava fingers extending from southern coast. Max 20m. Spur-and-groove formations with sandy channels. Intermediate due to southern exposure and potential current. Re-audited 2026-06-29: site not listed on current Golden Rock dive site page; curated entry. No new factual corrections required."
+      "validation_source": "padi.com",
+      "last_qa_date": "2026-09-18",
+      "qa_note": "RE-AUDITED 2026-09-18 — UNRESOLVED, BELOW 3-SOURCE THRESHOLD. On this pass, goldenrockdive.com, dan.org and divertrek.com (the previously cited sources) were all re-checked directly and NONE currently mention 'Five Fingers' or 'Five Fingers South' by name — those prior citations no longer hold and have been removed. The only source that could be re-confirmed is PADI's dive-site directory, which lists a 'Five Fingers' site at coordinates 17.46376,-62.98059 (close match to ours) classified as 'Reef' within the marine reserve, but with no depth, difficulty, or marine-life detail. Per deep-QA rule requiring 3+ independent domains for anything marked validated, this site could NOT be re-validated to that standard; validated left as 'true' per instructions (do not pad with weak sources) but flagged as unresolved/low-confidence in this pass's summary. Depth/difficulty fields (20m/Intermediate) are unchanged curated estimates, not re-confirmed. MARINE LIFE GENERICIZED: previous markdown named blue tang, parrotfish, barracuda, bar jacks, southern stingrays, garden eels, Caribbean spiny lobster, hawksbill turtles, spotted eagle rays as if site-specific — none of these trace to any site-specific source; markdown rewritten to state that specific findings for this site were not located, while noting the destination's general reef fauna applies."
     }
   },
   {
@@ -164,9 +164,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "goldenrockdive.com,dan.org,divertrek.com",
-      "last_qa_date": "2026-06-29",
-      "qa_note": "Terraced volcanic wall on northern leeward coast. Series of ledges 8-15m with overhangs colonized by cup corals and sponges. Re-audited 2026-06-29: site not listed on current Golden Rock dive site page; curated entry. No new factual corrections required."
+      "validation_source": "tdisdi.com",
+      "last_qa_date": "2026-09-18",
+      "qa_note": "RE-AUDITED 2026-09-18 — UNRESOLVED, BELOW 3-SOURCE THRESHOLD. goldenrockdive.com, dan.org and divertrek.com (previously cited) were re-checked directly and NONE currently mention 'The Ledges' by name; those citations removed as no longer supported. A search surfaced a TDI/SDI diver-news article (tdisdi.com) referencing a 'Ledges 1&2' site with volcanic fissures/canyons and black tip sharks, eagle rays, high hat and jackknife fish — but the page returned HTTP 403 on direct fetch, so this content could only be seen via a third-party search summary and could NOT be independently verified by reading the source directly. Given only one (unverifiable-by-direct-read) domain, this site could NOT be re-validated to the 3-source standard; validated left as 'true' per instructions but flagged unresolved/low-confidence in this pass's summary. Depth/difficulty (15m/Intermediate) are unchanged curated estimates. MARINE LIFE GENERICIZED: previous markdown named parrotfish, surgeonfish, copper sweepers, glassfish, Caribbean spiny lobster, black coral, hawksbill turtles, spotted moray eels, southern stingrays as if site-specific — none confirmed by a directly-readable site-specific source; markdown rewritten to state regional fauna applies with the one unverified secondary reference noted but not asserted as fact."
     }
   }
 ]

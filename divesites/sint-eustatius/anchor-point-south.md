@@ -33,7 +33,7 @@ Anchor Point South sits on the leeward western side of Sint Eustatius, in waters
 
 ## Marine Life
 
-The iron anchors and chain provide hard substrate for coral and sponge recruitment, creating micro-habitats for moray eels, groupers, and chromis clouds. Caribbean spiny lobster shelter beneath anchor flukes. Yellowtail snapper, blue tang, and French angelfish are common throughout. Sandy areas between reef structures host southern stingrays and garden eels. Hawksbill turtles are regular visitors. Statia's diving receives relatively little traffic compared to most Caribbean islands, and marine life is notably less accustomed to divers than at busier destinations.
+Scubaqua reports moray eels, sharptail eels, Caribbean reef sharks, Spanish hogfish, drumfish, and lobsters sheltering among the anchors and barrel/tube sponges here. DAN's "A Salute to St. Eustatius" independently confirms hawksbill turtles at the site's large anchor. (An earlier version of this page also listed groupers, yellowtail snapper, blue tang, French angelfish, southern stingrays, and garden eels — none of these are confirmed by current site-specific sources, and the list has been corrected.) Statia's diving receives relatively little traffic compared to most Caribbean islands, and marine life is notably less accustomed to divers than at busier destinations.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ Iron anchors against coral backdrop provide strong compositional elements. Wide-
 - Golden Rock Dive Center: primary local dive operator on Sint Eustatius
 
 ---
-*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [DAN Alert Diver — St. Eustatius](https://dan.org/alert-diver/article/st-eustatius/), [DiverTrek — Diving St. Eustatius](https://divertrek.com/diving-st-eustatius-the-historical-gem/). Last updated 2026-06-29.*
+*Sources: [Scubaqua — Dive Sites](https://www.scubaqua.com/divesites/), [DiverTrek — Diving St. Eustatius](https://divertrek.com/diving-st-eustatius-the-historical-gem/), [DAN Alert Diver — A Salute to St. Eustatius](https://dan.org/alert-diver/article/a-salute-to-st-eustatius/). Last updated 2026-09-18.*
