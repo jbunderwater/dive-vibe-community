@@ -33,7 +33,7 @@ Five Fingers South takes its name from the five distinct rocky ridges extending 
 
 ## Marine Life
 
-The five-spur structure creates diverse micro-habitats. The ridges' crests host brain corals and sea fans with schooling blue tang and parrotfish. The channels between spurs are patrolled by barracuda and bar jacks. The sandy channel floors host southern stingrays and garden eels. Caribbean spiny lobster occupy the overhangs on the undersides of the spurs. Hawksbill turtles are regular visitors throughout the site. The southern exposure occasionally brings pelagic species including spotted eagle rays sweeping through the channels.
+On re-audit, no dive shop or independent source could be found describing marine life specifically observed at Five Fingers South — the site is no longer listed on Golden Rock Dive Center's or Scubaqua's current dive-site pages, and PADI's directory entry (which confirms the site's existence and matching coordinates) does not include species detail. Statia's regional reef fauna — turtles, rays, reef fish, and the occasional pelagic visitor along its volcanic spur-and-groove terrain — likely applies here as it does elsewhere on the island's leeward coast, but no site-specific report was found, so no species list is given. (An earlier version of this page named blue tang, parrotfish, barracuda, bar jacks, southern stingrays, garden eels, Caribbean spiny lobster, hawksbill turtles, and spotted eagle rays as if confirmed for this site; none of that traced to a verifiable source and it has been removed.)
 
 ## Dive Profile
 
@@ -41,7 +41,7 @@ Descent via mooring to the northernmost spur crest, then navigate southward thro
 
 ## Entry and Exit
 
-Boat dive with STENAPA mooring. Access via Golden Rock Dive Center. Entry by giant stride. The moderate current at this site means DSMB deployment for the safety stop is advisable.
+Boat dive, per curated/legacy data; not currently featured on either of Statia's main dive operators' own site lists, so confirm with your operator that this site is still run before booking. Entry by giant stride. The moderate current at this site means DSMB deployment for the safety stop is advisable.
 
 ## Tips and Recommendations
 
@@ -58,7 +58,7 @@ The finger-like spur topography provides strong compositional leading lines for 
 ## Additional Resources
 
 - STENAPA: stenapafoundation.com — dive site maps and conditions
-- Golden Rock Dive Center: guided dives at Five Fingers South
+- PADI: dive-site directory entry confirms the site's location within the marine reserve
 
 ---
-*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [DAN Alert Diver — St. Eustatius](https://dan.org/alert-diver/article/st-eustatius/), [DiverTrek — Diving St. Eustatius](https://divertrek.com/diving-st-eustatius-the-historical-gem/). Last updated 2026-06-29.*
+*Sources: [PADI — Five Fingers Dive Site](https://www.padi.com/dive-site/sint-eustatius/five-fingers/) confirms this site's existence, matching coordinates, and reef classification, but no depth, difficulty, or marine-life detail. On 2026-09-18 re-audit, Golden Rock Dive Center, DAN Alert Diver, and Divertrek — the sources previously credited here — were re-checked directly and none currently mention this site by name, so those citations have been removed rather than left inaccurate. This falls short of this destination's 3-independent-source bar for validated sites; treat the depth, difficulty, and topography details on this page as an unverified curated estimate pending better sourcing. Last updated 2026-09-18.*
