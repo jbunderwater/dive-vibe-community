@@ -50,4 +50,4 @@ This is a war grave -- do not disturb or remove any artefacts. The minimum depth
 
 ---
 *Note: The Japanese Kate torpedo bomber at the wreck is reported by McFadyen as his personal assessment ("I believe") rather than a confirmed identification from official records — treat this claim with appropriate caution.*
-*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=378), [Pacific Wrecks - USS John Penn](https://pacificwrecks.com/ships/ap/john-penn/), [NavSource - USS John Penn](https://www.navsource.net/archives/09/01/0151.htm). Last updated 2026-06-30.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=378), [Pacific Wrecks - USS John Penn](https://pacificwrecks.com/ships/ap/john-penn/), [NavSource - USS John Penn](https://www.navsource.net/archives/09/01/0151.htm). Last updated 2026-09-18.*

@@ -1,7 +1,7 @@
 ---
 name: Leru Cut
-lat: -9.0833
-lng: 160.25
+lat: -9.02
+lng: 159.12
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
@@ -13,7 +13,9 @@ addedBy: osm_import
 
 ## Leru Cut
 
-Leru Cut is one of the most visually dramatic dive sites in the Solomon Islands — a narrow volcanic chasm carved through Leru Island in the Eastern Russell Islands, creating a spectacular swim-through passage where sheer walls rise 30 meters above on each side and the sky is reduced to a thin strip of light far overhead. Note: this site is in the **Russell Islands**, not the Florida Islands as previously documented.
+Leru Cut is one of the most visually dramatic dive sites in the Solomon Islands — a narrow volcanic chasm carved through Leru Island in the Russell Islands, creating a spectacular swim-through passage where sheer walls rise above on each side and the sky is reduced to a thin strip of light far overhead.
+
+**Note (2026-09-18): This site's coordinates were previously corrected from the Florida Islands to "Eastern Russell Islands," but the actual longitude value (160.25°E) was left unchanged and still fell in the Florida Islands range. Leru Island is documented as lying just north of Pavuvu Island (~9.07°S, 159.12°E) in the Russell Islands; coordinates have now been corrected to ~159.1°E. Precise GPS for Leru Island itself was not found in any source consulted.**
 
 ## Overview
 
@@ -21,7 +23,7 @@ Despite being listed under cave-type diving, Leru Cut is technically a canyon or
 
 ## Site Information
 
-- **Location**: Leru Island, Eastern Russell Islands, Solomon Islands (not Florida Islands)
+- **Location**: Leru Island, Russell Islands, Solomon Islands (north of Pavuvu Island)
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
@@ -59,4 +61,4 @@ Leru Cut is an overhead environment in the sense that open-sky ascent is not alw
 Leru Cut is among the most photographed dive sites in the Solomons. Wide-angle photography looking upward from the base of the chasm — with the narrow strip of sky visible far above and light shafts cutting down through the water — produces genuinely striking images. A fisheye or ultra-wide lens captures the towering wall perspective. Video of the light shafts in motion is exceptional. Macro photographers will find sponges, ascidians, and crinoids in unusual colour forms on close inspection of the walls.
 
 ---
-*Sources: [Bilikiki Cruises - Dive Sites](https://www.bilikiki.com/about/dive-sites), [Dive the World - Solomon Islands](https://www.dive-the-world.com/diving-sites-solomon-islands.php), [Bluewater Dive Travel - Solomon Islands](https://www.bluewaterdivetravel.com/destination/solomon-islands-diving), [PADI - Diving in Solomon Islands](https://www.padi.com/diving-in/solomon-islands/), [Visit Solomons Dive Guide](https://www.visitsolomons.com.sb/wp-content/uploads/2023/11/Dive-Guide-Nov-10-2023-Digital.pdf). Last updated 2026-06-30.*
+*Sources: [Bilikiki Cruises - Dive Sites](https://www.bilikiki.com/about/dive-sites), [DivePlanIt - Leru Cut](https://www.diveplanit.com/dive-site/leru-cut/), [Dive the World - Solomon Islands](https://www.dive-the-world.com/diving-sites-solomon-islands.php), [Bluewater Dive Travel - Solomon Islands](https://www.bluewaterdivetravel.com/destination/solomon-islands-diving), [PADI - Diving in Solomon Islands](https://www.padi.com/diving-in/solomon-islands/). Last updated 2026-09-18.*

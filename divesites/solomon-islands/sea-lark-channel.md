@@ -34,7 +34,7 @@ Visibility is typically around 25 metres. Currents can reach 2 knots or more, pa
 
 ## Marine Life
 
-The current-swept reef supports large gorgonian sea fans that are a defining feature of this site. Hump-headed (Napoleon) wrasse are regularly seen along the reef edge. The nutrient-rich current attracts schooling fish and reef predators to the channel.
+The current-swept reef supports large gorgonian sea fans and feather-stars, a defining feature of this site. At least one hump-headed (Napoleon) wrasse has been reported along the reef edge. **Correction (2026-09-18):** McFadyen, the primary source for this site, explicitly notes that "fishlife is not overly prolific" here despite the impressive coral and current — the previous claim that current "attracts schooling fish and reef predators" was an overstatement and has been removed.
 
 ## Dive Profile
 
@@ -45,7 +45,7 @@ Enter the water upstream on the incoming tide and drift along the reef wall. The
 - Timing is critical -- this dive must be done on the incoming tide for the best current and conditions
 - Carry a reef hook if you want to pause at features along the wall; the current can be strong
 - The gorgonian sea fans are the photographic highlight -- wide-angle with natural light works well
-- Keep an eye on the blue water beyond the reef edge for passing pelagics
+- Come for the coral and current experience rather than expecting heavy fish life — sources note fish life here is modest despite the scenery
 - An SMB is essential for the boat to track your position during the drift
 
 ## Safety Considerations
@@ -53,4 +53,4 @@ Enter the water upstream on the incoming tide and drift along the reef wall. The
 Currents of 2 knots or more at channel bends are not unusual -- this dive requires drift diving experience and comfort in current. Stay close to the reef wall to manage speed and avoid being swept into open water. Carry an SMB and deploy it well before your safety stop so the boat can track you. Ensure your boat crew is experienced with drift dive pickups. Do not attempt this dive on an ebbing tide or in unfamiliar current conditions.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=379), [Emperor Divers - Guadalcanal](https://www.emperordivers.com/guadalcanal-dive-sites/), [Visit Solomons Dive Guide](https://www.visitsolomons.com.sb/wp-content/uploads/2023/11/Dive-Guide-Nov-10-2023-Digital.pdf). Last updated 2026-06-30.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=379), [Emperor Divers - Guadalcanal](https://www.emperordivers.com/guadalcanal-dive-sites/), [Visit Solomons Dive Guide](https://www.visitsolomons.com.sb/wp-content/uploads/2023/11/Dive-Guide-Nov-10-2023-Digital.pdf). Last updated 2026-09-18.*

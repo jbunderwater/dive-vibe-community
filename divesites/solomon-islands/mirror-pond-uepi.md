@@ -1,9 +1,9 @@
 ---
 name: Mirror Pond Uepi
-lat: -8.35
-lng: 158.0667
-difficulty: Beginner
-maxDepth: 15
+lat: -9.08
+lng: 159.18
+difficulty: Intermediate
+maxDepth: 25
 entryType: boat
 siteType: cave
 ref: null
@@ -11,52 +11,49 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Mirror Pond Uepi
+## Mirror Pond
 
-Mirror Pond is one of the most unusual and visually captivating dive experiences in the Solomon Islands — a flooded inland formation at Uepi Island in Marovo Lagoon where a layer of fresh water floats over salt water, creating a halocline that produces a perfect mirror-like reflection of the underwater scene when viewed from below.
+Mirror Pond is a swim-through and wall dive on Mane Island in the Russell Islands — an atmospheric passage where shafts of sunlight cut through the water on the way to a sheltered surface pond ringed by the island itself.
+
+**Correction (2026-09-18): This site was previously described as a freshwater/saltwater halocline "mirror reflection" feature at Uepi Island Resort in Marovo Lagoon. That description could not be verified and is contradicted by independent sources, which place Mirror Pond on Mane Island in the Russell Islands as a swim-through/wall dive with no halocline effect. The entry below has been corrected accordingly. Precise GPS for Mane Island was not published in any source consulted, so the coordinates here are an approximate placement within the Russell Islands and should be refined by a local operator.**
 
 ## Overview
 
-Uepi Island sits within Marovo Lagoon in the Western Province, and Mirror Pond is a semi-enclosed cave or cenote-like feature on the island accessible by boat from Uepi Island Resort. The formation is filled with both fresh and salt water: rainfall and groundwater percolate through the island's limestone and collect in a lens above the denser marine water below. The boundary between the two water masses — the halocline — acts as a reflective surface, and divers hovering below it see a shimmering mirror image of themselves and the cave walls reflected back. The effect is disorienting and beautiful in equal measure, and the site is unique within the Solomons. Maximum depth is shallow at 15 meters, and conditions are completely calm, making this an exceptional beginner site.
+Mirror Pond sits on Mane Island, part of the Russell Islands group roughly 50 km northwest of Honiara. Divers swim through a narrow underwater passage — with slanting shafts of sunlight and a smaller "false cave" branching off to one side — before surfacing inside a sheltered pond enclosed by the island. The entrance is narrow enough that divers typically enter one at a time rather than as a group. Just outside the passage, a wall drops away with sea fans and surrounding reef, giving the option to extend the dive beyond the swim-through itself.
 
 ## Site Information
 
-- **Location**: Uepi Island, Marovo Lagoon, Western Province, Solomon Islands
+- **Location**: Mane Island, Russell Islands, Solomon Islands (~50 km NW of Honiara)
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 15–25 meters (below halocline); halocline itself creates visual distortion
-- **Current**: None
-- **Best Time**: Year-round; dry season (April–November) for clearest halocline
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
+- **Typical Visibility**: Excellent — reported as exceptionally clear
+- **Current**: Minimal inside the passage
+- **Best Time**: April to November
 
 ## Marine Life
 
-The enclosed, low-light environment supports specialised life different from the open-reef systems outside. Small fish adapted to the cave conditions occupy the saltwater zone, including cardinalfish and small basslets that prefer the protected darkness. The cave walls, where light penetrates from the entrance, are encrusted with sponges, tunicates, and encrusting corals in muted colours. Shrimps and small crustaceans hide in rock crevices. The freshwater lens above the halocline is generally free of marine life, but the transition zone can carry interesting invertebrate activity. The site is visited as much for the unique optical experience as for marine life density — it is not a biodiversity hotspot but an encounter of a completely different kind.
+Sources describe barracuda stationed near the passage entrance, resident anemonefish throughout, and flame angelfish on the surrounding reef. A separate operator account of the same site describes snappers and trevally hunting along the adjacent reef wall, plus crocodilefish (a camouflaged bottom-dwelling reef fish, not the reptile) and cuttlefish in the shallower coral gardens nearby. No other species are confirmed for this specific site in the sources consulted — this list is not a full regional species inventory.
 
 ## Dive Profile
 
-Divers enter the pond from the boat and descend through the freshwater lens — which may feel slightly cool compared to the surrounding Marovo Lagoon water — then pass through the halocline into the saltwater below. The transition through the halocline produces a blurring, refractive visual effect as the two water masses mix slightly at the boundary. Once below the halocline, divers turn and look upward to see the mirror surface reflecting the cave walls, the light from the entrance, and their own forms. The dive is shallow, unhurried, and meditative. Total dive time is typically 45–60 minutes including extended time hovering near the halocline to experience the reflection. The cave is open enough that disorientation is not a risk.
+The dive centres on the swim-through itself: divers enter the passage, pass beneath the shafts of light (and the smaller false cave to one side), and surface inside the enclosed pond. From there, divers can also explore the adjacent wall and surrounding reef before returning to the boat pickup point. Because the passage entrance is narrow, divers generally go through individually rather than in a group, which also makes for an unhurried, uncrowded experience of the light and scenery.
 
 ## Entry and Exit
 
-Accessed by boat from Uepi Island Resort, which is the primary base for diving in this part of Marovo Lagoon. The pond entrance is navigated by small boat or kayak, with divers entering the water inside the formation. Exit is back through the entrance the same way. Conditions are completely sheltered.
+Accessed by boat, typically from a liveaboard operating in the Russell Islands (e.g. MV Bilikiki or Solomons Master) or a Honiara-based operator making the crossing. Entry and exit are both through the passage; take turns rather than entering as a group given the narrow opening.
 
 ## Tips and Recommendations
 
-- Hover below the halocline and look directly upward for the full mirror effect — this is the defining experience of the site
-- The halocline is most pronounced and visually dramatic after dry periods when the freshwater layer is thicker and more distinct
-- Torch or video light can enhance the visibility of cave wall details but is not essential for the halocline experience
-- Buoyancy control is key — fin movement near the halocline disturbs the boundary and reduces the mirror effect
-- Visit Uepi Island primarily — it is one of the best resort dive operations in the Solomons, with the surrounding Marovo Lagoon offering outstanding reef diving alongside this unique experience
+- Enter the passage one diver at a time — it's both easier and more enjoyable to experience the light shafts without a group ahead of you
+- The adjacent wall is worth extending the dive for if time and air allow
+- A wide-angle setup suits both the swim-through light shafts and the wall
+- This is a liveaboard/cruise-accessible site — confirm with your operator whether it's on their current itinerary
 
 ## Safety Considerations
 
-Mirror Pond is one of the safest dive sites in the Solomon Islands. There is no current, the depth is shallow, and the cave entrance remains visible throughout the dive. The primary consideration is buoyancy near the halocline — excessive disturbance mixes the water masses and diminishes the visual effect rather than creating any safety hazard. Standard beginner dive protocols apply. Divers should note that the fresh water lens will taste different and feel slightly cooler, which can be surprising on first entry. Always dive with a buddy.
-
-## Photography
-
-Mirror Pond is an exceptional and unusual photographic subject. The mirror surface of the halocline, with the cave walls and any divers reflected perfectly in the silver plane, produces images that are difficult to describe and impossible to achieve anywhere else in the Solomon Islands. A wide-angle lens captures the full curve of the reflection. Video through the halocline, showing the visual distortion of the boundary layer in motion, is mesmerising. Torch-lit photography of the encrusted cave walls adds texture and colour to complement the halocline shots. Dive computers and gauges reflected in the mirror surface make striking compositional elements.
+The passage is a genuine overhead environment for part of the dive — divers should be comfortable in enclosed spaces and maintain good buoyancy to avoid disturbing silt or contacting the walls. The narrow entrance means groups should transit individually to avoid congestion. Always dive with a guide familiar with the site and carry a light for the passage sections.
 
 ---
-*Sources: [Uepi Island Resort - Diving](https://www.uepi.com/diving), [Dive the World - Solomon Islands](https://www.dive-the-world.com/diving-sites-solomon-islands.php), [Bluewater Dive Travel - Solomon Islands](https://www.bluewaterdivetravel.com/destination/solomon-islands-diving). Last updated 2026-06-30.*
+*Sources: [DivePlanIt - Mirror Pond](https://www.diveplanit.com/dive-site/mirror-pond/), [Bilikiki Cruises - Dive Sites](https://www.bilikiki.com/about/dive-sites), [LiveAboard.com - Russell Islands](https://www.liveaboard.com/diving/solomon-islands/russel-islands). Last updated 2026-09-18.*

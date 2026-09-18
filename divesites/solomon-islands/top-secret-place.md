@@ -53,4 +53,4 @@ Descend along the wall, which drops away steeply to more than 60 metres. The exc
 The wall drops more than 60 metres, and the exceptional visibility can create a "blue water" sensation that draws divers deeper than planned. Set a maximum depth before the dive and stick to it. Current in Ferguson Passage can be strong and unpredictable. Carry an SMB for mid-water ascents. Sea snakes are venomous but rarely aggressive -- give them space. This is an exposed oceanic site and conditions can change rapidly.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=397), [DiveGizo - Dive Sites](https://www.divegizo.com/dive-sites/), [Bluewater Dive Travel - Solomon Islands](https://www.bluewaterdivetravel.com/destination/solomon-islands-diving). Last updated 2026-06-30.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=397), [DiveGizo - Dive Sites](https://www.divegizo.com/dive-sites/), [Bluewater Dive Travel - Solomon Islands](https://www.bluewaterdivetravel.com/destination/solomon-islands-diving). Last updated 2026-09-18.*

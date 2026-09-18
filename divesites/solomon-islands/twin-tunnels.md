@@ -34,7 +34,7 @@ The surrounding reef attracts significant marine life. Whitetip and grey reef sh
 
 ## Marine Life
 
-Whitetip reef sharks and grey reef sharks are regular visitors to the reef walls and tunnels. Huge schools of fusiliers and rainbow runners patrol above the reef top, concentrated by the current. The cave at the 35-metre junction of the two tunnels harbours crayfish. The reef structure rising from 60+ metres creates a rich habitat that attracts both resident and pelagic species.
+Whitetip reef sharks and grey reef sharks are regular visitors to the reef walls and tunnels. Huge schools of fusiliers and rainbow runners patrol above the reef top, concentrated by the current. The cave at the 35-metre junction of the two tunnels harbours crayfish. Barrel sponges line the reef walls, and a small group of unusually approachable clown triggerfish has been reported at the site.
 
 ## Dive Profile
 
@@ -54,4 +54,4 @@ Strong current is possible at this exposed reef site. The tunnels create an over
 
 ---
 *Note: The location reference to "Soghonangola Island" and "Bayldon Shoals" comes from McFadyen's documentation; these place names could not be independently verified in publicly available geographic sources. The site is within the Florida Islands group, near Tulagi. "Bayldon Shoals" may be an informal local name for this reef feature.*
-*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=387), [Bilikiki Cruises - Dive Sites](https://www.bilikiki.com/about/dive-sites), [Visit Solomons Dive Guide](https://www.visitsolomons.com.sb/wp-content/uploads/2023/11/Dive-Guide-Nov-10-2023-Digital.pdf). Last updated 2026-06-30.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=387), [Bilikiki Cruises - Dive Sites](https://www.bilikiki.com/about/dive-sites), [Visit Solomons Dive Guide](https://www.visitsolomons.com.sb/wp-content/uploads/2023/11/Dive-Guide-Nov-10-2023-Digital.pdf). Last updated 2026-09-18.*

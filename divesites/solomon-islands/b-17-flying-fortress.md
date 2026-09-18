@@ -19,9 +19,9 @@ A Boeing B-17E Flying Fortress bomber -- serial number 41-2420, nicknamed "Bessi
 
 On 24 September 1942, this B-17E ditched in the water near shore while returning from a bombing mission over the Shortland Islands. The site lies approximately 19 kilometres (12 miles) east of Henderson Airfield, near the village of Ndomo (also spelled Domo, or Doma Cove). The plane came to rest only about 20 metres offshore, making it a straightforward shore dive.
 
-The crew of nine did not survive. The pilot (Captain Charles E. Norton) and one gunner (Sergeant Bruce Osborne) reached shore but both subsequently died. The remaining seven crew members were never found and were officially declared dead in 1946. This is a war grave.
+The crew of nine did not survive. The pilot, 1st Lt. Charles E. Norton, and gunner Sgt. Bruce W. Osborne made it to shore; Pacific Wrecks records indicate they may have been captured and executed, though the exact circumstances are not fully documented. Osborne's remains were recovered by US Navy Seabees in January 1944. The remaining seven crew members were never found and the whole crew was officially declared dead on 7 January 1946. This is a war grave.
 
-The aircraft is remarkably well preserved. The fuselage, wings, engines, and propellers remain mostly intact on the sandy bottom. Sections of the rear fuselage and tail were salvaged by US Navy Seabees in 1944, so the tail assembly is missing. The port wing rests at approximately 17 metres depth while the starboard wing is shallower at around 9 metres, giving the wreck a slight tilt on the seabed.
+The aircraft is remarkably well preserved. The fuselage, wings, engines, and propellers remain mostly intact on the sandy bottom. One source states the rear fuselage and tail were salvaged by US Navy Seabees in 1944 (not independently re-confirmed this pass, so treat as a single-source detail). The port wing rests at approximately 17 metres depth while the starboard wing is shallower at around 9 metres, giving the wreck a slight tilt on the seabed. The ball turret sits detached on the sand beneath the fuselage, and the fuselage is penetrable through the radio compartment into the bomb bay for divers with appropriate training.
 
 ## Site Information
 
@@ -51,4 +51,4 @@ Enter from the shore near Ndomo village. The aircraft lies only about 20 metres 
 This is a war grave and the final resting place of crew members who were never recovered — do not remove any artefacts or disturb the site. The shallow depth and shore access make this one of the safest wreck dives in the Solomon Islands from a diving standpoint. Be mindful of boat traffic in the area. The wreck structure may have sharp edges from corrosion — maintain good buoyancy control and avoid contact with the airframe.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=380), [Emperor Divers - B-17 Wreck](https://www.emperordivers.com/b-17-flying-fortress-wreck-guadalcanal/), [Pacific Wrecks - B-17E 41-2420](https://pacificwrecks.com/aircraft/b-17/41-2420.html). Last updated 2026-06-30.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=380), [Emperor Divers - B-17 Wreck](https://www.emperordivers.com/b-17-flying-fortress-wreck-guadalcanal/), [Pacific Wrecks - B-17E 41-2420 crew record](https://pacificwrecks.com/aircraft/b-17/41-2420/crew/charles-norton.html). Last updated 2026-09-18.*

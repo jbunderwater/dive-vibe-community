@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Devil's Highway
 
-Devil's Highway is one of the most exhilarating drift dives in the Solomon Islands — a narrow, current-scoured channel between islands that funnels oceanic water with enough force to send divers flying past coral outcrops, sharks, and eagle rays at remarkable speed. It earns its name.
+Devil's Highway is widely described as the best place in the Solomon Islands to dive with manta rays — a narrow, current-scoured channel near Maravagi Bay in the Florida Islands where divers hook onto the reef and watch mantas feed in formation, sometimes a dozen at a time, as strong tidal current pours through.
+
+**Note (2026-09-18): Earlier markdown for this site omitted manta rays entirely and led with sharks. Independent travel-industry sources (Master Liveaboards, PADI Travel) consistently identify mantas as the headline species here; this revision restores them.**
 
 ## Overview
 
-The site is a passage between islands in the Florida Islands or surrounding area northeast of Honiara, where tidal exchange concentrates current through a relatively confined channel. Depending on tidal state, the drift can range from brisk and manageable to genuinely fast-moving, which is why this site is firmly in the Advanced category. The reward for the adrenaline is outstanding pelagic action — grey reef sharks patrol the channel walls, eagle rays glide through mid-water, and the compressed current draws schooling fish life that in turn attracts larger predators.
+The site is a passage between islands in the Florida Islands, near Maravagi Bay northeast of Honiara, where tidal exchange concentrates current through a relatively confined channel. Current can run at 8–10 knots at peak flow, which is why this site is firmly in the Advanced category and is not run on every trip — timing depends on tide, moon phase, and weather. Divers typically hook onto the reef to hold position and watch manta rays feed in the nutrient-rich current, sometimes in groups of up to a dozen. Grey reef sharks and other pelagics are also reported here, though the manta encounters are the site's defining draw. At the end of the dive, divers release their hook and let the current carry them back toward Maravagi Bay for pickup.
 
 ## Site Information
 
@@ -27,16 +29,16 @@ The site is a passage between islands in the Florida Islands or surrounding area
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20–40 meters
-- **Current**: Strong (tidal-dependent, can be very fast)
-- **Best Time**: April to November; dive on the correct tidal window
+- **Current**: Strong (tidal-dependent, reported at 8–10 knots at peak flow)
+- **Best Time**: April to November; dive on the correct tidal window — not run every trip
 
 ## Marine Life
 
-Grey reef sharks are the signature species here, regularly encountered cruising the current-swept channel walls in numbers. Eagle rays soar through in mid-water, using the current to their advantage. Schools of barracuda hang in formation facing into the flow, and big-eye trevally are commonly massed in dense, swirling balls on the down-current side of coral outcrops. Whitetip reef sharks are occasionally encountered resting on the bottom in calmer eddies at the channel edges. The coral outcrops on the channel walls, battered by constant current, support sea fans, whip corals, and crinoids that have adapted to the high-flow environment.
+Manta rays are the signature encounter at Devil's Highway — travel-industry sources report groups of up to a dozen mantas feeding in the current, making this one of the most reliable manta sites in the Solomons. Grey reef sharks and other pelagics are also reported patrolling the channel. Beyond mantas and sharks, no other species are confirmed for this specific site in the sources consulted; avoid assuming the full range of Florida Islands reef fish is present here without local confirmation.
 
 ## Dive Profile
 
-Timing the dive to the correct tidal window is essential — local dive guides know the precise entry time for the best current speed and direction. Divers enter up-current and are carried along the channel, maintaining depth by angling slightly into the current and using the reef wall as a reference. Most of the action occurs in the 15–25 meter range. The boat follows divers' bubbles or a surface marker and picks up the group at the end of the drift. Bottom time is partly dictated by the speed of the drift — fast days produce short dives that feel like an underwater roller-coaster.
+Timing the dive to the correct tidal window is essential — local dive guides know the precise entry time for the best current speed and direction. Divers typically hook onto the reef in the channel and hold position to watch manta rays feed in the current, rather than drifting the entire time. Most of the action occurs in the 15–25 meter range. When ready to end the dive, release the hook and let the current carry you back toward Maravagi Bay, where the boat picks up the group. Bottom time is partly dictated by the speed of the drift — fast days produce short dives that feel like an underwater roller-coaster.
 
 ## Entry and Exit
 
@@ -56,7 +58,7 @@ This site is for Advanced divers only due to the strength and unpredictability o
 
 ## Photography
 
-Fast drift photography is challenging but rewarding. A wide-angle lens captures the shark and ray encounters that define this dive, and the sweeping compositions available in strong current — sharks banking against the current, rays gliding overhead — are difficult to achieve in calmer conditions. Autofocus is essential. Video divers will find the site produces cinematic footage even with basic equipment. Secure all lens caps and accessories before entry.
+Fast drift photography is challenging but rewarding. A wide-angle lens is essential for the manta encounters that define this dive — mantas feeding in formation against the current make for the site's signature images. Autofocus is essential given the current and the movement of both diver and subject. Video divers will find the site produces cinematic footage even with basic equipment. Secure all lens caps and accessories before entry.
 
 ---
-*Sources: [Bilikiki Cruises - Dive Sites](https://www.bilikiki.com/about/dive-sites), [Visit Solomons Dive Guide](https://www.visitsolomons.com.sb/wp-content/uploads/2023/11/Dive-Guide-Nov-10-2023-Digital.pdf), [Bluewater Dive Travel - Solomon Islands](https://www.bluewaterdivetravel.com/destination/solomon-islands-diving). Last updated 2026-06-30.*
+*Sources: [Master Liveaboards - Best Dive Sites in Solomon Islands](https://masterliveaboards.com/best-dive-sites-in-solomon-islands/), [PADI Travel - Solomon Islands Diving](https://blog.padi.com/solomon-islands-diving/), [Bilikiki Cruises - Dive Sites](https://www.bilikiki.com/about/dive-sites). Last updated 2026-09-18.*

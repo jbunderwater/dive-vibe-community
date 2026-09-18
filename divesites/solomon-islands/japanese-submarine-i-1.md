@@ -19,7 +19,7 @@ The wreck of a Junsen Type 1 cruiser submarine -- 319 feet long and displacing 2
 
 In January 1943, the Japanese submarine I-1 was rammed three times by the New Zealand corvette HMNZS Kiwi in Kamimbo Bay during a resupply mission to Guadalcanal. The submarine sank in relatively shallow water. After the war, salvage operations destroyed the front third of the hull, but the remaining aft two-thirds section is remarkably intact.
 
-The surviving section includes the dive planes, rudder, and propeller, all clearly identifiable. The interior is penetrable in places, though this requires proper wreck penetration training and equipment. The wreck spans a depth range of 5 to 30 metres, with the shallowest sections encrusted in coral growth and the deeper stern areas well preserved.
+The surviving section includes the dive planes, rudder, and propeller, all clearly identifiable. The interior is penetrable in places, though this requires proper wreck penetration training and equipment. Depth figures vary slightly by source: McFadyen gives bow ~5m/stern ~30m, a third travel-press source gives top ~10m/stern ~25m, and Wikipedia states the bow sits at approximately 14m — treat 5-14m (shallow) and 25-30m (stern) as the reported ranges rather than exact figures.
 
 ## Site Information
 
@@ -49,4 +49,4 @@ Descend to the wreck and orient yourself at the break point where the forward se
 This is a war grave -- do not disturb or remove any artefacts. The broken forward section has sharp, corroded edges. Interior penetration should only be attempted by divers with proper wreck training and equipment. Maintain good buoyancy control to avoid disturbing silt inside the hull. The depth range of 5-30 metres makes gas management straightforward, but plan your deeper exploration first while air supply is full.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=373), [Pacific Wrecks - I-1](https://pacificwrecks.com/ships/submarine/i-1/), [Emperor Divers - Guadalcanal](https://www.emperordivers.com/guadalcanal-dive-sites/). Last updated 2026-06-30.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=373), [Pacific Wrecks - I-1](https://pacificwrecks.com/ships/submarine/i-1/), [Emperor Divers - Guadalcanal](https://www.emperordivers.com/guadalcanal-dive-sites/). Last updated 2026-09-18.*

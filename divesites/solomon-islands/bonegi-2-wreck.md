@@ -32,7 +32,7 @@ The Kinugawa Maru was beached on 15 November 1942, the same day as the Hirokawa 
 
 ## Marine Life
 
-The Kinugawa Maru's broken structure has been colonised by dense hard and soft corals, creating a habitat that attracts a wide variety of reef fish. Schools of anthias and chromis hover above the encrusted steel, while lionfish and scorpionfish lurk in the shadows of the hull plating. Anemones with resident clownfish are scattered across the shallower sections. Nudibranchs and flatworms are frequently found on slow sweeps of the hull, and small octopuses take up residence in gaps in the structure. Whitetip reef sharks occasionally pass through at depth.
+**Updated 2026-09-18 (re-audit):** the previous list included several species not confirmed by any source consulted for this wreck; it has been replaced with DivePlanIt and McFadyen's reported species. Round and longfin batfish are a characteristic sighting, along with lionfish sheltering in the hull's shadows. Several anemonefish variants live in the wreck's anemones, including spinecheek anemonefish, western clown anemonefish, and a local dark-red clownfish variant. The broken structure is heavily colonised by whip coral, hard coral, gorgonians, soft corals, sea fans, and balloon corallimorphs, with cock's-comb oysters attached to the plating.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ Currents at this site are minimal and conditions are generally benign, making it
 
 ## Photography
 
-The combination of encrusted steel and natural light makes for appealing wide-angle shots along the hull. The shallower sections in 5–10 meters are particularly well-lit and ideal for natural-light photography without a strobe. Macro photographers will find nudibranchs, flatworms, and decorator crabs throughout the hull plating. A 60mm or 100mm macro lens rewards patience here.
+The combination of encrusted steel and natural light makes for appealing wide-angle shots along the hull. The shallower sections in 5–10 meters are particularly well-lit and ideal for natural-light photography without a strobe. Macro photographers will find anemonefish, balloon corallimorphs, and cock's-comb oysters throughout the hull plating. A 60mm or 100mm macro lens rewards patience here.
 
 ---
-*Sources: [Wikipedia - Kinugawa Maru](https://en.wikipedia.org/wiki/Kinugawa_Maru), [Michael McFadyen's Scuba](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=375), [DivePlanIt - Kinugawa Maru](https://www.diveplanit.com/dive-site/kinugawa-maru-bonegi-2/). Last updated 2026-06-30.*
+*Sources: [Wikipedia - Kinugawa Maru](https://en.wikipedia.org/wiki/Kinugawa_Maru), [Michael McFadyen's Scuba](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=375), [DivePlanIt - Kinugawa Maru](https://www.diveplanit.com/dive-site/kinugawa-maru-bonegi-2/). Last updated 2026-09-18.*

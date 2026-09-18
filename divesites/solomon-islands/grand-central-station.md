@@ -53,4 +53,4 @@ Descend to the reef and position yourself to observe the passing marine life. In
 Strong current is part of the appeal but demands respect. Carry an SMB and be prepared for a mid-water safety stop if current carries you off the reef. Stay close to the reef structure for shelter from the strongest flow. Titan triggerfish can be aggressive when nesting -- maintain distance from obvious nesting areas on the reef. The 30-35 metre depth requires good gas management, especially when exertion from current increases air consumption.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=395), [DiveGizo - Dive Sites](https://www.divegizo.com/dive-sites/), [Bluewater Dive Travel - Solomon Islands](https://www.bluewaterdivetravel.com/destination/solomon-islands-diving). Last updated 2026-06-30.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=395), [DiveGizo - Dive Sites](https://www.divegizo.com/dive-sites/), [Bluewater Dive Travel - Solomon Islands](https://www.bluewaterdivetravel.com/destination/solomon-islands-diving). Last updated 2026-09-18.*

@@ -32,7 +32,7 @@ The Hirokawa Maru lies on her port side with bow sections beginning in approxima
 
 ## Marine Life
 
-The Hirokawa Maru hosts an impressive resident population of glassy sweepers, batfish, and lionfish that hover in the corridors and hold openings. The coral-encrusted deck and railings attract schooling anthias and butterflyfish, while Napoleon wrasse and sea turtles are regularly seen patrolling the hull. Whitetip reef sharks rest on the sandy bottom near the stern. The shallow bow sections, lit by sun streaming through the surface, support dense anemone fields and clownfish colonies. Scorpionfish and frogfish hide in the encrusted steel, rewarding patient observers.
+**Updated 2026-09-18 (re-audit):** the previous list included several species not confirmed by any source consulted for this specific wreck; it has been replaced with species that McFadyen and DivePlanIt both report here. Batfish, lionfish, and butterflyfish are present around the hull, along with snapper, sweetlips, basslets, and fusiliers. A cleaning station in the shallows at around 5 meters draws damselfish and yellow pullers. Clownfish shelter in anemones on the coral-encrusted deck and railings, and giant trevally patrol the open water alongside the hull. Nudibranchs, crabs, shrimp, and cuttlefish are found on close inspection of the encrusted steel, and the wreck is heavily overgrown with gorgonian sea fans and sponges.
 
 ## Dive Profile
 
@@ -57,7 +57,7 @@ Currents are generally mild at this site, which contributes to its accessibility
 
 ## Photography
 
-The Hirokawa Maru is one of the most photogenic wrecks in the Pacific. The shallow bow sections provide stunning natural-light wide-angle shots, with the silhouette of the hull rising toward the surface. The coral-encrusted railings and anchor chain offer beautiful foreground detail. In the holds, a torch reveals vivid color on the encrusted walls. Macro photographers should search slowly along the hull plating for frogfish, nudibranchs, and decorator crabs.
+The Hirokawa Maru is one of the most photogenic wrecks in the Pacific. The shallow bow sections provide stunning natural-light wide-angle shots, with the silhouette of the hull rising toward the surface. The coral-encrusted railings and anchor chain offer beautiful foreground detail. In the holds, a torch reveals vivid color on the encrusted walls. Macro photographers should search slowly along the hull plating for nudibranchs, crabs, and shrimp.
 
 ---
-*Sources: [Michael McFadyen's Scuba - Hirokawa Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=374), [DivePlanIt - Hirokawa Maru](https://www.diveplanit.com/dive-site/hirokawa-maru-bonegi-1/), [Wannadive - Hirokawa Maru](https://www.wannadive.net/spot/Australia_Pacific/Solomon/Guadalcanal_island/Hirokawa_Maru_-_Bonegi_1/). Last updated 2026-06-30.*
+*Sources: [Michael McFadyen's Scuba - Hirokawa Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=374), [DivePlanIt - Hirokawa Maru](https://www.diveplanit.com/dive-site/hirokawa-maru-bonegi-1/), [Wannadive - Hirokawa Maru](https://www.wannadive.net/spot/Australia_Pacific/Solomon/Guadalcanal_island/Hirokawa_Maru_-_Bonegi_1/). Last updated 2026-09-18.*
