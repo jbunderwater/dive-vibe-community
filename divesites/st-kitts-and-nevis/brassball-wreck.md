@@ -32,4 +32,4 @@ The Brassball Wreck lies in less than 25 feet (about 8 metres) of water, making 
 No site-specific marine life reports were found for the Brassball Wreck. Divers should expect the encrusting sponge and coral growth typical of shallow Caribbean wreck sites and small reef fish sheltering in the structure, but specific species sightings have not been documented at this exact site.
 
 ---
-*Sources: [Active Caribbean Travel - St Kitts & Nevis Diving](https://activecaribbeantravel.com/st-kitts-diving-nevis-diving/). Only one independently verifiable source was found despite an extensive search — My St Kitts Dive Buddy, Pro Divers St Kitts, PADI, Dive Nevis, and Dive Training Magazine were checked directly and do not document this wreck by name. Last updated 2026-07-03.*
+*Sources: [Active Caribbean Travel - St Kitts & Nevis Diving](https://activecaribbeantravel.com/st-kitts-diving-nevis-diving/). Only one independently verifiable source was found despite an extensive search — My St Kitts Dive Buddy, Pro Divers St Kitts, PADI, Dive Nevis, and Dive Training Magazine were checked directly and do not document this wreck by name. Last updated 2026-09-25.*
