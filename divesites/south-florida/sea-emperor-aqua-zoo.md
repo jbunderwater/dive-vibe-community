@@ -55,4 +55,4 @@ Boat dive only, run by Boca Raton-area charters.
 - Depth and any current should be confirmed with your operator before the dive.
 
 ---
-*Sources: [Florida Scuba Diving — The Sea Emperor Wreck](https://www.florida-scubadiving.com/the-sea-emperor-wreck-boca-raton-florida/), [South Florida Diving Headquarters — Sea Emperor](https://www.southfloridadiving.com/dive-sites/wreck-dive-sites/sea-emperor/), [ScubaBoard](https://scubaboard.com/). Last updated 2026-09-25.*
+*Sources: [Florida Scuba Diving — The Sea Emperor Wreck](https://www.florida-scubadiving.com/the-sea-emperor-wreck-boca-raton-florida/), [South Florida Diving Headquarters — Sea Emperor](https://www.southfloridadiving.com/dive-sites/wreck-dive-sites/sea-emperor/), [ScubaBoard — Video: Aqua Zoo Dive in Excellent Visibility](https://scubaboard.com/community/threads/video-aqua-zoo-dive-in-excellent-visibility.490114/). Last updated 2026-09-25.*

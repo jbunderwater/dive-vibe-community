@@ -53,4 +53,4 @@ Boat dive only, typically combined with the adjacent Ancient Mariner on the same
 - Interior spaces on small tugs like this can have sharp, corroded edges and limited room to maneuver — avoid entering without appropriate training.
 
 ---
-*Sources: [South Florida Diving Headquarters — Berry Patch Tug](https://www.southfloridadiving.com/dive-sites/wreck-dive-sites/berry-patch-tug/), [Scuba South Florida](https://www.southfloridadiving.com/), [Sea Experience — South Florida Wrecks](https://seaxp.com/south-florida-wrecks/). Last updated 2026-09-25.*
+*Sources: [South Florida Diving Headquarters — Berry Patch Tug](https://www.southfloridadiving.com/dive-sites/wreck-dive-sites/berry-patch-tug/), [Scuba South Florida — The Berry Patch](http://scubasouthflorida.com/2016/09/13/the-berry-patch/), [Florida Scuba Diving — The Berry Patch Tug](https://www.florida-scubadiving.com/the-berry-patch-tug-pompano-beach/). Last updated 2026-09-25.*
