@@ -15,7 +15,7 @@ addedBy: osm_import
 
 Rocky pinnacle formations in the southern Neptune Islands group, consistent with the area's steeply dropping igneous seabed.
 
-> **QA Note (2026-05-17):** No independent source confirms "South Neptune Pinnacles" as a named dive site with specific characteristics. Wikipedia confirms the South Neptune Islands' seabed drops steeply to 80 meters within 1.5–2 km of the islands, consistent with pinnacle diving habitat. No operator website or dive report names or describes this specific site. Description below uses regional geology and Neptune Islands diving conditions as a baseline.
+> **QA Note (re-checked 2026-09-25, originally 2026-05-17):** No independent source confirms "South Neptune Pinnacles" as a named dive site with specific characteristics. Wikipedia confirms the South Neptune Islands' seabed drops steeply to 80 meters within 1.5–2 km of the islands, consistent with pinnacle diving habitat. A fresh search of operator websites and dive databases turned up no site by this name. Description below uses regional geology and Neptune Islands diving conditions as a baseline.
 
 ## Overview
 
@@ -61,4 +61,4 @@ PADI Advanced Open Water certification or equivalent recommended for any open-wa
 Advanced deep pinnacle diving requires strong current management, precise buoyancy control, and excellent situational awareness. Variable currents demand flexible dive planning and current reading skills. Cold water (14-22°C) necessitates proper thermal protection and energy management. Standard deep diving protocols apply: nitrogen narcosis awareness, air consumption monitoring, safety stop compliance. Always dive with experienced buddy. Verify boat crew current safety procedures and SMB deployment protocols before diving.
 
 ---
-*No site-specific sources found confirming "South Neptune Pinnacles" as a named dive site. Regional geology sourced from [Neptune Islands – Wikipedia](https://en.wikipedia.org/wiki/Neptune_Islands). General Neptune Islands conditions: [Marine Parks SA](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands), [Rodney Fox Shark Expeditions](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/). Last updated 2026-05-17.*
+*No site-specific sources found confirming "South Neptune Pinnacles" as a named dive site. Regional geology sourced from [Neptune Islands – Wikipedia](https://en.wikipedia.org/wiki/Neptune_Islands). General Neptune Islands conditions: [Marine Parks SA](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands), [Rodney Fox Shark Expeditions](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/). Re-checked 2026-09-25; still no site-specific source found.*

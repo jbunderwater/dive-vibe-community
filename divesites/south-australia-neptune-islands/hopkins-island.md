@@ -17,7 +17,7 @@ Shallow seal encounter dive site at approximately 6 meters where Australian sea 
 
 ## Overview
 
-Hopkins Island is a renowned seal encounter dive site located en route to the Neptune Islands from Port Lincoln. At approximately 6 meters depth, Australian sea lions — one of the world's rarest pinnipeds with an estimated global population of 10,000–12,000 — zoom around the kelp-covered seafloor and approach divers with curiosity. The dive is very shallow, making it accessible to most certified divers, though cold water (typically 10–20°C) requires adequate thermal protection. DAN reporters describe seal pups performing "barrel rolls and spy hops" and directly approaching photographers. Hopkins Island is a protected reserve; access is via licensed operator boat only. Snorkeling is also available alongside scuba for this site.
+Hopkins Island is a renowned seal encounter dive site located en route to the Neptune Islands from Port Lincoln. Sources report slightly different depths — DAN Alert Diver states approximately 15ft (4.6m) while PaparazSea states approximately 6m — so treat 4.6–6 meters as the range rather than a single confirmed figure. At this shallow depth, Australian sea lions — one of the world's rarest pinnipeds with an estimated global population of 10,000–12,000 — zoom around the kelp-covered seafloor and approach divers with curiosity. The dive is very shallow, making it accessible to most certified divers, though cold water (typically 10–20°C) requires adequate thermal protection. DAN reporters describe seal pups performing "barrel rolls and spy hops" and directly approaching photographers. Hopkins Island is a protected reserve; access is via licensed operator boat only. Snorkeling is also available alongside scuba for this site.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Hopkins Island is a renowned seal encounter dive site located en route to the Ne
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Depth**: Approximately 6 meters — confirmed by multiple sources as a very shallow dive
+- **Depth**: Approximately 4.6–6 meters — sources disagree slightly (DAN Alert Diver: 15ft/4.6m; PaparazSea: ~6m), but all confirm a very shallow dive
 - **Typical Visibility**: 15-20 meters (50-65 feet)
 - **Current**: Generally mild
 - **Water Temperature**: 14-22°C (57-72°F) — coldest June-August, warmest December-May
@@ -59,4 +59,4 @@ PADI Open Water certification or equivalent required. Giant stride or back roll 
 Seals are naturally inquisitive but wild animals; respect their behavior. Excellent buoyancy control essential to avoid scraping rocky substrate and to provide stable platform for seal interactions. Cold water (14-22°C) requires proper thermal protection and energy management. Maintain buddy awareness while distracted by seal encounters. Standard open water diving protocols apply: equalization, air monitoring, safety stop compliance. Always dive with a buddy. Verify current seal activity and interaction guidelines with local operators before diving.
 
 ---
-*Sources: [Rodney Fox Shark Expeditions](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [DAN Alert Diver – South Australia Great White Sharks](https://dan.org/alert-diver/article/south-australias-great-white-shark-adventure/), [Bluewater Dive Travel – South Australia 2025 Trip Recap](https://www.bluewaterdivetravel.com/article/south-australia-trip-recap-2025), [Dive in Australia – Great White Shark Experiences](https://diveinaustralia.com.au/great-white-shark-experiences/), [PaparazSea – Dive with Seals at Hopkins Island](https://www.paparazsea.com/2017/05/dive-with-seals-at-hopkins-island-south.html). Last updated 2026-05-17.*
+*Sources: [Rodney Fox Shark Expeditions](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [DAN Alert Diver – South Australia Great White Sharks](https://dan.org/alert-diver/article/south-australias-great-white-shark-adventure/), [Bluewater Dive Travel – South Australia 2025 Trip Recap](https://www.bluewaterdivetravel.com/article/south-australia-trip-recap-2025), [Dive in Australia – Great White Shark Experiences](https://diveinaustralia.com.au/great-white-shark-experiences/), [PaparazSea – Dive with Seals at Hopkins Island](https://www.paparazsea.com/2017/05/dive-with-seals-at-hopkins-island-south.html). Re-audited and last updated 2026-09-25.*

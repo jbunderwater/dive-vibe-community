@@ -29,7 +29,7 @@ Superman's Flight is a drift dive along the submerged face of Petit Piton — na
 
 ## Marine Life
 
-PADI's dive guide reports soft corals, sponges, and schools of grunts and parrotfish at this site. Southern stingrays and sea turtles are retained from prior research and remain consistent with the site's character, though they could not be independently re-fetched from a live source today. The previously listed "reef shark encounters... not consistently documented" line has been removed entirely - if a claim cannot be confirmed at this specific site, this database omits it rather than mentioning it with a hedge.
+PADI's dive guide reports soft corals, sponges, and schools of grunts and parrotfish at this site. Southern stingrays and sea turtles are retained from prior research and remain consistent with the site's character. One additional source, stolentime.com, reports that whale sharks and humpback whales "have been observed passing by" this site — this is not corroborated by any other source consulted, so it should be read as an occasional, single-source report rather than a typical sighting.
 
 ---
-*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/). Last updated 2026-07-03.*
+*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/), [StolenTime - Dive Sites in Saint Lucia](https://stolentime.com/dive-sites-in-saint-lucia-2/). Last updated 2026-09-25.*

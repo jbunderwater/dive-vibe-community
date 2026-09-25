@@ -3,7 +3,7 @@ name: Aliwal Shoal
 lat: -30.2667
 lng: 30.8333
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 27
 entryType: boat
 siteType: reef
 ref: null
@@ -17,23 +17,23 @@ One of South Africa's most celebrated shark dives, where ragged-tooth sharks con
 
 ## Overview
 
-Aliwal Shoal is a submerged fossilized sand dune approximately five kilometres off the KwaZulu-Natal coast near Umkomaas. The shoal's intricate cave systems and ledges provide critical habitat for ragged-tooth sharks (Carcharias taurus), which gather here in significant aggregations during their northward migration from June through November. Beyond the sharks, the site sits within a productive zone where the warm Agulhas Current sweeps nutrient-rich water along the dune ridges, supporting dense soft coral growth and large schooling fish populations. Visibility fluctuates with seasonal upwellings but averages 8–15 metres, with exceptional days reaching 20 metres. Water temperatures range from 19°C in winter to 26°C in summer. The shoal is also one of the few sites where oceanic blacktip sharks are reliably encountered.
+Aliwal Shoal is the remains of an ancient, fossilized sand dune (thought to date to the late Pleistocene) approximately 5 km off the KwaZulu-Natal coast near Umkomaas, and the whole shoal — reef and wrecks together — is protected as the Aliwal Shoal Marine Protected Area (126 km² when proclaimed in 1991, extended to 670 km² in 2018/2019). General reef dive sites here range from about 12m to 27m, while the shoal's two wrecks (MV Produce and SS Nebo) sit deeper. The shoal's cave and ledge systems provide resting habitat for ragged-tooth sharks (locally "raggies"), which aggregate here during their migration between roughly July and November. Water temperatures range from about 19°C in winter to 26°C in summer.
 
 ## Site Information
 
 - **Location**: KwaZulu-Natal coast, approximately 5 km off Umkomaas, South Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 8–15 meters (26–50 feet), up to 20 meters on best days
 - **Current**: Moderate; can be strong during tidal changes
 - **Water Temperature**: 19–26°C (66–79°F)
-- **Best Time**: June–November for ragged-tooth sharks; year-round for general diving
+- **Best Time**: July–November for ragged-tooth sharks; year-round for general diving
 
 ## Marine Life
 
-Aliwal Shoal is most famous for its ragged-tooth sharks, which use the cave and overhang systems as resting areas during their annual migration. Oceanic blacktip sharks are a year-round resident, and bull sharks appear seasonally. Humpback whales pass through on their northern migration between June and November and are occasionally encountered on the dive. Loggerhead and leatherback turtles are sighted regularly. The reef supports large potato bass, yellowfin tuna, giant kingfish, and dense aggregations of bream and sergeant majors. Cleaning stations attract large rays including manta rays and eagle rays. Hard and soft corals encrust the dune ridges, with sea fans and crinoids adding colour at depth.
+Aliwal Shoal is best known for its ragged-tooth sharks, present roughly July through November. Oceanic blacktip sharks are seen year-round, and tiger sharks and bull sharks are reported between November and May. Manta rays, ribbon-tail rays and spotted eagle rays are reported at a location divers call Manta Point. Potato bass and moray eels are resident reef fish, and loggerhead and leatherback turtles are seen regularly. These species are reported for Aliwal Shoal generally rather than confirmed at one specific GPS point on the reef, since the shoal is a large system with many named sub-sites.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ The surf launch at Umkomaas requires physical fitness and confidence in surge co
 Aliwal Shoal offers outstanding wide-angle shark photography. The cave systems provide dramatic backdrops for ragged-tooth shark portraits, particularly when multiple sharks rest in the same overhang. Use a wide-angle lens (10–17mm fisheye equivalent) with two strobes for balanced exposure in the low-light caves. Oceanic blacktips are fast and best photographed in the open water sections at the top of the shoal. Macro subjects including nudibranchs and cleaning shrimp can be found on the coral-encrusted walls between shark encounters.
 
 ---
-*Sources: [SCUBA Travel - Diving South Africa](https://www.scubatravel.co.uk/africa/diving-south-africa.html), [Bluewater Dive Travel - South Africa](https://www.bluewaterdivetravel.com/destination/south-africa-diving), [Coral Divers Sodwana Bay](https://coraldivers.co.za/), [PADI - Diving Sodwana Bay](https://www.padi.com/diving-in/south-africa/sodwana-bay/), [Ikelite - Aliwal Shoal Guide](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-aliwal-shoal-south-africa). Last updated 2026-04-04.*
+*Sources: [PADI - Aliwal Shoal Reef](https://www.padi.com/dive-site/south-africa/aliwal-shoal-reef/), [Wikivoyage - Diving Aliwal Shoal](https://en.wikivoyage.org/wiki/Diving_Aliwal_Shoal), [Wikipedia - Aliwal Shoal](https://en.wikipedia.org/wiki/Aliwal_Shoal), [The Very Hungry Mermaid - Aliwal Shoal Diving Guide](https://theveryhungrymermaid.com/aliwal-shoal-diving/), [Aliwal Dive Centre](https://aliwalshoal.co.za/reef-or-wreck-dive/). Last updated 2026-09-25.*

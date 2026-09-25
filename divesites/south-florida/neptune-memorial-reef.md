@@ -29,7 +29,7 @@ Unique underwater memorial reef designed as an artistic representation of the Lo
 
 ## Marine Life
 
-Divers report schools of great barracuda gathering beneath the cement arches, southern stingrays settling on the white sand between structures, and green moray eels, spiny lobsters, and crabs tucked into crevices on the columns and benches. The long-spined sea urchin (*Diadema antillarum*), once thought locally extirpated in much of the Caribbean, is found across the site. Sea turtles and eagle rays are reported as occasional visitors.
+Divers report schools of great barracuda gathering beneath the cement arches, southern stingrays settling on the white sand between structures, and green moray eels, spiny lobsters, and crabs tucked into crevices on the columns and benches. A biodiversity survey of the reef also documented bluehead wrasse, sergeant majors, pufferfish, sea urchins, and eagle rays (reported with wingspans up to ten feet) among the hundreds of species colonizing the structure. Earlier claims of sea turtle sightings and a specific long-spined sea urchin (*Diadema antillarum*) identification could not be confirmed against current sources and have been removed pending site-specific verification.
 
 ## Dive Profile
 
@@ -56,4 +56,4 @@ Boat dive only, run by Miami-area operators out of Key Biscayne, Crandon Park, a
 Wide-angle lenses suit the architectural elements — gates, columns, and the lion statues — while macro work pays off on the encrusting coral and invertebrate life colonizing the benches. Stable buoyancy is essential to avoid kicking up sand against the white bottom.
 
 ---
-*Sources: [Squalo Divers — Neptune Memorial Reef](https://www.scubadivinginmiami.com/sites/neptune-memorial-reef/), [Active Divers Association reef report](https://www.active-divers.org/local-reef-reports/neptune-memorial-reef), [Florida Scuba Diving — Neptune Memorial Reef guide](https://www.florida-scubadiving.com/neptune-memorial-reef-miami-diving-guide-tips/), [Neptune Society — Neptune Memorial Reef](https://www.neptunesociety.com/cremation-information-articles/neptune-memorial-reef). Last updated 2026-06-30.*
+*Sources: [Squalo Divers — Neptune Memorial Reef](https://www.scubadivinginmiami.com/sites/neptune-memorial-reef/), [Active Divers Association reef report](https://www.active-divers.org/local-reef-reports/neptune-memorial-reef), [Florida Scuba Diving — Neptune Memorial Reef guide](https://www.florida-scubadiving.com/neptune-memorial-reef-miami-diving-guide-tips/), [Neptune Society — Neptune Memorial Reef](https://www.neptunesociety.com/cremation-information-articles/neptune-memorial-reef), [Greater Cleveland Aquarium — Best Places to Dive: Neptune Memorial Reef](https://www.greaterclevelandaquarium.com/best-places-to-dive-neptune-memorial-reef/). Re-audited 2026-09-25: removed unconfirmed sea turtle and Diadema antillarum claims, added confirmed species from a biodiversity survey. Last updated 2026-09-25.*

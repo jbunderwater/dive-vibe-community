@@ -29,7 +29,7 @@ Scuba St. Lucia's dive-site listing describes Turtle Reef as a "crescent-shaped 
 
 ## Marine Life
 
-Hawksbill and green turtles are directly confirmed by Scuba St. Lucia's listing for this site. Parrotfish, blue chromis, damselfish, moray eels, and spiny lobsters were reported in prior research; those specific claims could not be re-fetched from a live source on this pass and are retained as carried-forward rather than freshly re-verified today.
+Hawksbill and green turtles are directly confirmed by Scuba St. Lucia's listing for this site, and independently by stolentime.com, which names this site directly and describes the same shallow-to-deep pillar-coral/barrel-sponge profile. Parrotfish, blue chromis, damselfish, moray eels, and spiny lobsters were reported in prior research; for a second consecutive audit cycle these specific claims could not be re-confirmed from a live source (they are not repeated by stolentime.com either, which only offers a vague "plenty of other creatures"), so they are flagged here as carried-forward and due for re-verification or removal on the next pass.
 
 ---
-*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/), [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/). Last updated 2026-07-03.*
+*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/), [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [StolenTime - Dive Sites in Saint Lucia](https://stolentime.com/dive-sites-in-saint-lucia-2/). Last updated 2026-09-25.*

@@ -21,7 +21,7 @@ Coral Gardens lies within St. Lucia's protected marine reserve, giving it some o
 
 ## Marine Life
 
-Dense forests of sea plumes in the shallows serve as nursery habitat for juvenile reef fish in high numbers. Sargassum triggerfish appear in the deeper sections of the site, alongside occasional barracuda. Tropical fish of many varieties move through the coral structures throughout the dive.
+Dense forests of sea plumes in the shallows serve as nursery habitat for juvenile reef fish in high numbers. Sargassum triggerfish appear in the deeper sections of the site. A newly consulted source, stolentime.com, independently confirms sargassum triggerfish and reports "large schools of barracuda" — a more specific detail than the "occasional barracuda" previously listed here. Tropical fish of many varieties move through the coral structures throughout the dive.
 
 ## Dive Profile
 
@@ -41,7 +41,7 @@ Shore entry from a beach close to the dive site, within the protected SMMA zone.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-07-03
+- **Last Updated**: 2026-09-25
 
 ---
-*Sources: [Scuba St. Lucia – Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association – Dive Sites](https://smmainc.com/dive-sites/), [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/). Re-audited 2026-07-03: Scuba St. Lucia's dive-site listing was re-fetched directly and reconfirms sargassum triggerfish in the deeper sections and dense sea plume forests serving as juvenile-fish habitat in the shallows - no corrections were needed. Last updated 2026-07-03.*
+*Sources: [Scuba St. Lucia – Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association – Dive Sites](https://smmainc.com/dive-sites/), [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [StolenTime - Dive Sites in Saint Lucia](https://stolentime.com/dive-sites-in-saint-lucia-2/). Re-audited 2026-09-25: Scuba St. Lucia's dive-site listing was re-fetched directly and reconfirms sargassum triggerfish and juvenile-fish nursery habitat; stolentime.com is a newly added source confirming the same triggerfish detail and specifying "large schools of barracuda." Last updated 2026-09-25.*

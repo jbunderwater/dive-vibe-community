@@ -19,7 +19,7 @@ Carreg dive site is a historic wreck dive in Sri Lanka, Asia.
 
 This site's coordinates (7.1759409°N, 79.7589118°E) place it off Sri Lanka's west coast north of Colombo, in the Negombo area — not near Hikkaduwa as earlier text on this page stated. No shipwreck database, dive shop wreck listing, maritime archive, or Wikipedia entry could be found that names a wreck called "Carreg" anywhere off Sri Lanka. Searches of the National Shipwreck Database of Sri Lanka's public materials, regional dive operator wreck lists (Colombo, Negombo, Kalutara/Beruwala/Wadduwa), and general shipwreck research turned up no vessel by this or a similar name. It is possible "Carreg" is a mistranscription, a locally-used nickname not documented in English-language sources, or a name introduced without a verifiable source during an earlier data-gathering pass.
 
-The exact identity and sinking history of this wreck could not be independently confirmed. Everything about vessel name, build date, tonnage, and sinking cause that might once have been implied by this page's earlier text has been removed rather than repeated, since no source could substantiate it. The `historic=wreck` / `seamark:type=wreck` tagging in the underlying map data indicates a wreck-like feature is charted at this location, but that alone does not confirm a name or history.
+The exact identity and sinking history of this wreck could not be independently confirmed. Everything about vessel name, build date, tonnage, and sinking cause that might once have been implied by this page's earlier text has been removed rather than repeated, since no source could substantiate it. The `historic=wreck` / `seamark:type=wreck` tagging in the underlying map data indicates a wreck-like feature is charted at this location, but that alone does not confirm a name or history. A follow-up re-audit cross-checked this location against known Negombo-area wreck rosters (Wreck Chief Dragon, the Taprobane wreck, and a 1945 aircraft-carrier wreck, per general Negombo dive-site listings) — none is named or aliased "Carreg," reinforcing the earlier conclusion that this name cannot currently be traced to a documented vessel.
 
 If this is in fact a real, penetrable wreck, any interior exploration requires proper wreck-diving training and equipment and carries real risk — this note is included as a precaution, not as confirmation that penetration is possible here.
 
@@ -36,4 +36,4 @@ No site-specific marine life reports could be found for this wreck. Species such
 - **Maximum Depth**: 15 meters
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-07-03.*
+*Description based on regional diving characteristics. No site-specific sources found (re-checked 2026-09-25 against divesrilanka.com and srilanka-divingtours.com Negombo wreck rosters; no match). Last updated 2026-09-25.*

@@ -29,7 +29,7 @@ Scuba St. Lucia's dive-site listing for "Anse Couchon" (an alternate spelling of
 
 ## Marine Life
 
-Scuba St. Lucia's dive-site page directly attributes seahorses, scorpionfish, and cleaner shrimp to the shallow areas of this site. This corrects a prior data error in this database where those same species were mistakenly listed under Anse Chastanet Reef, a different bay. Hawksbill turtles and flounder were reported here in prior research (smmainc.com, divesaintlucia.com); those pages could not be re-fetched directly on this pass, so those two claims are carried forward rather than freshly re-verified today.
+Scuba St. Lucia's dive-site page directly attributes seahorses, scorpionfish, and cleaner shrimp to the shallow areas of this site. A newly consulted source, divejourney.io, independently corroborates the four-pinnacle formation and its trumpetfish, filefish, and seahorses, and adds anemone crabs as a further shallow-water species. Hawksbill turtles and flounder were reported here in prior research (smmainc.com, divesaintlucia.com); those pages again returned no usable content on direct fetch today, so those two claims remain carried forward rather than freshly re-verified.
 
 ---
-*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/), [Dive Saint Lucia - Dive Sites](https://divesaintlucia.com/dive-sites/). Last updated 2026-07-03.*
+*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/), [Dive Saint Lucia - Dive Sites](https://divesaintlucia.com/dive-sites/), [DiveJourney - Anse Cochon](https://divejourney.io/dive-spots/saint-lucia-anse-cochon-s). Last updated 2026-09-25.*

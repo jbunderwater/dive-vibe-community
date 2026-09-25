@@ -29,7 +29,7 @@ The reef begins on a shallow plateau just steps from the beach, running about 1.
 
 ## Marine Life
 
-Scuba St. Lucia's dive-site page reports moray eels, parrotfish, and schools of needlefish on this reef, alongside its characteristic gorgonian fans, soft corals, and sponges. Note: seahorses, scorpionfish, and cleaner shrimp were previously listed for this site, but that description actually matches Scuba St. Lucia's separate "Anse Couchon" listing (the Pinnacles at Anse Cochon, a different bay) — those species have been moved to that site's page instead.
+Scuba St. Lucia's dive-site page reports moray eels, parrotfish, blennies, crabs, and schools of needlefish on this reef, alongside its characteristic gorgonian fans, soft corals, and sponges. Note: seahorses, scorpionfish, and cleaner shrimp were previously listed for this site, but that description actually matches Scuba St. Lucia's separate "Anse Couchon" listing (the Pinnacles at Anse Cochon, a different bay) — those species have been moved to that site's page instead. PADI's blog separately describes an unnamed, "Loch Ness Monster"-style creature nicknamed "The Thing" said to live at this site — the source itself frames this as folklore rather than a confirmed sighting, so it is not included here as marine life.
 
 ---
-*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/), [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/). Last updated 2026-07-03.*
+*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/), [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/). Last updated 2026-09-25.*

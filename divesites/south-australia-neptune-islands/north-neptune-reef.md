@@ -15,7 +15,7 @@ addedBy: osm_import
 
 Submerged cage diving area near the North Neptune Islands with great white shark encounters at depth on a kelp-covered rocky seabed.
 
-> **QA Note (2026-05-17):** No independent source confirms "North Neptune Reef" as a distinct named dive site separate from the general Neptune Islands North cage diving area. This entry may duplicate Neptune Islands North. Treat details as approximate until operator confirmation.
+> **QA Note (re-checked 2026-09-25, originally 2026-05-17):** No independent source confirms "North Neptune Reef" as a distinct named dive site separate from the general Neptune Islands North cage diving area. A fresh search of operator sites (Calypso Star's sharkcagediving.com.au), PADI's dive-site database, and ScubaDownUnder turned up no site by this name either. This entry may duplicate Neptune Islands North. Treat details as approximate until operator confirmation.
 
 ## Overview
 
@@ -27,7 +27,7 @@ North Neptune Reef is a submerged cage diving site in the northern Neptune Islan
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Depth**: 18–20 meters (sources report 18–21 meters)
+- **Depth**: 16–21 meters (general Neptune Islands submerged-cage range; sources disagree on the exact figure — see Neptune Islands South for the full source breakdown)
 - **Typical Visibility**: 15-20 meters (50-65 feet)
 - **Current**: Generally mild
 - **Water Temperature**: 14-22°C (57-72°F) — coldest June-August, warmest December-May
@@ -60,4 +60,4 @@ PADI Open Water certification or CMAS 1 Star equivalent required. Descent via ca
 Cold-water diving at 18–20 meters requires proper thermal protection. Standard deep diving protocols apply: equalization awareness, nitrogen narcosis management, air consumption monitoring, safety stop compliance. Professional operator supervision and secure cage construction prioritize diver safety. Verify operator licensing, equipment maintenance, and insurance before booking. Maintain current certifications and cold-water diving experience.
 
 ---
-*No site-specific sources found confirming "North Neptune Reef" as a distinct named dive site. General Neptune Islands conditions sourced from: [Rodney Fox Shark Expeditions](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [Neptune Islands – Wikipedia](https://en.wikipedia.org/wiki/Neptune_Islands), [Marine Parks SA](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands). Last updated 2026-05-17.*
+*No site-specific sources found confirming "North Neptune Reef" as a distinct named dive site. General Neptune Islands conditions sourced from: [Rodney Fox Shark Expeditions](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [Neptune Islands – Wikipedia](https://en.wikipedia.org/wiki/Neptune_Islands), [Marine Parks SA](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands), [Divernet – King of the Neptunes](https://divernet.com/scuba-diving/king-of-the-neptunes-cage-diving-with-great-white-sharks/). Re-checked 2026-09-25; still no site-specific source found.*

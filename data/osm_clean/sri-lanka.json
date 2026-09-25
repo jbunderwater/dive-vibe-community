@@ -20,8 +20,9 @@
       "coral_species": 156,
       "fish_species": 283,
       "validated": true,
-      "validation_source": "en.wikipedia.org,extremenomads.life,scubaboard.com,ecoteam.lk,undp.org",
-      "last_qa_date": "2026-07-03"
+      "validation_source": "en.wikipedia.org,extremenomads.life,scubaboard.com,ecoteam.lk,undp.org,tlc.lk",
+      "last_qa_date": "2026-09-25",
+      "qa_note": "Re-audited 2026-09-25: all previously cited sources re-pulled and still live (Wikipedia, ecoteam.lk, extremenomads.life independently reconfirm the 156 coral / 283 fish species figures and 1992 sanctuary declaration). Added tlc.lk as a 6th source, which confirms a specific 1998 coral bleaching event with multi-year recovery -- now cited in place of the vaguer prior 'severe historical coral loss' phrasing. tlc.lk's claim of a formal 10-buoy 'No-Go Zone' could NOT be corroborated on tlc.lk itself on re-check or any other source, and was deliberately NOT added to the markdown to avoid introducing an unsourced claim. No other factual changes; depth range and area figures reconfirmed unchanged."
     }
   },
   {
@@ -45,8 +46,8 @@
       "depth_range": "14-17m (two operator listings: 15m single reef; 14m/17m for Reef 1/Reef 2)",
       "validated": false,
       "validation_source": "",
-      "last_qa_date": "2026-07-03",
-      "qa_note": "Re-audited 2026-07-03: only 2 distinct-domain site-specific sources found (kalpitiyatours.com, scubadivingkalpitiya.com), short of the 3-source bar, so validated was downgraded from a prior true (originally sourced only to the generic tag 'web_research'). Prior 'historic spice trade / colonial shipping anchors' origin story and whale shark / named-species marine life claims were unsourced and removed from the markdown."
+      "last_qa_date": "2026-09-25",
+      "qa_note": "Re-audited 2026-09-25: still only 2 distinct-domain site-specific sources (kalpitiyatours.com, scubadivingkalpitiya.com). Additionally checked kalpitiyadiving.com, srilankatourisminfo.com, extremenomads.life, and ravana.info (blocked/403) as candidate 3rd sources -- none names an 'Anchor Point' site (extremenomads.life's Kalpitiya roster is Bar Reef/Talawila/Bulldog/Davey's/Kalpitiya Ridge/Trevally Pass/Moray Ridge; kalpitiyadiving.com instead lists a differently-named 'No Anchor Reef' at 14m, a distinct site not to be confused with this one). scubadivingkalpitiya.com returned an HTTP 500 error on this audit date; content was not re-extracted from it this round but its prior extraction stands since no contradicting source was found. Remains below the 3-source bar; validated stays false. Prior 'historic spice trade / colonial shipping anchors' origin story and whale shark / named-species marine life claims remain correctly removed."
     }
   },
   {
@@ -65,9 +66,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "unawatunadive.com,diveinsrilanka.com,tripadvisor.com",
-      "last_qa_date": "2026-07-03",
-      "qa_note": "Locally known as 'Galapita Gala' cave. Coordinates are ~150m from 'Gala pita gala dive site' in this dataset; the two entries very likely describe the same real-world boulder/cave complex (or immediately adjacent parts of it), flagged here as a probable near-duplicate rather than merged. Entry type corrected from shore to boat (10-15 min boat ride from Unawatuna dive centers per sources). Fabricated claims of glassfish, shrimp, moray eels, scorpionfish, turtles, and strong tidal cave-mouth currents removed."
+      "validation_source": "unawatunadive.com,diveinsrilanka.com,tripadvisor.com,divejourney.io",
+      "last_qa_date": "2026-09-25",
+      "qa_note": "Locally known as 'Galapita Gala' cave. Coordinates are ~150m from 'Gala pita gala dive site' in this dataset; the two entries very likely describe the same real-world boulder/cave complex (or immediately adjacent parts of it), flagged here as a probable near-duplicate rather than merged. Entry type corrected from shore to boat (10-15 min boat ride from Unawatuna dive centers per sources). Re-audited 2026-09-25: all 3 prior sources re-confirmed live and unchanged; added divejourney.io as a 4th independent source, which describes the complex as a 'boat-run Unawatuna pinnacle' (an alternate characterization to the boulder-reef/cave description used by the other operators -- noted but site_type kept as cave/reef since only one of four sources uses 'pinnacle'). Crucially, divejourney.io site-specifically names green and hawksbill turtles and scorpionfish at this exact complex -- these were previously removed for lack of a site-specific source and are now restored to the marine-life section with this citation. Glassfish, shrimp, moray eels, and strong tidal cave-mouth currents remain unconfirmed by any source and stay removed."
     }
   },
   {
@@ -86,10 +87,10 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "unawatunadive.com,diveinsrilanka.com,tripadvisor.com",
-      "last_qa_date": "2026-07-03",
-      "depth_range": "20-25m per dive-shop listings (was 18m, unsourced)",
-      "qa_note": "Confirmed real local Sinhala name ('rock on top of rock' boulder topography), not a classic fringing coral reef. Coordinates are ~150m from 'Cave dive site' in this dataset; very likely the same rock complex or an adjacent part of it, flagged as a probable near-duplicate rather than merged. Entry type corrected from shore to boat. Fabricated claims of frogfish, reliable turtle encounters, moray eels, scorpionfish, and chromis/anthias schools removed."
+      "validation_source": "unawatunadive.com,diveinsrilanka.com,tripadvisor.com,divejourney.io",
+      "last_qa_date": "2026-09-25",
+      "depth_range": "20-25m per dive-shop listings (was 18m, unsourced); divejourney.io independently gives 10-25m",
+      "qa_note": "Confirmed real local Sinhala name ('rock on top of rock' boulder topography), not a classic fringing coral reef. Coordinates are ~150m from 'Cave dive site' in this dataset; very likely the same rock complex or an adjacent part of it, flagged as a probable near-duplicate rather than merged. Entry type corrected from shore to boat. Re-audited 2026-09-25: all 3 prior sources re-confirmed live and unchanged; added divejourney.io as a 4th independent source (describes it as a 'boat-run Unawatuna pinnacle' -- noted as an alternate characterization but site_type kept as reef since 2 of 3 dive-shop sources describe boulder/rock reef topography, not a discrete pinnacle). divejourney.io site-specifically names green and hawksbill turtles and scorpionfish at this site -- previously removed for lack of a site-specific source, now restored with this citation. Frogfish and chromis/anthias schools remain unconfirmed by any source and stay removed."
     }
   },
   {
@@ -109,10 +110,10 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "archaeology.lk,padi.com,mass.cultureelerfgoed.nl",
-      "last_qa_date": "2026-07-03",
+      "validation_source": "archaeology.lk,padi.com,mass.cultureelerfgoed.nl,archive.roar.media",
+      "last_qa_date": "2026-09-25",
       "depth_range": "14m (bow) to 21m (stern); prior single value of ~22m was unsourced",
-      "qa_note": "SS Conch: 1892-built, 3,555-ton Shell tanker, W. Gray & Co, Stockton; struck rock off Akurala and broke in two carrying bulk oil cargo Novorossisk-Colombo-Madras. Sources conflict on exact sinking date (June 2 vs June 3, 1903) and the rock's exact name (Akurala/Akarta/Parsi-Passa gala) -- both conflicts stated explicitly in markdown rather than resolved by guessing. Single-source 'explosion/dynamite' claim noted as unconfirmed, not fact. 'Queen angelfish' (non-Indian-Ocean species) removed as a likely copy-paste error from aggregator blogs."
+      "qa_note": "SS Conch: 1892-built (completed by end of June 1892), 3,555-ton Shell tanker, built by W. Gray & Co, Stockton, dimensions 338.4 x 43 x 26.4 feet; struck rock off Akurala and broke in two carrying bulk oil cargo Novorossisk-Colombo-Madras. Sources conflict on exact sinking date (June 2 vs June 3, 1903) and the rock's exact name (Akurala/Akkurala/Akarta/Parsi-Passa gala) -- both conflicts stated explicitly in markdown rather than resolved by guessing. Re-audited 2026-09-25: archaeology.lk re-fetched and all figures (tonnage, dimensions, builder, date, depths) reconfirmed unchanged; it additionally states the wreck now spans roughly 100 x 35 meters across the seabed and has been 'damaged by explosions and looting over time' -- this is post-sinking salvage/looting damage, NOT a claim about the original 1903 sinking cause, and is kept clearly distinct from the still-unconfirmed single-source original 'explosion/dynamite as cause of sinking' claim. Added archive.roar.media as a 4th source, which independently corroborates only the wreck's existence/1903 date/Hikkaduwa-area location (no technical specifications) -- a weak but genuinely independent 4th corroboration. 'Queen angelfish' (non-Indian-Ocean species) remains removed as a likely copy-paste error from aggregator blogs."
     }
   },
   {
@@ -133,8 +134,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "",
-      "last_qa_date": "2026-07-03",
-      "qa_note": "Re-audited 2026-07-03: no shipwreck database, dive-shop wreck listing, maritime archive, or Wikipedia entry names a wreck called 'Carreg' anywhere off Sri Lanka despite extensive search. Coordinates place this near Negombo, not Hikkaduwa as the prior markdown claimed (also corrected). Vessel name, build date, tonnage, and sinking cause are all unverified and were removed from the markdown; only the OSM historic=wreck/seamark:type=wreck tagging supports a wreck-like feature existing here at all. Downgraded from a prior 'validated: true' that was sourced only to the generic tag 'perplexity'."
+      "last_qa_date": "2026-09-25",
+      "qa_note": "Re-audited 2026-07-03 and again 2026-09-25: no shipwreck database, dive-shop wreck listing, maritime archive, or Wikipedia entry names a wreck called 'Carreg' anywhere off Sri Lanka despite extensive search across both audits. Coordinates place this near Negombo, not Hikkaduwa as an earlier markdown draft claimed (also corrected). The 2026-09-25 re-search additionally cross-checked known Negombo-area wreck rosters (Wreck Chief Dragon, Taprobane wreck, the 1945 aircraft-carrier wreck) from divesrilanka.com and srilanka-divingtours.com -- none is named or aliased 'Carreg'. Vessel name, build date, tonnage, and sinking cause remain all unverified and stay removed from the markdown; only the OSM historic=wreck/seamark:type=wreck tagging supports a wreck-like feature existing here at all. Remains downgraded from a prior 'validated: true' that was sourced only to the generic tag 'perplexity'."
     }
   },
   {
@@ -154,8 +155,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "",
-      "last_qa_date": "2026-07-03",
-      "qa_note": "Re-audited 2026-07-03: coordinates are ~7km offshore WNW of Negombo (confirmed correct framing; a prior draft's 'near Kalutara/Beruwala/Bentota' correction was itself wrong and has been rejected). Name closely resembles 'Goda Maha Gala', named in Negombo operator site rosters, and a third-party database lists a 'Maha Gala' ~7.6km away -- plausibly related but not confirmed as the same site. Entry type corrected from shore to boat (Negombo-area sites are consistently boat dives several km offshore). Fabricated claims of hard corals, sea fans, lionfish, scorpionfish, wrasse, reliable turtles, and reef octopus removed. Downgraded from a prior 'validated: true' sourced only to the generic tag 'perplexity'."
+      "last_qa_date": "2026-09-25",
+      "qa_note": "Re-audited 2026-07-03 and again 2026-09-25: coordinates are ~7km offshore WNW of Negombo (confirmed correct framing; a prior draft's 'near Kalutara/Beruwala/Bentota' correction was itself wrong and has been rejected). Name closely resembles 'Goda Maha Gala', named in Negombo operator site rosters, and a third-party database lists a 'Maha Gala' ~7.6km away -- plausibly related but not confirmed as the same site. The 2026-09-25 re-search found a further complication: PADI's dive-site listing for a similarly-named 'Goda Gala' (padi.com/dive-site/sri-lanka/goda-gala/) places THAT site at 6.075N 80.10355E, near Hikkaduwa -- over 130km south of these coordinates and clearly a different site entirely, confirming this name (and close variants) is reused for multiple, unrelated dive sites around Sri Lanka. This reinforces rather than resolves the identity uncertainty, so validated stays false. Entry type corrected from shore to boat (Negombo-area sites are consistently boat dives several km offshore). Fabricated claims of hard corals, sea fans, lionfish, scorpionfish, wrasse, reliable turtles, and reef octopus remain removed. Remains downgraded from a prior 'validated: true' sourced only to the generic tag 'perplexity'."
     }
   },
   {
@@ -176,10 +177,10 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "",
-      "last_qa_date": "2026-07-03",
+      "last_qa_date": "2026-09-25",
       "water_temp": "27-30C",
       "visibility": "10-25m",
-      "qa_note": "Re-audited 2026-07-03: no dive-shop or forum source names this exact reef polygon; only bay-level (Unawatuna Bay generally) sourcing was found (thesrilankanguideline.com, sundivingsrilanka.com, pearldiverslk.com), which does not meet the site-specific 3-source bar, so validated was downgraded from a prior true (originally sourced only to the generic tag 'web_research'). The 'known_wrecks: SS Rangoon' tag previously on this entry was removed as incorrect -- SS Rangoon rests at 30-32m near the mouth of Galle Harbour, roughly 2-3km away, and is a distinct, separate dive site. Prior 'coral bleaching' claim likely conflated 2004 tsunami physical damage (a real, sourced phenomenon here) with bleaching (a different phenomenon, unsourced for this site) and was removed. Hawksbill-at-8-15m, chromis schools, porcupinefish, and nudibranch claims specific to this site were unsourced and removed."
+      "qa_note": "Re-audited 2026-07-03 and again 2026-09-25: no dive-shop or forum source names this exact reef polygon; only bay-level (Unawatuna Bay generally) sourcing was found (thesrilankanguideline.com, pearldiverslk.com, and now also unawatunadive.com's Rangoon page), which does not meet the site-specific 3-source bar, so validated stays false. The 'known_wrecks: SS Rangoon' tag previously on this entry stays removed as incorrect -- SS Rangoon rests at 30-32m near the mouth of Galle Harbour, roughly 2-3km away, and is a distinct, separate dive site. 2026-09-25 link-liveness check found sundivingsrilanka.com/ss-rangoon-wreck/ (previously cited for the Rangoon cross-reference) now returns HTTP 404; footer swapped to the still-live unawatunadive.com/view-dive-sites.php?id=12 (Rangoon wreck page, same operator's other domain, diveinsrilanka.com/ss-rangoon-wreck/) and thesrilankanguideline.com re-confirmed live. Prior 'coral bleaching' claim likely conflated 2004 tsunami physical damage (a real, sourced phenomenon here) with bleaching (a different phenomenon, unsourced for this site) and remains removed. Hawksbill-at-8-15m, chromis schools, porcupinefish, and nudibranch claims specific to this site remain unsourced and removed."
     }
   }
 ]

@@ -32,4 +32,4 @@ Grid Iron lies on the Atlantic side of St. Kitts, with a depth range of roughly 
 No site-specific marine life reports beyond a general "diverse marine life" characterization were found for Grid Iron. Regional Atlantic-side St. Kitts reef fauna is plausible here but has not been confirmed at this specific site.
 
 ---
-*Sources: [Active Caribbean Travel - St Kitts & Nevis Diving](https://activecaribbeantravel.com/st-kitts-diving-nevis-diving/). Only one independently verifiable source was found — My St Kitts Dive Buddy and PADI (previously cited) do not document this site. Last updated 2026-07-03.*
+*Sources: [Active Caribbean Travel - St Kitts & Nevis Diving](https://activecaribbeantravel.com/st-kitts-diving-nevis-diving/). Only one independently verifiable source was found — My St Kitts Dive Buddy and PADI (previously cited) do not document this site. Last updated 2026-09-25.*

@@ -32,4 +32,4 @@ Coral Garden sits about 3km (2 miles) west of the Four Seasons resort on Nevis. 
 Schools of Atlantic spadefish are reported here, along with large sea fans among the coral growth (Frommer's). No other species-specific sightings could be confirmed for this exact site; broader Nevis reef fauna should be expected but has not been specifically documented here.
 
 ---
-*Sources: [Frommer's - Active Pursuits in Nevis](https://www.frommers.com/destinations/nevis/active-pursuits/) (accessed via search index; site blocks direct fetch). dive-the-world.com, padi.com, and Pro Divers St Kitts (previously cited) were checked directly and contain no content about this site. Last updated 2026-07-03.*
+*Sources: [Frommer's - Active Pursuits in Nevis](https://www.frommers.com/destinations/nevis/active-pursuits/) (accessed via search index; site blocks direct fetch). dive-the-world.com, padi.com, and Pro Divers St Kitts (previously cited) were checked directly and contain no content about this site. Last updated 2026-09-25.*
