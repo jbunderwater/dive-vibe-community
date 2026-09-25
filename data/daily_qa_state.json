@@ -2,13 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "south-africa",
-    "south-australia-neptune-islands",
-    "south-florida",
-    "south-pacific",
-    "sri-lanka",
-    "st-kitts-and-nevis",
-    "st-lucia",
     "st-vincent-grenadines",
     "sudan",
     "sudan-red-sea",
@@ -34,6 +27,13 @@
     "zanzibar"
   ],
   "completed_this_cycle": [
+    "south-africa",
+    "south-australia-neptune-islands",
+    "south-florida",
+    "south-pacific",
+    "sri-lanka",
+    "st-kitts-and-nevis",
+    "st-lucia",
     "roatan",
     "saba",
     "san-diego-la-jolla",
@@ -177,6 +177,96 @@
     "scotland"
   ],
   "history": [
+    {
+      "date": "2026-09-25",
+      "slugs": [
+        "south-africa",
+        "south-australia-neptune-islands",
+        "south-florida",
+        "south-pacific",
+        "sri-lanka",
+        "st-kitts-and-nevis",
+        "st-lucia"
+      ],
+      "notes": "south-pacific is an isGroup=true parent slug with no own data files (no osm_clean or divesites directory) -- skipped, consistent with prior-cycle precedent for group slugs; st-lucia was pulled forward from later in the queue to keep the day's real-destination count at 6. south-africa is also isGroup=true in destinations.json but, unlike south-pacific, has its own complete data set (13 sites, 15 markdown files) and was processed fully as a real destination. south-africa's re-audit flagged two likely data-integrity errors rather than fabricating content to paper over them: 'Amoray' matches a real commercial dive-charter business name at those coordinates with no independent site-specific source, and 'Cathedral Sodwana' appears to be a misapplied name from an unrelated Aliwal Shoal site ~500km away -- both demoted to unvalidated pending maintainer review instead of being described from invented details. south-australia-neptune-islands' re-audit found three site entries (English Island Reef, Williams Island Caves, Langton Island) whose names match real South Australian islands that are documented as belonging to entirely different island groups, not the Neptune Islands -- flagged as likely naming conflation for a future gap-fill pass rather than removed outright. south-florida's largest destination in today's batch (25 sites) had 13 first-time validations, including several stub markdown files fully built out with researched wreck histories (e.g. Ancient Mariner's ex-USCGC Nemesis history). sri-lanka and st-kitts-and-nevis re-audits each restored previously-stripped marine-life claims after fresh research surfaced new site-specific sources that hadn't been checked in the prior pass. st-lucia's re-audit corrected a stale claim that no distinctly-named 'Piton Wall' site existed near The Drift (Pitons); fresh sources show it does, though its exact relationship to this JSON entry remains an open identity question.",
+      "summary": {
+        "sites_total": 81,
+        "sites_validated_today": 47,
+        "sites_re_audited": 60,
+        "hallucinations_removed": 10,
+        "marine_life_stripped": 7,
+        "wreck_conflicts_flagged": 16,
+        "sites_unresolved": 18,
+        "by_destination": {
+          "south-africa": {
+            "sites_total": 13,
+            "sites_validated_today": 11,
+            "sites_re_audited": 11,
+            "hallucinations_removed": 4,
+            "marine_life_stripped": 5,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 2,
+            "notes": "MV Produce Wreck's fabricated 119m length removed and replaced with a sourced 168-176m conflict range; Shark Alley Gansbaai reclassified beach->drift per unanimous source description as a tidal channel. Amoray and Cathedral Sodwana demoted validated true->false as likely data-integrity errors (commercial-business name collision; name borrowed from an unrelated Aliwal Shoal site) rather than fabricated to fill the gap. All markdown footers replaced with real per-site source attribution, removing a previously shared generic 5-source footer applied regardless of relevance."
+          },
+          "south-australia-neptune-islands": {
+            "sites_total": 10,
+            "sites_validated_today": 0,
+            "sites_re_audited": 4,
+            "hallucinations_removed": 1,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 6,
+            "notes": "No wreck-type sites. Corrected overview.md's claim of three licensed cage-diving operators to the sourced figure of two (Rodney Fox Shark Expeditions, Calypso Star Charters). Cage-dive depth widened to a sourced 16-21m range after operator pages themselves disagreed. Three of the six unresolved sites (English Island Reef, Williams Island Caves, Langton Island) were found to be named after real islands belonging to different South Australian island groups entirely -- flagged as likely naming conflation for maintainer review rather than deleted, since removal would drop the destination below the 8-site minimum."
+          },
+          "south-florida": {
+            "sites_total": 25,
+            "sites_validated_today": 13,
+            "sites_re_audited": 12,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 5,
+            "sites_unresolved": 0,
+            "notes": "Largest destination in today's batch. 13 sites gained first-time validation with >=3 source domains each, including several stub markdown files fully built out with researched content (Ancient Mariner's ex-USCGC Nemesis WWII/restaurant-era/1986-closure history, corroborated across two independent sources). Corrected Anglins Pier Reef's closure cause (Hurricane Irma 2017, not a 2022 storm) and Fowey Rocks Lighthouse's first-lit date (1878, not 1876). Deliberately omitted two single-sourced dramatic claims (a Rodeo 25 scuttling detail, a Zion Train piracy story) that could not be corroborated by a second source."
+          },
+          "sri-lanka": {
+            "sites_total": 8,
+            "sites_validated_today": 4,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 4,
+            "notes": "SS Conch wreck-history cross-check reconfirmed tonnage, builder, and dimensions across sources while keeping the sinking-date (June 2 vs 3, 1903) and rock-name conflicts explicit. Restored turtle and scorpionfish claims at Cave/Gala pita gala dive sites after a newly-found site-specific source corroborated them (previously stripped for lack of sourcing). No Trincomalee-area sites exist in this destination's current data -- flagged as a coverage gap for a future add-destinations pass, not fabricated to fill it. Anchor Point, Carreg dive site, Goddamahagale dive site, and Unuwatuna Coral Reef remain below the 3-domain bar."
+          },
+          "st-kitts-and-nevis": {
+            "sites_total": 10,
+            "sites_validated_today": 6,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 3,
+            "sites_unresolved": 4,
+            "notes": "MV River Taw's sinking year (1981 vs 1985) and cause (harbour incident+tow vs. hurricane) kept as explicit sourced conflicts; a self-contradictory PADI depth figure was identified as a likely unit-entry error and not used. Nag's Head's eagle-ray citation corrected to the source that actually supports it. Four sites (Brassball Wreck, Coral Garden, Grid Iron, Devil's Caves) demoted or held at unvalidated for falling short of the 3-domain bar, correcting a standard violation left over from a prior pass."
+          },
+          "st-lucia": {
+            "sites_total": 15,
+            "sites_validated_today": 13,
+            "sites_re_audited": 15,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 4,
+            "sites_unresolved": 2,
+            "notes": "Daini Koyomaru's length, depth, and sinking-orientation conflicts across sources documented explicitly rather than picked; Lesleen M's sinking year (1986, 4 sources vs. 1985, 1 source) resolved toward the majority with the minority noted. Removed a folklore 'Loch Ness Monster'-style creature claim at Anse Chastanet Reef that its own source explicitly framed as legend, not a sighting. El Pirata Shipwreck and Maria Island Reef remain unvalidated -- no dive database lists either as a named scuba site with real site data."
+          },
+          "south-pacific": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory) -- skipped, consistent with prior-cycle precedent for group slugs; st-lucia was pulled forward from later in the queue to keep the day's real-destination count at 6."
+          }
+        }
+      },
+      "pr_url": null,
+      "errors": []
+    },
     {
       "date": "2026-09-18",
       "slugs": [
