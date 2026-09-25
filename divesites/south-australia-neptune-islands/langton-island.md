@@ -15,11 +15,11 @@ addedBy: osm_import
 
 Rocky reef dive site in the Neptune Islands area.
 
-> **QA Note (2026-05-17):** No independent source confirms "Langton Island" as a dive site in the Neptune Islands group. Wikipedia lists only North Neptune Islands and South Neptune Islands as the four islands comprising the Neptune Islands group; no "Langton Island" is mentioned. This may be a curated placeholder. Confirm existence with a licensed Neptune Islands operator before visiting.
+> **QA Note (updated 2026-09-25, originally 2026-05-17):** Deeper research now shows this is more than "no mention" — Wikipedia confirms Langton Island is a REAL island in South Australia, but it is part of the Sir Joseph Banks Group in Spencer Gulf (named by Matthew Flinders in 1802), a separate location entirely from the Neptune Islands. Wikipedia's Neptune Islands article lists only the North Neptune Islands and South Neptune Islands groups; no "Langton Island" is part of that group. This entry appears to be a naming mismatch/conflation with an unrelated island. Flagged for maintainer review; confirm existence with a licensed Neptune Islands operator before visiting.
 
 ## Overview
 
-Langton Island is listed as an intermediate rocky reef dive site in the Neptune Islands area. No operator website, Wikipedia article, dive forum, or dive database confirms the existence of a "Langton Island" within the Neptune Islands group, nor provides any dive-specific information for this location. Details below reflect general Neptune Islands temperate reef conditions.
+Langton Island is listed as an intermediate rocky reef dive site in the Neptune Islands area, but Wikipedia confirms the real Langton Island belongs to the Sir Joseph Banks Group, not the Neptune Islands — so this entry's name does not match a confirmed Neptune Islands feature. No operator website, dive forum, or dive database confirms a dive site by this name within the Neptune Islands group. Details below reflect general Neptune Islands temperate reef conditions.
 
 ## Site Information
 
@@ -61,4 +61,4 @@ PADI Open Water certification or equivalent required. Giant stride or back roll 
 Cold-water reef diving requires proper thermal protection and buddy awareness. Kelp forests present entanglement risk if moving too quickly; maintain controlled movements. Rocky substrate demands excellent buoyancy control to avoid abrasion and reef damage. Standard open water diving protocols apply: equalization, air consumption monitoring, safety stop compliance. Always dive with a buddy. Water temperature 14-22°C requires extended thermal protection and energy management. Verify current conditions with local operators before diving.
 
 ---
-*No site-specific sources found. "Langton Island" is not listed in [Neptune Islands – Wikipedia](https://en.wikipedia.org/wiki/Neptune_Islands) or any operator source. General Neptune Islands conditions from [Marine Parks SA](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands). Last updated 2026-05-17.*
+*No site-specific sources found confirming "Langton Island" as a Neptune Islands dive site. [Langton Island – Wikipedia](https://en.wikipedia.org/wiki/Langton_Island) confirms it is part of the Sir Joseph Banks Group, not the Neptune Islands. It is also not listed in [Neptune Islands – Wikipedia](https://en.wikipedia.org/wiki/Neptune_Islands) or any operator source. General Neptune Islands conditions from [Marine Parks SA](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands). Re-checked 2026-09-25.*

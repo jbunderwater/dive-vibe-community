@@ -15,7 +15,7 @@ addedBy: osm_import
 
 Submerged cage diving area in the Neptune Islands associated with a distinctive rock formation on the kelp seabed.
 
-> **QA Note (2026-05-17):** No independent source confirms "The Monument" as a named dive site. The Rodney Fox website mentions "two stunning, natural crevasses" on North Neptune Island East, but does not name them "The Monument." Descriptions below reflect general Neptune Islands ocean-floor cage conditions until a site-specific source is found.
+> **QA Note (re-checked 2026-09-25, originally 2026-05-17):** No independent source confirms "The Monument" as a named dive site. The Rodney Fox website mentions "two stunning, natural crevasses" on North Neptune Island East, but does not name them "The Monument." A fresh round of WebSearch queries (dive databases, operator pages, ScubaBoard-style forum results) turned up nothing new. Descriptions below reflect general Neptune Islands ocean-floor cage conditions until a site-specific source is found.
 
 ## Overview
 
@@ -27,7 +27,7 @@ The Monument is a submerged cage diving location in the Neptune Islands reported
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Depth**: 18–20 meters (sources report 18–21 meters for Neptune Islands ocean-floor cage)
+- **Depth**: 16–21 meters (general Neptune Islands ocean-floor cage range; sources disagree on the exact figure — see Neptune Islands South for the full source breakdown)
 - **Typical Visibility**: 15-20 meters (50-65 feet)
 - **Current**: Generally mild, occasionally variable
 - **Water Temperature**: 14-22°C (57-72°F) — coldest June-August, warmest December-May
@@ -61,4 +61,4 @@ PADI Open Water or CMAS 1 Star certification required. Entry via cage platform; 
 Advanced cold-water diving at 18–20 meters requires proper thermal protection, equalization awareness, nitrogen narcosis management, and standard deep diving protocols. Operators provide professional supervision and secure cage construction. Always verify operator licensing, equipment maintenance records, and insurance. Maintain current certifications and adequate cold-water diving experience. Safety stop protocols are mandatory.
 
 ---
-*No site-specific sources found confirming "The Monument" as a named dive site. General Neptune Islands conditions sourced from: [Rodney Fox Shark Expeditions](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [Neptune Islands – Wikipedia](https://en.wikipedia.org/wiki/Neptune_Islands), [Marine Parks SA](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands). Last updated 2026-05-17.*
+*No site-specific sources found confirming "The Monument" as a named dive site. General Neptune Islands conditions sourced from: [Rodney Fox Shark Expeditions](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [Neptune Islands – Wikipedia](https://en.wikipedia.org/wiki/Neptune_Islands), [Marine Parks SA](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands), [Divernet – King of the Neptunes](https://divernet.com/scuba-diving/king-of-the-neptunes-cage-diving-with-great-white-sharks/). Re-checked 2026-09-25; still no site-specific source found.*

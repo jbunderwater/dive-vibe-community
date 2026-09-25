@@ -13,19 +13,25 @@ addedBy: osm_import
 
 ## Amoray
 
-Amoray is a reef dive site in South Africa, Africa.
+Unresolved: this entry's name matches a commercial dive operator, not a confirmed reef.
 
 ## Overview
 
-Amoray is a coral reef site at Sodwana Bay in the iSimangaliso Wetland Park, part of the southernmost coral reef system in Africa along KwaZulu-Natal's Maputaland coast. The reef is named for the dense population of moray eels — honeycomb, giant, and snowflake morays — that occupy nearly every crevice in the coral structure down to about 20 meters. Loggerhead and leatherback turtles are regularly encountered here as Sodwana is adjacent to critical sea turtle nesting beaches, and the warm Agulhas Current maintains water temperatures around 24–27°C.
+This entry was imported from OpenStreetMap with the name "Amoray" at coordinates inside Sodwana Bay's reef system, on South Africa's KwaZulu-Natal coast. Research for this QA pass could not confirm "Amoray" as the name of an actual reef or dive site. "Amoray Diving" is a well-known, owner-managed dive charter operating out of Sodwana Bay, and the coordinates fall within its area of operation. Six independent Sodwana Bay dive-site guides were checked (Amoray Diving's own site, Pisces Diving, Coral Divers, Sodwana Bay Lodge Scuba Centre, ScubaRank, and Divearoo) and none of them list a reef called "Amoray" — Sodwana's reefs are consistently named either by distance from the Jesser Point launch site (Quarter Mile, 2 Mile, 5 Mile, 7 Mile, 9 Mile Reef) or by descriptive names (Gotham, Ramsey's Reef, Snappers College, etc.).
+
+This looks like a case of a commercial dive operator's name being carried into the dataset as if it were a dive site, which conflicts with this project's data quality standards (no dive shops/operators as sites). The previous version of this page contained an invented backstory (moray eel population giving the site its name) that no source supports and has been removed.
 
 ## Site Information
 
-- **Location**: South Africa, Africa
+- **Location**: Sodwana Bay, KwaZulu-Natal, South Africa (coordinates fall within the Two Mile Reef area)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Unconfirmed — no independent source found
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 20 meters (unconfirmed)
+
+## Recommendation
+
+This entry needs manual review. It likely duplicates the commercial listing for Amoray Diving rather than describing a distinct dive site, and should probably be removed or, if a genuine site by another name is intended, re-researched and renamed.
 
 ---
-*Sources: [SCUBA Travel - Diving South Africa](https://www.scubatravel.co.uk/africa/diving-south-africa.html), [Bluewater Dive Travel - South Africa](https://www.bluewaterdivetravel.com/destination/south-africa-diving), [Coral Divers Sodwana Bay](https://coraldivers.co.za/), [PADI - Diving Sodwana Bay](https://www.padi.com/diving-in/south-africa/sodwana-bay/), [Ikelite - Aliwal Shoal Guide](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-aliwal-shoal-south-africa). Last updated 2026-04-04.*
+*No site-specific sources confirm this as a genuine dive site — flagged as likely commercial-business misclassification during 2026-09-25 QA pass. Last updated 2026-09-25.*

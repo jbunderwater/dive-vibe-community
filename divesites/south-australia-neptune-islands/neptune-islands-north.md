@@ -25,7 +25,7 @@ Neptune Islands North is a surface cage diving site in the Neptune Islands Group
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Depth**: 2 meters (cage floats at surface)
+- **Depth**: 0–2 meters (cage floats at surface; confirmed by Wikivoyage)
 - **Water Temperature**: 14-22°C (57-72°F) — coldest June-August, warmest December-May
 
 ## Marine Life
@@ -54,4 +54,4 @@ No diving required. Divers and non-divers enter the cage via the boat's cage pla
 Great white sharks are naturally cautious; cage diving prioritizes observer safety with secure cage construction and professional guide supervision. Respect all operator safety briefings and stay within designated cage areas. Surface cage diving has minimal decompression risks compared to submerged diving. Always verify operator licensing and safety records before booking.
 
 ---
-*Sources: [Rodney Fox Shark Expeditions](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [Neptune Islands – Wikipedia](https://en.wikipedia.org/wiki/Neptune_Islands), [Marine Parks SA – Neptune Islands](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands), [DAN Alert Diver – South Australia Great White Sharks](https://dan.org/alert-diver/article/south-australias-great-white-shark-adventure/), [Wikivoyage – Shark cage diving at the Neptune Islands](https://en.wikivoyage.org/wiki/Diving_in_South_Australia/Shark_cage_diving_at_the_Neptune_Islands). Last updated 2026-05-17.*
+*Sources: [Rodney Fox Shark Expeditions](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [Neptune Islands – Wikipedia](https://en.wikipedia.org/wiki/Neptune_Islands), [Marine Parks SA – Neptune Islands](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands), [DAN Alert Diver – South Australia Great White Sharks](https://dan.org/alert-diver/article/south-australias-great-white-shark-adventure/), [Wikivoyage – Shark cage diving at the Neptune Islands](https://en.wikivoyage.org/wiki/Diving_in_South_Australia/Shark_cage_diving_at_the_Neptune_Islands), [Divernet – King of the Neptunes](https://divernet.com/scuba-diving/king-of-the-neptunes-cage-diving-with-great-white-sharks/). Re-audited and last updated 2026-09-25.*

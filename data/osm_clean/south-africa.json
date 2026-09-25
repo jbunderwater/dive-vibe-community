@@ -12,8 +12,10 @@
     "tags": {
       "name": "Amoray",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": "false",
+      "validation_source": "unresolved",
+      "qa_flag": "Name matches 'Amoray Diving', a commercial dive charter operating from these coordinates in Sodwana Bay. Checked 6 independent Sodwana dive-site guides (amoraydiving.com, piscesdiving.co.za, coraldivers.co.za, sodwanadiving.co.za, scubarank.com, divearoo.com) and none list a reef or dive site named 'Amoray' — all reefs at Sodwana are named by distance from Jesser Point (Quarter Mile, 2 Mile, 5 Mile, 7 Mile, 9 Mile) or by descriptive names (Gotham, Ramsey's Reef, etc). Likely commercial-business misclassification carried over from OSM import. Recommend manual review and possible removal per CLAUDE.md Data Quality Standard #1.",
+      "last_qa_date": "2026-09-25"
     }
   },
   {
@@ -22,7 +24,7 @@
     "lon": 30.8333,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
+    "depth": 27,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -30,8 +32,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Major ragged-tooth shark congregation site (June-November)"
+      "validation_source": "padi.com,wikivoyage.org,theveryhungrymermaid.com,aliwalshoal.co.za,scubatravel.co.uk",
+      "notes": "Major ragged-tooth shark congregation site (July-November); general reef dive sites on the shoal range 12-27m, wrecks 27-32m",
+      "last_qa_date": "2026-09-25"
     }
   },
   {
@@ -48,8 +51,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Famous shark dive (hammerhead, tiger, zambesi), strong Agulhas Current, drift dive"
+      "validation_source": "dansa.org,indopacificimages.com,medium.com",
+      "notes": "Famous shark dive (8 species recorded incl. hammerhead, tiger, bull/Zambezi), strong Agulhas Current, drift dive; pinnacles sit 27-40m on a fossilised bank rising from ~60m",
+      "last_qa_date": "2026-09-25"
     }
   },
   {
@@ -58,7 +62,7 @@
     "lon": 29.9167,
     "osm_id": null,
     "osm_type": null,
-    "depth": 18,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -66,8 +70,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Seasonal (June-July), strong currents, cold water, 50+ logged dives recommended"
+      "validation_source": "divernet.com,dansa.org,wildcoast.co.za,theveryhungrymermaid.com",
+      "notes": "Seasonal (June-July), strong currents, cold water, dives typically 8-20m depending on where the baitball action is; represents the Port St Johns/Wild Coast sardine run area rather than one fixed reef",
+      "last_qa_date": "2026-09-25"
     }
   },
   {
@@ -83,9 +88,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Hard and soft corals, warm Indian Ocean waters, diverse fish life"
+      "validated": "false",
+      "validation_source": "unresolved",
+      "qa_flag": "No independent Sodwana Bay dive-site guide (checked amoraydiving.com, piscesdiving.co.za, coraldivers.co.za, sodwanadiving.co.za, scubarank.com, divearoo.com, divernet.com) lists a site named 'Cathedral' at Sodwana. A well-documented site named 'Cathedral' (27m, ragged-tooth shark amphitheatre) does exist — but at Aliwal Shoal, ~500km south, confirmed by padi.com, wikivoyage.org, aliwalshoal.co.za and theveryhungrymermaid.com. This entry's coordinates are genuinely within the Two Mile Reef area at Sodwana, but the name and description appear to have been misattributed from the Aliwal Shoal site during an earlier curated gap-fill pass. Recommend manual review/rename or removal per anti-hallucination policy.",
+      "last_qa_date": "2026-09-25"
     }
   },
   {
@@ -94,7 +100,7 @@
     "lon": 32.6833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -102,8 +108,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Vast reef complex (1.8km x 900m), pinnacles, swim-throughs, multiple named sites"
+      "validation_source": "piscesdiving.co.za,coraldivers.co.za,divearoo.com,amoraydiving.com",
+      "notes": "Vast reef complex (approx. 1.8km x 900m), sources report overall depth range 8-38m depending on sub-site; pinnacles, swim-throughs, multiple named sub-sites (Anton's, Bikini, Wayne's World, Coral Gardens, etc.)",
+      "last_qa_date": "2026-09-25"
     }
   },
   {
@@ -120,8 +127,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Big blocky boulders with cave formations, excellent light penetration, shallow depth"
+      "validation_source": "coraldivers.co.za,amoraydiving.com,piscesdiving.co.za",
+      "notes": "Corresponds to 'Caves & Overhangs' on Two Mile Reef; sources report depth 10-22m depending on operator, swim-throughs and ledges with soft coral and sponge growth",
+      "last_qa_date": "2026-09-25"
     }
   },
   {
@@ -138,8 +146,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Rock formations with gullies, 6m from surface, hard/soft corals, Zebra sea bream"
+      "validation_source": "coraldivers.co.za,amoraydiving.com,scubarank.com",
+      "notes": "CONFLICT: sources disagree on depth. coraldivers.co.za describes a shallow 'Pinnacles' feature on Two Mile Reef (10-12m, Zebra sea bream/Old Woman Pinnacle) matching this entry's depth; amoraydiving.com and scubarank.com describe a separate, deeper offshore 'Pinnacles' reef (20-40+m, strong current, pelagics). Unclear if these are the same site under one name or two distinct sites sharing a name - flagged rather than guessed.",
+      "last_qa_date": "2026-09-25"
     }
   },
   {
@@ -149,15 +158,16 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 8,
-    "site_type": "beach",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Great white shark cage diving, 150m channel between Geyser Rock and Dyer Island, surface diving"
+      "validation_source": "en.wikipedia.org,sharkwatchsa.com,lovetovisitsouthafrica.com",
+      "notes": "Great white shark cage diving in the shallow channel ('Shark Alley') between Dyer Island and Geyser Rock, ~60,000-strong Cape fur seal colony; reclassified reef->drift on 2026-09-25 since sources describe it as a channel, not a beach-entry site",
+      "last_qa_date": "2026-09-25"
     }
   },
   {
@@ -166,7 +176,7 @@
     "lon": 32.75,
     "osm_id": null,
     "osm_type": null,
-    "depth": 15,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -174,8 +184,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Shallow drift dive along soft coral and rocky outcrops, blacktip sharks, eagle rays"
+      "validation_source": "reefrainforest.com,diveplanit.com,divescover.com",
+      "notes": "Showpiece site is Gogo's Reef (a.k.a. Gogo's House Reef), avg depth ~18m, resident potato bass and turtles confirmed site-specific; whale shark/hammerhead/humpback sightings are reported for the broader Rocktail Bay reef system rather than confirmed at Gogo's specifically",
+      "last_qa_date": "2026-09-25"
     }
   },
   {
@@ -192,8 +203,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Military ship in False Bay, upright, collapsing structure, requires permit, winter best"
+      "validation_source": "en.wikipedia.org,en.wikivoyage.org,scubashack.co.za",
+      "notes": "Loch-class frigate (ex-HMS Loch Ard), laid down 20 Jan 1944, launched 2 Aug 1944, length 93.6m; scuttled as artificial reef in Smitswinkel Bay 3 Aug 1978. Lies upright on sand at 34m (main deck ~29m), collapsing structure, permit required (MPA since 2004). Cross-checked Wikipedia + Wikivoyage + scubashack.co.za, no unresolved factual conflicts on core history/dimensions.",
+      "last_qa_date": "2026-09-25"
     }
   },
   {
@@ -210,8 +222,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Large cave with ragged-tooth shark congregation (Aug-Nov), do not enter during shark season"
+      "validation_source": "padi.com,aliwalshoal.co.za,en.wikivoyage.org",
+      "notes": "Large cave with ragged-tooth shark congregation (Jul-Nov per PADI); sources report depth 16-18m; entry into the cave itself is not permitted while sharks are present, viewing area at entrance",
+      "last_qa_date": "2026-09-25"
     }
   },
   {
@@ -228,8 +241,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Norwegian bulk carrier (1974), molasses tanker, no penetration allowed, strong currents"
+      "validation_source": "en.wikivoyage.org,aliwalshoal.co.za,theveryhungrymermaid.com,en.wikipedia.org",
+      "notes": "Norwegian molasses bulk carrier, struck Aliwal Shoal's north-eastern pinnacle 11 Aug 1974, all crew rescued. Lies on starboard side, broken into 3 sections, 30-32m. CONFLICT: sources report length between approx. 168m and 176m (wikivoyage.org states 176m) - no penetration allowed per operator guidance. Previous 119m figure could not be corroborated by any source and has been removed.",
+      "last_qa_date": "2026-09-25"
     }
   }
 ]

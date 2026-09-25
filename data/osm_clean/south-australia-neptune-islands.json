@@ -13,8 +13,9 @@
       "shark_cage": "true",
       "cage_type": "surface",
       "validated": "true",
-      "validation_source": "rodneyfox.com.au,wikipedia.org,marineparks.sa.gov.au,parks.sa.gov.au,wikivoyage.org",
-      "last_qa_date": "2026-05-17"
+      "validation_source": "rodneyfox.com.au,wikipedia.org,marineparks.sa.gov.au,parks.sa.gov.au,wikivoyage.org,divernet.com,dan.org",
+      "last_qa_date": "2026-09-25",
+      "qa_note": "Re-audited 2026-09-25: surface cage depth (0-2m) reconfirmed by Wikivoyage and Divernet; certification-free entry reconfirmed by Rodney Fox's own tour page. No factual corrections needed. Difficulty intentionally kept at Beginner despite the cold-water floor rule because this is a non-diving surface cage experience (no certification, no scuba skills, snorkel/surface-air breathing only)."
     }
   },
   {
@@ -31,8 +32,9 @@
       "shark_cage": "true",
       "cage_type": "submerged",
       "validated": "true",
-      "validation_source": "rodneyfox.com.au,wikipedia.org,marineparks.sa.gov.au,parks.sa.gov.au,wikivoyage.org",
-      "last_qa_date": "2026-05-17"
+      "validation_source": "rodneyfox.com.au,wikipedia.org,marineparks.sa.gov.au,parks.sa.gov.au,wikivoyage.org,divernet.com,bluewaterdivetravel.com",
+      "last_qa_date": "2026-09-25",
+      "qa_note": "Re-audited 2026-09-25: ocean-floor cage depth conflict widened after new sources. Rodney Fox's own site states both 18m and 20m on different pages; Divernet reports ~16m; Wikivoyage reports up to 18m; DAN Alert Diver reports 70ft/21m. Markdown now cites the full 16-21m range instead of a single figure. Marine life (eagle rays, giant blue wrasse/groper, trevally) directly reconfirmed via rodneyfox.com.au. Operator count destination-wide corrected from three to two (Rodney Fox Shark Expeditions, Calypso Star Charters) per marineparks.sa.gov.au and parks.sa.gov.au."
     }
   },
   {
@@ -50,8 +52,8 @@
       "cage_type": "submerged",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17",
-      "qa_note": "No source confirms this as a distinct named dive site separate from Neptune Islands North. Site name may be duplicate/redundant."
+      "last_qa_date": "2026-09-25",
+      "qa_note": "Re-checked 2026-09-25 (WebSearch for sharkcagediving.com.au/Calypso site listings, PADI dive-site DB, ScubaDownUnder): still no independent source names a distinct 'North Neptune Reef' site separate from the general North Neptune Islands submerged cage area. Remains unvalidated; likely a duplicate/redundant entry. Not padded with weak sources per QA policy."
     }
   },
   {
@@ -69,8 +71,8 @@
       "cage_type": "submerged",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17",
-      "qa_note": "The Rodney Fox website mentions two natural crevasses on North Neptune Island East but no site named 'The Monument' is confirmed by any independent source."
+      "last_qa_date": "2026-09-25",
+      "qa_note": "Re-checked 2026-09-25: additional WebSearch turned up no dive database, operator page, or forum thread naming a site 'The Monument'. Rodney Fox's site still only references unnamed 'natural crevasses' on North Neptune Island East. Remains unvalidated; not padded with weak sources."
     }
   },
   {
@@ -87,9 +89,9 @@
       "shark_cage": "true",
       "cage_type": "surface",
       "validated": "true",
-      "validation_source": "rodneyfox.com.au,wikipedia.org,marineparks.sa.gov.au,parks.sa.gov.au,wikivoyage.org",
-      "last_qa_date": "2026-05-17",
-      "qa_note": "Surface cage dive in Main Bay or Action Bay; confirmed by multiple sources. Likely represents same physical site as Neptune Islands North from a different operator perspective."
+      "validation_source": "rodneyfox.com.au,wikipedia.org,marineparks.sa.gov.au,parks.sa.gov.au,wikivoyage.org,divernet.com",
+      "last_qa_date": "2026-09-25",
+      "qa_note": "Re-audited 2026-09-25: surface cage in Main/Action Bay, no certification required, reconfirmed via Wikivoyage and Rodney Fox tour page. Likely the same physical site as Neptune Islands North viewed from a different operator; no new evidence to resolve the overlap either way. Difficulty intentionally kept at Beginner (non-diving surface experience) despite the cold-water floor rule."
     }
   },
   {
@@ -105,8 +107,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17",
-      "qa_note": "Wikipedia confirms the South Neptune Islands have steep rocky formations with seabed dropping to 80m within 1.5km, consistent with pinnacle diving. However, no source confirms this specific named site or its dive characteristics."
+      "last_qa_date": "2026-09-25",
+      "qa_note": "Re-checked 2026-09-25: Wikipedia still confirms steeply dropping granite/dolerite seabed near the South Neptune Islands (to 80m within 1.5-2km), consistent with pinnacle terrain, but no operator site, dive database, or forum names this specific site. Remains unvalidated; not padded with weak sources."
     }
   },
   {
@@ -123,8 +125,8 @@
       "seal_dive": "true",
       "validated": "true",
       "validation_source": "rodneyfox.com.au,dan.org,paparazsea.com,bluewaterdivetravel.com,diveinaustralia.com.au",
-      "last_qa_date": "2026-05-17",
-      "qa_note": "Depth corrected from 15m to 6m per multiple source confirmation. Hopkins Island is a shallow seal dive site at approximately 6m depth."
+      "last_qa_date": "2026-09-25",
+      "qa_note": "Re-audited 2026-09-25: new depth conflict found and now flagged in markdown - DAN Alert Diver states 15ft/4.6m while PaparazSea states ~6m. JSON depth kept at 6m (majority/rounder figure) since it falls within the confirmed shallow range; markdown now cites both figures instead of asserting a single confirmed value. Seal behavior and species claims reconfirmed by both sources, no changes needed there."
     }
   },
   {
@@ -140,8 +142,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17",
-      "qa_note": "No source confirms this as a named dive site. Rocky reef/kelp reef habitat is consistent with the area's geology but site-specific information unavailable."
+      "last_qa_date": "2026-09-25",
+      "qa_note": "Re-checked 2026-09-25: Wikipedia confirms 'English Island' is a REAL island in South Australia, but it belongs to the Sir Joseph Banks Group off the Eyre Peninsula, NOT the Neptune Islands group. This entry's name appears to be a mismatch/conflation with a different, unrelated island. Do not mark validated as a Neptune Islands site; flagged for maintainer review."
     }
   },
   {
@@ -157,8 +159,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17",
-      "qa_note": "No source confirms this as a named dive site. The Neptune Islands have igneous rock formations (porphyritic granite gneiss) that could support cave/cavern features, but no site-specific source found."
+      "last_qa_date": "2026-09-25",
+      "qa_note": "Re-checked 2026-09-25: Wikipedia confirms 'Williams Island' is a REAL island in South Australia, but it is part of the Memory Cove Wilderness Protection Area, NOT the Neptune Islands group. This entry's name appears to be a mismatch/conflation with a different, unrelated island. Do not mark validated as a Neptune Islands site; flagged for maintainer review."
     }
   },
   {
@@ -174,8 +176,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17",
-      "qa_note": "No source confirms this as a named dive site in the Neptune Islands group."
+      "last_qa_date": "2026-09-25",
+      "qa_note": "Re-checked 2026-09-25: Wikipedia confirms 'Langton Island' is a REAL island in South Australia, but it is part of the Sir Joseph Banks Group in Spencer Gulf, NOT the Neptune Islands group. This entry's name appears to be a mismatch/conflation with a different, unrelated island. Do not mark validated as a Neptune Islands site; flagged for maintainer review."
     }
   }
 ]

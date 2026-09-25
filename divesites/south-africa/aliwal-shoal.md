@@ -17,7 +17,7 @@ One of South Africa's most celebrated shark dives, where ragged-tooth sharks con
 
 ## Overview
 
-Aliwal Shoal is a submerged fossilized sand dune approximately five kilometres off the KwaZulu-Natal coast near Umkomaas. The shoal's intricate cave systems and ledges provide critical habitat for ragged-tooth sharks (Carcharias taurus), which gather here in significant aggregations during their northward migration from June through November. Beyond the sharks, the site sits within a productive zone where the warm Agulhas Current sweeps nutrient-rich water along the dune ridges, supporting dense soft coral growth and large schooling fish populations. Visibility fluctuates with seasonal upwellings but averages 8–15 metres, with exceptional days reaching 20 metres. Water temperatures range from 19°C in winter to 26°C in summer. The shoal is also one of the few sites where oceanic blacktip sharks are reliably encountered.
+Aliwal Shoal is the remains of an ancient, fossilized sand dune (thought to date to the late Pleistocene) approximately 5 km off the KwaZulu-Natal coast near Umkomaas, and the whole shoal — reef and wrecks together — is protected as the Aliwal Shoal Marine Protected Area (126 km² when proclaimed in 1991, extended to 670 km² in 2018/2019). General reef dive sites here range from about 12m to 27m, while the shoal's two wrecks (MV Produce and SS Nebo) sit deeper. The shoal's cave and ledge systems provide resting habitat for ragged-tooth sharks (locally "raggies"), which aggregate here during their migration between roughly July and November. Water temperatures range from about 19°C in winter to 26°C in summer.
 
 ## Site Information
 
@@ -25,15 +25,15 @@ Aliwal Shoal is a submerged fossilized sand dune approximately five kilometres o
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 27 meters (general reef sites on the shoal range 12-27m; the wrecks lie deeper at 27-32m)
 - **Typical Visibility**: 8–15 meters (26–50 feet), up to 20 meters on best days
 - **Current**: Moderate; can be strong during tidal changes
 - **Water Temperature**: 19–26°C (66–79°F)
-- **Best Time**: June–November for ragged-tooth sharks; year-round for general diving
+- **Best Time**: July–November for ragged-tooth sharks; year-round for general diving
 
 ## Marine Life
 
-Aliwal Shoal is most famous for its ragged-tooth sharks, which use the cave and overhang systems as resting areas during their annual migration. Oceanic blacktip sharks are a year-round resident, and bull sharks appear seasonally. Humpback whales pass through on their northern migration between June and November and are occasionally encountered on the dive. Loggerhead and leatherback turtles are sighted regularly. The reef supports large potato bass, yellowfin tuna, giant kingfish, and dense aggregations of bream and sergeant majors. Cleaning stations attract large rays including manta rays and eagle rays. Hard and soft corals encrust the dune ridges, with sea fans and crinoids adding colour at depth.
+Aliwal Shoal is best known for its ragged-tooth sharks, present roughly July through November. Oceanic blacktip sharks are seen year-round, and tiger sharks and bull sharks are reported between November and May. Manta rays, ribbon-tail rays and spotted eagle rays are reported at a location divers call Manta Point. Potato bass and moray eels are resident reef fish, and loggerhead and leatherback turtles are seen regularly. These species are reported for Aliwal Shoal generally rather than confirmed at one specific GPS point on the reef, since the shoal is a large system with many named sub-sites.
 
 ## Dive Profile
 
