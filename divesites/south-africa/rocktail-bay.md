@@ -3,7 +3,7 @@ name: Rocktail Bay
 lat: -27.2
 lng: 32.75
 difficulty: Beginner
-maxDepth: 15
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -17,15 +17,19 @@ Rocktail Bay is a reef dive site in South Africa, Africa.
 
 ## Overview
 
-Rocktail Bay sits within the Maputaland Marine Reserve in iSimangaliso Wetland Park, one of the most pristine and least-dived reef systems on the South African coast — operators held a permit to dive these reefs for years before access was granted. The showpiece site, Gogo's Reef, offers collapsed features, gullies, overhangs, and swim-throughs in generally less than 18 metres, with hawksbill turtles, whale sharks, and humpback whales encountered regularly depending on season. From October through March, loggerhead and leatherback turtles nest on the beach above, making Rocktail Bay a rare destination where the wildlife spectacle continues above and below the waterline.
+Rocktail Bay sits within the Maputaland Marine Reserve in iSimangaliso Wetland Park, one of the least-dived reef systems on the South African coast. The showpiece site is Gogo's (also called Gogo's House Reef or Gogo's Reef), just five minutes by boat from the lodge, averaging around 18m depth with a main reef structure and distinctive rock and coral outcrops. Other named sites in the same area include Three Sisters (average 16m, max 22m, wall formations with caves and crevices) and Waterworld (7-14m, coral canyons and swim-throughs). From October through March, loggerhead and leatherback turtles nest on the beach above the reef.
 
 ## Site Information
 
-- **Location**: South Africa, Africa
+- **Location**: Maputaland Marine Reserve, iSimangaliso Wetland Park, KwaZulu-Natal, South Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 18 meters
+
+## Marine Life
+
+Confirmed specifically at Gogo's: resident potato bass, turtles, shrimps, lobsters, anemones, and tiger cowries, plus reported Angelfish. Great hammerheads, tiger sharks, blacktip reef sharks, whale sharks, and humpback/southern right whales are reported for the broader Rocktail Bay reef system by local operators, but sources checked for this QA pass did not confirm these specifically at Gogo's itself, so they are presented here as area-wide rather than site-specific sightings.
 
 ---
-*Sources: [SCUBA Travel - Diving South Africa](https://www.scubatravel.co.uk/africa/diving-south-africa.html), [Bluewater Dive Travel - South Africa](https://www.bluewaterdivetravel.com/destination/south-africa-diving), [Coral Divers Sodwana Bay](https://coraldivers.co.za/), [PADI - Diving Sodwana Bay](https://www.padi.com/diving-in/south-africa/sodwana-bay/), [Ikelite - Aliwal Shoal Guide](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-aliwal-shoal-south-africa). Last updated 2026-04-04.*
+*Sources: [Reef & Rainforest - Rocktail Beach Camp](https://reefrainforest.com/scuba_diving_resorts_and_liveaboards/rocktail-beach-camp/), [DivePlanit - Thonga Beach / Sodwana Bay](https://www.diveplanit.com/africa/south-africa/thonga-beach-sodwana-bay), [DiveScover - Gogo's](https://divescover.com/dive-site/gogo-s/23639). Last updated 2026-09-25.*

@@ -3,7 +3,7 @@ name: Aliwal Shoal
 lat: -30.2667
 lng: 30.8333
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 27
 entryType: boat
 siteType: reef
 ref: null
@@ -23,9 +23,9 @@ Aliwal Shoal is the remains of an ancient, fossilized sand dune (thought to date
 
 - **Location**: KwaZulu-Natal coast, approximately 5 km off Umkomaas, South Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 27 meters (general reef sites on the shoal range 12-27m; the wrecks lie deeper at 27-32m)
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 8–15 meters (26–50 feet), up to 20 meters on best days
 - **Current**: Moderate; can be strong during tidal changes
 - **Water Temperature**: 19–26°C (66–79°F)
@@ -60,4 +60,4 @@ The surf launch at Umkomaas requires physical fitness and confidence in surge co
 Aliwal Shoal offers outstanding wide-angle shark photography. The cave systems provide dramatic backdrops for ragged-tooth shark portraits, particularly when multiple sharks rest in the same overhang. Use a wide-angle lens (10–17mm fisheye equivalent) with two strobes for balanced exposure in the low-light caves. Oceanic blacktips are fast and best photographed in the open water sections at the top of the shoal. Macro subjects including nudibranchs and cleaning shrimp can be found on the coral-encrusted walls between shark encounters.
 
 ---
-*Sources: [SCUBA Travel - Diving South Africa](https://www.scubatravel.co.uk/africa/diving-south-africa.html), [Bluewater Dive Travel - South Africa](https://www.bluewaterdivetravel.com/destination/south-africa-diving), [Coral Divers Sodwana Bay](https://coraldivers.co.za/), [PADI - Diving Sodwana Bay](https://www.padi.com/diving-in/south-africa/sodwana-bay/), [Ikelite - Aliwal Shoal Guide](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-aliwal-shoal-south-africa). Last updated 2026-04-04.*
+*Sources: [PADI - Aliwal Shoal Reef](https://www.padi.com/dive-site/south-africa/aliwal-shoal-reef/), [Wikivoyage - Diving Aliwal Shoal](https://en.wikivoyage.org/wiki/Diving_Aliwal_Shoal), [Wikipedia - Aliwal Shoal](https://en.wikipedia.org/wiki/Aliwal_Shoal), [The Very Hungry Mermaid - Aliwal Shoal Diving Guide](https://theveryhungrymermaid.com/aliwal-shoal-diving/), [Aliwal Dive Centre](https://aliwalshoal.co.za/reef-or-wreck-dive/). Last updated 2026-09-25.*

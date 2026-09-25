@@ -17,7 +17,7 @@ Tenneco Towers is a historic wreck dive in South Florida, North America.
 
 ## Overview
 
-Fort Lauderdale's largest artificial reef complex: five decommissioned Gulf of Mexico oil platforms donated by Tenneco Oil Company and sunk October 3, 1985 off Hallandale Beach. Aligned east-west; three platforms are within recreational limits with top decks at approximately 60, 80, and 100 feet (18-30m); two deeper platforms sit at roughly 185-205 feet for technical divers. Hurricane Andrew (August 1992) tilted the deep platforms to approximately 45 degrees. Advanced Open Water certification required due to depth and potential currents. Visibility 10-30 meters. Excellent photography opportunities.
+Fort Lauderdale's largest artificial reef complex: five decommissioned Gulf of Mexico oil platforms donated by Tenneco Oil Company and sunk October 3, 1985 off Hallandale Beach. Aligned east-west, with three platforms within recreational limits. Sources disagree on the exact recreational platform depths — some operators list tops around 60, 80, and 100 feet, while others describe the shallowest platform cresting near 65-97 feet and a second near 105-115 feet — but all agree the two deepest, technical-only platforms sit at roughly 185-205 feet. Hurricane Andrew (August 1992) tilted the deep platforms to approximately 45 degrees. Advanced Open Water certification required due to depth and potential currents. Excellent photography opportunities.
 
 ## Site Information
 
@@ -37,7 +37,7 @@ The Tenneco Oil Company donated five decommissioned Gulf of Mexico oil platforms
 
 ## Dive Profile
 
-Three of the five platforms are within recreational limits, with top decks at approximately 60, 80, and 100 feet (18, 24, and 30 m); the remaining two sit at roughly 185–205 feet and are reserved for technical/trimix divers. Most recreational dives work the 60–80 foot platforms, where the open steel framework allows divers to weave through the towers. Strong tidal currents can occur — operators usually plan dives at slack tide. Average visibility is around 20 m (10–30 m / 33–100 ft range), best in summer.
+Three of the five platforms are within recreational limits; the remaining two sit at roughly 185–205 feet and are reserved for technical/trimix divers. Published depths for the three recreational platforms vary by source — dive-shop guides commonly cite tops of about 60, 80, and 100 feet, while other operator listings put the shallowest platform at 65–97 feet and a second at 105–115 feet. Confirm current depths and mooring with your operator before the dive. Most recreational dives work the shallower platforms, where the open steel framework allows divers to weave through the towers. Strong tidal currents can occur — operators usually plan dives at slack tide.
 
 ## Entry and Exit
 
@@ -62,4 +62,4 @@ Boat dive only, run by charters out of Fort Lauderdale, Hallandale Beach, and Mi
 Wide-angle is the right choice for the platform structure; the open steel lattice silhouettes well against the surface light on the shallower rigs. Strobe positioning matters around the heavy growth — back off the structure to avoid backscatter and to fit the towers in frame.
 
 ---
-*Sources: [Squalo Divers — Tenneco Towers](https://www.scubadivinginmiami.com/sites/tenneco-towers/), [OceanWide Explorers — Diving Tenneco Towers in South Florida](https://oceanwideexplorers.com/diving-tenneco-towers-in-south-florida/), [Florida Scuba Diving — Tenneco Towers Diving Guide](https://www.florida-scubadiving.com/tenneco-towers-fort-lauderdale-diving-guide-tips/), [Greatest Dive Sites — Tenneco Towers](https://florida.greatestdivesites.com/lauderdale/tenneco_towers_or_oil_platforms), [Reef Smart Guides — Tenneco Towers](https://reefsmartguides.com/product/tenneco-towers/). Last updated 2026-06-30.*
+*Sources: [Squalo Divers — Tenneco Towers](https://www.scubadivinginmiami.com/sites/tenneco-towers/), [OceanWide Explorers — Diving Tenneco Towers in South Florida](https://oceanwideexplorers.com/diving-tenneco-towers-in-south-florida/), [Florida Scuba Diving — Tenneco Towers Diving Guide](https://www.florida-scubadiving.com/tenneco-towers-fort-lauderdale-diving-guide-tips/), [Greatest Dive Sites — Tenneco Towers](https://florida.greatestdivesites.com/lauderdale/tenneco_towers_or_oil_platforms), [Zentacle — Tenneco Towers](https://www.zentacle.com/Beach/2215/tenneco-towers), [Sea Experience — South Florida Wrecks](https://seaxp.com/south-florida-wrecks/). Re-audited 2026-09-25: platform depth figures conflict across sources and are now presented as a range rather than fixed numbers. Last updated 2026-09-25.*

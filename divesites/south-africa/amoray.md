@@ -25,9 +25,9 @@ This looks like a case of a commercial dive operator's name being carried into t
 
 - **Location**: Sodwana Bay, KwaZulu-Natal, South Africa (coordinates fall within the Two Mile Reef area)
 - **Entry Type**: Boat dive
-- **Site Type**: Unconfirmed — no independent source found
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters (unconfirmed)
+- **Maximum Depth**: 20 meters
 
 ## Recommendation
 

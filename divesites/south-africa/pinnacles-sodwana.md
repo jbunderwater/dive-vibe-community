@@ -13,19 +13,23 @@ addedBy: osm_import
 
 ## Pinnacles Sodwana
 
-Pinnacles Sodwana is a pinnacle dive site in South Africa, Africa.
+"Pinnacles" is a name used by more than one Sodwana Bay operator, and their descriptions do not agree on depth — see the conflict noted below.
 
 ## Overview
 
-Pinnacles is a shallow reef site at Sodwana Bay where coral heads and rocky outcrops rise to within a few meters of the surface, creating a complex three-dimensional habitat at a maximum depth of around 15 meters. The site is particularly good for macro life — juvenile fish sheltering in coral heads, nudibranchs on the rocky substrate, and flatworms — alongside the larger reef fish and turtles characteristic of the iSimangaliso Marine Reserve. Its shallow profile and typically calm conditions inside the bay make it a reliable choice when offshore reefs are affected by swell.
+Sources disagree on what "Pinnacles" at Sodwana Bay actually is. Coral Divers describes a shallow feature on Two Mile Reef — a collection of underwater pillars with swim-throughs and sand patches around 10-12m, including a 5m-high "Old Woman Pinnacle" — which matches the shallow, calm profile and depth this entry currently carries. Amoray Diving and ScubaRank, however, both describe "Pinnacles" as a separate, deeper offshore reef with true vertical structure and strong current, running roughly 20-40m+, known for pulling in larger pelagic visitors. It is not clear from available sources whether these are the same site described inconsistently, or two different sites that happen to share the same popular name. Rather than guess, this entry is presented as the shallower Two Mile Reef interpretation (matching its recorded depth and Intermediate rating), with the deeper-water version flagged here for anyone diving Sodwana to clarify with their operator.
 
 ## Site Information
 
-- **Location**: South Africa, Africa
+- **Location**: Sodwana Bay, KwaZulu-Natal, South Africa
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 
+## Marine Life
+
+Coral Divers reports Zebra sea bream and paperfish at this shallow Pinnacles site. Larger pelagic species reported for Sodwana's deeper offshore pinnacle reef are not repeated here since it is unresolved whether that is the same location.
+
 ---
-*Sources: [SCUBA Travel - Diving South Africa](https://www.scubatravel.co.uk/africa/diving-south-africa.html), [Bluewater Dive Travel - South Africa](https://www.bluewaterdivetravel.com/destination/south-africa-diving), [Coral Divers Sodwana Bay](https://coraldivers.co.za/), [PADI - Diving Sodwana Bay](https://www.padi.com/diving-in/south-africa/sodwana-bay/), [Ikelite - Aliwal Shoal Guide](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-aliwal-shoal-south-africa). Last updated 2026-04-04.*
+*Sources: [Coral Divers - Dive Sites](https://coraldivers.co.za/scuba-diving/dive-sites/), [Amoray Diving - Sodwana Bay Dive Sites](https://amoraydiving.com/sodwana-bay-reefs/), [ScubaRank - Sodwana Bay Guide](https://scubarank.com/africa/sodwana-bay/). Last updated 2026-09-25.*

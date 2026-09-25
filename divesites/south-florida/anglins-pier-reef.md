@@ -17,7 +17,7 @@ Anglins Pier Reef is a reef dive site in South Florida, North America.
 
 ## Overview
 
-Premier shore dive south of Anglins Fishing Pier (closed since 2022 hurricane damage) in Lauderdale-by-the-Sea. The reef system features three zones at depths of 12-18 feet (3.7-5.5m), with the first reef beginning 100-400 feet from shore, accessible via the Datura Avenue beach entry. A 10-12 foot ledge runs parallel to shore. Confirmed marine life includes sea turtles, nurse sharks, stingrays, moray eels, spiny lobster, tarpon, and tropical reef fish; Caribbean reef sharks are occasionally sighted. One of the most accessible reef dives in South Florida.
+Premier shore dive south of Anglin's Fishing Pier (closed since Hurricane Irma damage in September 2017; as of late 2026 reconstruction is still pending, with a targeted reopening no earlier than 2027-2028) in Lauderdale-by-the-Sea. The reef system features three zones at depths of 12-18 feet (3.7-5.5m), with the first reef beginning 100-400 feet from shore, accessible via the Datura Avenue beach entry. A 10-12 foot ledge runs parallel to shore. Confirmed marine life includes sea turtles, nurse sharks, stingrays, moray eels, spiny lobster, tarpon, and tropical reef fish; Caribbean reef sharks are occasionally sighted. One of the most accessible reef dives in South Florida.
 
 ## Site Information
 
@@ -41,7 +41,7 @@ Standard entry is from the public beach at 1 Datura Avenue (Datura Avenue and El
 
 ## Tips and Recommendations
 
-- The pier itself has been closed and partially damaged since hurricane impacts; stay clear of the pilings and any fishing line.
+- The pier itself has been closed since Hurricane Irma (2017) and remains under reconstruction as of 2026; stay clear of the pilings and any fishing line.
 - Florida law requires a divers-down flag; divers must stay within 300 feet of the flag.
 - Calm mornings before onshore winds pick up generally give the best visibility.
 - Pair the dive with the Shipwreck Snorkel Trail just to the south for a shallow second loop.
@@ -54,4 +54,4 @@ Standard entry is from the public beach at 1 Datura Avenue (Datura Avenue and El
 - Avoid contact with fire coral on the ledge and watch for jellyfish, sea lice, and Sargassum drift, especially in early summer.
 
 ---
-*Sources: [South Florida Diving Headquarters - Anglin Pier Reef](https://www.southfloridadiving.com/dive-sites/reef-dive-site/anglin-pier-reef/), [Gold Coast Scuba - Lauderdale-by-the-Sea Reef Guide](https://goldcoastscuba.net/pages/lauderdale-by-the-sea-coral-reef-guide), [Town of Lauderdale-by-the-Sea - Diving & Snorkeling](https://www.lauderdalebythesea-fl.gov/374/Snorkeling-Scuba-Diving), [Force-E Scuba - LBTS Shore Dive](https://www.force-e.com/go-diving/shore-dive-sites/lauderdale-by-the-sea-shore-dive/), [Anglin's Pier Timeline - Lauderdale-by-the-Sea](https://www.lauderdalebythesea-fl.gov/601/Anglins-Pier-Timeline). Last updated 2026-06-30.*
+*Sources: [South Florida Diving Headquarters - Anglin Pier Reef](https://www.southfloridadiving.com/dive-sites/reef-dive-site/anglin-pier-reef/), [Gold Coast Scuba - Lauderdale-by-the-Sea Reef Guide](https://goldcoastscuba.net/pages/lauderdale-by-the-sea-coral-reef-guide), [Town of Lauderdale-by-the-Sea - Diving & Snorkeling](https://www.lauderdalebythesea-fl.gov/374/Snorkeling-Scuba-Diving), [Force-E Scuba - LBTS Shore Dive](https://www.force-e.com/go-diving/shore-dive-sites/lauderdale-by-the-sea-shore-dive/), [Anglin's Pier Timeline - Lauderdale-by-the-Sea](https://www.lauderdalebythesea-fl.gov/601/Anglins-Pier-Timeline), [New Pelican - Pier reopening update](https://www.newpelican.com/articles/update-lauderdale-by-the-seas-pier-looks-unlikely-to-reopen-before-2028/). Re-audited 2026-09-25: corrected pier closure cause/date from "2022 hurricane damage" to Hurricane Irma (2017); current status confirmed still closed. Last updated 2026-09-25.*

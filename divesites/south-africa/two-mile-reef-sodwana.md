@@ -3,7 +3,7 @@ name: Two Mile Reef Sodwana
 lat: -27.5167
 lng: 32.6833
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -17,22 +17,22 @@ Sodwana Bay's most accessible and consistently productive coral reef, teeming wi
 
 ## Overview
 
-Two Mile Reef is the closest and most frequently dived reef system at Sodwana Bay, located within the iSimangaliso Wetland Park World Heritage Site on South Africa's KwaZulu-Natal coast. The reef runs roughly parallel to shore and features a complex mosaic of coral gardens, gutters, and sandy channels that shelter an extraordinary diversity of species. Water temperatures range from 20°C in winter to 28°C in summer, with the Agulhas Current driving nutrient-rich water along the reef. Visibility averages 10–20 metres but can reach 30 metres on calm days. The site is diveable year-round, though October through April offers the warmest, calmest conditions. Its proximity to the launch site makes it ideal for multiple dives in a single day.
+Two Mile Reef is the largest and most frequently dived reef system at Sodwana Bay, located within the iSimangaliso Wetland Park World Heritage Site on South Africa's KwaZulu-Natal coast. Multiple dive operator guides put the reef at roughly 1.8 km long by 900 m wide, with an overall depth range reported anywhere from 8m to 38m depending on the source and which of its many named sub-sites (Anton's, Bikini, Wayne's World, Coral Gardens, Caves & Overhangs, Mellow Yellow, Roonies and others) is being dived. Water temperatures range from about 20°C in winter to 28°C in summer, with the Agulhas Current driving nutrient-rich water along the reef. The site is diveable year-round, though October through April offers the warmest, calmest conditions. Its proximity to the Jesser Point launch site makes it ideal for multiple dives in a single day.
 
 ## Site Information
 
 - **Location**: Sodwana Bay, KwaZulu-Natal, South Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10–20 metres (33–65 feet)
 - **Current**: Light to moderate; can strengthen with tidal flow
 - **Best Time**: October to April for calmest seas and best visibility
 
 ## Marine Life
 
-Two Mile Reef hosts one of the richest coral fish assemblages on the African east coast, with over 1,200 species recorded in the broader Sodwana area. Resident potato bass, humphead parrotfish, and large moray eels occupy the gutters while schools of fusiliers and snappers move through the water column. Sea turtles — both loggerhead and leatherback — are regular visitors throughout the year. Whale sharks pass through between October and March, and humpback whales transit the area from June to November. Reef sharks cruise the outer edges, and nudibranchs, flatworms, and shrimps reward macro photographers in the coral rubble.
+Operator listings for Two Mile Reef's named sub-sites report: turtles, nudibranchs, and schooling fish at several sub-sites; potato bass and moray eels (including honeycomb, giant, and starry morays) at Antons, Mellow Yellow, and 9 Mile-style overhangs; manta rays and reef sharks reported at Bikini and Antons; and whitetip reef sharks at Simon's Cave. Bull sharks and hammerheads are reported at some of Two Mile Reef's deeper sub-sites (e.g. Gotham) rather than across the whole reef. Whale sharks and humpback whales are reported for the broader Sodwana Bay area during their seasonal passages (roughly October-March and June-November respectively) rather than confirmed at Two Mile Reef specifically in the sources checked.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ The surf launch is the main hazard at Sodwana — remain seated until the skippe
 Two Mile Reef is one of southern Africa's premier underwater photography destinations. Wide-angle lenses capture the coral gardens, large potato bass, and passing pelagics. Macro subjects — including nudibranch species not found elsewhere in the Indian Ocean — are abundant in the coral rubble and sea fans. Morning light penetrates the water best before 11:00. Photographers hunting whale sharks should note that surface snorkelling with these animals is typically more productive than diver approaches.
 
 ---
-*Sources: [SCUBA Travel - Diving South Africa](https://www.scubatravel.co.uk/africa/diving-south-africa.html), [Bluewater Dive Travel - South Africa](https://www.bluewaterdivetravel.com/destination/south-africa-diving), [Coral Divers Sodwana Bay](https://coraldivers.co.za/), [PADI - Diving Sodwana Bay](https://www.padi.com/diving-in/south-africa/sodwana-bay/), [Ikelite - Aliwal Shoal Guide](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-aliwal-shoal-south-africa). Last updated 2026-04-04.*
+*Sources: [Pisces Diving - Our Reefs](https://www.piscesdiving.co.za/our-reefs), [Coral Divers - Dive Sites](https://coraldivers.co.za/scuba-diving/dive-sites/), [Divearoo - Scuba Diving in Sodwana Bay](https://divearoo.com/destinations/south-africa/sodwana-bay), [Amoray Diving - Sodwana Bay Dive Sites](https://amoraydiving.com/sodwana-bay-reefs/). Last updated 2026-09-25.*
