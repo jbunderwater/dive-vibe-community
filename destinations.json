@@ -973,6 +973,28 @@
     "countryCode": "CZ"
   },
   {
+    "name": "Germany",
+    "slug": "germany",
+    "region": "Europe",
+    "center": [
+      51.0,
+      10.4
+    ],
+    "bounds": [
+      [
+        47.27,
+        5.86
+      ],
+      [
+        55.06,
+        15.05
+      ]
+    ],
+    "description": "Freshwater diving in flooded chalk pits and quarries, post-mining lakes, reservoirs, and alpine lakes with steep walls, sunken wrecks, and training platforms.",
+    "overviewFile": "overview.md",
+    "countryCode": "DE"
+  },
+  {
     "name": "Greece",
     "slug": "greece",
     "region": "Europe",
