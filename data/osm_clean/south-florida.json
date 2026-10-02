@@ -10,7 +10,7 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
-      "description": "Historic 1892 British steamship wreck resting in 15-25 feet (5-7.6m) of water approximately 150 yards offshore from Delray Beach. Shore dive accessible from Delray Beach municipal beach. Most of the vessel is buried and deteriorated; the boiler field is the primary remaining intact feature. Site hosts abundant fish life including tarpon. Scattered boiler debris across roughly 70 feet creates an interesting exploration for beginner divers.",
+      "description": "SS Inchulva, a 386-foot British steamship (built 1892 as Alberta), grounded in the September 11, 1903 hurricane about 150 yards off Delray Beach in roughly 15-25 feet of water; nine crew died. Shore-accessible; boilers and a debris field are the main visible features. Sources disagree on crew size (27 vs 28) and on whether the hull broke into three or five pieces.",
       "historic": "wreck",
       "name": "S.S. Inchulva / Delray Wreck",
       "seamark:type": "wreck",
@@ -18,8 +18,8 @@
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "pbchistory.blogspot.com,florida-backroads-travel.com,arcifc.com,wikipedia.org",
-      "last_qa_date": "2026-06-30"
+      "validation_source": "wikipedia.org,pbchistory.blogspot.com,markers.flheritage.com,florida-backroads-travel.com,thecoastalstar.com,downtowndelraybeach.com",
+      "last_qa_date": "2026-10-02"
     }
   },
   {
@@ -38,9 +38,10 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "miamidade.gov,industrialdivers.com,floridadep.gov,gisweb.miamidade.gov",
-      "last_qa_date": "2026-06-30",
-      "description": "Artificial reef complex in Biscayne Bay consisting of 727 tons of limestone boulders deployed on April 18, 2019 by Miami-Dade County atop the previously deployed Larson Barge at approximately 25° 48.899' N, 80° 10.269' W in about 32 feet (9.8m) of water. Additional material was deployed in 2019, 2020, 2022, and 2023. Primarily a fisheries-enhancement reef; not a mainstream recreational dive operator destination."
+      "validation_source": "miamidade.gov,industrialdivers.com",
+      "last_qa_date": "2026-10-02",
+      "description": "Multi-deployment Miami-Dade artificial reef site in Biscayne Bay: about 727 tons of limerock boulders placed April 18, 2019 on the previously deployed Larson Barge (32 ft, 17 ft relief), plus later concrete, piling and boulder deployments in 23-32 ft. Construction records only; no dive reports found.",
+      "qa_note": "2026-10-02 re-audit: only 2 independent domains (county + contractor) confirmed; floridadep.gov source removed because it does not mention the reef; no dive-operator source found. Marine life unsourced."
     }
   },
   {
@@ -76,9 +77,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "nps.gov,museumsinthesea.com,wikipedia.org,coralheads.com,scubadiverlife.com",
-      "last_qa_date": "2026-06-30",
-      "description": "Historic 1868 three-masted iron barque (ex-Cashmere) wrecked February 4, 1898 off Manalapan and Boynton Beach. Scattered remains in 15-20 feet (5-6m) of water. Florida's eighth Underwater Archaeological Preserve and listed on the National Register of Historic Places January 6, 2004. Shallow depth makes this accessible to beginner divers and snorkelers."
+      "validation_source": "wikipedia.org,nps.gov,museumsinthesea.com,scubadiverlife.com,thecoastalstar.com",
+      "last_qa_date": "2026-10-02",
+      "description": "Iron barque Lofthus (ex-Cashmere, built Sunderland 1868, 222 ft, 1,277 GRT) wrecked February 4, 1898 off Manalapan; 16 crew survived. Scattered remains about 290 x 50 ft in 15-20 ft of water, up to ~6 ft relief; Florida Underwater Archaeological Preserve, NRHP 2004. Sources conflict on how the crew reached shore and on cargo volume."
     }
   },
   {
@@ -92,7 +93,7 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
-      "description": "Historic 1898 cargo steamship (3,297 GRT, 325 feet) wrecked May 26, 1900 at the Pompano Dropoff reef south of Hillsboro Inlet due to navigational error. Scattered remains in 16-31 feet (5-9.5m) of water. Florida Underwater Archaeological Preserve #5, listed on the National Register of Historic Places in 2001. One of Florida's most-visited underwater preserves; accessible by boat from Pompano Beach and Fort Lauderdale.",
+      "description": "British steel steamship Copenhagen (built 1898 Sunderland, 325 ft, 3,297 GRT per Wikipedia) wrecked in 1900 on the Pompano Dropoff off Lauderdale-by-the-Sea carrying coal to Havana. Florida Underwater Archaeological Preserve #5 and NRHP-listed. Sources conflict on exact date (May 20 vs 26), depth (12-39 ft depending on source) and who was responsible for the navigation error.",
       "historic": "wreck",
       "name": "SS Copenhagen Shipwreck",
       "scuba_diving:divespot": "yes",
@@ -101,8 +102,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wikipedia.org,nps.gov,naui.org,scubadiverlife.com,coralheads.com",
-      "last_qa_date": "2026-06-30"
+      "validation_source": "wikipedia.org,nps.gov,naui.org,lauderdalebythesea-fl.gov",
+      "last_qa_date": "2026-10-02"
     }
   },
   {
@@ -116,7 +117,7 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
-      "description": "Premier shore dive south of Anglins Fishing Pier (currently closed following hurricane damage) in Lauderdale-by-the-Sea. Three reef lines run parallel to shore; the first reef begins 100-400 feet from the Datura Avenue beach entry at 12-18 feet (3.7-5.5m). A 10-12 foot ledge runs along the reef. Regular marine life includes sea turtles, nurse sharks, stingrays, moray eels, spiny lobster, tarpon, and tropical reef fish. Caribbean reef sharks are occasionally sighted. One of the most accessible reef dives in South Florida.",
+      "description": "Shore-accessible nearshore reef lines just south of Anglin's Fishing Pier, entered from the Datura Avenue beach portal; reefs lie roughly 100-400 ft from the beach at about 8-20 ft. South Florida Diving Headquarters separately lists a boat-dived 'Anglin Pier Reef' at 50-60 ft. The pier structure has been closed since November 2022 storm damage.",
       "name": "Anglins Pier Reef",
       "natural": "reef",
       "scuba_diving:divespot": "yes",
@@ -124,8 +125,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "southfloridadiving.com,goldcoastscuba.net,lauderdalebythesea-fl.gov,force-e.com",
-      "last_qa_date": "2026-06-30"
+      "validation_source": "lauderdalebythesea-fl.gov,goldcoastscuba.net,force-e.com,southfloridadiving.com,discoverlbts.com",
+      "last_qa_date": "2026-10-02"
     }
   },
   {
@@ -140,16 +141,16 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "divepbc.com,puravidadivers.com,dan.org,force-e.com,uncle-cals.com",
-      "last_qa_date": "2026-06-30",
-      "description": "Iconic shallow-water shore dive at Phil Foster Park (900 E Blue Heron Blvd), Riviera Beach, in Lake Worth Lagoon. Depths typically 10-20 feet (3-6m), maximum approximately 21 feet. Named 2013 Best Dive Site in the World by Sport Diver magazine. High-tide slack water essential — dive within one hour of high slack. Outstanding macro destination: seahorses, pipefish, Atlantic longarm octopus, multiple frogfish species, sea robins, batfish, and flying gurnards. Phil Foster Park Snorkel Trail (installed 2012) runs approximately 800 feet with 600+ tons of Anastasia limestone boulders, reef balls, and mini wrecks. Dive flag required; stay clear of boat channel under the west bridge."
+      "validation_source": "puravidadivers.com,force-e.com,dan.org,duikersgids.nl",
+      "last_qa_date": "2026-10-02",
+      "description": "Shallow shore dive at Phil Foster Park in Lake Worth Lagoon, best at high slack tide, depth about 15-25 ft; widely known for seahorses, frogfish, octopus, batfish and nudibranchs. Includes an 800-ft snorkel trail with limestone boulders and reef modules. Dive flag required; avoid the boat channel."
     }
   },
   {
     "name": "Breakers Reef",
     "lat": 26.725,
     "lon": -80.025,
-    "depth": 17,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -158,15 +159,15 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "force-e.com,stuartscuba.com,florida-scubadiving.com",
-      "last_qa_date": "2026-06-30",
-      "description": "Limestone ledge reef running north-south for several miles off West Palm Beach at approximately 50-65 feet (15-20m). Named for its alignment offshore from the Breakers Hotel. A continuous ledge rising 5-10 feet off the sand is the main feature; the northern Fourth Window section is the standard charter drop point. Live-boat Gulf Stream drift dive. Charters run by Force-E Riviera Beach and Stuart Scuba."
+      "last_qa_date": "2026-10-02",
+      "description": "North-south limestone ledge reef offshore from the Breakers Hotel at Palm Beach in 50-65 ft; ledge 5-10 ft high on the west side. Gulf Stream drift dive for Open Water divers; turtles reported in spring and summer."
     }
   },
   {
     "name": "Tenneco Towers",
     "lat": 26.1167,
     "lon": -80.0633,
-    "depth": 24,
+    "depth": 40,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -174,9 +175,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubadivinginmiami.com,oceanwideexplorers.com,florida-scubadiving.com,greatestdivesites.com,reefsmartguides.com",
-      "last_qa_date": "2026-06-30",
-      "description": "Five decommissioned Gulf of Mexico oil platforms donated by Tenneco Oil Company and sunk October 3, 1985 off Hallandale Beach by the Broward County Artificial Reef Program. Three platforms within recreational limits have top decks at approximately 60, 80, and 100 feet (18, 24, 30m); two deeper platforms sit at roughly 185-205 feet for technical divers. Aligned east-west. Hurricane Andrew (1992) tilted the deep platforms to approximately 45 degrees. Advanced Open Water certification required."
+      "validation_source": "scubadivinginmiami.com,florida-scubadiving.com,duikersgids.nl,wflx.com,platformresearch.msi.ucsb.edu",
+      "last_qa_date": "2026-10-02",
+      "description": "Artificial reef of decommissioned Gulf of Mexico oil platforms placed October 1985 off Hallandale Beach/Fort Lauderdale. Top decks of the recreational platforms at about 60, 80 and 100 ft; deepest platforms around 200 ft. Sources disagree on whether three or five rigs were donated. Some platforms lean about 45 degrees after Hurricane Andrew (1992)."
     }
   },
   {
@@ -191,9 +192,10 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "diversparadise.miami,southfloridadiving.com,greatestdivesites.com",
-      "last_qa_date": "2026-06-30",
-      "description": "Shallow reef and ledge system north of Miami near Haulover Inlet, typically run as a drift dive. Part of the broader Haulover Artificial Reef complex. Depths range from 20-40 feet (6-12m) along the main ledge. The nearby Deep Trench — a 1920s-era waste outfall pipe cut — drops from approximately 48 to 60 feet and provides current relief. Boat dive only; strong tidal currents — SMB essential. Snapper, grouper, hogfish, moray eels, and spiny lobster common."
+      "validation_source": "diversparadise.miami,scubadivinginmiami.com,southfloridadiving.com",
+      "last_qa_date": "2026-10-02",
+      "description": "Dataset entry for the reef area off Haulover Inlet (boat dive). No source consulted lists a site by this exact name; neighboring documented sites include Pete's Reef (~42 ft), Rock Pile (~30 ft) and Deep Trench (48-60 ft).",
+      "qa_note": "2026-10-02 re-audit: no source found for a dive site named 'Haulover Ledge'; description limited to neighboring named sites. Needs a source or renaming."
     }
   },
   {
@@ -208,9 +210,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubadivinginmiami.com,active-divers.org,florida-scubadiving.com,neptunesociety.com",
-      "last_qa_date": "2026-06-30",
-      "description": "Atlantis-themed underwater memorial reef approximately 3.25 miles offshore from Key Biscayne at 40 feet (12m) depth. Functions as an underwater cemetery for cremated remains and as a living reef habitat. Accessible for beginner divers. Boat dive only; mooring buoys on site. Great barracuda, southern stingrays, moray eels, and spiny lobster are regularly reported."
+      "validation_source": "scubadivinginmiami.com,active-divers.org,florida-scubadiving.com",
+      "last_qa_date": "2026-10-02",
+      "description": "Atlantis-themed underwater memorial and artificial reef 3.25 miles east of Key Biscayne in about 40-45 ft of water, boat access only. Reported marine life includes barracuda, southern stingrays, green moray eels, spiny lobsters and long-spined sea urchins."
     }
   },
   {
@@ -225,9 +227,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "southfloridadiving.com,browardpalmbeach.com,freedomtourtravel.com,scubaboard.com",
-      "last_qa_date": "2026-06-30",
-      "description": "Part of Broward County's artificial reef program. The main feature is the Rapa Nui Reef, a 150-foot steel barge deployed June 7, 2015 approximately one mile off Deerfield Beach Pier at 67-75 feet (20-23m). The barge rolled during the controlled sinking, overturning onto the 15 concrete Moai sculptures (6-22 feet tall) created by artist Dennis MacDonald, funded by philanthropist Margaret Blume. The inverted hull rises approximately 9 feet off the sand and supports dense fish life and coral growth."
+      "validation_source": "southfloridadiving.com,browardpalmbeach.com,scubaboard.com,floridagofishing.com",
+      "last_qa_date": "2026-10-02",
+      "description": "Rapa Nui Reef: a 150-ft barge that flipped when sunk on June 7, 2015 off Deerfield Beach and crushed most of its Moai-style sculptures; lies inverted in about 67 ft, rising 9 ft. Anchor or drift dive in 50-70 ft."
     }
   },
   {
@@ -242,9 +244,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "goldcoastscuba.net,force-e.com,discoverlbts.com,lauderdalebythesea-fl.gov",
-      "last_qa_date": "2026-06-30",
-      "description": "Primary beach entry for Lauderdale-by-the-Sea shore diving via Datura Avenue at El Mar Drive. First reef line 100-400 feet from shore at 12-20 feet depth. The Shipwreck Snorkel Trail (dedicated 2002 by Jean-Michel Cousteau and the Marine Archaeological Council) sits in approximately 8-10 feet of water with five concrete replica cannons, a concrete anchor, and a ballast pile. Tank rack and freshwater rinse on the beach. Metered parking via PayByPhone."
+      "validation_source": "lauderdalebythesea-fl.gov,discoverlbts.com,goldcoastscuba.net,force-e.com",
+      "last_qa_date": "2026-10-02",
+      "description": "Datura Avenue beach portal in Lauderdale-by-the-Sea: shore entry to nearshore reef lines about 100-400 ft out at roughly 8-20 ft, plus the 2002 Shipwreck Snorkel Trail in about 10 ft. Tank rack on the beach, metered parking."
     }
   },
   {
@@ -257,22 +259,26 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated_research",
-      "notes": "BOUNDS FLAG: lat 26.956 exceeds current south-florida destination bounds (max 26.7) - Jupiter is north of the existing bounding box; expand bounds or treat as a separate Treasure Coast/Jupiter destination. Three-wreck drift site; major Goliath grouper spawning aggregation (Aug-Sep), lemon sharks Jan-Feb. Esso Bonaire cabin area enterable but requires wreck-diving training - lower compartments should not be entered.",
-      "validation_source": "americandivers.net,padi.com,florida-scubadiving.com"
+      "notes": "Three-wreck drift site off Jupiter: Zion Train (164 ft Dutch-built freighter, scuttled June 2003, broken up by 2004 hurricanes), Miss Jenny (inverted barge) and Esso Bonaire (146 ft, sunk 1980s, upright), in roughly 80-90 ft. Goliath grouper aggregation Aug-Sep (counts vary widely by source); lemon sharks Jan-Feb.",
+      "validation_source": "reefsmartguides.com,padi.com,scubaverse.com,divepbc.com,divespots.com,florida-scubadiving.com,undercurrent.org",
+      "validated": "true",
+      "last_qa_date": "2026-10-02"
     }
   },
   {
     "name": "Juno Ledge",
     "lat": 26.87053,
     "lon": -80.01917,
-    "depth": 27,
+    "depth": 28,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated_research",
-      "notes": "BOUNDS FLAG: lat 26.871 exceeds current south-florida destination bounds (max 26.7) - see Jupiter Wreck Trek note. ~2-mile limestone ledge with 15-20ft drop-offs; large lemon shark aggregations Dec-Mar (50+), spotted eagle rays, occasional hammerhead/tiger shark sightings.",
-      "validation_source": "scuba.com,florida-scubadiving.com,underwaterjournal.com"
+      "notes": "Multi-mile limestone ledge off Juno Beach/Jupiter. Reported depths about 65-93 ft (one forum report to ~130 ft); ledge height reported as 6-15 ft or about 20 ft depending on source. Boat drift dive; lemon sharks reported, with winter aggregations of 50+ (Dec-Mar) per one source.",
+      "validation_source": "scuba.com,underwaterjournal.com,scubaboard.com",
+      "validated": "true",
+      "last_qa_date": "2026-10-02"
     }
   },
   {
@@ -285,22 +291,26 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated_research",
-      "notes": "258-ft Dutch freighter seized by U.S. Customs 1999 (10,000+ lbs cocaine), sunk 2001 off Boynton Beach. Year-round Goliath grouper site (20-30 present, 100+ during Aug-Oct spawning).",
-      "validation_source": "southfloridadiving.com,scubadiverlife.com,divers-hub.com"
+      "notes": "Dutch-built freighter (1970, ex-Dorothee Bos), 258 ft per most sources (238 ft per one), seized by U.S. Customs 1999 with over 10,000 lbs of cocaine aboard, sunk December 14, 2001 off Boynton Beach in about 80-118 ft. Goliath grouper site; spawning month differs by source.",
+      "validation_source": "southfloridadiving.com,scubadiverlife.com,divepbc.com,floridagofishing.com",
+      "validated": "true",
+      "last_qa_date": "2026-10-02"
     }
   },
   {
     "name": "Boca Artificial Reef Ledge",
     "lat": 26.328,
     "lon": -80.0598,
-    "depth": 21,
+    "depth": 25,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated_research",
-      "notes": "Natural ledge off Boca Raton plus 20 supplemental concrete 'Erojacks' (some hurricane-displaced). Drift dive; angelfish, chub, barracuda, lobster, occasional goliath grouper/hammerhead reported.",
-      "validation_source": "southfloridadiving.com,divebuddy.com"
+      "notes": "Natural west-facing ledge off Boca Raton with an undercut more than 10 ft high, plus about 19-20 concrete Erojacks (some displaced by Hurricane David and later storms). Reported depth 40-82 ft depending on source. Reef/drift dive.",
+      "validation_source": "aqualifedivers.com,florida-scubadiving.com,floridagofishing.com,wou.edu",
+      "validated": "true",
+      "last_qa_date": "2026-10-02"
     }
   },
   {
@@ -313,8 +323,10 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated_research",
-      "notes": "Overturned hopper barge off Boca Raton carrying ~1,600 tons of drainage culverts, deployed after a legal settlement over reef damage from dredging. Stacked culvert pipes create swim-through structure.",
-      "validation_source": "florida-scubadiving.com,southfloridadiving.com,scubaboard.com"
+      "notes": "171-ft hopper barge sunk off Boca Inlet carrying concrete culverts (about 1,500-1,600 tons depending on source), donated as part of a fine on a dredging company. Flipped on sinking; rests upside down in about 50-70 ft.",
+      "validation_source": "southfloridadiving.com,florida-scubadiving.com,reefsmartguides.com,floridagofishing.com",
+      "validated": "true",
+      "last_qa_date": "2026-10-02"
     }
   },
   {
@@ -327,8 +339,10 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated_research",
-      "notes": "194-ft freighter (built Hamburg 1952) that famously grounded on a Palm Beach seawall in the 1984 'Mollie Wilmot' storm incident before being sunk as a reef in 1985. Twisted into two pieces; penetration carries entanglement risk and requires training.",
-      "validation_source": "southfloridadiving.com,florida-scubadiving.com,divebuddy.com"
+      "notes": "194-ft freighter (Hamburg 1952, ex-Jacob Rusch; some sources say 197 ft) that grounded on a Palm Beach seawall on November 23, 1984 and was scuttled off Fort Lauderdale on March 30, 1985 in about 97 ft. Now broken and twisted after storms; entanglement hazard.",
+      "validation_source": "wikipedia.org,southfloridadiving.com,padi.com,seaxp.com,reefsmartguides.com",
+      "validated": "true",
+      "last_qa_date": "2026-10-02"
     }
   },
   {
@@ -341,8 +355,10 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated_research",
-      "notes": "Former U.S. Coast Guard cutter (1934, WWII rescue/anti-submarine duty, later a restaurant vessel), sunk 1991 off Deerfield Beach. Resident large Goliath grouper commonly found in the wheelhouse.",
-      "validation_source": "southfloridadiving.com,wreckwiki.com,freedomtourtravel.com"
+      "notes": "Former U.S. Coast Guard cutter Nemesis (WPC-111), 165 ft, launched July 7, 1934 (one list says 1933); WWII sub-chaser/escort; later a floating restaurant (dates differ by source); sunk June 9, 1991 off Deerfield Beach in about 70 ft. Goliath grouper reported in the wheelhouse.",
+      "validation_source": "southfloridadiving.com,wreckwiki.com,aqualifedivers.com,floridagofishing.com",
+      "validated": "true",
+      "last_qa_date": "2026-10-02"
     }
   },
   {
@@ -355,8 +371,10 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated_research",
-      "notes": "62-ft tug (built 1940 as A.L. Spencer, used to tow Bahamas sand barges), sunk 1987; near the Ancient Mariner.",
-      "validation_source": "southfloridadiving.com,scubasouthflorida.com"
+      "notes": "Small steel tug A.L. Spencer (built 1940; 62-65 ft depending on source) that towed sand barges from the Bahamas; sunk as an artificial reef off Deerfield Beach (single-source date August 15, 1987) in about 65-70 ft, upright, bow south, near the Ancient Mariner.",
+      "validation_source": "southfloridadiving.com,floridagofishing.com,aqualifedivers.com,wou.edu",
+      "validated": "true",
+      "last_qa_date": "2026-10-02"
     }
   },
   {
@@ -369,8 +387,10 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated_research",
-      "notes": "215-ft Dutch freighter sunk 1990 off Pompano Beach for the 25th Pompano Beach Fishing Rodeo. Twin masts rise 68ft from wheelhouse; forward mast has since fallen to starboard.",
-      "validation_source": "southfloridadiving.com,wreckwiki.com,florida-scubadiving.com"
+      "notes": "215-ft Dutch freighter (launched 1956 as Nore; several later names) sunk May 12, 1990 off Pompano Beach for the Pompano Beach Fishing Rodeo's 25th anniversary. About 80-126 ft; shifted onto starboard side by storms (Irma 2017 per one source).",
+      "validation_source": "southfloridadiving.com,wreckwiki.com,aqualifedivers.com,reefsmartguides.com",
+      "validated": "true",
+      "last_qa_date": "2026-10-02"
     }
   },
   {
@@ -383,8 +403,10 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated_research",
-      "notes": "131-ft vessel seized by U.S. Customs for drug trafficking, deployed 1999 off Fort Lauderdale as part of the 'Wreck Trek'. Memorial plaque to dive instructor Ken Vitale.",
-      "validation_source": "southfloridadiving.com,divebuddy.com,oceanwideexplorers.com"
+      "notes": "131-ft former oil-rig supply vessel seized by U.S. Customs for drug trafficking and sunk as an artificial reef off Fort Lauderdale (March 2, 1999 per one source; 1998 per another) in about 55-72 ft. Plaque honors dive instructor Ken Vitale; part of the Fort Lauderdale wreck trek.",
+      "validation_source": "southfloridadiving.com,duikersgids.nl,padi.com,seaxp.com",
+      "validated": "true",
+      "last_qa_date": "2026-10-02"
     }
   },
   {
@@ -397,8 +419,10 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated_research",
-      "notes": "19 steel-and-concrete pyramid structures built from decommissioned Radio Mambi broadcast tower sections, deployed 1988 off Miami Beach.",
-      "validation_source": "divespots.com,florida.greatestdivesites.com"
+      "notes": "Steel-and-concrete pyramids built from Radio Mambi broadcast tower sections and sunk in 1988 off Miami Beach, about 50 ft deep, about 20 ft tall each; reported as 19 pyramids by two sources and 15 by one county-list entry. Also called Ben's Antenna Reef.",
+      "validation_source": "divespots.com,diversparadise.miami,floridagofishing.com",
+      "validated": "true",
+      "last_qa_date": "2026-10-02"
     }
   },
   {
@@ -411,8 +435,10 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated_research",
-      "notes": "Shallow reef surrounding the 1876 Fowey Rocks Lighthouse at the north edge of Biscayne National Park; scattered remains of the Arratoon Apcar nearby.",
-      "validation_source": "florida.greatestdivesites.com,en.wikipedia.org"
+      "notes": "Shallow reef around the Fowey Rocks Lighthouse (completed 1878) in Biscayne National Park, average depth about 15 ft, boat access only. The Arratoon Apcar was lost in 1878 a few hundred yards from the lighthouse construction site.",
+      "validation_source": "wikipedia.org,nps.gov,snorkelaroundtheworld.com",
+      "validated": "true",
+      "last_qa_date": "2026-10-02"
     }
   },
   {
@@ -425,8 +451,10 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated_research",
-      "notes": "20-module artificial reef ~1 mile off Hollywood Beach, part of the '1000 Mermaids' reef project; 5 of the 20 modules are sculptural pieces.",
-      "validation_source": "hollywoodfl.org,1000mermaids.com,atlasobscura.com"
+      "notes": "20-module 1000 Mermaids artificial reef deployed off Hollywood Beach on about October 31-November 1, 2022, in 35-40 ft of water about 1 mile offshore per the city (another source says a few miles southeast of Port Everglades); 5 of 20 modules are sculptures.",
+      "validation_source": "hollywoodfl.org,1000mermaids.com,guiceoffshore.com",
+      "validated": "true",
+      "last_qa_date": "2026-10-02"
     }
   }
 ]

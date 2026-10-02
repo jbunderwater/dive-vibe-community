@@ -13,11 +13,19 @@ addedBy: osm_import
 
 ## Haulover Ledge
 
-Haulover Ledge is a reef dive site in South Florida, North America.
+Haulover Ledge is a dataset entry for the reef area off Haulover Inlet north of Miami; no source consulted lists a dive site under exactly this name, so details below are drawn from named neighboring sites.
 
 ## Overview
 
-Shallow reef and ledge system in the Haulover area north of Miami, part of the broader Haulover Artificial Reef complex. Depths range from 20-40 feet (6-12m) along the main ledge. Strong tidal currents make this an intermediate-level site best suited for current-aware divers. The nearby Deep Trench — a 1920s-era waste outfall pipe cut dropping from 48 to 60 feet — provides current relief and shelter. Boat dive only from Haulover Marina.
+This QA pass could not find a dive site named "Haulover Ledge" in the operator and database sources consulted, so the entry's depth range (about 20-40 feet) and ledge description are not confirmed. What the sources do document is a cluster of low-profile reefs and outfall-pipe cuts north of Haulover Inlet that local operators run as boat dives:
+
+- **Pete's Reef (about 42 ft):** a low-profile shelf reef in North Miami, about 10 minutes north of Haulover Inlet (Diver's Paradise).
+- **Rock Pile (about 30 ft):** a rock-covered outfall pipe with about 15 feet of relief, running east-west (Diver's Paradise).
+- **Deep Trench:** cut through the reef line for a waste outfall pipe in the 1920s, 15-20 feet wide, running east-west, with the bottom at 48 feet dropping to 60 feet; no longer in use (Squalo Divers; Diver's Paradise).
+- **South Deep Trench (about 60 ft):** an old dredge cut with a large green moray (Diver's Paradise).
+- **Sunny Isles Reef Site:** north of Haulover Inlet, with wreck material (Diver's Paradise).
+
+South Florida Diving Headquarters notes that most reefs and prevailing currents on this coast run parallel to shore, which makes drift diving the usual method.
 
 ## Site Information
 
@@ -29,23 +37,16 @@ Shallow reef and ledge system in the Haulover area north of Miami, part of the b
 
 ## Marine Life
 
-The Haulover-area ledges and low-profile shelf reefs north of the inlet hold typical southeast Florida reef tract species — snapper, roaming grouper, and hogfish along the ledge edges, with tropicals, moray eels, and Caribbean spiny lobster sheltering in the undercuts. Larger predators move along the reef line, and the nearby Deep Trench cut is known to occasionally host sharks.
-
-## Dive Profile
-
-This is a low-profile ledge system running roughly parallel to shore at depths in the 20–40 foot range. Local operators typically run it as a drift dive, dropping divers up-current and recovering them down-reef, taking advantage of the prevailing north-south current that parallels the coastline. The nearby Deep Trench — a 1920s-era waste outfall pipe cut, 15-20 feet wide, running east-west — drops from 48 to 60 feet and provides current relief and a refuge from stronger drift conditions. A South Deep Trench (smaller, 60 ft) also exists nearby.
+No site-specific reports were found for "Haulover Ledge" itself. For neighboring sites: Squalo Divers lists tropical fish, eels, lobster and an occasional nurse shark at Deep Trench; Diver's Paradise reports nurse sharks sleeping in crevices at Rock Pile, lobster and grouper at Pete's Reef, and a large green moray in the South Deep Trench. Earlier text on this page listing snapper, hogfish and other species for a "Haulover ledge" could not be traced to a source and has been removed.
 
 ## Entry and Exit
 
-Boat dive only, typically out of Haulover Marina. Operators run negative-entry drops on busy current days and recover divers via surface marker buoy at the end of the drift. The site sits about 10 minutes' run north of Haulover Inlet.
-
-## Tips and Recommendations
-
-A surface marker buoy and reel are standard kit here — the prevailing parallel current makes drift profiles the default, and SMBs make pickup safer in the busy water north of the inlet. Carry a backup signaling device (whistle or mirror). For divers less confident in current, ask the captain about working the Deep Trench cut where the reef geometry breaks the flow.
+Boat dive, from Haulover/North Miami area operators (Diver's Paradise describes Pete's Reef as 10 minutes north of Haulover Inlet). Squalo Divers lists Deep Trench as Open Water level and good for night diving.
 
 ## Safety Considerations
 
-The waters off Haulover are heavily trafficked: this is the only ocean inlet between Government Cut and Port Everglades, and recreational boats, fishing vessels, and jet skis transit constantly. Surface profile management and SMB use are essential — never surface without one. Currents in the broader area are strong and tied to the nearby Gulf Stream; conditions can change quickly with tide changes. Florida sun and dehydration are real factors on long surface intervals. Watch for fire coral on the ledge faces and avoid contact with hydroid-encrusted surfaces.
+- The area is busy with boat traffic; carry an SMB.
+- Do not assume the dataset's 20-40 foot depth range applies to the trench sites, which reach 48-60 feet.
 
 ---
-*Sources: [Diver's Paradise - DP Dive Sites](https://diversparadise.miami/divesites/), [Squalo Divers - Deep Trench](https://www.scubadivinginmiami.com/sites/deep-trench/), [Greatest Dive Sites - Haulover Artificial Reef Site](https://florida.greatestdivesites.com/miami/haulover_artificial_reef_site), [South Florida Diving Headquarters - Shallow Reefs](https://www.southfloridadiving.com/shallow-reefs/). Last updated 2026-06-30.*
+*Sources: [Diver's Paradise Miami — Dive Sites](https://diversparadise.miami/divesites/), [Squalo Divers — Deep Trench](https://www.scubadivinginmiami.com/sites/deep-trench/), [South Florida Diving Headquarters — Shallow Reefs](https://www.southfloridadiving.com/shallow-reefs/). Last updated 2026-10-02.*
