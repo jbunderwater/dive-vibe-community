@@ -2,7 +2,7 @@
 name: Neptune Islands North
 lat: -35.2333
 lng: 136.0656
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 2
 entryType: boat
 siteType: reef
@@ -13,45 +13,29 @@ addedBy: osm_import
 
 ## Neptune Islands North
 
-Premier surface cage diving site for great white shark encounters with no diving certification required.
+Surface cage dive for great white sharks in the Neptune Islands Group, South Australia.
 
 ## Overview
 
-Neptune Islands North is a surface cage diving site in the Neptune Islands Group, South Australia, offering unparalleled opportunities to observe great white sharks from above-water cages in their natural habitat. Located approximately 2 meters below the surface in sheltered Main Bay, this site requires no prior diving certification and accommodates divers and non-divers alike.
+The Neptune Islands are two island groups (North and South) at the entrance to Spencer Gulf, reached by charter from Port Lincoln ([Wikipedia - Neptune Islands](https://en.wikipedia.org/wiki/Neptune_Islands), [Marine Parks SA - Neptune Islands Group Marine Park](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands)). Surface cage diving takes place at about 2 m, with no diving certification required ([Wikivoyage - Shark cage diving at the Neptune Islands](https://en.wikivoyage.org/wiki/Diving_in_South_Australia/Shark_cage_diving_at_the_Neptune_Islands)). [Bluewater Dive Travel - South Australia 2025 Trip Recap](https://www.bluewaterdivetravel.com/article/south-australia-trip-recap-2025) describes the surface cage as using a hookah system. The Neptune Islands are the only place in Australia where shark cage diving is permitted ([Wikivoyage - Shark cage diving at the Neptune Islands](https://en.wikivoyage.org/wiki/Diving_in_South_Australia/Shark_cage_diving_at_the_Neptune_Islands), [Marine Parks SA - Neptune Islands Group Marine Park](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands)).
+
+No reviewed source states that the surface cage is anchored specifically at North Neptune; the experience is documented for the Neptune Islands group as a whole.
 
 ## Site Information
 
-- **Location**: Neptune Islands, 40 nautical miles south of Port Lincoln, South Australia
+- **Location**: North Neptune Islands group, off Port Lincoln, South Australia (about 35-40 nautical miles by sea, roughly 2.5-3 hours by boat according to operator-linked sources)
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Beginner
-- **Depth**: 2 meters (cage floats at surface)
-- **Water Temperature**: 14-22°C (57-72°F) — coldest June-August, warmest December-May
+- **Difficulty Level**: Intermediate
+- **Depth**: about 2 m (surface cage; [Wikivoyage - Shark cage diving at the Neptune Islands](https://en.wikivoyage.org/wiki/Diving_in_South_Australia/Shark_cage_diving_at_the_Neptune_Islands))
 
 ## Marine Life
 
-Great white sharks (primarily males year-round, large females arriving approximately April–August when seal pups enter the water), Australian sea lions, long-nosed fur seals. Trevally have been reported passing near the cage area. The surface cage offers limited fish viewing compared to the ocean-floor cage; encounters from the surface primarily focus on sharks and marine mammals. Note: cuttlefish are not confirmed at Neptune Islands — their well-known SA aggregation occurs at Whyalla in Spencer Gulf.
+Great white sharks are the target species of cage diving at the Neptune Islands ([Bluewater Dive Travel - South Australia 2025 Trip Recap](https://www.bluewaterdivetravel.com/article/south-australia-trip-recap-2025), [Wikivoyage - Shark cage diving at the Neptune Islands](https://en.wikivoyage.org/wiki/Diving_in_South_Australia/Shark_cage_diving_at_the_Neptune_Islands), [Marine Parks SA - Neptune Islands Group Marine Park](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands)). Rodney Fox reports males year-round and larger females in the April-August winter period ([Rodney Fox Shark Expeditions](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/)). These are group-level reports, not specific to this location. No other site-specific species reports were found.
 
-## Dive Profile
+## Practical Notes
 
-Divers enter a surface cage that remains at approximately 2 meters depth, allowing natural light and clear views of passing great white sharks. The cage is tethered to the dive boat in Main Bay's sheltered waters. Typical cage diving duration is 60-90 minutes with 3-4 cages providing concurrent views. Activity depends on seasonal shark presence and bait deployment.
-
-## Entry and Exit
-
-No diving required. Divers and non-divers enter the cage via the boat's cage platform. Breathing air is supplied via snorkel or surface-supplied regulator inside the cage. Exit is controlled return to the boat via the same platform. No buoyancy compensation or decompression procedures needed.
-
-## Tips and Recommendations
-
-- Book 3-5 days advance with licensed operators (Rodney Fox, Calypso Star Charters)
-- Wear a 5mm wetsuit minimum for 14-22°C water; 7mm semi-dry recommended for cold sensitivity
-- Best shark activity typically occurs early morning or during bait deployment cycles
-- Bring a waterproof camera for iconic great white encounter photography
-- Check weather forecasts; rough seas occasionally limit cage operations
-- May-October offers peak shark encounters, though year-round diving is viable
-
-## Safety Considerations
-
-Great white sharks are naturally cautious; cage diving prioritizes observer safety with secure cage construction and professional guide supervision. Respect all operator safety briefings and stay within designated cage areas. Surface cage diving has minimal decompression risks compared to submerged diving. Always verify operator licensing and safety records before booking.
+Cage diving is conducted from a licensed operator vessel; guests are not permitted to exit the cages ([Wikivoyage - Shark cage diving at the Neptune Islands](https://en.wikivoyage.org/wiki/Diving_in_South_Australia/Shark_cage_diving_at_the_Neptune_Islands)). Sources disagree on the number of operators: Wikivoyage lists three (Adventure Bay Charters, Calypso Star Charters, Rodney Fox Shark Expeditions), while a 2026 web search summary lists two currently licensed (liveaboard MV Rodney Fox and Calypso Star day trips). Confirm with the operator. No site-specific water temperature, visibility, or current data were found.
 
 ---
-*Sources: [Rodney Fox Shark Expeditions](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [Neptune Islands – Wikipedia](https://en.wikipedia.org/wiki/Neptune_Islands), [Marine Parks SA – Neptune Islands](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands), [DAN Alert Diver – South Australia Great White Sharks](https://dan.org/alert-diver/article/south-australias-great-white-shark-adventure/), [Wikivoyage – Shark cage diving at the Neptune Islands](https://en.wikivoyage.org/wiki/Diving_in_South_Australia/Shark_cage_diving_at_the_Neptune_Islands). Last updated 2026-05-17.*
+*Sources: [Rodney Fox Shark Expeditions](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [Wikipedia - Neptune Islands](https://en.wikipedia.org/wiki/Neptune_Islands), [Marine Parks SA - Neptune Islands Group Marine Park](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands), [Wikivoyage - Shark cage diving at the Neptune Islands](https://en.wikivoyage.org/wiki/Diving_in_South_Australia/Shark_cage_diving_at_the_Neptune_Islands), [Bluewater Dive Travel - South Australia 2025 Trip Recap](https://www.bluewaterdivetravel.com/article/south-australia-trip-recap-2025). Last updated 2026-10-02.*

@@ -17,13 +17,15 @@ Conch dive site is a historic wreck dive in Sri Lanka, Asia.
 
 ## Overview
 
-The SS Conch was a 3,555-ton British-built steam tanker, one of Shell's pioneering "Conch"-class bulk oil tankers, completed in 1892 by W. Gray & Co. of Stockton (dimensions recorded as roughly 338 x 43 x 26 feet). While carrying a cargo of several thousand tons of bulk oil from Novorossisk toward Madras, she struck a rock off Akurala village (between Ambalangoda and Hikkaduwa) and sank. Sources disagree on the exact date — some give June 2, 1903, others June 3, 1903 — and the rock/reef itself is referred to inconsistently across sources (variously "Akurala rock," "Akarta rock," or "Parsi/Passa gala rock"). Multiple sources agree the vessel broke in two as she went down. One historical-archive source notes there was reportedly "clear evidence" the disaster involved an explosion or dynamite, but this claim appears in only one source and could not be independently corroborated, so it is noted here as unconfirmed rather than fact.
+The SS Conch was a steam oil tanker built in 1892 by W. Gray & Co. (archaeology.lk and the Dutch Cultural Heritage Agency both say Stockton; PADI says built "for Shell"). It is described as one of the world's first oil tankers. Archaeology.lk and the Dutch agency give 3,555 tons, but both cite the same archival record (Merseyside Maritime Museum), so this is effectively a single-origin figure; hull dimensions are omitted for the same reason. She struck a rock off Akurala village (between Ambalangoda and Hikkaduwa) in 1903 and sank, reportedly breaking in two.
 
-Reported depths vary by section of the wreck — sources describe roughly 14 meters near the bow and up to 21 meters near the stern, where the hull rests on its port side. The wreck is described by dive operators as well preserved, with penetration into the cabin reportedly possible; as with any wreck penetration, this requires proper wreck-diving training and equipment and carries real risk regardless of how intact the structure appears.
+Sources disagree on several points. Sinking date: June 3, 1903 (archaeology.lk, Dutch Cultural Heritage Agency, life.lk) versus June 2, 1903 (PADI). Route: Colombo to Madras (archaeology.lk, Dutch agency) versus Novorossisk and Colombo to Madras (life.lk). The rock is named variously Akurala/Akkurala, Akurata or similar. Archaeology.lk states that the underwater examination found "clear evidence" of explosion/dynamite; no other formal source confirms this and an informal diving blog says only that she "either sunk or was dynamited," so cause beyond striking rock is unresolved.
+
+Depth: archaeology.lk and the Dutch agency give about 14 m at the bow and 21 m at the stern; Eco Team gives 14-22 m, the Sri Lanka National Shipwreck Database lists 8-20 m, and an older Lakdiva article describes the hull upside down at about 40 ft (12 m). The wreck is described as lying on its port side with a half-buried propeller and large boilers visible. PADI says penetration into the cabin is possible; any penetration requires proper wreck training and equipment and carries real risk.
 
 ## Marine Life
 
-Grouper and napoleon (humphead) wrasse are specifically reported at this wreck by more than one source, including PADI's own site listing. Other species named in some dive-blog write-ups (e.g., "queen angelfish," a species not native to the Indian Ocean) could not be corroborated for this site and are not included here, as they may reflect copy-paste errors circulating between aggregator sites rather than actual observations.
+Groupers are reported at this wreck by PADI and by a Lakdiva account of the site. Archaeology.lk notes fish sheltering inside the inverted hull section without naming species. Other species lists on aggregator pages (including PADI's own listing) were not corroborated by a second independent source and are not repeated here.
 
 ## Site Information
 
@@ -34,4 +36,4 @@ Grouper and napoleon (humphead) wrasse are specifically reported at this wreck b
 - **Maximum Depth**: 20 meters
 
 ---
-*Sources: [Sri Lanka Archaeology - SS Conch: A Wreck with a Reputation](https://www.archaeology.lk/ss-conch-a-wreck-with-a-reputation/), [PADI - S S Conch dive site](https://www.padi.com/dive-site/sri-lanka/s-s-conch/), [Cultureel Erfgoed (Dutch Cultural Heritage Agency) - SS Conch](https://mass.cultureelerfgoed.nl/ss-conch). Last updated 2026-07-03.*
+*Sources: [Sri Lanka Archaeology - SS Conch: A Wreck with a Reputation](https://www.archaeology.lk/ss-conch-a-wreck-with-a-reputation/), [PADI - S S Conch dive site](https://www.padi.com/dive-site/sri-lanka/s-s-conch/), [Dutch Cultural Heritage Agency - SS Conch](https://mass.cultureelerfgoed.nl/ss-conch), [Lakdiva - Underwater Attractions](https://coins.lakdiva.org.lk/clarke/greatbasses/underwater.html), [life.lk - Maritime Wrecks in Lankan Waters](https://www.life.lk/article/top_story/Maritime-Wrecks-in-Lankan-Waters/28/19215). Last updated 2026-10-02.*

@@ -3,7 +3,7 @@ name: Shark Alley Gansbaai
 lat: -34.6
 lng: 19.35
 difficulty: Beginner
-maxDepth: 8
+maxDepth: 11
 entryType: boat
 siteType: beach
 ref: null
@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Shark Alley Gansbaai
 
-Shark Alley Gansbaai is a beach dive site in South Africa, Africa.
+Shark Alley is the narrow channel between Dyer Island and Geyser Rock near Gansbaai, used for great white shark cage diving.
 
 ## Overview
 
-Shark Alley is the narrow channel between Dyer Island and Geyser Rock near Gansbaai, home to a 60,000-strong Cape fur seal colony that attracts one of the world's densest concentrations of great white sharks. This is cage diving territory — divers descend in a surface cage just meters below the waterline, making scuba certification unnecessary, while the sharks cruise past drawn by the seal activity. Peak season runs April through October when young pups become easy targets and shark activity is at its highest.
+South African Tourism and City Sightseeing both describe Shark Alley as a narrow channel between Dyer Island and Geyser Rock a few kilometres south of Gansbaai, and say divers do not need scuba qualification because the cage floats with part of it above water. Both give the seal colony as about 50,000 Cape fur seals; another source cites 60,000, so figures conflict. South African Tourism reports peak shark activity from June to September.
+
+A Shark Watch SA trip report logged a depth of 10.8 m, water temperature of 15.7 C and visibility of 4 m on that day; these are single-trip figures, not typical values. The "beach dive" site type in the data is inaccurate, but none of the allowed types fits cage diving.
 
 ## Site Information
 
@@ -25,7 +27,11 @@ Shark Alley is the narrow channel between Dyer Island and Geyser Rock near Gansb
 - **Entry Type**: Boat dive
 - **Site Type**: Beach dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 8 meters
+- **Maximum Depth**: 11 meters
+
+## Marine Life
+
+South African Tourism and City Sightseeing report great white sharks and Cape fur seals; South African Tourism also notes sea birds and southern right whales in season, and City Sightseeing mentions bronze whalers. The Shark Watch SA report logged great whites, Cape fur seals and African penguins on one trip.
 
 ---
-*Sources: [SCUBA Travel - Diving South Africa](https://www.scubatravel.co.uk/africa/diving-south-africa.html), [Bluewater Dive Travel - South Africa](https://www.bluewaterdivetravel.com/destination/south-africa-diving), [Coral Divers Sodwana Bay](https://coraldivers.co.za/), [PADI - Diving Sodwana Bay](https://www.padi.com/diving-in/south-africa/sodwana-bay/), [Ikelite - Aliwal Shoal Guide](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-aliwal-shoal-south-africa). Last updated 2026-04-04.*
+*Sources: [South African Tourism - Shark Alley](https://southafrica.net/uk/en/travel/article/shark-alley-s-marine-safari), [City Sightseeing - Shark Zone cage diving](https://citysightseeing.co.za/en/cape-town/great-white-shark-cage-diving-with-shark-zone), [Shark Watch SA - Gansbaai trip report](https://sharkwatchsa.com/great-white-shark-cage-diving-gansbaai-20/). Last updated 2026-10-02.*

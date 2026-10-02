@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Devil's Caves
 
-Devil's Caves (also listed elsewhere as Devil's Caverns) sits at the south tip of Nevis, a swim-through site with a maximum depth of about 12 metres offering the thrill of cavern exploration without a technical dive.
+Devil's Caves (listed by one source as Devil's Caverns) is a Nevis site with several swim-throughs and a maximum depth of about 12 metres.
 
 ## Overview
 
-Devil's Caves is at the south tip of Nevis, roughly a 20-minute boat ride from the Four Seasons resort, according to Frommer's (content accessed via search index; the site returns an HTTP 403 error to direct automated fetching, so this is treated as a lower-confidence source pending direct verification). Frommer's describes a series of coral grottoes suitable for both certified and resort divers. Active Caribbean Travel independently and directly confirms the site (listed there as "Devil's Caverns"): several swim-throughs with a maximum depth of 40ft (12m), among corals and sea fans. Earlier versions of this page described the location as "north of Charlestown on Nevis's west coast" with glassy sweepers, blue tang, nurse sharks, and blacktip reef sharks — none of this could be traced to a reliable source and appears to conflict geographically with the Frommer's-confirmed south-tip location, so it has been removed.
+Active Caribbean Travel lists Devil's Caverns on Nevis as a site with several swim-throughs, a maximum depth of 40 ft (12 m), corals, sea fans and tropical fish. liveaboard.com lists 'The Caves' with grottos and swim-throughs up to 40 ft. Location is inconsistent: Frommer's (not retrievable) was earlier cited for the south tip of Nevis, while a travel article places the site on the southwest coast. Only two independent sources were found, and names differ between them, so this entry is unverified. Swim-throughs are overhead environments and require appropriate training.
 
 ## Site Information
 
-- **Location**: South tip of Nevis
+- **Location**: Nevis (south or southwest; sources conflict)
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
@@ -29,7 +29,7 @@ Devil's Caves is at the south tip of Nevis, roughly a 20-minute boat ride from t
 
 ## Marine Life
 
-Frommer's reports squirrelfish, turtles, and needlefish among the coral grottoes here. Active Caribbean Travel confirms tropical fish among the corals and sea fans without naming specific species. Broader Nevis reef fauna should be expected beyond this, but has not been specifically documented at this site.
+liveaboard.com lists barracuda, lobster, turtles and squirrelfish at 'The Caves'. Active Caribbean Travel names no species.
 
 ---
-*Sources: [Frommer's - Active Pursuits in St. Kitts](https://www.frommers.com/destinations/st-kitts/active-pursuits-in-st-kitts) (accessed via search index; site blocks direct fetch), [Active Caribbean Travel - St Kitts & Nevis Diving](https://activecaribbeantravel.com/st-kitts-diving-nevis-diving/) (listed there as "Devil's Caverns"). Dive Nevis and Pro Divers St Kitts (previously cited) were checked directly and do not currently document this site by name. Last updated 2026-07-03.*
+*Sources: [Active Caribbean Travel](https://activecaribbeantravel.com/st-kitts-diving-nevis-diving/), [liveaboard.com - Nevis](https://liveaboard.com/diving/saba-st-kitts/nevis). Fewer than 3 independent sources; unverified. Last updated 2026-10-02.*

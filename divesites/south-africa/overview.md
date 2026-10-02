@@ -8,7 +8,7 @@ Aliwal Shoal and Protea Banks offer ragged-tooth sharks, tiger sharks, and the s
 
 ## Description
 
-South Africa is a notable diving destination in the Africa region, offering diverse dive sites with depths ranging from 20 to 20 meters. Water temperatures average 20-29°C (68-84°F), with visibility typically reaching 10-30 meters (30-100 feet). Year-round diving is possible, with the best conditions during October to March (East Africa), varies by location.
+South Africa is a notable diving destination in the Africa region, with boat dives at sites such as Aliwal Shoal, Protea Banks and Sodwana Bay, a cage-diving site at Gansbaai, and a wreck in False Bay. Conditions vary widely by location and season; check with local operators.
 
 ### Diving Opportunities
 
@@ -26,16 +26,16 @@ South Africa is a notable diving destination in the Africa region, offering dive
 
 ### Marine Life & Environment
 
-- **Water Conditions**: Water temperatures range from 20-29°C (68-84°F) with visibility of 10-30 meters (30-100 feet). Currents are generally moderate to strong.
-- **Marine Biodiversity**: The waters support diverse marine ecosystems including whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally, kingfish, hard corals.
+- **Water Conditions**: Vary by location and season; see site pages.
+- **Marine Biodiversity**: Species are described on the individual site pages only where a source confirmed sightings at that site.
 - **Conservation**: Local conservation efforts help protect marine habitats and ensure sustainable diving practices.
 
 ## Additional Information
 
-- **Best Time to Visit**: October to March (East Africa), varies by location. Diving is possible year-round.
+- **Best Time to Visit**: Varies by site and target species; see site pages.
 - **Currency**: South African Rand (ZAR)
 - **Language**: English, Afrikaans, Zulu
 - **Safety**: Always dive within certification limits. Be aware of strong currents, jellyfish, remote locations. Verify the location of the nearest hyperbaric chamber before diving.
 
 ---
-*Sources: [SCUBA Travel - Diving South Africa](https://www.scubatravel.co.uk/africa/diving-south-africa.html), [Bluewater Dive Travel - South Africa](https://www.bluewaterdivetravel.com/destination/south-africa-diving), [Coral Divers Sodwana Bay](https://coraldivers.co.za/), [PADI - Diving Sodwana Bay](https://www.padi.com/diving-in/south-africa/sodwana-bay/), [Ikelite - Aliwal Shoal Guide](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-aliwal-shoal-south-africa). Last updated 2026-04-04.*
+*Sources: [Wikipedia - Aliwal Shoal](https://en.wikipedia.org/wiki/Aliwal_Shoal), [Wikipedia - Sodwana Bay](https://en.wikipedia.org/wiki/Sodwana_Bay), [DAN South Africa - Diving Protea Banks](https://www.dansa.org/blog/2022/12/04/diving-protea-banks). Last updated 2026-10-02.*

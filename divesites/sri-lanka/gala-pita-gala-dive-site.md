@@ -29,7 +29,7 @@ Multiple independent Unawatuna dive operators use this exact name for a site of 
 
 ## Marine Life
 
-Dive shop listings for Gala Pita Gala describe nudibranchs and sea slugs, sea worms, large lobsters, stingrays, blue ring angelfish, and lionfish among the boulders, plus patches of black, soft, and fan coral and various sponges on the rock surfaces. One operator also mentions occasional manta ray sightings. Earlier claims of moray eels, frogfish, sea turtles, scorpionfish, and schooling chromis/anthias at this specific site were not corroborated by any source found and have been removed rather than repeated unverified.
+Dive shop listings for Gala Pita Gala describe slugs, sea worms, large lobsters (Sun Diving only), stingrays, blue ring angelfish, and lionfish among the boulders, plus patches of black, soft, and fan coral and various sponges on the rock surfaces. One operator also mentions occasional manta ray sightings. Earlier species claims for this specific site were not corroborated by any source found and have been removed rather than repeated unverified.
 
 ---
-*Sources: [Pearl Divers Unawatuna - Galapita Gala Dive Site](https://www.unawatunadive.com/view-dive-sites.php?id=3), [Sun Diving - Galapita Gala (Cave)](https://diveinsrilanka.com/galapita-gala-cave/), [TripAdvisor - "Gala Pita Gala Riff" (Sea Horse Divers photo listing)](https://www.tripadvisor.com/LocationPhotoDirectLink-g644047-d3579452-i248572206-Sea_Horse_Divers-Unawatuna_Galle_District_Southern_Province.html). Last updated 2026-07-03.*
+*Sources: [Pearl Divers Unawatuna - Galapita Gala Dive Site](https://www.unawatunadive.com/view-dive-sites.php?id=3), [Sun Diving - Galapita Gala (Cave)](https://diveinsrilanka.com/galapita-gala-cave/). Only two operator sources could be fetched; this entry is not validated. Last updated 2026-10-02.*

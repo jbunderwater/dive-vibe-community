@@ -79,7 +79,7 @@
     "difficulty": "Advanced",
     "maxDepth": 24,
     "entryType": "boat",
-    "siteType": "wall",
+    "siteType": "drift",
     "ref": "",
     "osmId": null
   },

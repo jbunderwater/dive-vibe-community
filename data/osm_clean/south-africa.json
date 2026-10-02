@@ -1,28 +1,11 @@
 [
   {
-    "name": "Amoray",
-    "lat": -27.5408898,
-    "lon": 32.6789074,
-    "osm_id": 6579846285,
-    "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Amoray",
-      "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "web_research"
-    }
-  },
-  {
     "name": "Aliwal Shoal",
     "lat": -30.2667,
     "lon": 30.8333,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
+    "depth": 27,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -30,8 +13,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Major ragged-tooth shark congregation site (June-November)"
+      "validation_source": "en.wikipedia.org,padi.com,visitkznsouthcoast.co.za,scubaco.co.za",
+      "notes": "Fossil dune reef ~5 km offshore; ragged-tooth shark aggregation (July-November per Wikipedia/PADI); wrecks Produce and Nebo",
+      "last_qa_date": "2026-10-02"
     }
   },
   {
@@ -40,7 +24,7 @@
     "lon": 30.5333,
     "osm_id": null,
     "osm_type": null,
-    "depth": 35,
+    "depth": 40,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -48,8 +32,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Famous shark dive (hammerhead, tiger, zambesi), strong Agulhas Current, drift dive"
+      "validation_source": "dansa.org,diveworldwide.com,mozambiqueexperience.com",
+      "notes": "Offshore bank ~7-7.5 km from Shelly Beach, 27-40 m; advanced drift diving; surf launch; shark species per DAN SA",
+      "last_qa_date": "2026-10-02"
     }
   },
   {
@@ -65,9 +50,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Seasonal (June-July), strong currents, cold water, 50+ logged dives recommended"
+      "validated": "false",
+      "validation_source": "mozambiqueexperience.com,divernet.com",
+      "notes": "UNRESOLVED: no fixed reef named Sardine Run Reef found; sardine run is a seasonal open-water event; much interaction is near surface/snorkel",
+      "last_qa_date": "2026-10-02"
     }
   },
   {
@@ -83,9 +69,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Hard and soft corals, warm Indian Ocean waters, diverse fish life"
+      "validated": "false",
+      "validation_source": "brandsouthafrica.com,padi.com",
+      "notes": "UNRESOLVED: sources place Cathedral at Aliwal Shoal (PADI lists 27 m), not Sodwana; no Sodwana Cathedral found; coordinates unverified",
+      "last_qa_date": "2026-10-02"
     }
   },
   {
@@ -94,7 +81,7 @@
     "lon": 32.6833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
+    "depth": 35,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -102,8 +89,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Vast reef complex (1.8km x 900m), pinnacles, swim-throughs, multiple named sites"
+      "validation_source": "xray-mag.com,en.wikipedia.org,scubaversity.co.za",
+      "notes": "Largest Sodwana reef system, 1.8 km x 900 m; depths 8-35 m (X-Ray Mag), 9-30+ m (Wikipedia); typical 10-18 m (Scubaversity)",
+      "last_qa_date": "2026-10-02"
     }
   },
   {
@@ -112,16 +100,17 @@
     "lon": 32.6833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 18,
-    "site_type": "cave",
+    "depth": 15,
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Big blocky boulders with cave formations, excellent light penetration, shallow depth"
+      "validation_source": "diveplannerpro.com,xray-mag.com,wikipedia.org",
+      "notes": "Caves and Overhangs on Two Mile Reef; overhangs rather than a true cave; ~15 m max (Dive Planner Pro)",
+      "last_qa_date": "2026-10-02"
     }
   },
   {
@@ -138,8 +127,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Rock formations with gullies, 6m from surface, hard/soft corals, Zebra sea bream"
+      "validation_source": "xray-mag.com,padi.com",
+      "notes": "Pinnacles on Two Mile Reef; small cave sometimes with whitetip reef sharks (X-Ray Mag); only 2 independent sources, depth unverified",
+      "last_qa_date": "2026-10-02"
     }
   },
   {
@@ -148,7 +138,7 @@
     "lon": 19.35,
     "osm_id": null,
     "osm_type": null,
-    "depth": 8,
+    "depth": 11,
     "site_type": "beach",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -156,8 +146,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Great white shark cage diving, 150m channel between Geyser Rock and Dyer Island, surface diving"
+      "validation_source": "southafrica.net,citysightseeing.co.za,sharkwatchsa.com",
+      "notes": "Cage-diving channel between Dyer Island and Geyser Rock; floating surface cage, no scuba needed; site_type beach is inaccurate but no valid type fits; depth 10.8 m on one logged trip",
+      "last_qa_date": "2026-10-02"
     }
   },
   {
@@ -166,7 +157,7 @@
     "lon": 32.75,
     "osm_id": null,
     "osm_type": null,
-    "depth": 15,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -174,14 +165,15 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Shallow drift dive along soft coral and rocky outcrops, blacktip sharks, eagle rays"
+      "validation_source": "xray-mag.com,nathab.com,jsemagazine.co.za",
+      "notes": "Maputaland Marine Reserve, iSimangaliso; Gogo's Reef showpiece, sites mostly <=18 m; depth single-sourced (X-Ray Mag)",
+      "last_qa_date": "2026-10-02"
     }
   },
   {
     "name": "SAS Transvaal Wreck",
-    "lat": -33.9667,
-    "lon": 25.65,
+    "lat": -34.2667,
+    "lon": 18.4667,
     "osm_id": null,
     "osm_type": null,
     "depth": 34,
@@ -192,8 +184,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Military ship in False Bay, upright, collapsing structure, requires permit, winter best"
+      "validation_source": "en.wikipedia.org,duikersgids.nl,kbha.co.za,dune-world.com",
+      "notes": "Ex-RN Loch-class frigate scuttled 1978 as artificial reef in Smitswinkel Bay, False Bay; ~34 m (DUNE lists ~20 m); permit required; coordinates corrected to False Bay per Wikipedia",
+      "last_qa_date": "2026-10-02"
     }
   },
   {
@@ -202,7 +195,7 @@
     "lon": 30.8417,
     "osm_id": null,
     "osm_type": null,
-    "depth": 16,
+    "depth": 18,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -210,8 +203,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Large cave with ragged-tooth shark congregation (Aug-Nov), do not enter during shark season"
+      "validation_source": "padi.com,diveplannerpro.com,scubaco.co.za,argophilia.com",
+      "notes": "Cave/overhang on Aliwal Shoal, reported 14-19 m; ragged-tooth sharks in winter",
+      "last_qa_date": "2026-10-02"
     }
   },
   {
@@ -228,8 +222,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Norwegian bulk carrier (1974), molasses tanker, no penetration allowed, strong currents"
+      "validation_source": "en.wikipedia.org,dansa.org,scubaco.co.za",
+      "notes": "Norwegian bulk carrier lost on Aliwal Shoal 1974; reported length conflict 119 m (DAN SA, Scuba Co) vs 176 m (Scuba Co alt. page); depth 30-32 m",
+      "last_qa_date": "2026-10-02"
     }
   }
 ]

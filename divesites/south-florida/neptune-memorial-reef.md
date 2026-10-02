@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Neptune Memorial Reef
 
-Neptune Memorial Reef is a reef dive site in South Florida, North America.
+Neptune Memorial Reef is an Atlantis-themed underwater columbarium and artificial reef about 3.25 miles east of Key Biscayne in roughly 40 feet of water.
 
 ## Overview
 
-Unique underwater memorial reef designed as an artistic representation of the Lost City of Atlantis, located 3.25 miles offshore from Key Biscayne at 40 feet (12m) depth. The site functions as an underwater cemetery for memorial ashes and serves as a living reef habitat. Accessible for divers of all skill levels due to shallow depth and protected location. The elaborate underwater structures create an otherworldly diving experience while supporting marine life growth.
+The reef is an underwater memorial for cremated remains designed to resemble the lost city of Atlantis, with gates, pathways, pillars and lion statues (Active Divers Association; Florida Scuba Diving), 3.25 miles east of Key Biscayne in about 40 feet of water (Squalo Divers). Depth reports range from 40 feet (Squalo Divers) to 43 feet (Active Divers) to 40-45 feet (Florida Scuba Diving). Squalo Divers rates it Open Water level. Florida Scuba Diving reports limited current and boat-only access.
 
 ## Site Information
 
@@ -29,31 +29,22 @@ Unique underwater memorial reef designed as an artistic representation of the Lo
 
 ## Marine Life
 
-Divers report schools of great barracuda gathering beneath the cement arches, southern stingrays settling on the white sand between structures, and green moray eels, spiny lobsters, and crabs tucked into crevices on the columns and benches. The long-spined sea urchin (*Diadema antillarum*), once thought locally extirpated in much of the Caribbean, is found across the site. Sea turtles and eagle rays are reported as occasional visitors.
+- **Active Divers Association (a June dive report):** a green moray, a large southern stingray, lobsters, crabs and schooling fish including very large barracuda.
+- **Florida Scuba Diving:** parrotfish, angelfish, smooth trunkfish, pufferfish, filefish, schools of great barracuda, stingrays, green moray eels, spiny lobsters, crabs, and long-spined sea urchins described as thriving after being thought extirpated in the Caribbean.
+- Earlier text on this page also mentioned sea turtles and eagle rays as occasional visitors; no source consulted reports them here, so they have been removed.
 
 ## Dive Profile
 
-The reef sits in a roughly uniform 40 feet (12 m) of water across the sand flat, with the tallest sculpted features rising several feet off the bottom. Currents are typically limited, and a noticeable thermocline can develop around 30 feet in summer. Divers usually circumnavigate the central gates, columns, and lion statues before fanning out to the benches and pathways that radiate from the main plaza.
+The site lies in a roughly uniform 40-45 feet of water. Active Divers reported a noticeable thermocline at about 30 feet in June. Florida Scuba Diving gives average visibility around 20 m (range 10-30 m), best in spring and fall.
 
 ## Entry and Exit
 
-Boat dive only, run by Miami-area operators out of Key Biscayne, Crandon Park, and Government Cut. Dive boats tie into mooring lines on the reef; live-boat live drops are not the norm. Surface intervals are usually paired with a second dive on nearby reef ledges.
+Boat dive only (Florida Scuba Diving). Earlier text on mooring arrangements and which marinas operators use could not be traced to a source and has been removed.
 
 ## Tips and Recommendations
 
-- This is an active memorial site holding cremated remains; respectful behavior and no removal of any object is expected.
-- Maintain neutral buoyancy near the sculpted features to avoid stirring sand and to protect the reef growth colonizing the structures.
-- Spring and fall typically offer the best visibility (33–100 ft / 10–30 m).
-
-## Safety Considerations
-
-- South Florida sun exposure on the boat ride and surface intervals is intense; bring reef-safe sunscreen, water, and shade.
-- Boat traffic out of Government Cut and Key Biscayne is heavy — surface with an SMB and stay close to the dive flag.
-- Hydroids and fire coral grow on the structures; avoid contact with bare skin.
-
-## Photography
-
-Wide-angle lenses suit the architectural elements — gates, columns, and the lion statues — while macro work pays off on the encrusting coral and invertebrate life colonizing the benches. Stable buoyancy is essential to avoid kicking up sand against the white bottom.
+- This is an official memorial site; Florida Scuba Diving notes divers are expected to behave respectfully, and nothing should be removed or disturbed.
+- Keep buoyancy neutral over the white sand to avoid silting the structures.
 
 ---
-*Sources: [Squalo Divers — Neptune Memorial Reef](https://www.scubadivinginmiami.com/sites/neptune-memorial-reef/), [Active Divers Association reef report](https://www.active-divers.org/local-reef-reports/neptune-memorial-reef), [Florida Scuba Diving — Neptune Memorial Reef guide](https://www.florida-scubadiving.com/neptune-memorial-reef-miami-diving-guide-tips/), [Neptune Society — Neptune Memorial Reef](https://www.neptunesociety.com/cremation-information-articles/neptune-memorial-reef). Last updated 2026-06-30.*
+*Sources: [Squalo Divers — Neptune Memorial Reef](https://www.scubadivinginmiami.com/sites/neptune-memorial-reef/), [Active Divers Association — Neptune Memorial Reef report](https://www.active-divers.org/local-reef-reports/neptune-memorial-reef), [Florida Scuba Diving — Neptune Memorial Reef guide](https://www.florida-scubadiving.com/neptune-memorial-reef-miami-diving-guide-tips/). Last updated 2026-10-02.*

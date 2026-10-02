@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Sandy Point Reef
 
-Sandy Point Reef sits within the Sandy Point National Marine Park near Brimstone Hill Fortress, where divers explore a field of colonial-era anchors embedded among coral fingers at the "Anchors Away" mooring.
+Sandy Point Reef lies off the Sandy Point National Marine Park, in the shadow of Brimstone Hill, where the Anchors Away mooring has colonial-era anchors on the reef.
 
 ## Overview
 
-Sandy Point Reef lies within the Sandy Point National Marine Park near Brimstone Hill Fortress on St. Kitts' coast. The site combines two well-known mooring areas — Paradise Reef and Anchors Away (also spelled Anchors Aweigh) — with large coral heads, coral fingers, and swim-through canyons. At Anchors Away, Dive Training Magazine reports that divers can find "at least five identifiable anchors embedded in the reef," dropped during skirmishes between French, English, and Spanish ships contesting the strategic anchorage below Brimstone Hill, now camouflaged with coral and tube sponges; dive-the-world.com independently corroborates that "the seabed is littered with historical anchors from the colonial era." Sources give differing depth ranges: My St Kitts Dive Buddy and Pro Divers describe a near-shore "Sandy Reef" reaching only about 12-18 metres with visibility that can be variable due to shore proximity, while Active Caribbean Travel describes the broader Anchors Away/Paradise Reef complex extending to 15-40 metres — these may be the same site described inconsistently, or adjacent reefs sharing a similar name.
+Afar describes Sandy Point National Marine Park as in the shadow of Brimstone Hill, with large coral formations and swim-through canyons. Dive Training Magazine names Paradise Reef and Anchors Away as popular moorings of large coral heads and swim-through canyons, and says divers can find at least five identifiable anchors embedded in the reef at Anchors Away, dropped during skirmishes between French, English and Spanish ships. Afar says about a half-dozen anchors, and Dive The World says the seabed is peppered with anchors abandoned by ships leaving under cannon fire from Brimstone Hill fortress. Active Caribbean Travel lists Sandy Point Reef at 50-130 ft (15-40 m). Naming is inconsistent: My St Kitts Dive Buddy describes a shallow Sandy Point reef with variable visibility, and Pro Divers lists Paradise Reef in Old Road Bay and Sandy Point Reef as separate sites, so which reef this entry denotes is not clear.
 
 ## Site Information
 
-- **Location**: Sandy Point National Marine Park, St. Kitts (near Brimstone Hill)
+- **Location**: Sandy Point, St. Kitts (west coast)
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
@@ -29,7 +29,7 @@ Sandy Point Reef lies within the Sandy Point National Marine Park near Brimstone
 
 ## Marine Life
 
-Barracuda, turtles, angelfish, moray eels, and lobsters are regularly reported on Paradise Reef and around the anchor field, with reef fish described as abundant across the wider Sandy Point system (Active Caribbean Travel). No source confirms nurse sharks or hawksbill (as opposed to generic "turtle") sightings at this specific site.
+Active Caribbean Travel lists angelfish, barracuda, turtles, eels and lobsters for Sandy Point Reef.
 
 ---
-*Sources: [Dive Training Magazine - Exploring St. Kitts](https://dtmag.com/thelibrary/exploring-st-kitts-island-made-for-adventures/), [Dive The World - St Kitts](https://www.dive-the-world.com/diving-sites-st-kitts.php), [Active Caribbean Travel - St Kitts & Nevis Diving](https://activecaribbeantravel.com/st-kitts-diving-nevis-diving/), [My St Kitts Dive Buddy - Reef Diving](https://mystkittsdivebuddy.com/reef-diving-sites-of-st-kitts/), [Pro Divers St. Kitts - Dive Sites](https://prodiversstkitts.com/pages/sites.html). Last updated 2026-07-03.*
+*Sources: [Dive Training Magazine](https://dtmag.com/thelibrary/exploring-st-kitts-island-made-for-adventures/), [Dive The World](https://www.dive-the-world.com/diving-sites-st-kitts.php), [Active Caribbean Travel](https://activecaribbeantravel.com/st-kitts-diving-nevis-diving/), [Afar - Sandy Point National Marine Park](https://www.afar.com/places/sandy-point), [Pro Divers St. Kitts](https://prodiversstkitts.com/pages/sites.html), [My St Kitts Dive Buddy](https://mystkittsdivebuddy.com/reef-diving-sites-of-st-kitts/). Last updated 2026-10-02.*
