@@ -4,40 +4,29 @@ addedBy: osm_import
 
 ## South Australia Neptune Islands
 
-World-renowned great white shark cage diving destination with cold-water kelp forests and diverse marine life.
+Great white shark cage diving destination off Port Lincoln, with a nearby Australian sea lion dive at Hopkins Island.
 
 ## Description
 
-The Neptune Islands, located 40 nautical miles south of Port Lincoln, South Australia, are an iconic cage diving destination offering surface and submerged cage diving experiences with great white sharks. Depths range from 2 meters (surface cages) to approximately 21 meters (submerged cages lowered to the kelp seabed). Water temperatures range from 14-22°C (57-72°F) with visibility typically reaching 15-20 meters (50-65 feet). The islands are also home to Australian sea lions, long-nosed fur seals, and cold-water reef systems dominated by kelp forests.
+The Neptune Islands are two island groups (North and South) at the entrance to Spencer Gulf, about 35-40 nautical miles from Port Lincoln ([Wikipedia - Neptune Islands](https://en.wikipedia.org/wiki/Neptune_Islands), [Wikivoyage - Shark cage diving at the Neptune Islands](https://en.wikivoyage.org/wiki/Diving_in_South_Australia/Shark_cage_diving_at_the_Neptune_Islands)). Rocks are porphyritic granite gneiss and pink granite with dolerite dykes, and water reaches 80 m within 1.5-2 km ([Wikipedia - Neptune Islands](https://en.wikipedia.org/wiki/Neptune_Islands)). The Neptune Islands Group (Ron and Valerie Taylor) Marine Park was proclaimed on 29 November 2012 ([Wikipedia - Neptune Islands](https://en.wikipedia.org/wiki/Neptune_Islands)).
 
 ### Diving Opportunities
 
-- **Great White Shark Cage Diving (Surface)**: No certification required. Surface cages float in approximately 2 meters of water in sheltered Main and Action Bays. Available year-round with peak activity May-October.
-- **Great White Shark Cage Diving (Submerged)**: Minimum PADI Open Water certification required. Submerged cages are lowered to approximately 21 meters (60-80 feet) along the kelp-covered seabed for intimate encounters with great white sharks.
-- **Australian Sea Lion Encounters**: Recreational dives at Hopkins Island for swimming with playful Australian sea lions and long-nosed fur seals in their natural habitat.
-- **Cold-Water Reef Diving**: Exploration of kelp forests, rocky reefs, caves, and pinnacles rich in cold-water fish species and invertebrate life.
+- **Surface cage**: about 2 m, no certification required ([Wikivoyage - Shark cage diving at the Neptune Islands](https://en.wikivoyage.org/wiki/Diving_in_South_Australia/Shark_cage_diving_at_the_Neptune_Islands), [Bluewater Dive Travel - South Australia 2025 Trip Recap](https://www.bluewaterdivetravel.com/article/south-australia-trip-recap-2025)).
+- **Seabed cage**: 18-24 m depending on source, PADI Open Water or equivalent required ([Wikivoyage - Shark cage diving at the Neptune Islands](https://en.wikivoyage.org/wiki/Diving_in_South_Australia/Shark_cage_diving_at_the_Neptune_Islands), [Bluewater Dive Travel - South Australia 2025 Trip Recap](https://www.bluewaterdivetravel.com/article/south-australia-trip-recap-2025), [DAN Alert Diver - South Australia's Great White Shark Adventure](https://world.dan.org/?p=26855)).
+- **Sea lions at Hopkins Island**: shallow (about 4.6-6 m) snorkel or scuba encounter en route ([PaparazSea - Dive with Seals at Hopkins Island](https://www.paparazsea.com/2017/05/dive-with-seals-at-hopkins-island-south.html), [DAN Alert Diver - South Australia's Great White Shark Adventure](https://world.dan.org/?p=26855)).
 
-### Accessibility
+### Operators
 
-- **Getting There**: Access via Port Lincoln, approximately 260 km south of Adelaide. International flights connect to Adelaide; regional flights and road transport available to Port Lincoln.
-- **Dive Operators**: Three licensed cage diving operators (Rodney Fox Shark Expeditions, Calypso Star Charters, and others) provide all necessary equipment, briefings, and guided experiences.
-- **Accommodation**: Port Lincoln offers hotel, lodge, and resort options with proximity to dive charter docks.
-- **Transportation**: Dive charters depart from Port Lincoln dock area. Overnight liveaboard options available for extended expeditions.
-- **Facilities**: Professional dive operators provide wetsuits (5-7mm semi-dry recommended for 14-22°C water), breathing apparatus (surface cages use surface-supplied air; submerged cages use scuba), and comprehensive safety briefings.
+Sources conflict on operator count: Wikivoyage lists three, and a 2026 search summary lists two (MV Rodney Fox liveaboard and Calypso Star day trips). Confirm before booking.
 
-### Marine Life & Environment
+### Marine Life
 
-- **Water Conditions**: Cold-water environment with temperatures 14-22°C (57-72°F), warmest December-May (18-19°C). Visibility 15-20 meters (50-65 feet). Current: Generally mild in sheltered bays.
-- **Marine Biodiversity**: Great white sharks (males year-round, large females arriving approximately April–August), Australian sea lions, long-nosed fur seals and pups, trevally, southern eagle rays, giant blue wrasse, sea urchins, kelp forest ecosystems. Note: cuttlefish are not confirmed at the Neptune Islands — their well-known SA aggregation occurs at Whyalla in Spencer Gulf, a separate destination.
-- **Seasonal Patterns**: Peak great white activity May-October (cooler water, abundant seal pups); year-round diving possible with variable shark encounters.
-- **Conservation**: Neptune Islands Group Marine Park (established 2012) protects critical seal breeding habitat and regulates tourism. Diving supports marine research and ecosystem monitoring.
+Great white sharks are the cage-dive target ([Bluewater Dive Travel - South Australia 2025 Trip Recap](https://www.bluewaterdivetravel.com/article/south-australia-trip-recap-2025), [Marine Parks SA - Neptune Islands Group Marine Park](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands)); Rodney Fox reports males year-round and large females April-August ([Rodney Fox Shark Expeditions](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/)). Australian sea lions and long-nosed fur seals occur in the park ([Marine Parks SA - Neptune Islands Group Marine Park](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands)). No per-site reports beyond Hopkins Island sea lions were found.
 
-## Additional Information
+### Data Quality Note
 
-- **Best Time to Visit**: September to February. Diving is possible year-round.
-- **Currency**: Australian Dollar (AUD)
-- **Language**: English
-- **Safety**: Always dive within certification limits. Be aware of strong currents and cold water. The Neptune Islands are in temperate South Australia — box jellyfish and saltwater crocodiles are tropical-north hazards not present here. Verify the location of the nearest hyperbaric chamber (Port Lincoln Hospital) before diving.
+Six entries (North Neptune Reef, The Monument, South Neptune Pinnacles, English Island Reef, Williams Island Caves, Langton Island) lack independent source confirmation; Williams and Langton Islands are documented elsewhere in South Australia. Temperature and visibility figures from earlier versions were removed as unsourced.
 
 ---
-*Sources: [Rodney Fox Shark Expeditions](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [Neptune Islands – Wikipedia](https://en.wikipedia.org/wiki/Neptune_Islands), [Neptune Islands Group Marine Park – parks.sa.gov.au](https://www.parks.sa.gov.au/parks/neptune-islands-group), [Marine Parks SA – Neptune Islands](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands), [DAN Alert Diver – South Australia Great White Sharks](https://dan.org/alert-diver/article/south-australias-great-white-shark-adventure/), [Dive Worldwide South Australia](https://www.diveworldwide.com/locations/south-australia), [Wikivoyage – Shark cage diving at the Neptune Islands](https://en.wikivoyage.org/wiki/Diving_in_South_Australia/Shark_cage_diving_at_the_Neptune_Islands). Last updated 2026-05-17.*
+*Sources: [Rodney Fox Shark Expeditions](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [Wikipedia - Neptune Islands](https://en.wikipedia.org/wiki/Neptune_Islands), [Marine Parks SA - Neptune Islands Group Marine Park](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands), [Wikivoyage - Shark cage diving at the Neptune Islands](https://en.wikivoyage.org/wiki/Diving_in_South_Australia/Shark_cage_diving_at_the_Neptune_Islands), [Bluewater Dive Travel - South Australia 2025 Trip Recap](https://www.bluewaterdivetravel.com/article/south-australia-trip-recap-2025), [DAN Alert Diver - South Australia's Great White Shark Adventure](https://world.dan.org/?p=26855), [PaparazSea - Dive with Seals at Hopkins Island](https://www.paparazsea.com/2017/05/dive-with-seals-at-hopkins-island-south.html). Last updated 2026-10-02.*

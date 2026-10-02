@@ -13,50 +13,28 @@ addedBy: osm_import
 
 ## Hopkins Island
 
-Shallow seal encounter dive site at approximately 6 meters where Australian sea lions and fur seals interact playfully with divers on a kelp-covered rocky seabed.
+Shallow Australian sea lion snorkel and scuba encounter, a stop en route to the Neptune Islands from Port Lincoln.
 
 ## Overview
 
-Hopkins Island is a renowned seal encounter dive site located en route to the Neptune Islands from Port Lincoln. At approximately 6 meters depth, Australian sea lions — one of the world's rarest pinnipeds with an estimated global population of 10,000–12,000 — zoom around the kelp-covered seafloor and approach divers with curiosity. The dive is very shallow, making it accessible to most certified divers, though cold water (typically 10–20°C) requires adequate thermal protection. DAN reporters describe seal pups performing "barrel rolls and spy hops" and directly approaching photographers. Hopkins Island is a protected reserve; access is via licensed operator boat only. Snorkeling is also available alongside scuba for this site.
+[PaparazSea - Dive with Seals at Hopkins Island](https://www.paparazsea.com/2017/05/dive-with-seals-at-hopkins-island-south.html) describes Hopkins Island as the first stop on the way to the Neptune Islands from Port Lincoln, with a roughly 40-minute dive at about 6 m. [DAN Alert Diver - South Australia's Great White Shark Adventure](https://world.dan.org/?p=26855) reports sea lions zooming around the kelp-covered seafloor in only 15 ft (4.6 m) of water, so reported depth ranges from about 4.6 to 6 m. [Bluewater Dive Travel - South Australia 2025 Trip Recap](https://www.bluewaterdivetravel.com/article/south-australia-trip-recap-2025) says guests snorkeled and dived with endangered Australian sea lions at Hopkins Island, and mentions curious pups. Rodney Fox expedition listings also include Hopkins Island for sea lions.
 
 ## Site Information
 
-- **Location**: Hopkins Island, northern Neptune Islands, 40 nautical miles south of Port Lincoln, South Australia
+- **Location**: Hopkins Island, reached by boat from Port Lincoln. Earlier text placing it in the northern Neptune Islands was removed as unsupported, and the coordinates are not independently verified.
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Depth**: Approximately 6 meters — confirmed by multiple sources as a very shallow dive
-- **Typical Visibility**: 15-20 meters (50-65 feet)
-- **Current**: Generally mild
-- **Water Temperature**: 14-22°C (57-72°F) — coldest June-August, warmest December-May
-- **Best Time**: Year-round seal interactions; pup encounters typically during breeding season. Most Neptune Islands tours include Hopkins Island as a stop en route.
+- **Depth**: about 4.6-6 m (sources differ; recorded as 6 m)
+- **Water Temperature**: [PaparazSea - Dive with Seals at Hopkins Island](https://www.paparazsea.com/2017/05/dive-with-seals-at-hopkins-island-south.html) recorded 17 C in mid-May and recommends a 7 mm wetsuit with gloves and hood. Not a year-round figure.
 
 ## Marine Life
 
-Australian sea lions (Neophoca cinerea) — endangered, with an estimated 10,000–12,000 worldwide — and long-nosed fur seals. The sea lions are the primary attraction and will actively approach and interact with divers. DAN Alert Diver and Bluewater Dive Travel both confirm pups performing acrobatics in the shallows around divers. Kelp-covered rocky seabed habitat. Note: cuttlefish are not confirmed at Hopkins Island specifically — their well-known SA aggregation occurs at Whyalla.
+Australian sea lions (*Neophoca cinerea*), including pups, are confirmed at Hopkins Island by [DAN Alert Diver - South Australia's Great White Shark Adventure](https://world.dan.org/?p=26855), [Bluewater Dive Travel - South Australia 2025 Trip Recap](https://www.bluewaterdivetravel.com/article/south-australia-trip-recap-2025) and [PaparazSea - Dive with Seals at Hopkins Island](https://www.paparazsea.com/2017/05/dive-with-seals-at-hopkins-island-south.html). No other species are confirmed at this specific site.
 
-## Dive Profile
+## Notes
 
-Descend to approximately 6 meters around Hopkins Island. The sea lions are typically attracted to divers and will approach on their own — particularly pups, which are especially curious. Maintain calm, neutral buoyancy and avoid chasing the animals; let them approach you. Allow 40–50 minutes for interaction time. Multiple sources confirm dives of this duration are standard at Hopkins Island. Ascend gradually; a safety stop at 5 meters is recommended given the cold water environment.
-
-## Entry and Exit
-
-PADI Open Water certification or equivalent required. Giant stride or back roll entry from boat; descend to island's shallow reef structure. Seal interactions occur naturally; avoid sudden movements or chasing. Ascent via natural buoyancy, maintaining awareness of seal positions. Deploy SMB during final safety stop. Coordinate with boat crew for pickup, noting that seals may follow you toward the surface.
-
-## Tips and Recommendations
-
-- PADI Open Water certification required
-- Wear 5-7mm semi-dry wetsuit for 14-22°C water
-- Maintain neutral buoyancy for seal comfort and safe interactions
-- Let seals approach you; never chase seals or be aggressive
-- April-August: peak season for playful seal pups and interactive behavior
-- Bring underwater camera for once-in-a-lifetime seal photographs
-- Go early in dive to maximize seal interaction time
-- Be prepared for 2-5 seals per dive; activity varies with season
-
-## Safety Considerations
-
-Seals are naturally inquisitive but wild animals; respect their behavior. Excellent buoyancy control essential to avoid scraping rocky substrate and to provide stable platform for seal interactions. Cold water (14-22°C) requires proper thermal protection and energy management. Maintain buddy awareness while distracted by seal encounters. Standard open water diving protocols apply: equalization, air monitoring, safety stop compliance. Always dive with a buddy. Verify current seal activity and interaction guidelines with local operators before diving.
+[PaparazSea - Dive with Seals at Hopkins Island](https://www.paparazsea.com/2017/05/dive-with-seals-at-hopkins-island-south.html) reports that seals typically turn their attention to divers after 10-15 minutes. Both snorkel and scuba are possible. Wild animals: keep buoyancy controlled and let them approach.
 
 ---
-*Sources: [Rodney Fox Shark Expeditions](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [DAN Alert Diver – South Australia Great White Sharks](https://dan.org/alert-diver/article/south-australias-great-white-shark-adventure/), [Bluewater Dive Travel – South Australia 2025 Trip Recap](https://www.bluewaterdivetravel.com/article/south-australia-trip-recap-2025), [Dive in Australia – Great White Shark Experiences](https://diveinaustralia.com.au/great-white-shark-experiences/), [PaparazSea – Dive with Seals at Hopkins Island](https://www.paparazsea.com/2017/05/dive-with-seals-at-hopkins-island-south.html). Last updated 2026-05-17.*
+*Sources: [PaparazSea - Dive with Seals at Hopkins Island](https://www.paparazsea.com/2017/05/dive-with-seals-at-hopkins-island-south.html), [DAN Alert Diver - South Australia's Great White Shark Adventure](https://world.dan.org/?p=26855), [Bluewater Dive Travel - South Australia 2025 Trip Recap](https://www.bluewaterdivetravel.com/article/south-australia-trip-recap-2025), [Rodney Fox Shark Expeditions](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/). Last updated 2026-10-02.*
