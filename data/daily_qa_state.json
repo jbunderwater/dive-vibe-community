@@ -3802,16 +3802,16 @@
         "st-kitts-and-nevis"
       ],
       "summary": {
-        "sites_total": 88,
-        "sites_validated_today": 27,
-        "sites_re_audited": 63,
+        "sites_total": 65,
+        "sites_validated_today": 22,
+        "sites_re_audited": 43,
         "hallucinations_removed": 108,
         "marine_life_stripped": "see PR",
         "wreck_conflicts_flagged": 26,
         "sites_unresolved": 27,
         "notes": "south-pacific skipped: no osm_clean data or divesites directory"
       },
-      "pr_url": null
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/173"
     }
   ]
 }
