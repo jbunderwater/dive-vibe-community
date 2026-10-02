@@ -2,7 +2,7 @@
 name: Murner See - Rutsch'n
 lat: 49.3467165
 lng: 12.1984037
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 37
 entryType: shore
 siteType: beach
@@ -24,7 +24,7 @@ The Murner See near Wackersdorf in the Upper Palatinate is a former brown-coal m
 - **Location**: Rutsch'n entry, Wackersdorf side of the Murner See, Landkreis Schwandorf, Bavaria
 - **Entry Type**: Shore entry
 - **Site Type**: Beach dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 37 meters
 - **Typical Visibility**: Around 10 m, varying by season (Taucher.Net)
 - **Current**: None expected (Wiesenberger Diving describes it as a groundwater lake with no tributaries)

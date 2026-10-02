@@ -2,7 +2,7 @@
 name: Blausteinsee
 lat: 50.8541836
 lng: 6.267369
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 40
 entryType: shore
 siteType: beach
@@ -24,7 +24,7 @@ The Blausteinsee is a flooded former brown coal opencast mine near Eschweiler. T
 - **Location**: Blausteinsee, Eschweiler (Städteregion Aachen)
 - **Entry Type**: Shore entry
 - **Site Type**: Beach dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: Described as relatively good by a local club; 200bar logged 0.5-1.5 m on 31 July 2017
 - **Current**: None (OSM tags current = 0)

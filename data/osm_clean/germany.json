@@ -11,7 +11,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Kreidesee Hemmoor - Einstieg 0",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -32,7 +31,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Kreidesee Hemmoor - Einstieg 1",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -53,7 +51,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Kreidesee Hemmoor - Einstieg 2",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -74,7 +71,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Kreidesee Hemmoor - Einstieg 3",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -92,10 +88,9 @@
     "depth": 37,
     "site_type": "beach",
     "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Kreidesee Hemmoor - Einstieg 4",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -116,7 +111,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Kreidesee Hemmoor - Einstieg 5",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -137,7 +131,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Tankumsee",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -158,7 +151,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Allersee",
-      "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -176,10 +168,9 @@
     "depth": 40,
     "site_type": "beach",
     "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Großer Plöner See - Plöner Stadtbucht",
-      "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -200,7 +191,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Großer Plöner See - Badestelle Bosau",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -221,7 +211,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Großer Plöner See - TVA Bosau",
-      "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -242,7 +231,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Schweriner See - Raben Steinfeld",
-      "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -263,7 +251,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Schweriner See - Lastensegler",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -284,7 +271,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Schweriner See - Görslow",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -305,7 +291,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Tollensesee - TVA",
-      "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -326,7 +311,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Schmaler Luzin - Luzinfähre",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -347,7 +331,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Schmaler Luzin - Carwitz",
-      "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -368,7 +351,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Großer Stechlinsee",
-      "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -389,7 +371,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Werbellinsee - Dornbusch",
-      "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -410,7 +391,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Werbellinsee - EJB",
-      "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -431,7 +411,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Liepnitzsee",
-      "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -452,7 +431,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Straussee",
-      "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -473,7 +451,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Helenesee",
-      "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -494,7 +471,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Senftenberger See",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -512,16 +488,15 @@
     "depth": 50,
     "site_type": "beach",
     "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Arendsee - Ostufer",
-      "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gismo1337",
       "validated": "true",
       "validation_source": "altmarkkreis-salzwedel.de,200bar.de,taucher.net",
       "last_qa_date": "2026-09-29",
-      "qa_note": "coords = 200bar.de spot position (map centre 52.8900667,11.4978), which reverse-geocodes to the Segler-Club marina on the east shore (Lindenstraße/Seepromenade); ArendseeVO places the Tauchclub entry between jetties 53 and 54 next to the Segler-Club jetties 50-53. OSM node 663870945 ('Arendsee', source ENDA SeeDABa) is a lake-centre point, not an entry, and was not used. Depth = lake maximum, cited as 49.5 m (taucher.net 2004), ~50 m (200bar) and 52 m (taucher.net 2011); depth reachable from this entry not documented. Other legal entries (Schrampe/Regattaverein, Kaskade) have no published coordinates and are not included as sites."
+      "qa_note": "coords = 200bar.de spot position (map centre 52.8900667,11.4978), which reverse-geocodes to the Segler-Club marina on the east shore (Lindenstraße/Seepromenade); ArendseeVO places the Tauchclub entry between jetties 53 and 54 next to the Segler-Club jetties 50-53. OSM node 663870945 ('Arendsee', source ENDA SeeDABa) is a lake-centre point, not an entry, and was not used. Depth = lake maximum, cited as 49.5 m (taucher.net 2004), ~50 m (200bar) and 52 m (taucher.net 2011); depth reachable from this entry not documented. Other legal entries (Schrampe/Regattaverein, Kaskade) have no published coordinates and are not included as sites. Depth is the lake maximum (no site-specific depth documented); rated Advanced per the >30 m depth rule."
     }
   },
   {
@@ -536,7 +511,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Arendsee - Wrack Patrouillenboot",
-      "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -557,7 +531,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Hufeisensee",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -578,7 +551,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Geiseltalsee - Stöbnitz",
-      "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -599,7 +571,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Geiseltalsee - Frankleben",
-      "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -620,7 +591,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Goitzsche",
-      "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -641,7 +611,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Kulkwitzer See - Einstieg E1 Göhrenz",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -659,16 +628,15 @@
     "depth": 32,
     "site_type": "beach",
     "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Kulkwitzer See - Einstieg E2 Lausen",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
       "validation_source": "seen.de,justleavebubbles.com,ichthyo.de,flotteflosseingelheim.de,padertaucher.de,wikipedia.org",
       "last_qa_date": "2026-09-29",
-      "qa_note": "coords from OSM node 2983858095 ('Tauchbasis E2'; reverse-geocodes to Salzweg, Lausen-Grünau, the east-shore entry). Depth = lake max; sources give 32 m (justleavebubbles, flotteflosse, taucher.net) to 34-36 m (seen.de, Wikipedia 36). Aircraft depth reported 19-20 m."
+      "qa_note": "coords from OSM node 2983858095 ('Tauchbasis E2'; reverse-geocodes to Salzweg, Lausen-Grünau, the east-shore entry). Depth = lake max; sources give 32 m (justleavebubbles, flotteflosse, taucher.net) to 34-36 m (seen.de, Wikipedia 36). Aircraft depth reported 19-20 m. Depth is the lake maximum (no site-specific depth documented); rated Advanced per the >30 m depth rule."
     }
   },
   {
@@ -680,16 +648,15 @@
     "depth": 32,
     "site_type": "beach",
     "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Kulkwitzer See - Einstieg E3 Campingplatz",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
       "validation_source": "seen.de,ichthyo.de,padertaucher.de,flotteflosseingelheim.de,wikipedia.org",
       "last_qa_date": "2026-09-29",
-      "qa_note": "coords from OSM node 2863744285 ('Tauchbasis E3'; reverse-geocodes to Campingplatz Kulkwitzer See, Seestraße). Depth = lake max, sources 32-36 m. Launch/barge wreck depth ~21 m (ichthyo); exact dimensions/history not documented."
+      "qa_note": "coords from OSM node 2863744285 ('Tauchbasis E3'; reverse-geocodes to Campingplatz Kulkwitzer See, Seestraße). Depth = lake max, sources 32-36 m. Launch/barge wreck depth ~21 m (ichthyo); exact dimensions/history not documented. Depth is the lake maximum (no site-specific depth documented); rated Advanced per the >30 m depth rule."
     }
   },
   {
@@ -704,7 +671,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Cospudener See",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -725,7 +691,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Steinbruch Ammelshain",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -743,10 +708,9 @@
     "depth": 33,
     "site_type": "wall",
     "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Steinbruch Horka",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -767,7 +731,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Sundhäuser See - Einstieg 1 Ponton",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -788,7 +751,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Sundhäuser See - Einstieg 2",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -809,7 +771,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Sundhäuser See - Einstieg 3",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -830,7 +791,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Edersee - Tauchzone Berich",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -851,7 +811,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Edersee - Tauchzone Sitte",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -872,7 +831,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Diemelsee",
-      "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -893,7 +851,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Möhnesee",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -914,7 +871,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Sorpesee - Sommertauchplatz",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -935,7 +891,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Sorpesee - Wintertauchplatz",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -956,7 +911,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Fühlinger See",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -977,7 +931,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Blauer See Ratingen",
-      "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -995,16 +948,15 @@
     "depth": 40,
     "site_type": "beach",
     "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Blausteinsee",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
       "validation_source": "vwvblausteinsee.de,200bar.de,tauchteam-mg.de",
       "last_qa_date": "2026-09-29",
-      "qa_note": "coords from OSM node 778561893 'Blausteinsee' (sport=scuba_diving) at the single official diver entry; platform/cabin nodes 11999217846-50 and 11999217847 are features of this entry, not separate sites. Depth: 40 m now, 42 m at complete filling (VWV/200bar), ~41 m (VWV FAQ). Only one official entry per VWV FAQ -> single site. Intermediate chosen because the slope is gradual (6 m at 15 m, 12 m at 30 m from entry); note Tauchteam MG says >25 m is reached fairly quickly - maintainer may upgrade to Advanced."
+      "qa_note": "coords from OSM node 778561893 'Blausteinsee' (sport=scuba_diving) at the single official diver entry; platform/cabin nodes 11999217846-50 and 11999217847 are features of this entry, not separate sites. Depth: 40 m now, 42 m at complete filling (VWV/200bar), ~41 m (VWV FAQ). Only one official entry per VWV FAQ -> single site. The slope from the entry is gradual (6 m at 15 m, 12 m at 30 m), but Tauchteam MG says >25 m is reached fairly quickly; rated Advanced per the >30 m depth rule."
     }
   },
   {
@@ -1016,10 +968,9 @@
     "depth": 40,
     "site_type": "beach",
     "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Wassersportsee Zülpich",
-      "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1040,7 +991,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Rursee - Bank 1",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1058,10 +1008,9 @@
     "depth": 40,
     "site_type": "beach",
     "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Rursee - Bank 2",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1082,7 +1031,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Schluchsee",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1103,7 +1051,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Bodensee - Überlingen Liebesinsel",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1124,7 +1071,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Bodensee - Überlingen Post",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1142,16 +1088,15 @@
     "depth": 40,
     "site_type": "beach",
     "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Bodensee - Überlingen Tennisplätze",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
       "validation_source": "tauchteam-bodensee.de,200bar.de",
       "last_qa_date": "2026-09-29",
-      "qa_note": "coords from OSM node 663870435; matches tauchteam published 47°45'38.6\"N 9°10'17.0\"E. Depth: 200bar max 40 m; tauchteam boat wreck at 40 m, wall to >120 m. Beginner-friendly per both sources -> Intermediate (cold water rule)."
+      "qa_note": "coords from OSM node 663870435; matches tauchteam published 47°45'38.6\"N 9°10'17.0\"E. Depth: 200bar max 40 m; tauchteam boat wreck at 40 m, wall to >120 m. Both sources call the upper slope beginner-friendly; rated Advanced per the >30 m depth rule (wall from ~30 m, wreck at 40 m)."
     }
   },
   {
@@ -1166,7 +1111,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Bodensee - Überlingen Wrack Sonja",
-      "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1187,7 +1131,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Bodensee - Wallhausen Steilwand",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1208,7 +1151,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Bodensee - Teufelstisch",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1229,7 +1171,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Bodensee - Marienschlucht",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1250,7 +1191,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Bodensee - Bodman Alter Hafen",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1271,7 +1211,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Bodensee - Ludwigshafen Lädine",
-      "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1292,7 +1231,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Walchensee - Galerie",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1313,7 +1251,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Walchensee - Pioniertafel",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1334,7 +1271,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Walchensee - Fleckerlspitz",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1355,7 +1291,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Walchensee - Urfeld",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1376,7 +1311,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Walchensee - Steinbruch",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1397,7 +1331,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Walchensee - Lehmsteilwand",
-      "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1418,7 +1351,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Walchensee - Hackl",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1439,7 +1371,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Walchensee - Einsiedlbucht",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1460,7 +1391,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Walchensee - Walchenseebucht",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1478,16 +1408,15 @@
     "depth": 66,
     "site_type": "beach",
     "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Kochelsee",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
       "validation_source": "tauchsport-glaesser.de,200bar.de,blog.deep-down-under.de,seen.de,en.wikipedia.org,tourismus.schlehdorf.de,naturerlebnis.bayern.de",
       "last_qa_date": "2026-09-29",
-      "qa_note": "coords from OSM node 663870689 (dive-links import; exact entry point unverified - Nominatim places it near Altjoch on the south side, consistent with 200bar 'Einstieg Südufer'); depth = lake max 66 m (wikipedia, schlehdorf, 200bar), no site-specific depth found; lake at ~600 m, below usual altitude-table threshold, profile gradual (deep-down-under) -> Intermediate; thin dive-specific documentation"
+      "qa_note": "coords from OSM node 663870689 (dive-links import; exact entry point unverified - Nominatim places it near Altjoch on the south side, consistent with 200bar 'Einstieg Südufer'); depth = lake max 66 m (wikipedia, schlehdorf, 200bar), no site-specific depth found; lake at ~600 m, profile gradual (deep-down-under); rated Advanced per the >30 m depth rule because only the lake maximum is documented; thin dive-specific documentation"
     }
   },
   {
@@ -1502,7 +1431,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Starnberger See - Allmannshausen Wintertauchplatz",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1523,7 +1451,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Starnberger See - Allmannshausen Seeburg",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1544,7 +1471,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Starnberger See - Allmannshausen Wasserwacht",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1565,7 +1491,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Starnberger See - Allmannshausen Naturschutzgebiet",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1583,10 +1508,9 @@
     "depth": 38,
     "site_type": "beach",
     "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Starnberger See - Berg",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1607,7 +1531,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Starnberger See - Paradies",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1628,7 +1551,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Starnberger See - Garatshausen",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1649,7 +1571,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Starnberger See - Kempfenhausen",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1667,10 +1588,9 @@
     "depth": 40,
     "site_type": "beach",
     "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Starnberger See - Ambach",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1691,7 +1611,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Chiemsee - Strandbad Urfahrn",
-      "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1712,7 +1631,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Tegernsee - Friedlhof",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1730,10 +1648,9 @@
     "depth": 40,
     "site_type": "beach",
     "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Tegernsee - Holz",
-      "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1751,16 +1668,15 @@
     "depth": 37,
     "site_type": "beach",
     "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Murner See - Rutsch'n",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
       "validation_source": "vg-wackersdorf.de,taucher.net,travel.padi.com,wiesenberger-diving.de,neptuns-taucherfreunde.de",
       "last_qa_date": "2026-09-29",
-      "qa_note": "coords from OSM node 2041216446; PADI publishes 49.34683,12.19857 (~20 m). Depth: PADI site max ~37 m; lake max 48 m (taucher.net) / 50 m (wiesenberger). taucher.net rates the lake 'advanced'; set Intermediate for the Rutsch'n entry itself (forest at 5-12 m, 37 m max) - maintainer may prefer Advanced. PADI's species list (sharks, whales...) is obviously bogus and was ignored."
+      "qa_note": "coords from OSM node 2041216446; PADI publishes 49.34683,12.19857 (~20 m). Depth: PADI site max ~37 m; lake max 48 m (taucher.net) / 50 m (wiesenberger). taucher.net rates the lake 'advanced'; Rutsch'n rated Advanced per the >30 m depth rule (forest at 5-12 m, site max 37 m). PADI's species list (sharks, whales...) is obviously bogus and was ignored."
     }
   },
   {
@@ -1775,7 +1691,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Murner See - Turm",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1793,10 +1708,9 @@
     "depth": 40,
     "site_type": "beach",
     "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Steinberger See",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1817,7 +1731,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Wambachsee",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1838,7 +1751,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Möwensee - Insel",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1859,7 +1771,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Möwensee - Halbinsel 2",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1880,7 +1791,6 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Arendsee - Schrampe",
-      "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1898,16 +1808,15 @@
     "depth": 35,
     "site_type": "beach",
     "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Tegernsee - Schweinebucht",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
       "validation_source": "divers-guide.com,tauchschule-seegeist.de,landkreis-miesbach.de",
       "last_qa_date": "2026-09-29",
-      "qa_note": "coords from OSM node 663870697 'Tegernsee - Schweinebucht' (dive-links import, verified=no); Seegeist's Google Maps link for Schweinebucht resolves to 47.697421,11.749628 (~30 m away) - confirms. Depth 35 m from divers-guide.com only (single source; divers-guide gives the same 35 m for Schorn, so treat as approximate). divers-guide's species list (crab, trout, carp, catfish, eel, pike, pike-perch, tench) is identical for its Tegernsee sites, so it was not used as site-specific marine life. Difficulty Intermediate to match the existing Tegernsee entries (Friedlhof, Holz), with the 725 m altitude noted."
+      "qa_note": "coords from OSM node 663870697 'Tegernsee - Schweinebucht' (dive-links import, verified=no); Seegeist's Google Maps link for Schweinebucht resolves to 47.697421,11.749628 (~30 m away) - confirms. Depth 35 m from divers-guide.com only (single source; divers-guide gives the same 35 m for Schorn, so treat as approximate). divers-guide's species list (crab, trout, carp, catfish, eel, pike, pike-perch, tench) is identical for its Tegernsee sites, so it was not used as site-specific marine life. Rated Advanced per the >30 m depth rule, with the 725 m altitude noted."
     }
   },
   {
@@ -1919,10 +1828,9 @@
     "depth": 35,
     "site_type": "beach",
     "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Tegernsee - Schorn",
-      "sport": "scuba_diving",
       "source": "osm",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1943,7 +1851,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Ammersee - Herrsching",
-      "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gismo1337",
       "validated": "true",
@@ -1964,7 +1871,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Ammersee - Utting",
-      "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gismo1337",
       "validated": "true",

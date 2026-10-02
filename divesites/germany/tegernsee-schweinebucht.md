@@ -2,7 +2,7 @@
 name: Tegernsee - Schweinebucht
 lat: 47.6971667
 lng: 11.7495
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 35
 entryType: shore
 siteType: beach
@@ -24,7 +24,7 @@ The Schweinebucht is one of the shore entries listed by the Tegernsee dive schoo
 - **Location**: Schweinebucht (Kobelstraße), Tegernsee, Bavaria
 - **Entry Type**: Shore entry
 - **Site Type**: Beach dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: Highly variable. Seegeist reports for 2026: 7-10 m (April), 5-10 m (May), 5-6 m with a murky layer at 8 m (July), and 1-2 m with zero visibility from 6-12 m (August). divers-guide.com gives 5-10 m
 - **Current**: None (divers-guide.com)

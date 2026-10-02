@@ -2,7 +2,7 @@
 name: Kreidesee Hemmoor - Einstieg 4
 lat: 53.6970416
 lng: 9.1346562
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 37
 entryType: shore
 siteType: beach
@@ -24,7 +24,7 @@ The Kreidesee in Hemmoor (Lower Saxony, on the B73 between Cuxhaven and Hamburg)
 - **Location**: Kreidesee, Hemmoor, Landkreis Cuxhaven, Lower Saxony
 - **Entry Type**: Shore entry
 - **Site Type**: Beach dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 37 meters
 - **Typical Visibility**: Average 10-20 m at the entries; up to 40 m in optimal conditions, 5-10 m in poor conditions (best mid-week, Tuesday-Thursday)
 - **Current**: None

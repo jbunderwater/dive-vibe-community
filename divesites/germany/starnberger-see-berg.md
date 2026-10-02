@@ -2,7 +2,7 @@
 name: Starnberger See - Berg
 lat: 47.972543
 lng: 11.3509169
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 38
 entryType: shore
 siteType: beach
@@ -24,7 +24,7 @@ The entry at Berg on the north-east shore of the Starnberger See lies close to t
 - **Location**: Berg, north-east shore of the Starnberger See, next to the steamer landing stage
 - **Entry Type**: Shore entry
 - **Site Type**: Beach dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 38 meters
 - **Typical Visibility**: 6-10 m in winter; 0.5-2 m in summer due to algal blooms (Taucher.Net)
 - **Current**: Not documented

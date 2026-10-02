@@ -2,7 +2,7 @@
 name: Bodensee - Überlingen Tennisplätze
 lat: 47.7606368
 lng: 9.1713676
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 40
 entryType: shore
 siteType: beach
@@ -24,7 +24,7 @@ Named after the neighbouring tennis courts, this Überlingen entry is described 
 - **Location**: Überlingen (Strandweg), Überlinger See, Baden-Württemberg
 - **Entry Type**: Shore entry
 - **Site Type**: Beach dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 8-15 m reported (200bar.de, Jan 2018); weather-dependent
 - **Current**: Not documented

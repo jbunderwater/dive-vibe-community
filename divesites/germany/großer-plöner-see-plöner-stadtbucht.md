@@ -2,7 +2,7 @@
 name: Großer Plöner See - Plöner Stadtbucht
 lat: 54.159331
 lng: 10.42726
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 40
 entryType: shore
 siteType: beach
@@ -24,7 +24,7 @@ The Großer Plöner See is the largest and deepest lake in Schleswig-Holstein. T
 - **Location**: Plöner Stadtbucht, Plön, Kreis Plön, Schleswig-Holstein
 - **Entry Type**: Shore entry
 - **Site Type**: Beach dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: Highly variable - average about 6 m (tauchspots-kiel), often more than 10 m (7oceans), yet at times so poor you cannot see your hand (TSG Submarin); best in winter
 - **Current**: None

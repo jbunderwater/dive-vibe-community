@@ -2,7 +2,7 @@
 name: Steinbruch Horka
 lat: 51.2627167
 lng: 14.2484971
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 33
 entryType: shore
 siteType: wall
@@ -24,7 +24,7 @@ Steinbruch Horka is a former quarry west of the village of Horka near Crostwitz,
 - **Location**: Horka (Crostwitz), Landkreis Bautzen, Saxony
 - **Entry Type**: Shore entry
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 33 meters
 - **Typical Visibility**: 10-15 m depending on the season
 - **Current**: None

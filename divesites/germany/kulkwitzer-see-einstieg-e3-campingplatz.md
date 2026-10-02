@@ -2,7 +2,7 @@
 name: Kulkwitzer See - Einstieg E3 Campingplatz
 lat: 51.3109691
 lng: 12.251756
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 32
 entryType: shore
 siteType: beach
@@ -24,7 +24,7 @@ Kulkwitzer See is a flooded lignite pit on the western edge of Leipzig (flooded 
 - **Location**: Campground on the east shore of Kulkwitzer See, Leipzig, Saxony
 - **Entry Type**: Shore entry
 - **Site Type**: Beach dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 32 meters
 - **Typical Visibility**: Good visibility reported in spring 2022; no figures documented
 - **Current**: None

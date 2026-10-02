@@ -2,7 +2,7 @@
 name: Rursee - Bank 2
 lat: 50.6393522
 lng: 6.4048379
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 40
 entryType: shore
 siteType: beach
@@ -24,7 +24,7 @@ Bank 2 is the second official dive site in the Eschauel bay of the Rursee. The D
 - **Location**: Eschauel bay, Rursee (Schwammenauel reservoir), Nideggen-Schmidt
 - **Entry Type**: Shore entry
 - **Site Type**: Beach dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: Clubs describe clear water with generally good visibility
 - **Current**: Not documented

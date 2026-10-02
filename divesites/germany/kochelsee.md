@@ -2,7 +2,7 @@
 name: Kochelsee
 lat: 47.6452833
 lng: 11.3422167
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 66
 entryType: shore
 siteType: beach
@@ -24,7 +24,7 @@ Kochelsee lies at about 600 m at the edge of the Bavarian Prealps and reaches a 
 - **Location**: Kochelsee, near Kochel am See and Schlehdorf, Landkreis Bad Tölz-Wolfratshausen, Bavaria
 - **Entry Type**: Shore entry
 - **Site Type**: Beach dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 66 meters
 - **Typical Visibility**: Poor - notorious for low visibility; a user report gave about 3-4 m (October 2013), and visibility worsens with depth over fine sediment
 - **Current**: None documented; turbulence near the Walchensee power plant outlet (no-dive zone)

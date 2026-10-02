@@ -2,7 +2,7 @@
 name: Steinberger See
 lat: 49.2755718
 lng: 12.1552855
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 40
 entryType: shore
 siteType: beach
@@ -24,7 +24,7 @@ The Steinberger See near Schwandorf is a flooded former lignite mine (mining end
 - **Location**: South shore of the Steinberger See, Steinberg am See, Landkreis Schwandorf, Bavaria
 - **Entry Type**: Shore entry
 - **Site Type**: Beach dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 1-5 m depending on season and diver traffic (200bar.de); the local club reports clear water to 6 m, turbid at 7-15 m, about 5 m at 15-25 m and increasingly turbid below 25 m, and says visibility has declined noticeably since about 2012
 - **Current**: Not documented

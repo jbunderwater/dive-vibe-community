@@ -2,7 +2,7 @@
 name: Arendsee - Ostufer
 lat: 52.8900667
 lng: 11.4978
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 50
 entryType: shore
 siteType: beach
@@ -24,7 +24,7 @@ The Arendsee in the Altmark (Saxony-Anhalt) is a collapse lake over a salt dome,
 - **Location**: East shore (Tauchclub entry next to the Segler-Club), Arendsee (Altmark), Saxony-Anhalt
 - **Entry Type**: Shore entry
 - **Site Type**: Beach dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 50 meters
 - **Typical Visibility**: Highly variable, often around 2 m; below the summer thermocline (about 14 m) usually 1-3 m and completely dark; in winter 3-7 m down to 20 m
 - **Current**: None documented

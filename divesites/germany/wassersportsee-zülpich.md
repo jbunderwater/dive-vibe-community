@@ -2,7 +2,7 @@
 name: Wassersportsee Zülpich
 lat: 50.68
 lng: 6.664722
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 40
 entryType: shore
 siteType: beach
@@ -24,7 +24,7 @@ The Wassersportsee Zülpich (Zülpicher See) is the flooded residual pit of the 
 - **Location**: Wassersportsee Zülpich, Zülpich-Lövenich (Euskirchen district)
 - **Entry Type**: Shore entry
 - **Site Type**: Beach dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: From about 1 m after snowmelt to about 10 m in summer (taucher.net)
 - **Current**: Not documented

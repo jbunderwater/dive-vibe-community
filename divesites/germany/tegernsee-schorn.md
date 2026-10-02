@@ -2,7 +2,7 @@
 name: Tegernsee - Schorn
 lat: 47.6976167
 lng: 11.7517167
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 35
 entryType: shore
 siteType: beach
@@ -24,7 +24,7 @@ Schorn is listed as a Tegernsee dive site by divers-guide.com, which places the 
 - **Location**: Schorn, south-east shore of the Tegernsee, Bavaria
 - **Entry Type**: Shore entry
 - **Site Type**: Beach dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 5-10 m, average about 6 m (divers-guide.com)
 - **Current**: None (divers-guide.com)

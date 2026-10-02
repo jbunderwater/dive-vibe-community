@@ -2,7 +2,7 @@
 name: Starnberger See - Ambach
 lat: 47.8504942
 lng: 11.3375112
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 40
 entryType: shore
 siteType: beach
@@ -24,7 +24,7 @@ The Ambach recreation area on the south-east shore of the Starnberger See is an 
 - **Location**: Ambach recreation area, south-east shore of the Starnberger See
 - **Entry Type**: Shore entry
 - **Site Type**: Beach dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: Variable, good to poor (travel guide)
 - **Current**: Not documented

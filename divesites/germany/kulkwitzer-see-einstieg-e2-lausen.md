@@ -2,7 +2,7 @@
 name: Kulkwitzer See - Einstieg E2 Lausen
 lat: 51.3056326
 lng: 12.2516193
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 32
 entryType: shore
 siteType: beach
@@ -24,7 +24,7 @@ Kulkwitzer See is a flooded lignite opencast pit on the western edge of Leipzig,
 - **Location**: Lausen-Grünau, east shore of Kulkwitzer See, Leipzig, Saxony
 - **Entry Type**: Shore entry
 - **Site Type**: Beach dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 32 meters
 - **Typical Visibility**: Often described as very clear; the lake is regularly cited among Germany's clearest dive lakes
 - **Current**: None

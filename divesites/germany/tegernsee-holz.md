@@ -2,7 +2,7 @@
 name: Tegernsee - Holz
 lat: 47.737169
 lng: 11.719134
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 40
 entryType: shore
 siteType: beach
@@ -24,7 +24,7 @@ Holz, on the west shore of the Tegernsee, is a multi-option shore entry describe
 - **Location**: Holz, west shore of the Tegernsee, Bavaria
 - **Entry Type**: Shore entry
 - **Site Type**: Beach dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: Seegeist reports for 2026 range from 0 m (mid-June) to about 5 m in July/August, often with a turbid layer at 6-8 m and clearer, colder water (about 12°C) below 10-12 m
 - **Current**: Not documented
