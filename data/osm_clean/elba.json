@@ -1,0 +1,704 @@
+[
+  {
+    "name": "Le Forbici",
+    "lat": 42.71984,
+    "lon": 10.437613,
+    "depth": 40,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "infoelba.com,dailynautica.com,tenews.it,elbaced.it,aquanautic-elba.de",
+      "description": "Rocky reef and slope between Punta Galera and Punta Bianca, below the old Ginevro mine: rocks from ~15 m with a red gorgonian field, rocky bottom to about 40 m (42 m per one source). Infoelba warns of very strong currents.",
+      "last_qa_date": "2026-09-29",
+      "alt_name": "Forbici;Punta le Forbici",
+      "depth_min": "15"
+    }
+  },
+  {
+    "name": "Punta Galera",
+    "lat": 42.709813,
+    "lon": 10.432205,
+    "depth": 50,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "elbaced.it,infoelba.com,stefanosub.it,biodivers.it,omnisub.com,elbareport.it,aquanautic-elba.de",
+      "description": "Rock tongue running south-east from the coast just past the Ginevro mine: a beginner circuit around a ridge with a 7-10 m cap and 25 m sides, and a second ridge beyond 50 m with red and yellow gorgonians. Strong currents reported.",
+      "last_qa_date": "2026-09-29",
+      "depth_min": "7"
+    }
+  },
+  {
+    "name": "Punta dei Ripalti",
+    "lat": 42.70565,
+    "lon": 10.425167,
+    "depth": 45,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "elbaced.it,infoelba.com,stefanosub.it,omnisub.com,marelinosub.com,tenews.it,aquanautic-elba.de",
+      "description": "Rocky point at the southern tip of Elba: large boulders close to shore with red gorgonians and a shoal about 100-150 m long dropping to ~45 m with walls on both sides. Infoelba warns of very strong currents.",
+      "last_qa_date": "2026-09-29",
+      "alt_name": "Ripalti;Punta Ripalti",
+      "depth_min": "5"
+    }
+  },
+  {
+    "name": "Scoglio del Remaiolo",
+    "lat": 42.709277,
+    "lon": 10.412679,
+    "depth": 45,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "elbaced.it,stefanosub.it,infoelba.com,virtualelba.it,elbainsel.net,puntaladivingcenter.it,padi.com,biodivers.it,dailynautica.com,tenews.it,aquanautic-elba.de",
+      "description": "Rock rising in Remaiolo bay with an easy circuit at 20 m or less and steep walls and a ridge falling beyond 40 m: red and yellow gorgonians, anthias and pelagic fish. Sources report 45-55 m maximum.",
+      "last_qa_date": "2026-09-29",
+      "alt_name": "Scoglio Remaiolo;Scoglio di Remaiolo",
+      "depth_min": "0"
+    }
+  },
+  {
+    "name": "La Miniera",
+    "lat": 42.713975,
+    "lon": 10.386887,
+    "depth": 40,
+    "site_type": "muck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "false",
+      "validation_source": "aquanautic-elba.de",
+      "description": "Site marked 'La Miniera' on a local dive centre's map: black sand and spider crabs, 6-40 m, easy navigation, current rarely present. No other description found; site type, access and topography are undocumented.",
+      "last_qa_date": "2026-09-29",
+      "alt_name": "La Mineria",
+      "depth_min": "6"
+    }
+  },
+  {
+    "name": "Capo Calvo",
+    "lat": 42.739133,
+    "lon": 10.429716,
+    "depth": 50,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "elbaced.it,stefanosub.it,isoladelbaapp.com,infoelba.com,biodivers.it,omnisub.com,tenews.it,aquanautic-elba.de",
+      "description": "Boat dive from a sheltered bay south-east of Porto Azzurro: sand and posidonia, boulders from ~25 m and a large red gorgonian garden at 30-45 m with false black coral; easy 10-25 m route available. Currents push offshore.",
+      "last_qa_date": "2026-09-29",
+      "depth_min": "5"
+    }
+  },
+  {
+    "name": "Picchi di Pablo",
+    "lat": 42.73264,
+    "lon": 10.437012,
+    "depth": 38,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "elbaced.it,stefanosub.it,isoladelbaapp.com,scubaportal.it,infoelba.com,elbainsel.net,biodivers.it,puntaladivingcenter.it,marelinosub.com,riodiving.it,dailynautica.com,tenews.it,aquanautic-elba.de",
+      "description": "Two pinnacles rising to ~5 m above a vertical wall that ends on sand at about 38 m: Parazoanthus-covered pinnacle at 8-12 m, red and yellow gorgonians on boulders at the base, small shrimp cave at 32-35 m. Rated suitable for all levels.",
+      "last_qa_date": "2026-09-29",
+      "alt_name": "Paretina",
+      "depth_min": "5"
+    }
+  },
+  {
+    "name": "Gemini West",
+    "lat": 42.718248,
+    "lon": 10.372682,
+    "depth": 14,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "aquanautic-elba.de,scubago.com,it.wikipedia.org,virtualelba.it,elbaworld.com,islepark.it",
+      "description": "Western point of the Gemini islets off Capo Calamita: a shallow dive following a scree edge towards open water, surface to about 14 m (Aquanautic: 0-12 m, very easy navigation, no current). Scubago calls it ideal for beginners.",
+      "last_qa_date": "2026-09-29",
+      "alt_name": "Isole Gemini",
+      "depth_min": "0"
+    }
+  },
+  {
+    "name": "Gemini East",
+    "lat": 42.717586,
+    "lon": 10.373991,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "aquanautic-elba.de,it.wikipedia.org,virtualelba.it,elbaworld.com,islepark.it",
+      "description": "Eastern point of the Gemini islets off Capo Calamita. Aquanautic Elba lists it as 'Gemini Ost': 0-20 m, easy navigation, no current, octopus and snails. Caves and arches at 15-20 m are described for the Gemini rocks generally.",
+      "last_qa_date": "2026-09-29",
+      "alt_name": "Gemini Ost;Isole Gemini",
+      "depth_min": "0"
+    }
+  },
+  {
+    "name": "Gemini Rock",
+    "lat": 42.715883,
+    "lon": 10.371459,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "divers-guide.com,aquanautic-elba.de,elbaced.it,it.wikipedia.org,islepark.it",
+      "description": "Rock just south of the Gemini islets: enter on the east side, keep the rock on your right, through a large passage and a narrow swim-through; canyon and small cave, 0-20 m. Probably the same dive as Elba CED's 'La Focacciola', rated suitable for all divers.",
+      "last_qa_date": "2026-09-29",
+      "depth_min": "0"
+    }
+  },
+  {
+    "name": "I Corbelli",
+    "lat": 42.713897,
+    "lon": 10.361266,
+    "depth": 40,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "elbaced.it,subnow.it,veronasub.it,infoelba.com,aquanautic-elba.de,islepark.it",
+      "description": "Small group of rocks south-west of the Gemini: boat anchored at 10 m on the north side, boulder slope to the north, walls and crevices to the south, a Parazoanthus-lined canyon at about 10 m and a wall to about 40 m. Currents can be intense at times.",
+      "last_qa_date": "2026-09-29",
+      "alt_name": "Corbelli;Scoglio dei Corbelli",
+      "depth_min": "0"
+    }
+  },
+  {
+    "name": "Punta Morcone",
+    "lat": 42.73119,
+    "lon": 10.365365,
+    "depth": 40,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "infoelba.com,scubago.com,marinadicampodiving.com,aquanautic-elba.de,islepark.it",
+      "description": "Wall dive in front of Punta Morcone: starts on a rocky cap at about 3 m and follows a Parazoanthus-covered wall to about 40 m, with dens of octopus, conger and moray around 27 m, yellow gorgonians deeper, and posidonia on the ascent.",
+      "last_qa_date": "2026-09-29",
+      "depth_min": "3"
+    }
+  },
+  {
+    "name": "Scoglio che Bara",
+    "lat": 42.74275,
+    "lon": 10.32647,
+    "depth": 35,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "elbaced.it,subnow.it,infoelba.com,aquanautic-elba.de,islepark.it",
+      "description": "Submerged rock about 50-60 m off a large boulder near Capo Stella: cap at ~7 m, a through-crack and a Parazoanthus-covered west wall, then a cone down to ~35 m with a small wooden boat wreck on the bottom. Sub Now rates it medium-high (AWD-Deep).",
+      "last_qa_date": "2026-09-29",
+      "alt_name": "Sasso che Bara",
+      "depth_min": "7"
+    }
+  },
+  {
+    "name": "Capo Stella Nord",
+    "lat": 42.738833,
+    "lon": 10.322385,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "false",
+      "validation_source": "aquanautic-elba.de,virtualelba.it,islepark.it,elbaced.it",
+      "description": "North point of Capo Stella. Aquanautic Elba lists a tunnel as the special feature, 0-30 m, easy navigation, rare currents. No other site-specific description found.",
+      "last_qa_date": "2026-09-29",
+      "depth_min": "0"
+    }
+  },
+  {
+    "name": "Coralline Interne",
+    "lat": 42.734468,
+    "lon": 10.282302,
+    "depth": 42,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "divecenterblu.com,aquanautic-elba.de,elbaced.it,marinadicampodiving.com,elbaworld.com,divinginelba.com,infoelba.com",
+      "description": "Coral-rich rock ridge off Capo Fonza, listed by dive centres separately from the Secca di Fonza. Aquanautic Elba maps it at 3-42 m with red coral and a chimney. A cave/siphon at about 30 m is described for the Coralline dive. Boat dive (inferred).",
+      "last_qa_date": "2026-09-29",
+      "alt_name": "Le Coralline",
+      "depth_min": "3"
+    }
+  },
+  {
+    "name": "Secca di Capo Fonza",
+    "lat": 42.733081,
+    "lon": 10.2811,
+    "depth": 45,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "elbaced.it,marinadicampodiving.com,divecenterblu.com,divinginelba.com,aquanautic-elba.de",
+      "description": "Shoal at Capo di Fonza, topped at about 3-6 m, with a vertical east wall to 40-50 m, red coral in the cavities and a gorgonian plateau at about 25 m on the south side. Sources conflict on level: 'all levels' (multilevel profiles) vs advanced (sometimes sustained current).",
+      "last_qa_date": "2026-09-29",
+      "alt_name": "Capo Fonza;Secca di Fonza",
+      "depth_min": "3"
+    }
+  },
+  {
+    "name": "Scoglio della Triglia",
+    "lat": 42.733223,
+    "lon": 10.269105,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "elbaced.it,marinadicampodiving.com,divecenterblu.com,infoelba.com,elbareport.it,aquanautic-elba.de,islepark.it",
+      "description": "Large rock breaking the surface just outside the Gulf of Marina di Campo, continuing to about 20 m with rocks around 30 m to the south. Suitable for all levels per several dive centres. Known for a Madonna statue placed c. 1970; one source reports it destroyed in 2021.",
+      "last_qa_date": "2026-09-29",
+      "alt_name": "La Triglia",
+      "depth_min": "0"
+    }
+  },
+  {
+    "name": "Secca di Capo Poro",
+    "lat": 42.723813,
+    "lon": 10.237627,
+    "depth": 50,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "elbaced.it,marinadicampodiving.com,divecenterblu.com,fetovaia.it",
+      "description": "Deep offshore ridge about 500 m to half a mile off Capo Poro: top at 30-39 m, steep walls to beyond 50 m covered in red gorgonian fans, red coral in cracks. All sources recommend experienced divers only (depth, descent in the blue, possible current).",
+      "last_qa_date": "2026-09-29",
+      "alt_name": "Capo Poro",
+      "depth_min": "30"
+    }
+  },
+  {
+    "name": "Secca di Fetovaia",
+    "lat": 42.725578,
+    "lon": 10.161753,
+    "depth": 40,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "divinginelba.com,marinadicampodiving.com,elbaced.it,fetovaia.it",
+      "description": "Shoal off Fetovaia bay with its top at 12-15 m, rocky ridges, and a wall that carries red gorgonians from about 30 m; 40 m typical, 50 m on the outer side. Known for barracuda; the top is interesting for less experienced divers, the wall rated for experts by one source.",
+      "last_qa_date": "2026-09-29",
+      "depth_min": "12"
+    }
+  },
+  {
+    "name": "Punta di Fetovaia",
+    "lat": 42.722993,
+    "lon": 10.160637,
+    "depth": 40,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "elbaced.it,divinginelba.com,fetovaia.it,divecenterblu.com",
+      "description": "Headland dive: Posidonia bottom, then rocky terraces with rocks fully covered in red gorgonians from about 15 m down past 40 m, and a cave at about 40 m. Fetovaia.it rates it high difficulty with strong seaward current; Dive Center Blu says it suits everyone.",
+      "last_qa_date": "2026-09-29",
+      "alt_name": "Punta Fetovaia",
+      "depth_min": "12"
+    }
+  },
+  {
+    "name": "Relitto di Pomonte",
+    "lat": 42.743766,
+    "lon": 10.119138,
+    "depth": 12,
+    "site_type": "wreck",
+    "entry_type": "both",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "it.wikipedia.org,marinadicampodiving.com,divecenterblu.com,divinginelba.com,tenews.it,infoelba.com,archiviomemoriaelbana.it,hotelsardi.it,virtualelba.com,lust-auf-italien.com,taucher.net,fetovaia.it,aquanautic-elba.de,islepark.it",
+      "description": "Wreck of the cargo ship Elviscot on sand at about 12 m beside the Ogliera rock, off Pomonte beach. Reachable from shore and by boat; current low or almost absent. Penetration (bridge, funnel, engine room) needs proper training and equipment; hull in precarious condition.",
+      "last_qa_date": "2026-09-29",
+      "alt_name": "Elviscot;Relitto dell'Elviscot;Relitto Pomonte",
+      "depth_min": "2"
+    }
+  },
+  {
+    "name": "Colle d'Orano",
+    "lat": 42.785575,
+    "lon": 10.099525,
+    "depth": 16,
+    "site_type": "reef",
+    "entry_type": "both",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "false",
+      "validation_source": "fetovaia.it,infoelba.com,costadelsole.it,aquanautic-elba.de",
+      "description": "Easy shallow dive (2-16 m) below Colle d'Orano. Access from Le Buche bay on foot or by boat; anchorage 150 m offshore near a small gulf with a solitary pine. Low current, good visibility; conger, moray, octopus, pen shell, Posidonia.",
+      "last_qa_date": "2026-09-29",
+      "alt_name": "Collo d'Orano",
+      "depth_min": "2"
+    }
+  },
+  {
+    "name": "Sant'Andrea",
+    "lat": 42.809381,
+    "lon": 10.140231,
+    "depth": 40,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "ilcareno.com,infoelba.it,hotelilio.com,aquanautic-elba.de,divinginelba.com",
+      "description": "Shore dive from Sant'Andrea beach over boulder slopes (Le Cote Piane house reef of Il Careno): easy route around 18 m, advanced route to 40 m. Groupers, seahorse colony at 5 m, dentex, amberjack; possible current.",
+      "last_qa_date": "2026-09-29",
+      "alt_name": "San Andrea;Le Cote Piane",
+      "depth_min": "0"
+    }
+  },
+  {
+    "name": "Punta della Madonna",
+    "lat": 42.813411,
+    "lon": 10.184155,
+    "depth": 42,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "divinginelba.com,elbaced.it,visittuscany.com,duecentobar.it",
+      "description": "Boat wall dive west of Marciana Marina: submerged promontory, terraced wall past 40 m, fractured canyon, Parazoanthus, a Christ statue and a weathered Madonna statue. Rated easy with medium current by Diving in Elba.",
+      "last_qa_date": "2026-09-29",
+      "depth_min": "0"
+    }
+  },
+  {
+    "name": "Secca del Semaforo",
+    "lat": 42.812529,
+    "lon": 10.259514,
+    "depth": 52,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "divinginelba.com,underwatertales.net,bolledazoto.it,bluelbadiving.it,elbaced.it,aquanautic-elba.de",
+      "description": "Deep technical pinnacle on sand about half a mile off Capo Enfola: top about 38-40 m, base 52-55 m, red and yellow gorgonians and sponges. Technical certification; dive only without current.",
+      "last_qa_date": "2026-09-29",
+      "alt_name": "Secca di Semaforo;Il Semaforo",
+      "depth_min": "38",
+      "position": "uncertain: marker lies ~280 m from shore; sources describe the shoal ~0.5 nm off Capo d'Enfola"
+    }
+  },
+  {
+    "name": "Scoglio della Nave",
+    "lat": 42.828646,
+    "lon": 10.257711,
+    "depth": 40,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "divinginelba.com,elbaced.it,duecentobar.it,bluelbadiving.it,infoelba.com,aquanautic-elba.de",
+      "description": "Wall around a ship-shaped rock off Capo Enfola: yellow gorgonians, groupers and octopus from 0-25 m; a near-vertical outer wall from 20 to 40 m for advanced divers. Diving in Elba rates it easy, light to medium current.",
+      "last_qa_date": "2026-09-29",
+      "depth_min": "0"
+    }
+  },
+  {
+    "name": "Secca di Santa Lucia",
+    "lat": 42.820588,
+    "lon": 10.305176,
+    "depth": 22,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "divinginelba.com,elbaced.it,bluelbadiving.it,bolledazoto.it,infoelba.com,aquanautic-elba.de",
+      "description": "Small three-rock cone shoal off Capo Bianco: top at 6-8 m, maximum 20-22 m, eastern slope covered with Parazoanthus, octopus, eels, scorpionfish and barracuda. Rated easy, current absent to light.",
+      "last_qa_date": "2026-09-29",
+      "depth_min": "6"
+    }
+  },
+  {
+    "name": "Scoglietto di Portoferraio",
+    "lat": 42.8284,
+    "lon": 10.3316,
+    "depth": 40,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "divinginelba.com,elbaced.it,infoelba.com,bolledazoto.it,iloveelba.it,padi.com,islepark.it,it.wikipedia.org,aquanautic-elba.de",
+      "description": "Lighthouse islet north of Portoferraio in a fishing-free biological protection zone (since 1971): boulder slopes, walls and grouper-rich routes from 0 to 47 m; La Franata is the easy route, Panettone (40-52 m) is technical.",
+      "last_qa_date": "2026-09-29",
+      "alt_name": "Lo Scoglietto",
+      "depth_min": "5",
+      "position": "approximate: east side of the Scoglietto islet (islet outline from OpenStreetMap)",
+      "coordinates_original": "42.818888,10.330925"
+    }
+  },
+  {
+    "name": "Junker 52",
+    "lat": 42.813411,
+    "lon": 10.336246,
+    "depth": 37,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "bluelbadiving.it,taucher.net,visititaly.it,hotelannaisoladelba.it",
+      "description": "Remains (mainly the tail) of a German WWII Junkers Ju 52 on a sand/silt seabed at about 35-37 m in front of the Portoferraio lighthouse. Deep open-water decompression dive near the ferry lane; Advanced only.",
+      "last_qa_date": "2026-09-29",
+      "alt_name": "Lo Junker 52;Junkers Ju 52",
+      "depth_min": "35",
+      "position": "uncertain: contributor/Aquanautic marker kept; sources describe the wreck ~300 m off the shore below the Portoferraio lighthouse and warn that published GPS positions have been wrong"
+    }
+  },
+  {
+    "name": "Secca di Capo Vita",
+    "lat": 42.872567,
+    "lon": 10.408173,
+    "depth": 24,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "elbaced.it,infoelba.com,cavodiving.it,bolledazoto.it",
+      "description": "Oval boulder shoal (~300 x 200 m) north of Capo Vita, top at ~6 m, base 20-24 m on sand; stacked rocks form tunnels and swim-throughs covered in sponges and parazoanthus. Reached by boat from Cavo.",
+      "last_qa_date": "2026-09-29",
+      "alt_name": "Secca di Capo della Vita",
+      "depth_min": "6",
+      "position": "uncertain: marker lies ~160 m from shore; one source puts the shoal about one mile off Capo Vita"
+    }
+  },
+  {
+    "name": "L'Ancorone",
+    "lat": 42.875713,
+    "lon": 10.414009,
+    "depth": 45,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "elbaced.it,infoelba.com,riodiving.it,bolledazoto.it",
+      "description": "Deep rocky wall and boulders (27-45 m) north of Capo Vita, known for a very large admiralty-type anchor (reported as medieval, 5-6 m) at about 42 m. Long dive in open sea, exposed to current; Advanced only.",
+      "last_qa_date": "2026-09-29",
+      "alt_name": "Secca dell'Ancorone",
+      "depth_min": "27",
+      "position": "uncertain: sources place it 200-300 m from the Secca di Capo Vita"
+    }
+  },
+  {
+    "name": "Secca del Frate",
+    "lat": 42.8684,
+    "lon": 10.4753,
+    "depth": 30,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "elbaced.it,infoelba.com,divinginelba.com,riodiving.it,bolledazoto.it,it.wikipedia.org,islepark.it",
+      "description": "Shoal with two rocky caps north of Palmaiola islet in the Piombino channel; tops at about 3-7 m, walls to 25-30 m on sand. Medium to strong current year-round; eagle rays, amberjack and other pelagics. Experienced divers.",
+      "last_qa_date": "2026-09-29",
+      "alt_name": "Secche del Frate",
+      "depth_min": "3",
+      "position": "approximate: at the Il Frate rock north of Palmaiola (OpenStreetMap); sources place the shoal ~100-250 m N/NE of Palmaiola near this rock",
+      "coordinates_original": "42.8545750,10.4433630"
+    }
+  },
+  {
+    "name": "Isola di Cerboli",
+    "lat": 42.8553,
+    "lon": 10.5465,
+    "depth": 45,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "elbaced.it,infoelba.com,bolledazoto.it,it.wikipedia.org,islepark.it",
+      "description": "Quarry-scarred limestone islet with near-vertical walls covered in parazoanthus and sponges; a shallow siphon/tunnel, a slope to 45 m with gorgonians, and two small wrecks at 25 m. Strong currents in the Piombino channel.",
+      "last_qa_date": "2026-09-29",
+      "alt_name": "Cerboli",
+      "depth_min": "10",
+      "position": "approximate: south-side anchorage of Isola di Cerboli (OpenStreetMap 'Cerboli Anchor' node); sources describe mooring in the bay south of the islet",
+      "coordinates_original": "42.8457650,10.4598430"
+    }
+  },
+  {
+    "name": "Punta delle Cannelle",
+    "lat": 42.774676,
+    "lon": 10.439501,
+    "depth": 45,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "elbaced.it,infoelba.com,riodiving.it,bolledazoto.it",
+      "description": "Headland dive with a wall and an outer rock monolith covered in large red gorgonians; depths 10-43/45 m, sand channel at ~12 m, sustained current at the outer rock. A deeper wall dive ('Cannelle esterne', 22-48 m) lies 150 m north.",
+      "last_qa_date": "2026-09-29",
+      "alt_name": "Punta delle Canelle",
+      "depth_min": "10"
+    }
+  },
+  {
+    "name": "Relitto Aereo (Islander)",
+    "lat": 42.747642,
+    "lon": 10.411091,
+    "depth": 16,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "gismo1337",
+      "coordinates_source": "contributor-supplied (researched by the contributor, positions copied from Google Maps); positions match the markers on the Aquanautic Elba public dive-site map",
+      "validated": "true",
+      "validation_source": "elbaced.it,infoelba.com,pescasubeapnea.it,aquanautic-elba.de,bolledazoto.it",
+      "description": "Wreck of a small twin-engine tourist aircraft (Britten-Norman BN-2A Islander) at 12-16 m on sand and posidonia near Punta Nera, Capoliveri. Easy, short dive; fuselage encrusted, moray and conger eel burrows inside.",
+      "last_qa_date": "2026-09-29",
+      "alt_name": "Relitto Aereo;Relitto aereo di Punta Nera;Britten-Norman Islander",
+      "depth_min": "12",
+      "position": "uncertain: sources place the wreck near Punta Nera (Capoliveri) or 200 m SE of it; marker lies ~1.4 km NW of Punta Nera"
+    }
+  }
+]
