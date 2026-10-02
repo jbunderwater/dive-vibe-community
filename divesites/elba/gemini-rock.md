@@ -2,7 +2,7 @@
 name: Gemini Rock
 lat: 42.715883
 lng: 10.371459
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 20
 entryType: boat
 siteType: reef
@@ -28,7 +28,7 @@ Divers Guide classes it as a boat dive with free access. No protection rule spec
 - **Location**: Elba, Europe (rock south of the Gemini islets, off Capo Calamita, Capoliveri)
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 
 ---
