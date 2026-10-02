@@ -1,7 +1,7 @@
 ---
 name: SAS Transvaal Wreck
-lat: -33.9667
-lng: 25.65
+lat: -34.2667
+lng: 18.4667
 difficulty: Advanced
 maxDepth: 34
 entryType: boat
@@ -13,11 +13,15 @@ addedBy: osm_import
 
 ## SAS Transvaal Wreck
 
-SAS Transvaal Wreck is a historic wreck dive in South Africa, Africa.
+SAS Transvaal is a former Loch-class frigate scuttled in 1978 as an artificial reef in Smitswinkel Bay, False Bay.
 
 ## Overview
 
-The SAS Transvaal is a Loch-class frigate transferred from the Royal Navy to the South African Navy in 1944 — she later escorted HMS Vanguard during King George VI's 1947 South Africa tour before being scuttled as an artificial reef in False Bay in August 1978. She lies upright on sand at 34 metres in Smitswinkel Bay, the northernmost of five wrecks forming a dive trail within the Table Mountain National Park Marine Protected Area, and is encrusted with invertebrates rarely documented elsewhere on the Cape Peninsula. The collapsing hull and strong surge make this an advanced, permit-required dive; visibility averages around 7 metres and is typically best during the winter months.
+Wikipedia and KBHA Bulletin 24 report that the ship was laid down on 20 January 1944 at Harland and Wolff, Belfast, and launched on 2 August 1944; KBHA gives her commissioning as 14 May 1945, while Wikipedia says she was transferred to the South African Navy in 1944 before completion. Wikipedia and Duikersgids give the scuttling as 3 August 1978 in False Bay, after the hulk was donated to the False Bay Conservation Society for use as an artificial reef. (A different date, 12 December 1978, appeared in one search summary; most sources agree on 3 August.)
+
+Wikipedia says she lies upright on sand at about 34 m; Duikersgids also gives 34 m, while DUNE lists about 20 m, so depth reports conflict. Duikersgids reports that she lies on sand with her bow facing northeast, that the structure is damaged and unstable, that a permit is required (protected marine area), and that visibility ranges from 4 to 20 m, averaging about 7 m, with best diving in winter. Wreck length is reported only by Wikipedia and is omitted.
+
+Earlier versions of this page placed the wreck at about 34 S, 25.65 E (Algoa Bay region); sources locate it in Smitswinkel Bay, False Bay (about 34.27 S, 18.47 E), and the coordinates have been corrected.
 
 ## Site Information
 
@@ -27,5 +31,13 @@ The SAS Transvaal is a Loch-class frigate transferred from the Royal Navy to the
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 34 meters
 
+## Marine Life
+
+Duikersgids notes common sponges at this wreck. No other species are attributed here because no site-specific source was found.
+
+## Safety
+
+Duikersgids describes the wreck as suitable for experienced divers only, with an unstable structure. Any wreck penetration requires proper training and equipment; do not assume it is safe.
+
 ---
-*Sources: [SCUBA Travel - Diving South Africa](https://www.scubatravel.co.uk/africa/diving-south-africa.html), [Bluewater Dive Travel - South Africa](https://www.bluewaterdivetravel.com/destination/south-africa-diving), [Coral Divers Sodwana Bay](https://coraldivers.co.za/), [PADI - Diving Sodwana Bay](https://www.padi.com/diving-in/south-africa/sodwana-bay/), [Ikelite - Aliwal Shoal Guide](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-aliwal-shoal-south-africa). Last updated 2026-04-04.*
+*Sources: [Wikipedia - SAS Transvaal](https://en.wikipedia.org/wiki/SAS_Transvaal), [Duikersgids - SAS Transvaal](https://www.duikersgids.nl/en/sas-transvaal), [KBHA Bulletin 24](https://www.kbha.co.za/BULLETINS/24/files/basic-html/page19.html), [DUNE - Transvaal](https://dune-world.com/ar/wrecks/transvaal). Last updated 2026-10-02.*

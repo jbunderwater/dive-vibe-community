@@ -13,19 +13,23 @@ addedBy: osm_import
 
 ## Sardine Run Reef
 
-Sardine Run Reef is a reef dive site in South Africa, Africa.
+This entry is unresolved. No source checked identifies a fixed reef called "Sardine Run Reef"; the sardine run is a seasonal open-water event.
 
 ## Overview
 
-Sardine Run Reef lies off the Wild Coast near Port St Johns, the epicentre of South Africa's annual sardine run — one of the ocean's greatest wildlife spectacles occurring each June and July. Billions of sardines migrate northward in dense baitballs at 10–18 meters depth, pursued simultaneously by bronze whaler sharks, common dolphins, Cape gannets dive-bombing from above, and Bryde's whales lunging through the schools from below. Diving here during the run requires advanced open-water skills to handle surge and the sheer chaos of the feeding frenzy, but the experience is unmatched anywhere in the diving world.
+Mozambique Experience reports that Port St Johns on the Wild Coast is a base for sardine run operators, with the run in June and July, and that water activities are only undertaken when visibility is at least 5 to 8 m. It adds that some of the best action is close to the surface. Divernet describes the run as occurring May to July along the coast, with scuba, snorkelling and boat-based viewing offered. Neither source gives a named reef or fixed depth, so the 18 m depth and coordinates recorded here are unverified.
 
 ## Site Information
 
 - **Location**: South Africa, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 18 meters
 
+## Marine Life
+
+Mozambique Experience reports bronze whaler, dusky and oceanic blacktip sharks attracted to the run; Divernet lists common and bottlenose dolphins, Cape gannets and Bryde's whales during the event. These are event-level reports, not tied to a fixed dive site.
+
 ---
-*Sources: [SCUBA Travel - Diving South Africa](https://www.scubatravel.co.uk/africa/diving-south-africa.html), [Bluewater Dive Travel - South Africa](https://www.bluewaterdivetravel.com/destination/south-africa-diving), [Coral Divers Sodwana Bay](https://coraldivers.co.za/), [PADI - Diving Sodwana Bay](https://www.padi.com/diving-in/south-africa/sodwana-bay/), [Ikelite - Aliwal Shoal Guide](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-aliwal-shoal-south-africa). Last updated 2026-04-04.*
+*Sources: [Mozambique Experience - Sardine run](https://mozambiqueexperience.com/info-about-diving-destinations), [Divernet - Spectacular sardine run](https://divernet.com/world-dives/spectacular-sardine-run/). Entry flagged for removal or re-definition as a seasonal event. Last updated 2026-10-02.*

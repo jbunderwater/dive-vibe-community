@@ -11,13 +11,17 @@ osmId: null
 addedBy: osm_import
 ---
 
-## MV Produce Wreck
+# MV Produce Wreck
 
-MV Produce Wreck is a historic wreck dive in South Africa, Africa.
+A Norwegian bulk carrier that struck Aliwal Shoal in 1974 and now lies broken in sections at about 30 to 32 metres.
 
 ## Overview
 
-The MV Produce was a 119-metre Norwegian bulk carrier carrying molasses when she struck the northern Pinnacles of Aliwal Shoal in rough seas on 11 August 1974, breaking into three sections that now lie on their starboard side between 30 and 32 metres. Jacques Cousteau rated Aliwal Shoal among his top ten dive sites in the world, and the Produce is its crown jewel — a vast structure that rewards repeated dives, with endemic harlequin goldies schooling through the wreckage, giant brindle bass in residence, and visiting manta rays and hammerhead sharks. Both the bow and stern sections can be penetrated by qualified wreck divers, and strong currents at this advanced site regularly sweep in pelagics.
+Wikipedia lists the Norwegian bulk carrier MV Produce as sinking in 1974 on Aliwal Shoal. DAN South Africa and Scuba Co report that she was travelling south from Durban, reportedly with a cargo of molasses, when she struck the northern Pinnacles of the shoal in rough seas and ripped open her hull; all crew were rescued by local fishermen.
+
+She lies on her starboard side on sand at about 30 m (DAN SA) to 32 m (Scuba Co), in three sections; DAN SA places the bridge section about 14 m below the surface.
+
+**Source conflicts.** Sources report the vessel's length between 119 m (DAN SA, Scuba Co) and 176 m (another Scuba Co page); a 168 m figure also circulates. Tonnage is given as 15,000 tons by DAN SA only, and build date, builder and exact sinking date are not confirmed by two independent sources, so they are omitted.
 
 ## Site Information
 
@@ -27,5 +31,13 @@ The MV Produce was a 119-metre Norwegian bulk carrier carrying molasses when she
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 32 meters
 
+## Marine Life
+
+DAN SA and Scuba Co both report a school of large brindle bass on the wreck, and both list scorpionfish. Scuba Co also lists harlequin goldies and soft corals (fire and whip coral); DAN SA reports stinging hydroids. No other species are attributed here.
+
+## Safety
+
+Scuba Co describes the wreck as a deep dive with potential for strong current and poor visibility, with swim-throughs. Wreck penetration requires proper training and equipment and is never safe by default; follow a qualified operator's guidance. Nitrox is suggested by one operator because of the depth.
+
 ---
-*Sources: [SCUBA Travel - Diving South Africa](https://www.scubatravel.co.uk/africa/diving-south-africa.html), [Bluewater Dive Travel - South Africa](https://www.bluewaterdivetravel.com/destination/south-africa-diving), [Coral Divers Sodwana Bay](https://coraldivers.co.za/), [PADI - Diving Sodwana Bay](https://www.padi.com/diving-in/south-africa/sodwana-bay/), [Ikelite - Aliwal Shoal Guide](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-aliwal-shoal-south-africa). Last updated 2026-04-04.*
+*Sources: [Wikipedia - Aliwal Shoal](https://en.wikipedia.org/wiki/Aliwal_Shoal), [DAN South Africa - The Produce](https://dansa.org/blog/2023/09/16/kwazulu-natal-shipwrecks-the-produce), [Scuba Co - The Wrecks of Aliwal](https://scubaco.co.za/?p=82), [Scuba Co - Aliwal wreck dives](https://scubaco.co.za/?p=1983). Last updated 2026-10-02.*
