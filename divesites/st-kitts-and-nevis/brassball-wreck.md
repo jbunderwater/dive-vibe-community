@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Brassball Wreck
 
-The Brassball Wreck is one of the shallowest wreck dives in St. Kitts and Nevis, resting in under 8 metres of clear water and popular with beginners and snorkelers — though little else about its history is documented in available sources.
+The Brassball Wreck is listed as a shallow wreck of under 25 feet (8 m), described as suitable for novice divers; little else is documented.
 
 ## Overview
 
-The Brassball Wreck lies in less than 25 feet (about 8 metres) of water, making it an easy, low-current dive suited to novice divers and snorkelers alike. Beyond its shallow depth and beginner-friendly conditions, no independently verifiable source could be found describing the vessel's name origin, ship type, dimensions, or the date and cause of its sinking. These details are genuinely unknown rather than simply unresearched, and should not be assumed or invented — this page will be updated if a documented history for the wreck is found.
+Active Caribbean Travel lists the Brassball Wreck among St. Kitts wreck sites, as a great spot for novice divers with a depth of less than 25 feet (8 m). No other directly checked source (My St Kitts Dive Buddy, Dive Nevis, Pro Divers, Dive The World, PADI) names it, and no source gave the vessel's identity, type, build date, tonnage or cause of sinking. These are unknown, not simply unresearched, and are not assumed here. Treat this entry as weakly sourced; the exact location is unconfirmed.
 
 ## Site Information
 
-- **Location**: St. Kitts and Nevis, Caribbean
+- **Location**: St. Kitts
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
@@ -29,7 +29,7 @@ The Brassball Wreck lies in less than 25 feet (about 8 metres) of water, making 
 
 ## Marine Life
 
-No site-specific marine life reports were found for the Brassball Wreck. Divers should expect the encrusting sponge and coral growth typical of shallow Caribbean wreck sites and small reef fish sheltering in the structure, but specific species sightings have not been documented at this exact site.
+No site-specific marine life reports were found. Regional Caribbean fauna applies, but no species have been reported for this site.
 
 ---
-*Sources: [Active Caribbean Travel - St Kitts & Nevis Diving](https://activecaribbeantravel.com/st-kitts-diving-nevis-diving/). Only one independently verifiable source was found despite an extensive search — My St Kitts Dive Buddy, Pro Divers St Kitts, PADI, Dive Nevis, and Dive Training Magazine were checked directly and do not document this wreck by name. Last updated 2026-07-03.*
+*Sources: [Active Caribbean Travel](https://activecaribbeantravel.com/st-kitts-diving-nevis-diving/). Only one source found; unverified (fewer than 3 sources). Last updated 2026-10-02.*

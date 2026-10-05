@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## SS Copenhagen Shipwreck
 
-SS Copenhagen Shipwreck is a historic wreck dive in South Florida, North America.
+The SS Copenhagen is a 1898 British steamship that wrecked on the Pompano Dropoff in 1900 and is now Florida Underwater Archaeological Preserve #5, a shallow boat dive off Lauderdale-by-the-Sea.
 
 ## Overview
 
-Historic British cargo steamship built 1898, wrecked May 26, 1900 at the Pompano Dropoff reef south of Hillsboro Inlet. Scattered remains in 16-31 feet (5-9.5m) of water. Florida Underwater Archaeological Preserve #5, listed on the National Register of Historic Places in 2001. One of Florida's most-visited underwater preserves; accessible by boat from Pompano Beach and Fort Lauderdale.
+The wreck lies about three-quarters of a nautical mile offshore of Lauderdale-by-the-Sea, south of Hillsboro Inlet (National Park Service). It was designated a Florida Underwater Archaeological Preserve in June 1994 and listed on the National Register of Historic Places on May 31, 2001 (reference 01000532) (Wikipedia). The Town of Lauderdale-by-the-Sea says it draws an estimated 10,000 visitors a year and is the most popular underwater preserve in Florida.
 
 ## Site Information
 
@@ -29,33 +29,32 @@ Historic British cargo steamship built 1898, wrecked May 26, 1900 at the Pompano
 
 ## Marine Life
 
-As Florida Underwater Archaeological Preserve #5, the wreck functions as an artificial reef on the Pompano Dropoff. Sources describe spiny lobsters tucked into the remaining iron structure and tropical reef fish using the wreckage as habitat, with large schools of baitfish working the site and being pushed around by larger predators.
+NAUI describes fan corals, soft corals, sea fans, fish and crustaceans on the wreck. None of the sources consulted name individual species at this site, and earlier text on this page that named lobsters and baitfish schools could not be traced to any source, so it has been removed.
 
 ## Vessel History
 
-The Copenhagen was a 325-foot, 47-foot beam, steel-hulled British steamer of 3,297 gross tons, built and launched in 1898 by J. Priestman & Co. of Sunderland, England (yard #72) for the Glasgow Shipowners' Company. On May 26, 1900, en route from Philadelphia to Havana with roughly 5,000 tons of coal, she struck the Pompano Dropoff reef south of Hillsboro Inlet; the official investigation attributed the loss to navigational error. Salvage recovered most of the cargo and machinery (engine, boilers, propeller) before being abandoned. The hull remained partially above water for decades and was used as bombing and strafing target practice by U.S. Navy aviators during World War II — spent .50 caliber bullets are still scattered on the site. The wreck became Florida Underwater Archaeological Preserve #5 in June 1994 and was added to the National Register of Historic Places in 2001 (ref #01000532).
+- **Build:** Steel-hulled steamship launched February 24, 1898 by J. Priestman & Co., Sunderland, England (Wikipedia; National Park Service gives Sunderland, 1898).
+- **Size:** 325 feet long, 47-foot beam (Wikipedia; National Park Service; NAUI gives 99 m by 14 m, which agrees). Tonnage: 3,297 gross tons (Wikipedia). No second source consulted gave tonnage.
+- **Loss:** Bound from Philadelphia to Havana with roughly 5,000 tons of coal (Wikipedia; NAUI gives 4,940 tons), she struck the reef south of Hillsboro Inlet. The date is given as May 26, 1900 by Wikipedia and May 20, 1900 by NAUI; the National Park Service and the Town of Lauderdale-by-the-Sea say only 1900 and May 1900. Cause also differs by source: Wikipedia says the chief officer on watch failed to keep proper offshore distance after a course change ordered by Captain William Jones, while the National Park Service attributes the loss to improper navigation by Captain William S. Jones.
+- **Aftermath:** Salvage removed the engine, boilers, propeller and machinery (National Park Service). Wikipedia says efforts to discharge the cargo were unsuccessful. During World War II, naval aviators used the wreckage for target practice (NAUI), and Wikipedia notes spent .50 caliber bullets can still be found.
 
 ## Dive Profile
 
-The wreckage lies broken along the eastern edge of the Pompano Dropoff at 16–31 feet (5–9.5 m) — sources list slightly varying depths in the 15–30 ft range. Approximately 300 feet of hull plates, ribs, and iron frame remain identifiable; the engine, boilers, and propeller were salvaged and are not present. The detached bow lies about 200 yards southeast of the main wreck. The shallow depth gives long bottom times suitable for Open Water divers and snorkelers.
+Depth reports vary: 16-31 feet (National Park Service), 23-39 feet (Wikipedia), about 25 feet (Town of Lauderdale-by-the-Sea), and 12-15 feet to the top of the wreckage with 20-28 feet to the sand (NAUI). The wreckage is spread over a considerable distance (NAUI); the bow faces south, and the detached bow lies about 200 yards southeast of the main wreck after an excavation attempt (National Park Service).
 
 ## Entry and Exit
 
-Boat dive from charters running out of Pompano Beach, Deerfield Beach, Lauderdale-by-the-Sea, and Fort Lauderdale; the site sits roughly three-quarters of a nautical mile offshore, almost directly off the Sea Watch Restaurant area south of Hillsboro Inlet. Strong shore swimmers occasionally swim out from Lauderdale-by-the-Sea, but boat access is the norm.
+Boat dive. Mooring buoys are provided and anchoring is not permitted (National Park Service). Laminated underwater guides are available from local dive shops, and the Town says wreck maps are available at its two dive shops, Town Hall and the Chamber of Commerce. NAUI describes charter trips from Pompano Dive Center of about a 20-minute cruise to Hillsboro Inlet and a 15-minute run to the site.
 
 ## Tips and Recommendations
 
-- The Town of Lauderdale-by-the-Sea publishes an underwater interpretive map that helps identify hull sections and scattered wreckage.
-- With ~10,000 visitors a year, this is Florida's most-visited underwater preserve — expect to share moorings with snorkelers and multiple dive boats on weekends.
-- Look for small lumps of coal and spent ammunition shells in the sand around the wreck (do not remove — the site is a protected preserve).
+- The site is a protected archaeological preserve; do not remove artifacts.
+- Expect company on the moorings given the visitor numbers the Town reports.
 
 ## Safety Considerations
 
-- The site is in shallow water close to a busy boating corridor; surface with an SMB and stay near the dive flag.
-- South Florida sun exposure on the boat and at the surface is intense.
-- Hydroids and fire coral grow on the iron plates; wear exposure protection on exposed skin.
-- Watch silt near the more buried sections.
-- The Copenhagen is a protected archaeological preserve — removal of any artifact is prohibited.
+- The wreck sits in a busy boating corridor; use a dive flag and surface carefully.
+- Iron plating and hydroids can cut or sting; wear exposure protection.
 
 ---
-*Sources: [Wikipedia — SS Copenhagen (1898)](https://en.wikipedia.org/wiki/SS_Copenhagen_(1898)), [National Park Service — SS Copenhagen Shipwreck](https://www.nps.gov/articles/sscopenhagen.htm), [NAUI Worldwide — The SS Copenhagen Shipwreck Off Pompano Beach](https://www.naui.org/the-ss-copenhagen-shipwreck-off-pompano-beach/), [Scuba Diver Life — SS Copenhagen](https://scubadiverlife.com/ss-copenhagen-florida-underwater-archaeological-preserve/), [Coralheads — Copenhagen Shipwreck](https://coralheads.com/shipwrecks-copenhagen/). Last updated 2026-06-30.*
+*Sources: [Wikipedia — SS Copenhagen (1898)](https://en.wikipedia.org/wiki/SS_Copenhagen_(1898)), [National Park Service — SS Copenhagen Shipwreck](https://www.nps.gov/articles/sscopenhagen.htm), [NAUI — The SS Copenhagen Shipwreck Off Pompano Beach](https://www.naui.org/the-ss-copenhagen-shipwreck-off-pompano-beach/), [Town of Lauderdale-by-the-Sea — Snorkeling & Scuba Diving](https://www.lauderdalebythesea-fl.gov/374/Snorkeling-Scuba-Diving). Last updated 2026-10-02.*

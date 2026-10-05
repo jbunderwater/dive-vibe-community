@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Coral Garden
 
-Coral Garden is a coral reef roughly 3km west of Nevis's Four Seasons resort, reaching a maximum depth of about 21 metres, suitable for both certified and resort divers.
+Coral Garden is listed as a reef off Nevis with a maximum depth of 21 metres.
 
 ## Overview
 
-Coral Garden sits about 3km (2 miles) west of the Four Seasons resort on Nevis. Frommer's describes it as a beautiful coral reef with schools of Atlantic spadefish and large sea fans, reaching a maximum depth of 21 metres and suitable for both certified and resort divers. This is the only site-specific source found for this location despite an extensive search, and it could only be accessed via search-engine indexing rather than a direct page fetch (frommers.com returns an HTTP 403 error to automated fetching), so it is treated as lower-confidence than fully directly-verified sources — though the specific figures (3km, 21m) were consistent across independent searches. A different, similarly-named "Coral Gardens" site described elsewhere as adjacent to Monkey Shoals in the Narrows channel is likely a separate location; this site's coordinates sit close to Nevis, matching the Frommer's description rather than the Monkey-Shoals-adjacent one. Earlier versions of this page described hawksbill turtles, blue tangs, parrotfish, French grunts, octopus, and moray eels here — none of that could be confirmed and has been removed.
+liveaboard.com lists Coral Garden off Nevis with a maximum depth of 21 m, and a Frommer's Nevis page (indexed in search but not directly retrievable, HTTP 403) was previously cited for a location about 3 km west of the Four Seasons. No operator source was found. A differently located 'Coral Gardens' near Monkey Shoals is mentioned elsewhere, so the site's identity is not fully resolved. Treat as weakly sourced.
 
 ## Site Information
 
-- **Location**: ~3km west of Four Seasons, Nevis
+- **Location**: Off Nevis, approx. 3 km west of the Four Seasons (unverified)
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
@@ -29,7 +29,7 @@ Coral Garden sits about 3km (2 miles) west of the Four Seasons resort on Nevis. 
 
 ## Marine Life
 
-Schools of Atlantic spadefish are reported here, along with large sea fans among the coral growth (Frommer's). No other species-specific sightings could be confirmed for this exact site; broader Nevis reef fauna should be expected but has not been specifically documented here.
+liveaboard.com lists Atlantic spadefish, tropical fish and turtles. No other site-specific reports were found.
 
 ---
-*Sources: [Frommer's - Active Pursuits in Nevis](https://www.frommers.com/destinations/nevis/active-pursuits/) (accessed via search index; site blocks direct fetch). dive-the-world.com, padi.com, and Pro Divers St Kitts (previously cited) were checked directly and contain no content about this site. Last updated 2026-07-03.*
+*Sources: [liveaboard.com - Nevis](https://liveaboard.com/diving/saba-st-kitts/nevis). Frommer's (frommers.com) could not be fetched. Only one directly verified source; unverified (fewer than 3 sources). Last updated 2026-10-02.*

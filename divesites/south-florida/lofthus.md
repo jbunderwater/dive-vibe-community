@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Lofthus
 
-Lofthus is a historic wreck dive in South Florida, North America.
+The Lofthus is an 1868 iron barque wrecked off Manalapan in 1898, now a Florida Underwater Archaeological Preserve in 15-20 feet of water.
 
 ## Overview
 
-Historic shipwreck from 1898 located off Manalapan and Boynton Beach in shallow water (15-20 feet / 5-6 meters). The wreck rises approximately 6 feet off the sandy sea floor depending on sand movement. Designated as Florida's eighth Underwater Archaeological Preserve and listed on the National Register of Historic Places in 2004. The shallow depth and snorkel-accessible conditions make this an ideal site for beginner divers and snorkelers.
+The wreck lies about three-quarters of a mile north of Boynton Inlet and 175 yards off Manalapan in 15-20 feet (4.5-6 m) of water, with wreckage rising up to about six feet off the bottom depending on sand movement (National Park Service; Wikipedia; Museums in the Sea). The site was dedicated as one of Florida's Underwater Archaeological Preserves in 2003 (Scuba Diver Life) and listed on the National Register of Historic Places on January 6, 2004; Wikipedia numbers it as the eighth preserve and the first in Palm Beach County. It is open to the public year-round and free of charge.
 
 ## Site Information
 
@@ -27,33 +27,36 @@ Historic shipwreck from 1898 located off Manalapan and Boynton Beach in shallow 
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 6 meters
 
-## Wreck History
-
-The Lofthus was a 222-foot iron-hulled, three-masted barque built in 1868 by T.R. Oswald in Sunderland, England, and originally christened *Cashmere*. The vessel measured 36.7 feet at the beam with a 22.7-foot depth of hold and registered 1,277 gross tons. After a career in the East Indian trade — where she sailed with false painted gunports as a piracy deterrent — she was sold in 1897 to Norwegian owner J.A. Henschien and renamed *Lofthus*. On February 4, 1898, while sailing from Pensacola to Buenos Aires loaded with approximately 800,000 board feet of lumber, she was driven ashore in a storm off the southeast Florida coast. All 16 crew members were rescued. The cargo was salvaged by locals and reportedly used to build early homes in the Boynton Beach area. The wreck was added to the U.S. National Register of Historic Places on January 6, 2004, and designated Florida's eighth Underwater Archaeological Preserve — the first in Palm Beach County.
-
 ## Marine Life
 
-Species documented at the site include Caribbean spiny lobster, grunts, jacks, porcupine fish, porkfish, snapper, southern stingrays, and wrasse. Scorpionfish hide among the rusted iron framing, and sergeant majors and cowfish are common around the structure. Small nurse sharks are sometimes found resting beneath the hull sections.
+Wikipedia, citing the Florida Department of State, lists Caribbean spiny lobster, cubbyu, grunts, jacks, porcupinefish, porkfish, snapper, stingrays and wrasse at the wreck. Museums in the Sea separately lists jacks, snappers, wrasses and lobsters, plus sergeant-majors and anemones on the deteriorating structure.
+
+## Wreck History
+
+- **Name and build:** Built in Sunderland, England, by T.R. Oswald and launched October 5, 1868 as the iron barque *Cashmere* (National Park Service; Museums in the Sea; Wikipedia; Scuba Diver Life).
+- **Size:** 222 feet long (about 222.8 per Museums in the Sea), 36.7-foot beam, 22.7-foot depth of hold, 1,277 gross tons (National Park Service and Museums in the Sea). The Coastal Star calls her a barkentine; every other source calls her a barque.
+- **Career:** East Indies trade for the Liverpool Shipping Company, with false gunports painted on her sides to deter pirates (National Park Service; Wikipedia; Scuba Diver Life). Sold in 1897 to Norwegian owners and renamed *Lofthus* (National Park Service; Scuba Diver Life).
+- **Loss:** On February 4, 1898, on passage from Pensacola to Buenos Aires with lumber, she was driven ashore off the Florida east coast in a storm (all sources). The 16-man crew survived. Accounts differ on how they reached shore: Wikipedia says the passing tug *Three Friends* rescued them, while the National Park Service says *Three Friends* only attempted to help and Scuba Diver Life says the crew escaped to shore in life preservers.
+- **Cargo:** Lumber. The National Park Service gives 800,000 board feet, the Coastal Star about 930,000 feet.
+- **Salvage:** The wreck was stripped, sold with its lumber, and the hull dynamited to reach the cargo, leaving a debris field about 290 feet long by 50 feet wide in three main areas (National Park Service; Wikipedia). The National Park Service text gives the dynamiting date as "September 1989", which is evidently a typo for the 1890s; other sources say only that it happened months after the wreck.
 
 ## Dive Profile
 
-The wreckage is scattered across an area roughly 290 feet long by 50 feet wide, with the bow, midships, and stern lying as three distinct sections following historical salvage dynamiting. Highest relief is approximately six feet above the sand, and total depth ranges from 15–20 feet (4.5–6 m). Visible remains include deck beams, hull frames, iron plating, fragments of the three masts, and what is believed to be a steering-gear worm. A bronze memorial plaque marks the center of the site.
+The bow is at the north end of the site with deck beams and hull elements; the midships area has deck beams, plates, fasteners, hanging knees and a worm gear believed to belong to the steering mechanism or a deck-mounted donkey engine; toward the stern a section of iron mast and decking protrudes from the sand (National Park Service). Sand cover changes dramatically, so each visit differs (Scuba Diver Life). A plaque is installed at the site (Scuba Diver Life shows it before installation).
 
 ## Entry and Exit
 
-Boat access is the standard method, with the wreck lying roughly three-quarters of a mile north of Boynton Inlet and 175 yards offshore of Manalapan. The shallow depth also makes paddleboard and kayak access feasible from the Manalapan shoreline. Anchor only in sand — never on the wreck itself.
+Boat access. Anchor in sand, not on the wreck (National Park Service). Laminated underwater guides are available from local dive shops.
 
 ## Tips and Recommendations
 
-Sand cover at the site shifts dramatically with storms and seasonal currents, so portions of the wreck may be fully exposed on one visit and largely buried the next. Calm seas and light winds produce the best conditions. Because the preserve is shallow and well-lit, both scuba and snorkeling work well here. Nothing may be removed from the site under Florida law — take only photos.
+- The preserve is protected; nothing may be removed.
+- Calm seas give the best conditions in the shallow, sand-affected water.
 
 ## Safety Considerations
 
-The wreck is shallow and lies close to a popular boating corridor between Boynton Inlet and Lake Worth Inlet; a dive flag is required by Florida statute. Watch for sharp edges of corroded iron framing, especially where the structure is partially buried. Strong onshore winds can quickly turn the surface choppy, and visibility drops sharply when sand is mobilized. Florida sun exposure is intense year-round — hydrate and use UV protection topside.
-
-## Photography
-
-Sun penetration to 20 feet keeps the wreck well-lit for wide-angle work on calm days, when visibility is best. Sand movement is the dominant variable for image quality, so plan dives after stretches of settled weather.
+- A diver-down flag is required in Florida; the site sits in a busy boating corridor near Boynton Inlet.
+- Corroded iron has sharp edges, especially where partly buried.
 
 ---
-*Sources: [Lofthus (shipwreck) - Wikipedia](https://en.wikipedia.org/wiki/Lofthus_(shipwreck)), [Lofthus Shipwreck - U.S. National Park Service](https://www.nps.gov/articles/lofthus.htm), [Lofthus - Museums in the Sea](https://museumsinthesea.com/shipwrecks/lofthus/), [Florida's Underwater Archaeological Preserves: The Lofthus - Scuba Diver Life](https://scubadiverlife.com/floridas-underwater-archaeological-preserves-lofthus/), [Shipwrecks - Lofthus - Coralheads](https://coralheads.com/shipwrecks-lofthus-palm-beach-county-wreck-dive/). Last updated 2026-06-30.*
+*Sources: [Wikipedia — Lofthus (shipwreck)](https://en.wikipedia.org/wiki/Lofthus_(shipwreck)), [National Park Service — Lofthus Shipwreck](https://www.nps.gov/articles/lofthus.htm), [Museums in the Sea — Lofthus](https://museumsinthesea.com/shipwrecks/lofthus/), [Scuba Diver Life — The Lofthus](https://scubadiverlife.com/floridas-underwater-archaeological-preserves-lofthus/), [The Coastal Star — Accidental discovery brings old wreck to life](https://thecoastalstar.com/profiles/blogs/along-the-coast-accidental-discovery-brings-old-wreck-to-life). Last updated 2026-10-02.*

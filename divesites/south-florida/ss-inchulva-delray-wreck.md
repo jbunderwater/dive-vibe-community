@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## S.S. Inchulva / Delray Wreck
 
-S.S. Inchulva / Delray Wreck is a historic wreck dive in South Florida, North America.
+The Delray Wreck is the scattered remains of the British steamship SS Inchulva, driven ashore by the 1903 Florida hurricane and now lying about 150 yards off the south end of Delray Beach's municipal beach.
 
 ## Overview
 
-Historic 1892 British steamship wrecked September 11, 1903 in a hurricane, resting in 15-25 feet (5-7.6m) of water approximately 150 yards offshore from Delray Beach. Accessible as a shore dive from Delray Beach municipal beach. Most of the vessel is buried and deteriorated; the boiler field is the primary remaining intact feature. Site hosts abundant fish life including tarpon. Scattered boiler debris across a roughly 70-foot field creates an interesting exploration for beginner divers.
+The wreck lies roughly 150 yards offshore in about 15-25 feet (5-7.6 m) of water; the Florida historical marker and a Palm Beach County history article give 25 feet, while Florida Back Roads Travel gives 15-25 feet. Much of the ship is buried in sand. Divers can see the ship's boilers, and a debris field spread over roughly a 70-foot area when waves and tides uncover the sand. The Florida marker, Downtown Delray Beach and the Coastal Star all describe the wreck as scattered in five sections, although a 1903 newswire report quoted by the Palm Beach County history article said the ship broke into three pieces. It is reachable from the beach, which makes it one of the few wreck dives in the area that does not need a boat.
 
 ## Site Information
 
@@ -29,33 +29,30 @@ Historic 1892 British steamship wrecked September 11, 1903 in a hurricane, resti
 
 ## Marine Life
 
-Large tarpon are a consistently reported signature sighting at the wreck. The iron remains are encrusted with soft and hard corals, and the boiler field shelters reef fish including grunts and snapper. Hermit crabs are common throughout the debris field.
+No site-specific marine-life reports were found in the sources consulted for this QA pass. The regional fauna of the southeast Florida reef tract applies, but no species are attributed to this site here.
 
 ## Vessel History
 
-The S.S. Inchulva was a 386-foot, 48-foot beam, steel-hulled British steamship of 4,823 gross tons built in 1892 by W. Gray & Co. Ltd. at West Hartlepool, England. Originally christened *Alberta*, she was renamed *Inchulva* in 1898 by her new owners Hamilton, Fraser & Co. of Liverpool. She departed Galveston, Texas on September 6, 1903 bound for Newport News, Virginia under Captain G.W. Davis, carrying wheat, lumber, and cotton with a crew of 27. On September 11, 1903, she was caught in the Florida Hurricane off Delray Beach; her steering gear failed and her anchors parted. She grounded and broke apart less than 150 yards offshore at roughly 5 p.m. Nine crew members drowned. A naval court of inquiry exonerated Captain Davis and the surviving officers.
+- **Name and build:** Built in 1892 by W. Gray & Co. Ltd. at West Hartlepool, England, and launched as the *Alberta* (Palm Beach County history article). Florida Back Roads Travel also gives 1892 and the name *Alberta*.
+- **Size:** 386 feet long (Florida marker, Downtown Delray Beach, Coastal Star, Palm Beach County history article); 48-foot beam and 4,823 gross tons are given by the Palm Beach County history article (citing Lloyd's Register) and repeated by Florida Back Roads Travel. Those two may share a common source, so treat beam and tonnage as less firmly cross-checked than length.
+- **Renaming:** Bought in 1898 by Hamilton, Fraser & Co. of Liverpool and renamed *Inchulva* to match its "Inch" fleet (Palm Beach County history article; Florida Back Roads Travel).
+- **Final voyage:** Left Galveston, Texas, on September 6, 1903, bound for Newport News, Virginia, with wheat, lumber and cotton under Captain G.W. Davis (Florida marker; Palm Beach County history article).
+- **Loss:** In the September 11, 1903 hurricane the steering gear failed and both anchors parted, and at about 5 p.m. the ship grounded off Delray and was torn apart (Florida marker). Nine crew members died. Sources disagree on the crew size: the Florida marker and the Coastal Star say 28, while the Palm Beach County history article and Florida Back Roads Travel say 27.
+- **Inquiry:** A naval court at the British Vice Consulate in Jacksonville on September 19 exonerated Captain Davis and the crew (Florida marker; Wikipedia; Palm Beach County history article).
 
 ## Dive Profile
 
-The wreck lies broken into five sections in 15–25 feet (5–7.6 m) of water about 150 yards off the south end of Delray's municipal beach. The boilers are the most recognizable surviving feature; a debris field of plates, ribs, and other ironwork is scattered across roughly 70 feet, with portions covered or uncovered by sand depending on recent storms and tide cycles. Conditions are shallow enough for snorkelers to free-dive the structure on calm days; scuba is needed to spend time on the deeper sections.
+The boilers are the most recognizable feature. Debris fields come and go with sand movement, so what is visible varies by visit. Florida Back Roads Travel describes the site as suitable for snorkelers on calm days. The Palm Beach County history article and the marker give the depth as 25 feet; other sources give 15-25 feet.
 
 ## Entry and Exit
 
-Shore dive from the south end of Delray's public beach — most divers stage from Anchor Park or the Seagate Beach Club area and swim or paddle the 150 yards out to the site. There is no permanent mooring; the wreck is found on a compass heading directly offshore from the historical marker on the multi-use path. Calm seas and low tide give the best visibility.
-
-## Tips and Recommendations
-
-- Best diving is typically in spring with calm seas; surge can be significant in shallower swell.
-- Pick a day with low east-component swell — the site is fully exposed to onshore wind and chop.
-- A historical marker on the beach side commemorates the wreck and points roughly toward the site.
+Shore dive from the south end of Delray's municipal beach. Downtown Delray Beach places the wreck directly off the beach from the Seagate Beach Club; Florida Back Roads Travel lists Anchor Park or the Seagate Beach Club as entry points and describes a swim or paddle of about 150 yards. The wreck is outside the lifeguarded swim area, and the Coastal Star notes that a float-mounted dive flag is required by law for snorkelers and recommends a kayak or inflatable float as a rest platform. A state historical marker stands on the beach-side path.
 
 ## Safety Considerations
 
-- Shore swims of ~150 yards through Atlantic surf can be hazardous in any onshore wind; assess the break before entering.
-- South Florida sun exposure during the surface swim is intense.
-- Boat traffic and recreational watercraft transit close to shore — fly a dive flag and tow it on the swim out and back.
-- Hydroids and fire coral grow on the wreckage; wear exposure protection.
-- Surge in shallow water can push divers onto sharp iron plates — maintain distance from the structure when swell is up.
+- The swim to the wreck crosses open water outside the guarded beach; fly and tow a dive flag and be prepared for surf and boat traffic.
+- Wikipedia records that in 1981 the city of Delray Beach paid $25,000 to settle a lawsuit arising from a diving accident at the wreck. Treat the site with respect despite its shallow depth.
+- Broken iron plating and boilers are sharp and can be hidden or exposed by shifting sand; keep clear of the structure when surge is running.
 
 ---
-*Sources: [Wikipedia — Delray Wreck](https://en.wikipedia.org/wiki/Delray_Wreck), [Palm Beach County History Online — Final Voyage and Sinking of SS Inchulva](http://pbchistory.blogspot.com/2016/08/final-voyage-and-sinking-of-ss-inchulva.html), [Florida Backroads Travel — Delray Shipwreck Inchulva](https://www.florida-backroads-travel.com/delray-shipwreck-inchulva.html), [ARCIFC — Delray Wreck Site Information](https://arcifc.com/delray-wreck/). Last updated 2026-06-30.*
+*Sources: [Wikipedia — Delray Wreck](https://en.wikipedia.org/wiki/Delray_Wreck), [Palm Beach County History — Final Voyage and Sinking of SS Inchulva](http://pbchistory.blogspot.com/2016/08/final-voyage-and-sinking-of-ss-inchulva.html), [Florida Historical Markers — Delray Wreck](https://markers.flheritage.com/home/details/565), [Florida Back Roads Travel — Delray Shipwreck Inchulva](https://www.florida-backroads-travel.com/delray-shipwreck-inchulva.html), [The Coastal Star — Local wrecks make great snorkeling destinations](https://thecoastalstar.com/profiles/blogs/on-the-water-local-wrecks-make-great-snorkeling-destinations), [Downtown Delray Beach — The Delray Wreck](https://downtowndelraybeach.com/go/the-delray-wreck). Last updated 2026-10-02.*

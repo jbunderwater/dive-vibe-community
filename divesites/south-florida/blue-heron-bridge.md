@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Blue Heron Bridge
 
-Blue Heron Bridge is a reef dive site in South Florida, North America.
+Blue Heron Bridge at Phil Foster Park is a shallow shore dive in Lake Worth Lagoon known as Florida's exotic-critter and macro capital.
 
 ## Overview
 
-Iconic shallow-water shore dive at Phil Foster Park (900 E Blue Heron Blvd), Riviera Beach, in Lake Worth Lagoon. Named 2013 Best Dive Site in the World by Sport Diver magazine. Depths typically 10-20 feet (3-6m), maximum approximately 21 feet. High-tide slack water essential — best window is roughly one hour before to one hour after high tide. Outstanding macro photography destination: seahorses, pipefish, Atlantic longarm octopus, multiple frogfish species, sea robins, batfish, and flying gurnards. Dive flag required. Stay clear of the boat channel under the west bridge.
+Phil Foster Park sits on a small island in the Lake Worth Lagoon just inside Lake Worth Inlet, joined to the mainland by two bridges from Riviera Beach to Singer Island (DAN Alert Diver; Force-E). Depths run from a few feet at the beach to about 20 feet; sources give the maximum as just over 20 feet (Pura Vida Divers), 20 feet (Force-E) or 25 feet with an average near 15 (DAN). Sport Diver magazine named it the best dive site in the world in 2013 (Pura Vida Divers says "previously named"; Duikersgids gives the year as 2013), and Paul Humann and Ned DeLoach called it "Florida's exotic critter capital" (Pura Vida Divers). DAN describes it as some of the best muck diving in the U.S. and warns not to expect colorful reefs.
 
 ## Site Information
 
@@ -29,36 +29,31 @@ Iconic shallow-water shore dive at Phil Foster Park (900 E Blue Heron Blvd), Riv
 
 ## Marine Life
 
-Blue Heron Bridge is widely regarded as Florida's exotic critter capital. Documented residents include lined and longsnout seahorses, multiple pipefish species, Atlantic longarm (mimic) octopus, Caribbean reef octopus, and striated, ocellated, dwarf, and Sargassum frogfish. Sea robins, flying gurnards, and several batfish species (polka-dot, shortnose, roughback) work the sandy areas alongside stargazers, jawfish, blennies, and gobies. Schools of spadefish hold around the east-bridge sailboat wreck, and rainbow parrotfish, French and queen angelfish, and large green and spotted moray eels live on the pilings. Decorator crabs, arrow crabs, banded coral shrimp, mantis shrimp, and squid round out the macro list, along with dozens of nudibranch and sea slug species. Seasonal sightings include spotted eagle rays, nurse sharks, goliath grouper, and manatees in winter.
+DAN Alert Diver and Force-E report:
+
+- **Macro:** lined and longsnout seahorses; pipefish; Atlantic longarm, Caribbean reef, brown-striped and common octopuses; striated, ocellated and dwarf frogfish (a Sargassum frogfish is a rare find); polka-dot, shortnose and roughback batfish; sea robins and flying gurnards; stargazers and scorpionfish; yellowhead and banded jawfish; bobbit worms; tiger mantis shrimp; decorator crabs; bumble bee shrimp; Caribbean reef and grass squid; more than 100 species of nudibranchs and sea slugs.
+- **Pilings and structure:** gray, French and queen angelfish and schools of spadefish at the west bridge; sponges on the pilings sheltering arrow crabs, banded coral shrimp and blennies; lobsters, green and spotted moray eels and cardinalfish under the east bridge; grunts, yellow jacks and spadefish at the snorkel-trail reef; a school of rainbow parrotfish in the shallows.
+- **Larger visitors:** goliath grouper, spotted eagle rays (relatively common, in groups of two to four), nurse sharks, occasional turtles, and manatees in winter (DAN). Force-E also lists manta rays among rare sightings.
+- Octopus numbers drop over the winter and frogfish arrive in late winter or early spring (DAN).
 
 ## Dive Profile
 
-The site sits in Lake Worth Lagoon just inside Lake Worth Inlet, with depths from about 4 feet at the swim entry out to roughly 20 feet near the boat wrecks under the bridges. Two structures define the dive: the taller west bridge (over the main channel) with columned pilings and the "Red Wall" of pink and red sponges, and the lower east bridge with a submerged sailboat on its north side and a resident spadefish school. The Phil Foster Park Snorkel Trail runs roughly 800 feet between the bridges in 6 to 10 feet of water and includes more than 600 tons of Anastasia limestone boulders, reef balls, mini wrecks, and hammerhead shark statues. Slack high-tide visibility commonly runs 20 to 40 feet and can briefly exceed 80 feet.
+DAN suggests starting in the sandy, grassy shallows off the beach and then exploring one bridge per dive. The taller west bridge crosses the boat channel and has heavily encrusted columns, including the "Red Wall" of red and pink sponges on the last column before the channel (Force-E). The lower east bridge has a submerged sailboat and a resident spadefish school (Force-E). The snorkel trail, built in 2012, is 800 feet long in 6-10 feet of water with more than 600 tons of Anastasia limestone boulders (Pura Vida Divers); DAN adds 15 reef modules, three cement hammerhead statues and some small boat wrecks, about 200 feet offshore. Visibility at slack high tide is typically 20-40 feet and can range from a couple of feet to 80 feet or more (DAN).
 
 ## Entry and Exit
 
-Shore entry is from the sandy beach inside Phil Foster Park (900 Phil Foster Park Drive, Riviera Beach), reached from the bridge's island midpoint. The park has free parking that fills early on weekends and holidays, plus restrooms, outdoor showers, picnic shelters, and a fishing pier. Most divers gear up at their vehicles, walk the short path to the beach, surface-swim to the bridge pilings, then drop down and work the structure before returning to the same beach.
+Shore entry from the beach inside the park; Force-E notes free parking that fills early on weekends, restrooms, showers, picnic and barbecue areas and a fishing pier. Dive within about an hour before to an hour after high tide; outside that window tidal flow through the inlet is strong and visibility drops, and low slack often brings murky water (Force-E; Pura Vida Divers; DAN). A dive flag is required, and a boat channel runs parallel to shore about 30 m out and under the center of the large bridge, so stay clear of it (Pura Vida Divers).
 
 ## Tips and Recommendations
 
-- Enter the water about 30 minutes before high slack tide. The usable window is roughly one hour before to one hour after high tide; outside that window currents pick up and visibility drops sharply.
-- Check the published Blue Heron Bridge high-tide tables before the trip and plan around the published slack times, not generic Riviera Beach tides.
-- A divers-down flag is mandatory in Florida and you must stay within 300 feet of it.
-- No spearfishing, lobstering, or wildlife handling is permitted in the park.
-- Night diving is only allowed under a county permit; Pura Vida Divers and Force-E run permitted night dives.
-- The east-side park has marked swim areas that are off-limits to divers.
+- No spearfishing or lobstering is allowed (Force-E), and collection of tropical aquarium-trade species has been prohibited in the park and surrounding waters since April 1, 2019 (DAN).
+- Night diving requires a permit; Force-E holds one and runs night dives (Force-E).
+- Check the published tide tables for the bridge rather than generic Riviera Beach times.
 
 ## Safety Considerations
 
-- The marked boat channel passes directly under the west bridge and parallel to the park. Surface only inside the protected wading/dive zone and stay clear of the channel and the larger bridge spans.
-- Fishing is active from both bridges; watch for monofilament, hooks, and lead weights around the pilings.
-- Outside the slack-tide window, currents through Lake Worth Inlet are strong enough to push divers under the bridge and into traffic. Abort if you cannot hold position.
-- Florida sun, heat, and dehydration are the most common surface issues; bring water and shade gear.
-- Avoid contact with fire coral and hydroids on the pilings; lionfish are present.
-
-## Photography
-
-Named Best Dive Site in the World in 2013 by Sport Diver, Blue Heron Bridge is among the most-photographed macro sites on the Florida coast. The combination of shallow depth, long bottom times, and consistent presence of seahorses, frogfish, pipefish, octopus, and dozens of nudibranch species makes it a year-round macro destination. Wide-angle work is more limited but the bridge pilings, the snorkel-trail hammerhead statues, and the east-bridge sailboat are common subjects.
+- Currents near the bridges can push divers into boat traffic outside the slack window.
+- Fishing happens from the bridges and pier; watch for line and hooks.
 
 ---
-*Sources: [Pura Vida Divers - Blue Heron Bridge](https://www.puravidadivers.com/dive-blue-heron-bridge-phil-foster-park/), [Force-E Scuba Centers - Blue Heron Bridge](https://www.force-e.com/go-diving/shore-dive-sites/blue-heron-bridge-at-phil-foster-park/), [DAN Alert Diver - Blue Heron Bridge](https://world.dan.org/alert-diver/article/blue-heron-bridge/), [Dive PBC - Blue Heron Bridge](https://www.divepbc.com/blue-heron-bridge/), [Uncle Cal's - Blue Heron Bridge Guide](https://uncle-cals.com/blue-heron-bridge/). Last updated 2026-06-30.*
+*Sources: [Pura Vida Divers — Blue Heron Bridge](https://www.puravidadivers.com/dive-blue-heron-bridge-phil-foster-park/), [Force-E Scuba Centers — Blue Heron Bridge](https://www.force-e.com/go-diving/shore-dive-sites/blue-heron-bridge-at-phil-foster-park/), [DAN Alert Diver — Blue Heron Bridge](https://world.dan.org/alert-diver/article/blue-heron-bridge/), [Duikersgids — Blue Heron Bridge](https://www.duikersgids.nl/en/dive-spots/blue-heron-bridge). Last updated 2026-10-02.*

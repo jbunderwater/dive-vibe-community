@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Deerfield Beach Artificial Reef
 
-Deerfield Beach Artificial Reef is a reef dive site in South Florida, North America.
+The Deerfield Beach Artificial Reef is best known for the Rapa Nui Reef, a 150-foot barge that flipped during its June 2015 sinking and crushed most of its Easter Island-style concrete sculptures.
 
 ## Overview
 
-Part of Broward County's comprehensive artificial reef program which has deployed over 76 artificial reefs on the ocean floor. Deerfield Beach features multiple adjacent artificial reef sites including the Rapa Nui Reef (150-foot barge rising 9 feet off bottom in 67 feet/20m depth) and other boulder and wreck configurations at depths of 13-22 feet (4-7m). Excellent marine habitat with prolific fish life and coral growth. Intermediate diver certification recommended due to exposure and current conditions.
+The Rapa Nui Reef is a 150-foot barge lying upside down in about 67 feet of water just east of the Deerfield Beach pier, rising about 9 feet off the bottom (South Florida Diving Headquarters; Florida Go Fishing's Broward list gives 150 x 26 x 9 ft). A mile offshore in about 75 feet of water was the planned location (Broward Palm Beach New Times). Other reef entries on the Broward list nearby include Mt. Deerfield (500 tons of limestone boulders), Deerfield Pier concrete pieces, Angels Reef (two angel statues) and Separated Rocks. Earlier text on this page about "13-22 foot" depths and "76" Broward artificial reefs could not be traced to a source and has been removed.
 
 ## Site Information
 
@@ -29,30 +29,26 @@ Part of Broward County's comprehensive artificial reef program which has deploye
 
 ## Marine Life
 
-The Rapa Nui Reef and surrounding artificial structures support a dense community of South Florida reef fish, with hogfish, yellowtail snapper, black sea bass, and sergeant majors resident around the barge and boulder configurations. Nurse sharks rest beneath the larger reef sections, and southern stingrays glide across the sandy bottom between the artificial reef modules. Spiny lobster are abundant throughout the complex, and green moray eels are regularly spotted in the structural gaps. Feather duster and Christmas tree worms, yellow tube coral, and gray and queen angelfish are routinely logged on the inverted hull.
+No site-specific marine-life reports were found in the sources consulted. The regional fauna of the southeast Florida reef tract applies, but no species are attributed to this site here. Earlier text naming hogfish, snapper, nurse sharks, feather duster worms and other species on the hull could not be traced to a source and has been removed.
+
+## History
+
+- **Project:** Conceived and funded by Boca Raton philanthropist Margaret Blume, with sculptures by Pompano Beach artist Dennis MacDonald (South Florida Diving Headquarters; Broward Palm Beach New Times; ScubaBoard). Broward County held the permit and Deerfield dive shop Dixie Divers led the project (Broward Palm Beach New Times).
+- **Design:** 15 Moai-style concrete sculptures, 8-22 feet tall according to the New Times (earlier text said 6-22), mounted on a barge 150 feet long by 45 feet wide (New Times; ScubaBoard). Access holes were cut into the hull before sinking (ScubaBoard).
+- **Sinking:** On June 7, 2015 the barge tipped during the sinking and landed upside down on the sculptures; the New Times reports it crushed them all and South Florida Diving Headquarters says it destroyed most of them. Dixie Divers' owner told reporters that a tow boat's wake pushed too much water to one side. Reports of later volunteer repair work and plans to add sculptures appear only as headlines on the New Times site and were not verified, so the claim that surviving statues were repositioned has been removed.
 
 ## Dive Profile
 
-The headline structure at these coordinates is the Rapa Nui Reef, a 150-by-45-foot steel barge deployed on June 7, 2015 by a project funded by Boca Raton philanthropist Margaret Blume. The barge was loaded with 15 concrete Moai sculptures (6 to 22 feet tall) created by artist Dennis MacDonald. During the controlled sinking, a passing vessel's wake caused the barge to roll before reaching the seafloor, overturning onto the sculptures and breaking or burying most of them. Today the inverted hull sits in approximately 67 to 75 feet of water about a mile off the Deerfield Beach Pier, rising about 9 feet from the sand. Volunteer divers subsequently relocated some surviving statues onto the top of the inverted hull, where they remain. The site is typically dived as an anchor dive or live-boat drift along the reef line, with bottom times limited by depth.
+Anchor or drift dive in 50-70 feet (South Florida Diving Headquarters). The hull is inverted with openings cut into it. A 2015 forum post claims it is not safe for penetration, and no source consulted shows interior access to be safe; treat any overhead entry as requiring wreck training and equipment, and do not assume it is permitted or prudent.
 
 ## Entry and Exit
 
-Boat dive only. Charters depart from the Hillsboro Inlet area and Pompano Beach; Dixie Divers (Deerfield Beach) is the operator most closely associated with the site and ran the original deployment. The site is normally combined with one of Broward County's adjacent natural or artificial reefs for a two-tank trip.
-
-## Tips and Recommendations
-
-- The interior of the inverted hull has cut access holes but penetration is not permitted by the operators that visit this site. Stay outside the structure.
-- Slowing down and hovering reveals the small invertebrates (sea spiders, feather dusters, blennies) that make up much of the site's interest now that the sculptures are largely destroyed.
-- A surface marker buoy is essential at the end of the dive due to boat traffic off the Deerfield Pier.
-- Pair the dive with an adjacent natural reef on a two-tank charter; the Rapa Nui structure itself is small and most divers finish it inside 25 minutes.
+Boat dive. Earlier text naming specific departure inlets and operators could not be verified beyond Dixie Divers' role in the project and has been removed.
 
 ## Safety Considerations
 
-- No penetration. The hull is inverted, debris-filled, and not engineered for entry; operators uniformly prohibit going inside.
-- Maximum depth of about 75 feet puts this dive close to recreational no-decompression limits; watch bottom time and ascent rate.
-- Gulf Stream current at this latitude can be strong; carry a fully inflatable SMB and finger reel for the ascent.
-- Heavy boat traffic off the Deerfield Pier — always ascend with an SMB deployed.
-- Florida sun, heat, and dehydration are the most common topside issues; lionfish are present on the structure.
+- Depth up to about 75 feet limits bottom time; use an SMB.
+- Inverted structure and debris create entanglement and entrapment hazards.
 
 ---
-*Sources: [South Florida Diving Headquarters - Rapa Nui Reef](https://www.southfloridadiving.com/dive-sites/reef-dive-site/rapa-nui-reef/), [Broward Palm Beach New Times - Barge Sinks](https://www.browardpalmbeach.com/news/barge-sinks-ruins-500-000-rapa-nui-artificial-reef-video-7029324), [Freedom Tour Travel - Diving the Rapa Nui](https://freedomtourtravel.com/diving-the-rapa-nui-off-deerfield-beach/), [ScubaBoard - Rapa Nui Reef Thread](https://scubaboard.com/community/threads/new-artificial-reef-rapa-nui-reef-deerfield-beach.505383/). Last updated 2026-06-30.*
+*Sources: [South Florida Diving Headquarters — Rapa Nui Reef](https://www.southfloridadiving.com/dive-sites/reef-dive-site/rapa-nui-reef/), [Broward Palm Beach New Times — Barge Sinks, Ruins $500,000 Rapa Nui Artificial Reef](https://www.browardpalmbeach.com/news/barge-sinks-ruins-500-000-rapa-nui-artificial-reef-video-7029324), [ScubaBoard — Rapa Nui Reef thread](https://scubaboard.com/community/threads/new-artificial-reef-rapa-nui-reef-deerfield-beach.505383/), [Florida Go Fishing — Broward County Reefs](https://www.floridagofishing.com/reefs/se-reefs-broward-county.html). Last updated 2026-10-02.*

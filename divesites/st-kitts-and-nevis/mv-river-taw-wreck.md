@@ -13,15 +13,22 @@ addedBy: osm_import
 
 ## MV River Taw Wreck
 
-The MV River Taw is St. Kitts' most-dived wreck — a 144-foot island cargo ship that ended up off Frigate Bay near Basseterre and was broken into two sections roughly 50 feet apart when Hurricane Hugo passed through in 1989.
+The MV River Taw is St. Kitts' best-known wreck, a 144-foot freighter lying in two pieces on a sandy bottom in about 12 metres of water near Basseterre.
 
 ## Overview
 
-The River Taw was a 144-foot (44m) island cargo freighter. Most sources (My St Kitts Dive Buddy, Dive Nevis, PADI, Pro Divers) agree she began sinking in or near Basseterre harbour in 1981 and was towed to her current resting place off Frigate Bay, where she settled upright on a sandy, seagrass-covered bottom. Sources disagree on the exact circumstances: two describe an incident in the harbour followed by a tow to the site, while Pro Divers instead states she "sunk in 1981 in a hurricane" — the cause of the original sinking is not fully resolved. One additional source, Dive Training Magazine, gives a sinking year of 1985 rather than 1981; the majority (1981) is used here, with the discrepancy noted. She sat largely intact until Hurricane Hugo passed through in 1989 and broke the hull into two sections, now resting roughly 50 feet apart — this detail is consistent across every source checked. All decks and superstructure are encrusted in sponge and coral growth. A sunken van (called a minibus by one source) and a bulldozer lie nearby in the seagrass, alongside construction rubble linked to the Port Zante development. The wreck once offered easy interior penetration, but hurricane damage means this is no longer possible; Dive Training Magazine additionally notes that penetration is not permitted at the site. Reported depth is consistently around 40 feet (12 metres) across most operator sources, though dive-the-world.com cites 50 feet (15 metres) — 12 metres is used here as the majority figure.
+Sources agree the River Taw was a 144-foot (44 m) freighter and that Hurricane Hugo broke her in two in 1989; she now rests upright in two sections on sand, with sponge and coral covering the decks and superstructure (My St Kitts Dive Buddy, Dive Nevis, Dive Training Magazine). An anchor chain leads to a sunken bulldozer and a minibus nearby (My St Kitts Dive Buddy).
+
+**Conflicting accounts (unresolved):**
+- *Year of sinking*: 1981 per My St Kitts Dive Buddy, Dive Nevis, Pro Divers and Dive The World; 1985 per Dive Training Magazine and MustSeeSpots.
+- *Cause of sinking*: My St Kitts Dive Buddy and Dive Nevis describe a sinking in or near Basseterre harbour followed by a tow to the current site; Pro Divers and Dive The World say she sank in a hurricane; MustSeeSpots says she was intentionally sunk.
+- *Depth*: 25-40 ft (My St Kitts Dive Buddy), about 40 ft / 12 m (Active Caribbean Travel), 42 ft (Dive Nevis), about 50 ft (Dive The World, MustSeeSpots).
+
+Build date, builder, tonnage and the origin of the vessel's name were not found in any source and are left undocumented. Penetration was once possible but is reported as no longer possible due to hurricane damage (My St Kitts Dive Buddy), and Dive Training Magazine states no penetration is allowed; do not enter the wreck.
 
 ## Site Information
 
-- **Location**: Frigate Bay, St. Kitts (near Basseterre)
+- **Location**: Off Basseterre, St. Kitts
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
@@ -29,7 +36,7 @@ The River Taw was a 144-foot (44m) island cargo freighter. Most sources (My St K
 
 ## Marine Life
 
-Turtles, moray eels, octopus, porcupine fish, and stingrays are the most consistently reported residents, joined by squirrelfish, glass-eyed snappers, angelfish, large schools of yellowtail snapper, and occasional seahorses (Dive Nevis, dive-the-world.com).
+Dive Nevis lists squirrelfish, glass-eyed snappers, angelfish, rays, large schools of yellowtail snapper and the occasional seahorse. Active Caribbean Travel lists reef fish, lobsters, octopus, turtles and stingrays. My St Kitts Dive Buddy reports abundant fish life.
 
 ---
-*Sources: [My St Kitts Dive Buddy - Wreck Diving](https://mystkittsdivebuddy.com/wreck-diving-sites-of-st-kitts/), [Dive Nevis - Wreck Dives](https://divenevis.com/wreck-dives/), [PADI - River Taw](https://www.padi.com/dive-site/saint-kitts-nevis/river-taw/), [Pro Divers St. Kitts - Dive Sites](https://prodiversstkitts.com/pages/sites.html), [Dive Training Magazine - Exploring St. Kitts](https://dtmag.com/thelibrary/exploring-st-kitts-island-made-for-adventures/), [Dive The World - St Kitts](https://www.dive-the-world.com/diving-sites-st-kitts.php). No dedicated Wikipedia article exists for this vessel. Last updated 2026-07-03.*
+*Sources: [My St Kitts Dive Buddy - Wreck Diving](https://mystkittsdivebuddy.com/wreck-diving-sites-of-st-kitts/), [Dive Nevis - Wreck Dives](https://divenevis.com/wreck-dives/), [Pro Divers St. Kitts](https://prodiversstkitts.com/pages/sites.html), [Active Caribbean Travel](https://activecaribbeantravel.com/st-kitts-diving-nevis-diving/), [Dive Training Magazine](https://dtmag.com/thelibrary/exploring-st-kitts-island-made-for-adventures/), [Dive The World](https://www.dive-the-world.com/diving-sites-st-kitts.php), [MustSeeSpots](https://www.mustseespots.com/saint-kitts-and-nevis/articles/water-sports-in-st-kitts-and-nevis-diving-snorkeling-more/). No dedicated Wikipedia article exists for this vessel. Last updated 2026-10-02.*

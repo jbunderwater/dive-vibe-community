@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Anglins Pier Reef
 
-Anglins Pier Reef is a reef dive site in South Florida, North America.
+Anglin's Pier Reef is the shore-accessible reef system just south of Anglin's Fishing Pier in Lauderdale-by-the-Sea, entered from the Datura Avenue beach portal.
 
 ## Overview
 
-Premier shore dive south of Anglins Fishing Pier (closed since 2022 hurricane damage) in Lauderdale-by-the-Sea. The reef system features three zones at depths of 12-18 feet (3.7-5.5m), with the first reef beginning 100-400 feet from shore, accessible via the Datura Avenue beach entry. A 10-12 foot ledge runs parallel to shore. Confirmed marine life includes sea turtles, nurse sharks, stingrays, moray eels, spiny lobster, tarpon, and tropical reef fish; Caribbean reef sharks are occasionally sighted. One of the most accessible reef dives in South Florida.
+Datura Avenue, just south of Anglin's Fishing Pier, provides beach access to three coral reefs within about 100 yards of shore, plus the Shipwreck Snorkel Trail (Town of Lauderdale-by-the-Sea; Discover LBTS). Force-E describes the entry as a swim of about 100 yards to a reef, and Gold Coast Scuba puts the first reef 100-400 feet from the beach.
+
+South Florida Diving Headquarters lists "Anglin Pier Reef" differently, as a boat drift dive in 50-60 feet on a reef running north-south parallel to shore with a single 10-12 foot ledge on its shoreward side, where Caribbean reef sharks are sighted on occasion. That entry appears to describe an outer reef line rather than the near-shore reefs reached from the beach, and the two descriptions are not reconciled in the sources. This page follows the dataset's shore-entry classification.
 
 ## Site Information
 
@@ -27,31 +29,28 @@ Premier shore dive south of Anglins Fishing Pier (closed since 2022 hurricane da
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 5.5 meters
 
+## The Pier
+
+Anglin's Pier is privately owned. The Town's timeline records extensive damage from Hurricane Irma in 2017, further storm damage in November 2022 after which the pier structure was posted unsafe and ordered closed (the restaurant and bait shop stayed open), more storm damage in December 2023, and ongoing engineering and permitting work toward a replacement through 2025. Stay clear of the pilings and fishing line.
+
 ## Marine Life
 
-Reports from local dive shops and divers consistently log spiny lobster, moray eels, hogfish, schools of grunts and snappers, parrotfish, and sea turtles along the inshore ledges. Caribbean reef sharks are sighted on the reef occasionally rather than regularly. The Shipwreck Snorkel Trail to the south of the entry hosts arrow crabs and scorpionfish living among the replica cannons, anchor, and ballast stones.
+Gold Coast Scuba, describing the Lauderdale-by-the-Sea reefs reached from these beach portals, reports star, brain and finger corals and purple sea fans; schools of grunts, snappers and parrotfish; sergeant majors, blennies, juvenile drum and trumpetfish; sea turtles, nurse sharks and tarpon; and occasional stingrays, moray eels and octopus. It lists arrow crabs and scorpionfish at the Shipwreck Snorkel Trail. South Florida Diving Headquarters adds occasional Caribbean reef shark sightings on the Anglin Pier Reef. Force-E notes "potholes" with many juvenile fish. Earlier text on this page listing spiny lobster and hogfish as regular sightings could not be traced to a sighting report (lobstering is permitted with a license per Force-E) and has been removed.
 
 ## Dive Profile
 
-Three reef lines run roughly parallel to shore. The first reef sits about 100 to 400 feet from the beach in 12 to 18 feet of water and is the standard target for shore divers. A 10-to-12-foot ledge runs along this first reef and is the main feature divers follow. A sand gap separates reef one from reef two; the second reef carries more relief and structure. The third reef sits roughly a mile offshore and is not reachable on a typical shore dive. Visibility on calm days is commonly reported at 15 to 70 feet depending on conditions, and water temperatures range from the low 70s F in winter to the low 80s F in summer.
+Depths and layout are reported inconsistently. Gold Coast Scuba gives the Shipwreck Snorkel Trail at 8-10 feet, the first reef line at 12-20 feet with coral heads rising 3-4 feet, and a second reef line at 30-50 feet about a 30-minute swim out. Force-E gives an 8-20 foot range and places the second reef at roughly 12-15 feet. Visibility of 50-70 feet is reported on calm days (Gold Coast Scuba), and bottom times of up to 90 minutes are possible in the shallows.
+
+The Shipwreck Snorkel Trail, dedicated in 2002 by Jean-Michel Cousteau and built by the Marine Archaeological Council, mimics a 19th-century wreck with an anchor, five concrete cannons and a ballast pile in about 10 feet of water (Town of Lauderdale-by-the-Sea; Force-E says the artifacts are within a 100 x 20 foot area).
 
 ## Entry and Exit
 
-Standard entry is from the public beach at 1 Datura Avenue (Datura Avenue and El Mar Drive) in Lauderdale-by-the-Sea. The town maintains a staging area with tank racks and a freshwater rinse hose at the access point. Metered parking is available nearby (PayByPhone). Most divers walk in, swim out perpendicular to shore until they pick up the first reef, drift north or south along the ledge, and exit back at Datura.
-
-## Tips and Recommendations
-
-- The pier itself has been closed and partially damaged since hurricane impacts; stay clear of the pilings and any fishing line.
-- Florida law requires a divers-down flag; divers must stay within 300 feet of the flag.
-- Calm mornings before onshore winds pick up generally give the best visibility.
-- Pair the dive with the Shipwreck Snorkel Trail just to the south for a shallow second loop.
+Enter at the Datura Avenue portal (Datura Avenue and El Mar Drive), which has a tank rack; Hibiscus Avenue and El Prado Park are alternative entries (Gold Coast Scuba; Force-E). Parking is metered and uses the PayByPhone app. A dive flag is required in Florida. Spearfishing and lobster harvesting are permitted with a current FWC license (Force-E).
 
 ## Safety Considerations
 
-- Boat and jet-ski traffic is heavy on weekends; tow a clearly visible dive flag and surface near, not under, the pier.
-- Fishing lines around the pier are a snag hazard; keep distance from the structure.
-- Florida sun, dehydration, and surface chop on the swim out are the most common issues; hydrate and plan a shore exit before fatigue.
-- Avoid contact with fire coral on the ledge and watch for jellyfish, sea lice, and Sargassum drift, especially in early summer.
+- Fly and tow a dive flag; boats operate in the area.
+- Keep away from the damaged pier structure and any fishing line around it.
 
 ---
-*Sources: [South Florida Diving Headquarters - Anglin Pier Reef](https://www.southfloridadiving.com/dive-sites/reef-dive-site/anglin-pier-reef/), [Gold Coast Scuba - Lauderdale-by-the-Sea Reef Guide](https://goldcoastscuba.net/pages/lauderdale-by-the-sea-coral-reef-guide), [Town of Lauderdale-by-the-Sea - Diving & Snorkeling](https://www.lauderdalebythesea-fl.gov/374/Snorkeling-Scuba-Diving), [Force-E Scuba - LBTS Shore Dive](https://www.force-e.com/go-diving/shore-dive-sites/lauderdale-by-the-sea-shore-dive/), [Anglin's Pier Timeline - Lauderdale-by-the-Sea](https://www.lauderdalebythesea-fl.gov/601/Anglins-Pier-Timeline). Last updated 2026-06-30.*
+*Sources: [Town of Lauderdale-by-the-Sea — Snorkeling & Scuba Diving](https://www.lauderdalebythesea-fl.gov/374/Snorkeling-Scuba-Diving), [Town of Lauderdale-by-the-Sea — Anglin's Pier Timeline](https://www.lauderdalebythesea-fl.gov/601/Anglins-Pier-Timeline), [Gold Coast Scuba — Lauderdale-by-the-Sea Coral Reef Guide](https://goldcoastscuba.net/pages/lauderdale-by-the-sea-coral-reef-guide), [Force-E Scuba Centers — Lauderdale-by-the-Sea Shore Dive](https://www.force-e.com/go-diving/shore-dive-sites/lauderdale-by-the-sea-shore-dive/), [South Florida Diving Headquarters — Anglin Pier Reef](https://www.southfloridadiving.com/dive-sites/reef-dive-site/anglin-pier-reef/), [Discover LBTS — Diving & Snorkeling](https://www.discoverlbts.com/diving-snorkeling/). Last updated 2026-10-02.*

@@ -25,7 +25,7 @@ If this is in fact a real, penetrable wreck, any interior exploration requires p
 
 ## Marine Life
 
-No site-specific marine life reports could be found for this wreck. Species such as grouper, napoleon wrasse, and triggerfish are commonly seen on other Sri Lankan wreck sites, but attributing them to this specific site without a source would be guesswork, so none are listed here.
+Regional fauna applies, but no site-specific marine life reports were found for this wreck, so no species are named.
 
 ## Site Information
 
@@ -36,4 +36,4 @@ No site-specific marine life reports could be found for this wreck. Species such
 - **Maximum Depth**: 15 meters
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-07-03.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-10-02.*

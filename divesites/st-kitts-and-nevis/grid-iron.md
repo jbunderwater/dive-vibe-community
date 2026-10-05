@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Grid Iron
 
-Grid Iron is a reef site on St. Kitts' Atlantic-facing side, with depths ranging from about 15 to 24 metres.
+Grid Iron is a reef system on the Atlantic side of St. Kitts, seaward of the Narrows, listed by one operator guide as a 15-24 m dive.
 
 ## Overview
 
-Grid Iron lies on the Atlantic side of St. Kitts, with a depth range of roughly 15 to 24 metres (50-80ft). The one source that could be directly verified for this site describes it only as having "diverse marine life," without naming specific species. An earlier version of this page claimed a detailed set of facts — mountainous and elkhorn coral colonies documented by the Living Oceans Foundation, resident reef sharks, and long-spined sea urchins — that could not be traced to any real source and have been removed. Divers should expect the mixed volcanic-reef habitat typical of St. Kitts' more exposed Atlantic coast, but specific site details beyond depth and location remain unconfirmed.
+Active Caribbean Travel lists Grid Iron on the Atlantic side of St. Kitts at 50-80 ft (15-24 m) with diverse marine life. The Living Oceans Foundation describes a reef system called Grid Iron, seaward of the Narrows and stretching over 10 km from the northeastern end of Nevis to the coastline off St. Kitts, at 5-10 m depth. It reports a formerly flourishing elkhorn coral reef whose coral mostly died about 30 years earlier, with large (3-5 m diameter) lobate star coral colonies and mountainous star coral around the perimeter. That research description covers the whole reef system and may not match the dive site depth or exact spot. Only two sources were found, so this entry is unverified.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Grid Iron lies on the Atlantic side of St. Kitts, with a depth range of roughly 
 
 ## Marine Life
 
-No site-specific marine life reports beyond a general "diverse marine life" characterization were found for Grid Iron. Regional Atlantic-side St. Kitts reef fauna is plausible here but has not been confirmed at this specific site.
+No species were named for this site. Regional fauna applies, but no site-specific reports were found.
 
 ---
-*Sources: [Active Caribbean Travel - St Kitts & Nevis Diving](https://activecaribbeantravel.com/st-kitts-diving-nevis-diving/). Only one independently verifiable source was found — My St Kitts Dive Buddy and PADI (previously cited) do not document this site. Last updated 2026-07-03.*
+*Sources: [Active Caribbean Travel](https://activecaribbeantravel.com/st-kitts-diving-nevis-diving/), [Living Oceans Foundation - First Day of Research](https://www.livingoceansfoundation.org/first-day-of-research/). Only two sources found; unverified. Last updated 2026-10-02.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Pinnacles Sodwana
 
-Pinnacles Sodwana is a pinnacle dive site in South Africa, Africa.
+Pinnacles is a named dive site on Two Mile Reef at Sodwana Bay.
 
 ## Overview
 
-Pinnacles is a shallow reef site at Sodwana Bay where coral heads and rocky outcrops rise to within a few meters of the surface, creating a complex three-dimensional habitat at a maximum depth of around 15 meters. The site is particularly good for macro life — juvenile fish sheltering in coral heads, nudibranchs on the rocky substrate, and flatworms — alongside the larger reef fish and turtles characteristic of the iSimangaliso Marine Reserve. Its shallow profile and typically calm conditions inside the bay make it a reliable choice when offshore reefs are affected by swell.
+X-Ray Mag lists Pinnacles among the named sites on Two Mile Reef and says it includes a small cave. The PADI Blog mentions Pinnacles as a Sodwana site where hard coral competes for space. A third independent source and a confirmed depth were not found; the 15 m figure carried over from earlier data is unverified.
 
 ## Site Information
 
@@ -27,5 +27,9 @@ Pinnacles is a shallow reef site at Sodwana Bay where coral heads and rocky outc
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 
+## Marine Life
+
+X-Ray Mag reports that the small cave at Pinnacles is sometimes inhabited by whitetip reef sharks. No other species are attributed here.
+
 ---
-*Sources: [SCUBA Travel - Diving South Africa](https://www.scubatravel.co.uk/africa/diving-south-africa.html), [Bluewater Dive Travel - South Africa](https://www.bluewaterdivetravel.com/destination/south-africa-diving), [Coral Divers Sodwana Bay](https://coraldivers.co.za/), [PADI - Diving Sodwana Bay](https://www.padi.com/diving-in/south-africa/sodwana-bay/), [Ikelite - Aliwal Shoal Guide](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-aliwal-shoal-south-africa). Last updated 2026-04-04.*
+*Sources: [X-Ray Mag - Diving Sodwana Bay](https://old.xray-mag.com/node/14625), [PADI Blog - Diving in Sodwana](https://blog.padi.com/diving-in-sodwana-south-africa/). Only two independent sources found; site not fully validated. Last updated 2026-10-02.*

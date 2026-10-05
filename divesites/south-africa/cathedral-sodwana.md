@@ -13,19 +13,23 @@ addedBy: osm_import
 
 ## Cathedral Sodwana
 
-Cathedral Sodwana is a reef dive site in South Africa, Africa.
+This entry is unresolved. Sources checked place a dive site called Cathedral at Aliwal Shoal, not at Sodwana Bay.
 
 ## Overview
 
-Cathedral is one of Sodwana Bay's signature reef systems, named for the towering coral spires and archways that create an almost architectural underwater landscape at depths between 5 and 20 meters. The site sits within the iSimangaliso Wetland Park and features exceptional hard coral diversity including large brain corals, plate corals, and massive Porites heads, attracting abundant reef fish life such as potato grouper, emperor fish, and schools of batfish. Ragged-tooth sharks are sometimes seen cruising the deeper sections in summer, and the warm Agulhas Current keeps visibility consistently good at 15–20 meters on average.
+Brand South Africa describes "the appropriately named Cathedral, with its magnificent arch and ledges under which all manner of tiny critters hide" at Aliwal Shoal, and PADI lists Cathedral at about 27 m on Aliwal Shoal. No source checked (Wikipedia, X-Ray Mag, PADI Blog) lists a Cathedral among Sodwana Bay's named sites. The coordinates and depth recorded for this entry (Sodwana Bay, 20 m) are unverified, and the previous description of coral spires, fish species and visibility was removed because no source supported it.
 
 ## Site Information
 
 - **Location**: South Africa, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 
+## Marine Life
+
+The destination's regional fauna applies, but no site-specific sighting reports were found, so no species are named here.
+
 ---
-*Sources: [SCUBA Travel - Diving South Africa](https://www.scubatravel.co.uk/africa/diving-south-africa.html), [Bluewater Dive Travel - South Africa](https://www.bluewaterdivetravel.com/destination/south-africa-diving), [Coral Divers Sodwana Bay](https://coraldivers.co.za/), [PADI - Diving Sodwana Bay](https://www.padi.com/diving-in/south-africa/sodwana-bay/), [Ikelite - Aliwal Shoal Guide](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-aliwal-shoal-south-africa). Last updated 2026-04-04.*
+*Sources: [Brand South Africa - Scuba diving](https://www.brandsouthafrica.com/stay-updated/quick-facts/2009/scuba-diving-south-africa/), [PADI - Aliwal Shoal Reef](https://www.padi.com/dive-site/south-africa/aliwal-shoal-reef/), [Wikipedia - Sodwana Bay](https://en.wikipedia.org/wiki/Sodwana_Bay). Entry flagged for relocation or removal. Last updated 2026-10-02.*

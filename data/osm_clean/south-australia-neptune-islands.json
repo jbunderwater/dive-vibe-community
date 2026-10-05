@@ -6,15 +6,16 @@
     "depth": 2,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "shark_cage": "true",
       "cage_type": "surface",
       "validated": "true",
-      "validation_source": "rodneyfox.com.au,wikipedia.org,marineparks.sa.gov.au,parks.sa.gov.au,wikivoyage.org",
-      "last_qa_date": "2026-05-17"
+      "validation_source": "rodneyfox.com.au,wikipedia.org,marineparks.sa.gov.au,wikivoyage.org,dan.org,bluewaterdivetravel.com",
+      "last_qa_date": "2026-10-02",
+      "qa_note": "2026-10-02 re-audit: sources confirm surface cage (~2 m, Wikivoyage) at the Neptune Islands group but none attribute it to North Neptune specifically; Main/Action Bay claims removed (unsourced). Difficulty raised Beginner->Intermediate per cold-water minimum policy (no certification needed for the surface cage itself)."
     }
   },
   {
@@ -31,8 +32,9 @@
       "shark_cage": "true",
       "cage_type": "submerged",
       "validated": "true",
-      "validation_source": "rodneyfox.com.au,wikipedia.org,marineparks.sa.gov.au,parks.sa.gov.au,wikivoyage.org",
-      "last_qa_date": "2026-05-17"
+      "validation_source": "rodneyfox.com.au,wikipedia.org,marineparks.sa.gov.au,wikivoyage.org,dan.org,bluewaterdivetravel.com",
+      "last_qa_date": "2026-10-02",
+      "qa_note": "2026-10-02 re-audit: seabed cage depth reported as 18 m (Wikivoyage), 60-80 ft = 18-24 m (Bluewater), ~70 ft / 21.3 m (DAN). No source attributes the seabed cage to South Neptune specifically. Depth kept at 20 m (within reported range)."
     }
   },
   {
@@ -50,8 +52,8 @@
       "cage_type": "submerged",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17",
-      "qa_note": "No source confirms this as a distinct named dive site separate from Neptune Islands North. Site name may be duplicate/redundant."
+      "last_qa_date": "2026-10-02",
+      "qa_note": "2026-10-02: still no source for a distinct named site. Likely duplicate of Neptune Islands North (identical coordinates)."
     }
   },
   {
@@ -69,8 +71,8 @@
       "cage_type": "submerged",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17",
-      "qa_note": "The Rodney Fox website mentions two natural crevasses on North Neptune Island East but no site named 'The Monument' is confirmed by any independent source."
+      "last_qa_date": "2026-10-02",
+      "qa_note": "2026-10-02: still no source. Rodney Fox page only captions two natural crevasses on North Neptune Island East; no site named The Monument found."
     }
   },
   {
@@ -80,16 +82,16 @@
     "depth": 2,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "shark_cage": "true",
       "cage_type": "surface",
       "validated": "true",
-      "validation_source": "rodneyfox.com.au,wikipedia.org,marineparks.sa.gov.au,parks.sa.gov.au,wikivoyage.org",
-      "last_qa_date": "2026-05-17",
-      "qa_note": "Surface cage dive in Main Bay or Action Bay; confirmed by multiple sources. Likely represents same physical site as Neptune Islands North from a different operator perspective."
+      "validation_source": "rodneyfox.com.au,wikipedia.org,marineparks.sa.gov.au,wikivoyage.org,dan.org,bluewaterdivetravel.com",
+      "last_qa_date": "2026-10-02",
+      "qa_note": "2026-10-02 re-audit: generic Neptune Islands surface cage dive (~2 m); likely same experience as Neptune Islands North. Main/Action Bay claim removed (unsourced). Difficulty raised to Intermediate per cold-water minimum policy."
     }
   },
   {
@@ -105,8 +107,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17",
-      "qa_note": "Wikipedia confirms the South Neptune Islands have steep rocky formations with seabed dropping to 80m within 1.5km, consistent with pinnacle diving. However, no source confirms this specific named site or its dive characteristics."
+      "last_qa_date": "2026-10-02",
+      "qa_note": "2026-10-02: still no source for named site. Wikipedia confirms water to 80 m within 1.5-2 km of the southern group only."
     }
   },
   {
@@ -122,9 +124,9 @@
       "addedBy": "fill_remaining_gaps",
       "seal_dive": "true",
       "validated": "true",
-      "validation_source": "rodneyfox.com.au,dan.org,paparazsea.com,bluewaterdivetravel.com,diveinaustralia.com.au",
-      "last_qa_date": "2026-05-17",
-      "qa_note": "Depth corrected from 15m to 6m per multiple source confirmation. Hopkins Island is a shallow seal dive site at approximately 6m depth."
+      "validation_source": "rodneyfox.com.au,world.dan.org,paparazsea.com,bluewaterdivetravel.com",
+      "last_qa_date": "2026-10-02",
+      "qa_note": "2026-10-02 re-audit: depth conflict - PaparazSea ~6 m, DAN 15 ft (4.6 m). Kept 6 m (max reported). Claim that Hopkins is in the northern Neptune Islands removed: sources only say it is a stop en route from Port Lincoln. Coordinates not independently verified."
     }
   },
   {
@@ -140,8 +142,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17",
-      "qa_note": "No source confirms this as a named dive site. Rocky reef/kelp reef habitat is consistent with the area's geology but site-specific information unavailable."
+      "last_qa_date": "2026-10-02",
+      "qa_note": "2026-10-02: no source found for any English Island reef in the Neptune Islands."
     }
   },
   {
@@ -157,8 +159,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17",
-      "qa_note": "No source confirms this as a named dive site. The Neptune Islands have igneous rock formations (porphyritic granite gneiss) that could support cave/cavern features, but no site-specific source found."
+      "last_qa_date": "2026-10-02",
+      "qa_note": "2026-10-02: Wikipedia places Williams Island off Jussieu Peninsula, ~34 km SE of Port Lincoln, not in the Neptune group. No cave dive source found. Coordinates/location likely wrong."
     }
   },
   {
@@ -174,8 +176,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17",
-      "qa_note": "No source confirms this as a named dive site in the Neptune Islands group."
+      "last_qa_date": "2026-10-02",
+      "qa_note": "2026-10-02: Wikipedia places Langton Island in the Sir Joseph Banks Group, Spencer Gulf, not the Neptune Islands. No dive source found. Location likely wrong."
     }
   }
 ]
