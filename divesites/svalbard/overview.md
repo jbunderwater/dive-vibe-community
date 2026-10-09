@@ -4,37 +4,23 @@ addedBy: osm_import
 
 ## Svalbard
 
-Arctic marine life encounters and extreme ice diving conditions.
+Cold-water Arctic diving, largely tied to research and expedition cruises.
 
 ## Description
 
-Svalbard is a notable diving destination in the Arctic region with depths ranging from 5 to 30 meters. Water temperatures average -1 to 8°C (30-46°F), with visibility typically reaching 10-30 meters (30-100 feet). The diving season runs June to September, with the best conditions during June to September.
+Svalbard is an Arctic archipelago where diving is polar diving. We found no published local recreational dive-operator listing with named sites; our sources point to scientific diving, expedition-cruise diving and a small non-commercial local club.
 
-### Diving Opportunities
+### What the sources support
 
-- **Wreck Diving**: Historic shipwrecks preserved in the region's waters
-- **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
+- **Scientific diving**: Kongsfjorden kelp forests are monitored by scientific divers (Framforum). The Kings Bay Marine Laboratory at Ny-Ålesund has a dive locker and the only decompression chamber on Svalbard; dive groups bring their own compressor and tanks and must coordinate with Kings Bay (Kings Bay).
+- **Local club**: Longyearbyen Diving Club is a small non-commercial club run by local enthusiasts.
+- **Expedition diving**: Oceanwide Expeditions has logged dives from its expedition voyages, for example at Alkhornet in June 2026.
+- **History**: Smeerenburg and Isfjorden have 17th-century whaling history; reported whaling-era wrecks have not been located.
+- **Wreck**: The Petrozavodsk, grounded in 2009 on Bear Island, remains in place and is decaying.
 
-### Accessibility
+### Practical notes
 
-- **Getting There**: Svalbard is accessible via international and regional flights to nearby airports. Check with airlines for current routes and connections.
-- **Dive Operators**: Professional dive operators offer equipment rental, guided dives, certification courses, and boat trips to offshore sites.
-- **Accommodation**: Options range from dedicated dive resorts to budget-friendly guesthouses, with many properties located near popular dive sites.
-- **Transportation**: Local transportation and dive operator transfers are the primary means of reaching dive sites.
-- **Facilities**: Dive sites vary in available amenities; operator-run sites typically provide comprehensive facilities while remote sites may have limited infrastructure.
-
-### Marine Life & Environment
-
-- **Water Conditions**: Water temperatures range from -1 to 8°C (30-46°F) with visibility of 10-30 meters (30-100 feet). Currents are generally variable, tidal currents.
-- **Marine Biodiversity**: The waters support diverse marine ecosystems including seals (harbor, bearded, ringed), walruses, beluga whales, narwhals, polar cod, sea anemones, soft corals, kelp forests, sea urchins, starfish.
-- **Conservation**: Local conservation efforts help protect marine habitats and ensure sustainable diving practices.
-
-## Additional Information
-
-- **Best Time to Visit**: June to September. Outside the main season, conditions may be less favorable.
-- **Currency**: Norwegian Krone (NOK)
-- **Language**: Norwegian
-- **Safety**: Always dive within certification limits. Be aware of extreme cold, hypothermia risk, ice. Verify the location of the nearest hyperbaric chamber before diving.
+Water temperature, visibility and season figures vary between general-purpose sites and were not confirmed in this pass, so none are stated. Dive within your certification limits, use a drysuit with cold-water experience, check polar-bear and local regulations with the Governor of Svalbard, and note that the only decompression chamber is at Ny-Ålesund.
 
 ---
-*Sources: [Dive Svalbard](https://dive-svalbard.com/), [PADI - Diving in Svalbard](https://www.padi.com/diving-in/svalbard/), [ZuBlu - Svalbard and Jan Mayen Island](https://www.zubludiving.com/destination/arctic/norway/svalbard-jan-mayen-island), [Oceanwide Expeditions - Diving in Spitsbergen](https://oceanwide-expeditions.com/to-do/experiences/diving-in-spitsbergen), [DiverTown - Svalbard](https://www.divertown.com/en/destination/svalbard/). Last updated 2026-04-04.*
+*Sources: [Kings Bay — Marine Lab](https://kingsbay.no/marine-lab-veksthuset/), [Framforum](https://framforum.com/2025/03/14/scientific-diving-in-arctic-kelp-forests-to-detect-climate-related-changes/), [Longyearbyen Diving Club](https://dive78north.wixsite.com/home), [Oceanwide Expeditions](https://oceanwide-expeditions.com/blog/say-hello-to-kongsfjorden-svalbard). Last updated 2026-10-09.*
