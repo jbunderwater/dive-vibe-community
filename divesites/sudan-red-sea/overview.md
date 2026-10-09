@@ -8,7 +8,7 @@ Pristine Red Sea reefs, shark encounters, and WWII wrecks in remote waters.
 
 ## Description
 
-Sudan Red Sea is a premier diving destination in the Middle East region, offering dive sites ranging from shallow reef diving (as shallow as 12m at Abu Seif) to deep walls, pinnacles, and technical wrecks (65-85m at the Levanzo and Blue Belt wrecks). Water temperatures average 22-30°C (72-86°F), with visibility typically reaching 20-40 meters (65-130 feet). Year-round diving is possible, with the best conditions during September to May. Sudan Red Sea is accessible only by liveaboard; the destination-wide minimum difficulty rating applied across this dataset is Advanced.
+Sudan Red Sea is a premier diving destination in the Middle East region, offering dive sites ranging from shallow reef diving to deep walls, pinnacles, and technical wrecks (65-85m at the Levanzo and Blue Belt wrecks). Water temperatures average 22-30°C (72-86°F), with visibility typically reaching 20-40 meters (65-130 feet). Year-round diving is possible, with the best conditions during September to May. Sudan Red Sea is accessible only by liveaboard; the destination-wide minimum difficulty rating applied across this dataset is Advanced.
 
 ### Diving Opportunities
 
@@ -28,7 +28,7 @@ Sudan Red Sea is a premier diving destination in the Middle East region, offerin
 ### Marine Life & Environment
 
 - **Water Conditions**: Water temperatures range from 22-30°C (72-86°F) with visibility of 20-40 meters (65-130 feet). Currents are generally moderate to strong.
-- **Marine Biodiversity**: Species confirmed by multiple sources across this destination's individual sites include hammerhead sharks, grey reef sharks, silvertip sharks, whitetip reef sharks, tiger sharks, manta rays, and barracuda. Whale sharks and dolphins are not confirmed by site-specific sources for Sudan Red Sea in this research pass and have been removed from this general list; see individual site pages for species confirmed at each location.
+- **Marine Biodiversity**: Hammerhead, grey reef, silvertip and whitetip sharks are reported by operator sources at several individual sites (for example Shaab Jimna, Angarosh, Daharat Abida and Sha'ab Rumi); see individual site pages for what each source reports at each location.
 - **Conservation**: Marine protected areas help preserve the reef ecosystems and regulate diving activities.
 
 ## Additional Information
@@ -39,4 +39,4 @@ Sudan Red Sea is a premier diving destination in the Middle East region, offerin
 - **Safety**: Always dive within certification limits. Be aware of strong currents, fire coral, lionfish stings. Verify the location of the nearest hyperbaric chamber before diving.
 
 ---
-*Sources: [Diving in Sudan - dive-the-world.com](https://www.dive-the-world.com/diving-sites-sudan.php), [Five Great Dive Sites in Sudan's Red Sea - Scuba Diving Magazine](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Diving in Sudan - Royal Evolution](https://royalevolution.com/diving-in-sudan/). Last updated 2026-07-03.*
+*Sources: [Diving in Sudan - dive-the-world.com](https://www.dive-the-world.com/diving-sites-sudan.php), [Five Great Dive Sites in Sudan's Red Sea - Scuba Diving Magazine](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Diving in Sudan - Royal Evolution](https://royalevolution.com/diving-in-sudan/). Last updated 2026-10-09.*

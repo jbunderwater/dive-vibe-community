@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Levanzo Wreck
 
-Levanzo Wreck (SS Isola di Levanzo) is an advanced-level wreck dive at Elba Reef near the Egypt-Sudan border. This large Italian cargo ship sank in 1923 and now rests as an artificial reef at significant depth, requiring advanced wreck diving training and experience.
+Levanzo Wreck (SS Isola di Levanzo) is a deep Italian cargo-steamer wreck at Elba Reef, on the Egypt-Sudan border area, that sank in the 1920s and now lies upside down down the reef slope.
 
 ## Overview
 
-The SS Isola di Levanzo was an Italian cargo vessel built in 1901 by the Orlando Brothers shipyard in Livorno (Leghorn) — 339.6 feet long (approximately 103.5 metres, not the 113m previously stated here) and 3,713 tons. She ran aground on Elba Reef on 14 March 1923 while sailing from Genova to Durban carrying salt and other cargo. On 28 March 1923, during a salvage attempt, the ship broke her towing hawser, drifted onto rocks, and sank. Now resting at the edge of Elba Reef's South Plateau, the wreck has become a thriving artificial reef. The stern and propeller sit at 22 metres, a broken section lies around 40 metres, and the wreck reaches a maximum depth of roughly 65 metres — demanding Advanced certification or equivalent and real wreck-diving experience for anything beyond the shallowest sections.
+Dive3d.eu describes the SS Levanzo as an Italian steel-hulled cargo steamer sailing from Genoa to Durban with salt and general cargo that ran aground on Elba Reef on 14 March 1923; Maldives Magazine also gives a 1923 sinking. Only one source gives the grounding date and route, so they are not independently confirmed. Length is disputed: Maldives Magazine reports 113 m, whereas an earlier version of this page gave about 103.5 m, 3,713 tons, a 1901 build by Orlando Brothers of Livorno and a 28 March 1923 sinking; none of those last details could be reproduced from any source re-checked on 2026-10-09 and they have been removed. Treat length, tonnage and builder as unconfirmed.
+
+Royal Evolution says the wreck lies upside down, with the stern and propeller at about 22 m and the broken section at about 40 m (where recreational diving ends), to a maximum of about 65 m; Maldives Magazine gives the same figures. Dive3d.eu instead puts the stern at about 27 m with the keel up and the bow sloping to about 70 m on sand. Royal Evolution notes that penetration is difficult but that divers can swim under the wreck in places. Note that Royal Evolution, a Hurghada-based operator, lists Elba as an Egyptian site; the reef lies in the Halaib Triangle on the Egypt-Sudan border.
 
 ## Site Information
 
@@ -26,34 +28,14 @@ The SS Isola di Levanzo was an Italian cargo vessel built in 1901 by the Orlando
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 65 meters
-- **Wreck Top**: 22 meters
-- **Broken Sections**: 40 meters
 
-## Wreck Structure & Marine Life
+## Marine Life
 
-The SS Isola di Levanzo is a roughly 103.5-metre vessel with distinct diving zones. The top sections at 22 meters feature large openings and natural light. Broken sections at 40 meters are more challenging and require conservative depth planning. Sources report schools of jackfish and barracuda around the wreck, along with encrusting corals and sponges from decades of artificial-reef colonization. No source-specific inventory of resident fish species beyond jackfish and barracuda was found for this exact site, so a broader reef-fish list is not claimed here.
-
-## Dive Profile
-
-Descend to the wreck top at 22 meters and explore the accessible exterior sections first. Divers with wreck training and deep diving experience can explore broken sections at 40 meters if properly planned. Advanced divers attempt the deeper sections (50-65m) only with significant decompression planning and backup gas. This is NOT a site for casual deep diving. Nitrogen narcosis becomes significant below 40m—monitor your judgment carefully. Plan conservative bottom times and multiple safety stops. Most recreational dives stay to the 22-40m range.
-
-## Entry and Exit
-
-Access is by liveaboard dive boat from Elba Reef operators. Entry via giant stride or back roll in moderate sea state. Descents follow the wreck structure with guidance from the dive guide. Multiple safety stops are mandatory due to depth; ascend through the water column and maintain staged decompression. Deploy high-visibility surface marker buoy (SMB) for safety stop signaling.
-
-## Tips & Requirements
-
-- Advanced wreck diving certification strongly recommended
-- Carry dive computer and depth gauge—two depth instruments are wise
-- Bring dive torch with backup—interior sections are dark
-- Maintain exceptional buoyancy to avoid silt disturbance
-- Do NOT attempt deep penetration (>40m) without extensive wreck experience
-- Carry redundant air supply if attempting deeper sections
-- Underwater camera captures excellent artificial reef documentation
+Royal Evolution reports large groupers and schooling trevally, with black and soft corals covering the wreck. Sadko Safari Fleet reports schools of jackfish and barracuda and corals and sponges. Maldives Magazine adds moray eels (single source).
 
 ## Safety Considerations
 
-Critical hazards include nitrogen narcosis below 40m, decompression sickness, entanglement risks, silt entrapment in wreck sections, and deep diving risks. The wreck is partially broken/unstable in sections—avoid uncertain structures. Only dive sections you can clearly see; turn back before visibility drops. Nitrogen narcosis impairs judgment significantly at 45-65m—abort immediately if affected. Always dive with an experienced buddy. Mandatory staged decompression on ascent. This is NOT a site for divers pushing their limits.
+Depths beyond about 40 m are outside recreational limits and require appropriate technical training and gas planning. Penetration always requires proper training and equipment and is never "safe".
 
 ---
-*Sources: [SS Levanzo Wreck Dive Site - Sadko Safari Fleet](https://www.sadko-safarifleet.com/dive-sites/ss-levanzo), [SS Isola di Levanzo - Divescover](https://divescover.com/dive-site/ss-isola-di-levanzo/23714), [Levanzo Wreck - Royal Evolution](https://royalevolution.com/diving-in-egypt/levanzo-wreck/). Last updated 2026-07-03.*
+*Sources: [Sadko Safari Fleet - SS Levanzo](https://www.sadko-safarifleet.com/dive-sites/ss-levanzo), [Royal Evolution - Levanzo Wreck](https://royalevolution.com/diving-in-egypt/levanzo-wreck/), [dive3d.eu - Levanzo](https://dive3d.eu/models/egypt/levanzo/), [Maldives Magazine - Elba Reef](https://maldives-magazine.com/diving/elba-reef-liveaboard-diving-egypt.html). Last updated 2026-10-09.*

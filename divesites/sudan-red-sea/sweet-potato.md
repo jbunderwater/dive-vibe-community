@@ -32,4 +32,4 @@ A dive site in Sudan's Red Sea listed under the name "Sweet Potato" in this data
 No site-specific marine life source was found for this coordinate. Potato grouper are documented in Sudan's Red Sea (notably at Sha'ab Rumi South Plateau), but attributing them to this specific, unconfirmed site would not be supportable.
 
 ---
-*Description based on limited, unconfirmed information. No independent source confirms this site's name, character, or marine life — flagged as unresolved pending further research. Last updated 2026-07-03.*
+*Description based on limited, unconfirmed information. No independent source confirms this site's name, character, or marine life — flagged as unresolved pending further research. Last updated 2026-10-09.*

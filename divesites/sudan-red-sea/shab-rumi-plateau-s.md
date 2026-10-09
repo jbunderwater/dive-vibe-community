@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Shab Rumi, Plateau S
 
-Sha'ab Rumi South Plateau is one of Sudan's most celebrated and photographed dive sites — a shallow, current-washed plateau on the southern end of Sha'ab Rumi atoll, famous for its enormous schools of barracuda, trevally, and hammerhead sharks that patrol the plateau edge. It is widely regarded as one of the finest shark dives in the Red Sea.
+The southern plateau of Sha'ab Rumi is a reef-wall dive on one of Sudan's best-known reefs, famous for sharks and Cousteau's 1963 habitat.
 
 ## Overview
 
-The South Plateau sits at the exposed southern tip of Sha'ab Rumi, directly in the path of currents that sweep up from the open Red Sea. This exposure makes it a gathering point for schooling pelagic fish and the apex predators that follow them. Massive, tightly packed tornadoes of chevron barracuda are a near-guaranteed encounter, swirling in dense cylinders around divers who hold position at the plateau edge. Scalloped hammerhead sharks cruise the wall below the plateau in regular processions, particularly in the early morning. The plateau's shallow depth (typically 10-20 metres on the plateau surface) allows extended bottom times and repeated encounters before divers need to ascend. Combined with the Conshelf II site in the lagoon, Sha'ab Rumi offers some of the richest diving in Sudan on a single anchoring.
+DivePlannerPro lists Sha'ab Rumi South as a reef wall with coral garden and soft and hard coral, with advanced experience required. Dive The World describes the Sha'ab Rumi plateau at 20-30 m with coral gardens, soft corals and strong currents, and Blue Force Fleet describes a large reef about 20 miles northeast of Port Sudan with a lagoon entered through two openings on its west side. Most species reports below are for Sha'ab Rumi as a whole rather than for the south plateau alone. An earlier note that potato grouper aggregations occur here could not be confirmed and is not repeated.
 
 ## Site Information
 
@@ -26,38 +26,10 @@ The South Plateau sits at the exposed southern tip of Sha'ab Rumi, directly in t
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to May
 
 ## Marine Life
 
-Sources confirm large schools of fish and sharks at the South Plateau, including hammerheads, and groups of bumphead parrotfish. The barracuda-tornado and dolphin-encounter claims made in some marketing material are plausible for this site given its reputation but are not attributed here beyond what sources directly confirm; the specific claim of Napoleon wrasse "exceeding one metre" from a prior version of this page is a level of detail not supported by any source found and has been softened to a general mention.
-
-## Dive Profile
-
-Descend to the plateau surface at 10-15 metres and immediately move to the southern tip where currents are strongest and fish aggregations peak. Hold position at the edge and observe barracuda schools and passing hammerheads below. Avoid descending too deep beyond the plateau edge — the wall drops away quickly and depth management becomes critical. After time at the tip, explore the plateau surface working back toward the lagoon entrance. Finish the dive with the safety stop in the lagoon's calmer water.
-
-## Entry and Exit
-
-Access is by liveaboard from the Sha'ab Rumi anchorage. Divers are typically dropped at the upstream end of the plateau and drift toward the southern tip with the current. The boat picks up divers at the lagoon entrance following an SMB-signalled safety stop. In stronger current conditions, the dive guide manages the drift carefully — follow instructions precisely.
-
-## Tips and Recommendations
-
-- Dive at first light for the highest chance of hammerhead school encounters
-- Position yourself at the plateau edge and remain still — movement disperses the barracuda tornado
-- Keep depth discipline strictly; the wall drops steeply beyond 20 metres
-- Wide-angle lens is essential for barracuda schools and hammerhead passes
-- Combine with a second dive on the Conshelf II lagoon site for a full Sha'ab Rumi experience
-- Bring extra air — the encounters here make it easy to extend the dive unintentionally
-
-## Safety Considerations
-
-Strong and variable currents at the southern tip require continuous buoyancy monitoring. The plateau edge is an abrupt drop-off — divers following hammerheads below the plateau can descend rapidly without noticing. Monitor your depth gauge constantly and set a firm depth limit before entering the water. Fire coral on the plateau surface is abundant — avoid contact. Always carry a high-visibility SMB for the current-assisted pickup.
-
-## Photography
-
-The barracuda tornado is the signature shot — wide-angle from below looking up through the school uses natural light dramatically. Hammerheads along the outer wall in blue water reward wide-angle with backlighting from above. The plateau surface offers medium-range shots of Napoleon wrasse, moray eels in coral heads, and anthias clouds over sea fans.
+DivePlannerPro names grey reef sharks, scalloped hammerheads, barracuda, jacks and Napoleon wrasse at the south site. Dive The World reports, for Sha'ab Rumi generally, grey reef, silky and silvertip sharks, hammerheads (November to April), barracuda, bigeye trevally, snappers, sweetlips, bumphead parrotfish and groupers.
 
 ---
-*Sources: [Shaab Rumi - Royal Evolution](https://royalevolution.com/diving-in-sudan/shaab-rumi/), [Central & North Route - Blue Force Fleet](https://www.blueforcefleet.com/diving-sudan-red-sea/route-central-north/), [Shaab Rumi South Plateau dive site - PADI](https://www.padi.com/dive-site/sudan/shaab-rumi-south-plateau/). Last updated 2026-07-03.*
+*Sources: [DivePlannerPro - Sha'ab Rumi South](https://www.diveplannerpro.com/spots/sd/port-sudan/sha-ab-rumi-south-port-sudan-sd), [Dive The World - Sudan](https://www.dive-the-world.com/diving-sites-sudan.php), [Blue Force Fleet - Central & North route](https://www.blueforcefleet.com/diving-sudan-red-sea/route-central-north/). Last updated 2026-10-09.*

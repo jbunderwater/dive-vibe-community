@@ -11,13 +11,13 @@ osmId: 9721031166
 addedBy: osm_import
 ---
 
-## Sanganeb Plateau N
+## Sanganeb Plauteua N
 
-Sanganeb North Plateau is one of the signature dives at Sanganeb Atoll — Sudan's most iconic reef and the only offshore atoll in the northern and central Red Sea. The north plateau marks the lighthouse end of the atoll, where vertical walls drop from the surface into the deep blue and hammerhead sharks are regularly encountered circling just beyond the reef edge.
+Sanganeb Reef, about 25 km northeast of Port Sudan, is a lighthouse-topped reef dived on its north and south plateaus.
 
 ## Overview
 
-Sanganeb Atoll sits approximately 25 km northeast of Port Sudan, a solitary oval reef rising from deep water and marked by a navigational lighthouse. It is the only true atoll in the Red Sea. The atoll is surrounded on all sides by vertical walls that plunge into the open Red Sea, making it one of the most dramatic reef structures in the region. Sanganeb was inscribed as part of a UNESCO World Heritage Site in 2016 (Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park). A prior version of this page stated the lighthouse was "built by the British in 1870" — no source found during research confirms that specific claim, so it has been removed rather than repeated.
+Blue Force Fleet places Sanganeb about 15 miles northeast of Port Sudan, with a Victorian-era beacon at its southern tip; the north side has a steep drop-off that should be dived only in calm seas, preferably in the early morning. Dive The World says the reef has been nature-conserved since 1990, has a British-built lighthouse and rises from about 800 m of water. Royal Evolution notes the reef is dived on its north and south plateaus and that visitors can land at the lighthouse. Divernet reports grey reef sharks circling the south plateau at about 25 m. Earlier claims (UNESCO inscription year, "only true atoll in the Red Sea") could not be re-verified in this pass and have been removed.
 
 ## Site Information
 
@@ -26,38 +26,10 @@ Sanganeb Atoll sits approximately 25 km northeast of Port Sudan, a solitary oval
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
 
 ## Marine Life
 
-Confirmed by sources: hammerhead sharks, mantas, grey reef sharks, silvertip sharks, whitetip sharks, barracuda, and unicornfish. Claims of oceanic whitetip sharks, Napoleon wrasse, large groupers, and eagle rays specifically at this site from a prior version of this page were not independently confirmed and have been removed.
-
-## Dive Profile
-
-Descend along the lighthouse wall to 15-20 metres and drift north along the outer reef face. Watch the blue water beyond the reef edge for hammerheads approaching from depth. The plateau shallows toward 10 metres and is covered with healthy hard corals and schooling reef fish. For stronger hammerhead encounters, experienced divers can sit deeper on the wall edge around 20 metres and watch the blue. Complete the dive with a circuit of the plateau surface before ascending to the safety stop.
-
-## Entry and Exit
-
-Sanganeb is reached by liveaboard or day boat from Port Sudan. Entry is by giant stride or back roll on the north face. The drift along the wall is monitored by the boat, which follows divers and picks up at the downstream end following an SMB-signalled safety stop. The lighthouse jetty provides an optional reference point for orientation.
-
-## Tips and Recommendations
-
-- Morning dives are consistently better for hammerhead encounters — plan your first dive here
-- Hover at the reef edge at 15-20 metres and watch blue water; avoid descending below recreational limits chasing sharks
-- The lighthouse structure above water is a useful landmark for surface orientation
-- Visit the south and west walls on subsequent dives for different reef characters
-- Sanganeb is diveable day-tripping from Port Sudan as well as by liveaboard
-- Night dives on the plateau surface reveal lionfish hunting and cephalopod activity
-
-## Safety Considerations
-
-The open-ocean position creates strong and variable currents — particularly at the north point where the two wall faces converge. Monitor drift direction carefully and stay close to the wall for shelter when current intensifies. The wall drops steeply beyond the plateau edge; depth gauge monitoring is essential. Fire coral on the plateau is abundant. Always deploy an SMB during the safety stop; the exposed position makes surface pickups reliant on proper signalling.
-
-## Photography
-
-The north point of Sanganeb is prime wide-angle territory. Hammerheads photographed against the deep blue from below create dramatic silhouette images. The wall face between 10-20 metres photographs well in natural light during morning dives. Schooling fish tornadoes at the current point offer swirling wide-angle compositions. Macro subjects on the plateau surface include nudibranchs, cleaner shrimp stations on coral heads, and moray eel portraits.
+Dive The World lists barracuda, jacks, mackerel, snappers, whitetip and grey reef sharks, occasional hammerheads, Napoleon wrasse and humphead parrotfish. Blue Force Fleet adds unicornfish, sweetlips, silvertip sharks and mantas. Most reports apply to Sanganeb as a whole; Divernet places grey reef sharks specifically on the south plateau.
 
 ---
-*Sources: [Sanganeb Marine National Park and Dungonab Bay - UNESCO World Heritage Centre](https://whc.unesco.org/en/list/262/), [Sanganeb Marine National Park, Sudan - WorldAtlas](https://www.worldatlas.com/articles/sanganeb-marine-national-park-sudan.html), [Central & North Route - Blue Force Fleet](https://www.blueforcefleet.com/diving-sudan-red-sea/route-central-north/). Last updated 2026-07-03.*
+*Sources: [Dive The World - Sudan](https://www.dive-the-world.com/diving-sites-sudan.php), [Royal Evolution - Diving in Sudan](https://royalevolution.com/diving-in-sudan/), [Blue Force Fleet - Central & North route](https://www.blueforcefleet.com/diving-sudan-red-sea/route-central-north/), [Divernet - Southern Sudan Odyssey](https://divernet.com/world-dives/africa/southern-sudan-odyssey/). Last updated 2026-10-09.*
