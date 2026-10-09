@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## The Wall (Bequia)
 
-The Wall (Bequia) is a wall dive site in St. Vincent and the Grenadines, Caribbean.
+The Wall is a drop-off dive at West Cay at the southern tip of Bequia, usually dived as a drift.
 
 ## Overview
 
-The Wall sits at the very southern tip of Bequia around West Cay. Divers drop to around 30 meters (100 feet) and let a gentle current carry them along the drop-off, where the wall falls away into deep blue toward roughly 40 meters (130 feet) at its base, with swim-throughs at the bottom. Dive Bequia rates it an advanced dive that can turn challenging when currents, waves, or swell pick up.
+TripBase describes The Wall at West Cay as a drop-off to 28 m, usually dived as a drift depending on current; SSI's dive-site listing describes a start over a shallow ledge at the edge of the blue, ending on a shallow shelf at the southern tip where currents meet, with swim-throughs at the base. Depth sources conflict (28 m versus 30-40 m reported earlier from Dive Bequia, whose page was not reachable in this audit).
 
 ## Site Information
 
-- **Location**: St. Vincent and the Grenadines, Caribbean
+- **Location**: St. Vincent and the Grenadines, Caribbean (West Cay, Bequia)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
@@ -29,7 +29,7 @@ The Wall sits at the very southern tip of Bequia around West Cay. Divers drop to
 
 ## Marine Life
 
-Dive Bequia's own site listing for West Cay/The Wall names reef sharks, nurse sharks, large barracuda, Atlantic spadefish, black jack, giant lobster, green moray eels, and eagle rays as the common sightings here. Note: this is a correction from an earlier version of this page that described black coral, sponges, creole wrasse, and blue tangs at this specific site — those characteristics are documented for Bequia's dive sites in general, but no source ties them specifically to West Cay/The Wall, so they have been removed.
+SSI reports that swim-throughs at the base of the wall sometimes hold nurse sharks. The species list previously attributed to Dive Bequia (reef sharks, spadefish, barracuda, lobster and others) could not be re-confirmed in this audit and was removed.
 
 ---
-*Sources: [Dive Bequia](https://www.divebequia.com/bequia-dive-sites/), [TripAdvisor - The Wall, Bequia](https://www.tripadvisor.com/Attraction_Review-g147383-d150161-Reviews-The_Wall-Bequia_St_Vincent_and_the_Grenadines.html), [One Caribbean - Dive Bequia](https://onecaribbeanusa.com/st-vincent-and-the-grenadines-dive-bequia/). Last updated 2026-07-03.*
+*Sources: [TripBase - Bequia diving](https://www.tripbase.com/destinations/bequia/diving/), [SSI MyDiveGuide](https://divessi.com/en/mydiveguide/divesite/657162). Last updated 2026-10-09.*

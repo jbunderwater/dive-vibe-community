@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Critter Corner
 
-Critter Corner is a muck dive site in St. Vincent and the Grenadines, Caribbean.
+Critter Corner is St. Vincent's signature muck dive near Young Island and Fort Duvernette.
 
 ## Overview
 
-St. Vincent's premier muck dive, Critter Corner sits in the shadow of Fort Duvernette off Indian Bay Beach, near Young Island, where a volcanic sand bottom hosts an improbable menagerie of cryptic species. PADI's own dive-site listing describes the descent line itself as so encrusted in coral and sponges that reaching the bottom takes considerable time. It is the flagship site for SVG's reputation as the "Critter Capital of the Caribbean," a reputation built by local operator Bill Tewes of Dive St. Vincent.
+Search-indexed dive-guide text places Critter Corner near Young Island in the shadow of Fort Duvernette, on a seagrass bed at about 35 feet (roughly 11 m). Conflict: PADI's dive-site page for a site named Critter Corner lists it as a reef at different coordinates (13.1299, -61.2036), operated by Dive Antilles, with sharks, whales, dolphins and turtles as common sightings; it may be a different site of the same name. Our coordinates and muck classification are unconfirmed by a second fetchable source. Earlier claims about Indian Bay, the encrusted descent line and credit to a specific operator guide were removed as unverified.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ St. Vincent's premier muck dive, Critter Corner sits in the shadow of Fort Duver
 
 ## Marine Life
 
-PADI's dedicated dive-site page confirms this exact species list for Critter Corner: electric rays, seahorses, flying gurnards, frogfish, yellowhead jawfish, snake eels, fan worms, and the rare red-banded lobster. Bluewater Dive Travel independently corroborates flying gurnards, frogfish, goldspotted eels, arrow shrimp, and blennies/gobies at the same site, making this one of the best-confirmed macro sites in the destination.
+Bluewater Dive Travel reports flying gurnards, frogfish, goldspotted eel, arrow shrimp and blennies/gobies at Critter Corner. A dive-guide snippet also listed yellowhead jawfish, snake eels, fan worms and a rare red-banded lobster on the seagrass bed, but its page could not be fetched for confirmation, so those are not listed. PADI's page lists different sightings, as noted above.
 
 ---
-*Sources: [PADI - Critter Corner dive site](https://www.padi.com/dive-site/saint-vincent-the-grenadines/critter-corner/), [Bluewater Dive Travel](https://www.bluewaterdivetravel.com/destination/st-vincent-and-grenadines-diving), [Dive St. Vincent](https://www.divestvincent.com/). Last updated 2026-07-03.*
+*Sources: [Bluewater Dive Travel](https://bluewaterdivetravel.com/destination/st-vincent-and-grenadines-diving), [PADI - Critter Corner](https://www.padi.com/dive-site/saint-vincent-the-grenadines/critter-corner/). Last updated 2026-10-09.*
