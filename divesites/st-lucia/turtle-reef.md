@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Turtle Reef
 
-Turtle Reef is a crescent-shaped reef where, as the name suggests, hawksbill and green turtle encounters are common.
+Turtle Reef is a crescent-shaped boat-dive reef beside turtle grass beds, where hawksbill and green turtles are likely to be seen.
 
 ## Overview
 
-Scuba St. Lucia's dive-site listing describes Turtle Reef as a "crescent-shaped reef that drops quickly from a plateau area starting at 40 feet [12m] to over 150 feet [45m+]," featuring pillar coral and barrel sponges. **Depth note**: the beginner-accessible plateau where most turtle encounters happen begins around 12 metres, but the reef face continues well beyond recreational depth limits (45m+) according to this source - the maximum-depth field below reflects the beginner-accessible plateau, not the full drop-off.
+[Scuba St. Lucia](https://scubastlucia.com/diving/) describes a "crescent-shaped reef that drops quickly from a plateau area starting at 40 feet [12 m] to over 150 feet [45 m+]," with pillar coral and barrel sponges, and lists it among the closer afternoon boat dives. [Stolen Time](https://stolentime.com/dive-sites-in-saint-lucia) gives the same profile and says it lies next to Fairyland; [Saint Lucia Tourism (stlucia.org)](https://stlucia.org/en/things-to-do/diving/) gives 40-150 ft (12-46 m) and rates it suitable for all levels. The maximum-depth field below reflects the plateau, not the full drop-off.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Scuba St. Lucia's dive-site listing describes Turtle Reef as a "crescent-shaped 
 
 ## Marine Life
 
-Hawksbill and green turtles are directly confirmed by Scuba St. Lucia's listing for this site. Parrotfish, blue chromis, damselfish, moray eels, and spiny lobsters were reported in prior research; those specific claims could not be re-fetched from a live source on this pass and are retained as carried-forward rather than freshly re-verified today.
+Hawksbill and green turtles are reported by [Scuba St. Lucia](https://scubastlucia.com/diving/) and [Saint Lucia Tourism (stlucia.org)](https://stlucia.org/en/things-to-do/diving/), who tie the sightings to the adjacent turtle grass beds; [Stolen Time](https://stolentime.com/dive-sites-in-saint-lucia) says turtles visit occasionally, so frequency differs between sources. No other species is attributed to this site by the sources consulted.
 
 ---
-*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/), [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/). Last updated 2026-07-03.*
+*Sources: [Scuba St. Lucia](https://scubastlucia.com/diving/), [Stolen Time](https://stolentime.com/dive-sites-in-saint-lucia), [Saint Lucia Tourism (stlucia.org)](https://stlucia.org/en/things-to-do/diving/). Last updated 2026-10-09.*

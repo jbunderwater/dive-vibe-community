@@ -13,29 +13,25 @@ addedBy: osm_import
 
 ## Bonto Reef
 
-Bonto Reef is a gentle, gradually sloping macro dive site on Sangeang Island, next to the small fishing settlement of Bonto (also spelled "Bontoh" or "Bantoh" in some sources), and one of the classic critter-diving sites in the Sangeang volcanic diving area.
+Bonto Reef is a black-sand slope dive on Sangeang Island known for macro life. Sources disagree on which side of the island it is on.
 
 ## Overview
 
-Bonto Reef consists of a gentle slope punctuated by coral outcroppings over volcanic black substrate. Sharp eyes and a slow pace pay off here: the site is reported as a favourite haunt of mimic octopus and long-arm octopus, along with frogfish, mantis shrimp, and ghost pipefish. Nudibranch hunters are well served too — "Shaun the sheep" sea slugs (Costasiella sp.) are regularly found on green Avrainvillea algae. GPS-tagged diver logs place the site on Sangeang's west side near the Bonto/Bontoh fishing settlement, which locals also use as a night-diving spot; one liveaboard operator's write-up instead describes a "Bonto Reef" on the island's northeast side with a similar mix of macro life, so there is some inconsistency in the record about which side of the island the name refers to. Depths reach around 25 m; currents are generally light, suiting beginner to intermediate divers. Access is by liveaboard or day boat from operators working the east Sumbawa/Sangeang area. Best season is April to November.
+Liveaboard Indonesia describes a black-sand slope on Sangeang's northeast side where "macro life is the draw", and Neptune Liveaboards describes a slope dive with soft coral coverage. The ScubaBoard Bali-Komodo GPS database lists a Bonto Reef entry at about 8 12.6 S, 118 60.0 E (the west/southwest of the island), which conflicts with the northeast placement; this database's coordinates agree with the GPS listing. No fetched source gave a depth for Bonto Reef, so the 25 m, Beginner difficulty and boat-entry fields are unconfirmed OSM-import values.
 
 ## Site Information
 
-- **Location**: Sangeang Island, east Sumbawa (sources place the Bonto/Bontoh site on the west side of the island, near the fishing settlement of the same name; at least one operator source describes it as northeast — see note above)
+- **Location**: Sangeang Island, east Sumbawa (side of island disputed: northeast per Liveaboard Indonesia; west per ScubaBoard GPS list)
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
-- **Currents**: Light
-- **Best Season**: April–November
 
 ## Marine Life
 
-Reported at this site: mimic octopus, long-arm octopus, frogfish, ghost pipefish, mantis shrimp, and nudibranchs, including Costasiella sp. ("Shaun the sheep" sea slugs) on Avrainvillea algae. (Earlier drafts of this page also listed blue-ringed octopus and rhinopias for Bonto Reef; those species could not be traced to a source that specifically places them at this site, so they have been removed pending confirmation. Blue-ringed octopus and rhinopias are reported elsewhere in the Sangeang area.)
-
-## Photography Tips
-
-Macro photography. Take time on the slope — look into algae patches for Costasiella nudibranchs and check coral ledges for octopus tucked into crevices. Night dives are known to turn up additional octopus activity.
+Liveaboard Indonesia: ribbon eels, frogfish, ghost pipefish, mantis shrimp and several nudibranch species. Neptune Liveaboards: ribbon eels, frogfish and ghost pipefish.
 
 ---
-*Sources: [Barefoot Cruising Indonesia — Sangeang Volcano](https://www.barefoot-cruising-indonesia.com/private-yacht-charter/indonesias-best-kept-diving-secret/), [Liveaboard Indonesia — Sumbawa](https://liveaboardindonesia.com/destinations/sumbawa/), [ScubaBoard — Database for Bali-Komodo Dive Sites (GPS)](https://scubaboard.com/community/threads/database-for-bali-komodo-dive-sites-including-gps-info.620725/), [starfish.ch — Diving Komodo/Sangeang](http://starfish.ch/dive/Komodo.html). Last updated 2026-07-05.*
+*Sources: [Liveaboard Indonesia - Sumbawa](https://liveaboardindonesia.com/destinations/sumbawa/), [Neptune Liveaboards - Sumbawa Diving & Liveaboard](https://www.neptuneliveaboards.com/blog/sumbawa-diving-liveaboard/), [ScubaBoard - Database for Bali-Komodo Dive Sites (GPS)](https://scubaboard.com/community/threads/database-for-bali-komodo-dive-sites-including-gps-info.620725/). Last updated 2026-10-09.*
+
+*QA 2026-10-09: re-audited. Removed mimic octopus, long-arm octopus and "Shaun the sheep" Costasiella claims (they were attributed to Barefoot Cruising Indonesia, whose page returned no readable content, so they could not be re-verified), plus the night-diving, "light currents" and season claims (starfish.ch mentions only a night dive at the village of Bantoh, not this site). Barefoot Cruising and starfish.ch are no longer cited for this site.*

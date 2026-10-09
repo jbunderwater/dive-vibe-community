@@ -32,4 +32,4 @@ A dive site listed under the name "Isar Island" in Sudan's extreme southern Red 
 No site-specific marine life source was found. No species are attributed to this specific, unconfirmed site.
 
 ---
-*Description based on limited, unconfirmed information. No independent source confirms this site's name or character — flagged as unresolved pending further research. Last updated 2026-07-03.*
+*Description based on limited, unconfirmed information. No independent source confirms this site's name or character — flagged as unresolved pending further research. Last updated 2026-10-09.*

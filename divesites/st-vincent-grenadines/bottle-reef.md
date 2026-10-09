@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Bottle Reef
 
-Bottle Reef is a reef dive site in St. Vincent and the Grenadines, Caribbean.
+Bottle Reef is a reef below the cliffs near Fort Charlotte, named for old bottles thrown from the fort.
 
 ## Overview
 
-Bottle Reef takes its name from the rum and gin bottles discarded by soldiers stationed at Fort Charlotte, the 1806 fortification whose cliff face looms directly above the site; antique bottles are still scattered through the coral garden below. Shoals of fish move through the reef beneath the fort. The reef lies at depths to around 22 meters.
+Dive Training Magazine says the site sits below the cliffs near Fort Charlotte and holds old gin and rum bottles that soldiers from the fort reportedly threw from the clifftops. Fort Charlotte on Berkshire Hill overlooks Kingstown; construction began in 1796. No source fetched in this audit gives a depth for Bottle Reef, so the 22 m figure in our data is unconfirmed.
 
 ## Site Information
 
-- **Location**: St. Vincent and the Grenadines, Caribbean
+- **Location**: St. Vincent and the Grenadines, Caribbean (below Fort Charlotte)
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
@@ -29,7 +29,7 @@ Bottle Reef takes its name from the rum and gin bottles discarded by soldiers st
 
 ## Marine Life
 
-Correction: an earlier version of this page listed red-lipped batfish, flying gurnards, seahorses, frogfish, yellowhead jawfish, electric rays, and peacock flounders here. Research found those specific species are documented for "The Steps," a separate Fort Charlotte-area dive site nearby — not Bottle Reef. No source ties that species list specifically to Bottle Reef itself; confirmed reports describe "shoals of fish" moving through the bottle-strewn coral garden. St. Vincent's broader "critter capital" reputation applies to the region, but no site-specific critter inventory was found for Bottle Reef.
+Dive Training Magazine reports schools of blackbar soldierfish and a variety of small creatures at Bottle Reef. No other species are attributed to this site; the red-lipped batfish and similar critters once listed here belong to a different site.
 
 ---
-*Sources: [Dive St. Vincent](https://www.divestvincent.com/DiveSites2.html), [Dive Training Magazine - Treasure Islands: St. Vincent and the Grenadines](https://dtmag.com/thelibrary/treasure-islands-st-vincent-and-the-grenadines/), [Scuba Diving Magazine](https://www.scubadiving.com/dive-areas-st-vincent-grenadines). Last updated 2026-07-03.*
+*Sources: [Dive Training Magazine](https://dtmag.com/thelibrary/treasure-islands-st-vincent-and-the-grenadines/). Last updated 2026-10-09.*

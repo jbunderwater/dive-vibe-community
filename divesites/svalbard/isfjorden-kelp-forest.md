@@ -13,13 +13,13 @@ addedBy: osm_import
 
 ## Isfjorden Kelp Forest
 
-Isfjorden Kelp Forest is a shallow kelp-forest dive site in Svalbard's second-longest fjord.
+Isfjorden Kelp Forest is a boat-dive entry in Svalbard's second-longest fjord; no source confirms a kelp forest at this exact spot.
 
 ## Overview
 
-Isfjorden is the second-longest fjord in the Svalbard archipelago, on Spitsbergen's west coast, with Alkhornet mountain guarding its northern entrance and the settlements of Barentsburg, Longyearbyen, and Pyramiden around its shores. The fjord has a long whaling history dating to 1612 and was a contested whaling base among European powers through the 1650s.
+Isfjorden is the second-longest fjord in Svalbard, on Spitsbergen's west coast. Barentsburg, Longyearbyen (on Adventfjorden) and Pyramiden are among the settlements around it, and Alkhornet stands on the northern side of its entrance. According to Wikipedia, a Basque whaling ship from San Sebastián set up the first temporary whaling station there in 1612.
 
-Detailed kelp-forest research in Svalbard has focused overwhelmingly on neighboring Kongsfjorden rather than Isfjorden specifically, and we could not find a source confirming kelp species, invertebrate community, or planktonic life for this exact site — the previous description's specific species list and "270 taxa"-style detail appears to have been carried over from Kongsfjorden research rather than sourced to Isfjorden itself, so it has been removed. This location shares the region's Arctic marine fauna (kelp forests, cold-water invertebrates, seals), but no site-specific marine-life report was found for Isfjorden.
+Kelp research in Svalbard has centred on Kongsfjorden, and we found no dive report for this site: no kelp species, depth, conditions or marine life. The depth, site type and boat entry in our data are unverified, and no species are named because no site-specific marine-life report was found. An earlier statement that the fjord was a contested whaling base through the 1650s was not supported by any source and has been removed.
 
 ## Site Information
 
@@ -30,4 +30,4 @@ Detailed kelp-forest research in Svalbard has focused overwhelmingly on neighbor
 - **Maximum Depth**: 15 meters
 
 ---
-*Description based on regional diving characteristics and fjord geography from Wikipedia — [Isfjord, Svalbard](https://en.wikipedia.org/wiki/Isfjord,_Svalbard). No site-specific marine-life or dive-profile sources found. Last updated 2026-07-05.*
+*Sources: [Wikipedia — Isfjord, Svalbard](https://en.wikipedia.org/wiki/Isfjord,_Svalbard). No site-specific dive-profile or marine-life sources found. Last updated 2026-10-09.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Elba Reef, North Plateau
 
-Elba Reef's North Plateau is the deepest and most dramatic of the four distinct diving zones on Elba Reef, located at the northernmost edge of the Sudan/Egypt border region in the remote Halaib Triangle. The plateau begins at approximately 20 metres and descends to 45 metres, with massive coral fans lining the plateau edge in an impressive vertical garden of sea fans and soft corals.
+Elba Reef, North Plateau is part of the Elba Reef complex in the Halaib Triangle on the Egypt-Sudan border.
 
 ## Overview
 
-Elba Reef is a rarely-visited triangle-shaped reef system at the northern boundary between Sudan and Egypt. The North Plateau represents its most challenging and spectacular dive — a deep plateau edge dropping into open ocean, with enormous sea fan colonies cascading down the wall. Access to this area is limited by its remoteness. Grey reef sharks and hammerheads are reported cruising the reef complex regularly by dive-operator sources. **The specific claim of individual sea fans "spanning two metres or more" is a level of detail not confirmed by any source found during research and has been removed** — sources confirm coral and drop-offs generally but not fan dimensions at this precision. This is destination diving for experienced divers willing to make the journey.
+Elba Reef lies in the Halaib Triangle on the Egypt-Sudan border. Maldives Magazine describes three reefs forming a triangle, with north and south plateaus that slope from about 20 m to drop-offs at 45 m and deeper; the north plateau edge is noted for enormous coral fans. It gives no plateau detail for the east and west sides. Royal Evolution, a Hurghada-based operator, lists the Levanzo wreck at Elba as an Egyptian site, so this entry's classification under Sudan is uncertain. The separate North/South/East/West "plateau" subdivisions used for this dataset's GPS points are not confirmed by these sources, and only two sources could be re-confirmed on 2026-10-09, so the site is not marked validated. Maldives Magazine describes the north plateau as sloping from about 20 m to drop-offs at about 45 m, with enormous coral fans on its edge.
 
 ## Site Information
 
@@ -26,37 +26,10 @@ Elba Reef is a rarely-visited triangle-shaped reef system at the northern bounda
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 33 meters
-- **Typical Visibility**: 25-40+ meters (80-130+ feet)
-- **Current**: Moderate to strong
-- **Best Time**: March to November
 
 ## Marine Life
 
-Confirmed by sources for the Elba Reef complex generally: grey reef sharks, hammerheads, barracuda, and large pelagic schools. Specific claims of pygmy seahorses, longnose hawkfish, and exact sea-fan dimensions from a prior version of this page could not be confirmed for this precise location and have been removed rather than repeated.
-
-## Dive Profile
-
-Descend to the plateau surface at 20 metres and work toward the outer edge. The drop-off into deep water begins sharply at the plateau's rim — assess conditions here before deciding whether to follow the wall deeper toward 33 metres. The sea fans are most impressive at 25-30 metres on the wall face. Manage depth carefully and plan ascent conservatively; this is one of Sudan's deeper recreational dives and nitrogen narcosis becomes relevant below 30 metres. Finish the dive on the plateau top at 20 metres with a slow ascent to the safety stop at 5 metres.
-
-## Entry and Exit
-
-Access is by liveaboard dive boat from the Elba Reef anchorage. Entry and exit logistics are managed by the liveaboard crew based on current conditions. Deploy a high-visibility SMB before ascending — the exposed location means surface conditions can be choppy and the boat needs reliable diver tracking.
-
-## Tips and Recommendations
-
-- Establish a firm depth limit (33 metres maximum) before entering the water
-- Bring a dive torch to illuminate the interior surfaces of overhanging sea fans
-- Wide-angle camera captures the scale of the sea fan formations well
-- Dive Elba Reef North only after diving the shallower South and East Plateaus to assess conditions
-- This is one of Sudan's least-visited reef systems — treat the marine life with particular care
-
-## Safety Considerations
-
-The depth profile of the North Plateau makes this an advanced dive. Nitrogen narcosis is a real consideration below 30 metres — set a conservative limit and abort descent if judgment feels impaired. Strong currents at the plateau edge can accelerate descents rapidly. Fire coral on the plateau surface requires careful buoyancy. The remote location limits emergency response — only dive within your demonstrated experience and comfort range.
-
-## Photography
-
-The massive sea fan formations at 25-30 metres are the definitive photography subjects — wide-angle shots from below looking up through the fans with blue water above create extraordinary images. Grey reef shark portraits at the plateau edge in clear blue water are achievable with patience and stillness. Macro subjects abound on the sea fan surfaces.
+Operator sources list many species for the Elba complex, but they are marketing-level lists for the whole reef (and some are tied to neighbouring sites such as Daedalus), so no species are attributed to this specific point. Regional Red Sea fauna applies in general.
 
 ---
-*Sources: [Elba Reef Dive Site - Sadko Safari Fleet](https://www.sadko-safarifleet.com/dive-sites/elba-reef), [Discovering the Hidden Gem of the Red Sea: Diving Elba Reef - Divebooker](https://divebooker.com/blog/discovering-the-hidden-gem-of-the-red-sea-diving-elba-reef/), [Elba - Red Sea Diving Safari](http://cassiopeiasafari.com/tag/elba/). Last updated 2026-07-03.*
+*Sources: [Maldives Magazine - Elba Reef](https://maldives-magazine.com/diving/elba-reef-liveaboard-diving-egypt.html), [Royal Evolution - Levanzo Wreck](https://royalevolution.com/diving-in-egypt/levanzo-wreck/). Last updated 2026-10-09.*

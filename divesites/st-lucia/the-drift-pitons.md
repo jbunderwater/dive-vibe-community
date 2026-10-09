@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## The Drift (Pitons)
 
-The Drift (Pitons) represents the general drift-diving character of the Piton wall zone, where prevailing currents sweep divers along a dramatic volcanic wall.
+The Drift (Pitons) is not a site any source names; this entry is unvalidated.
 
 ## Overview
 
-**A note on this site's identity**: no operator website consulted for this database (Scuba St. Lucia, PADI, SMMA, or divein.com) lists a distinctly named site called "The Drift (Pitons)" separate from Superman's Flight or Anse La Raye Wall. What is well documented is the drift-diving character of the Piton wall zone generally - PADI describes a "moderate drift current" at Superman's Flight, and both PADI and divein.com describe Anse La Raye as requiring drift-diving experience. This entry appears to represent that general current-swept Piton wall character at its own set of coordinates rather than a site independently named by a specific operator. It is dived as a one-way drift, entering near the base of Petit Piton and moving with the current past coral and sponge growth.
+No operator or guide consulted ([Scuba St. Lucia](https://scubastlucia.com/diving/), [PADI Blog](https://blog.padi.com/5-must-dive-sites-st-lucia/), [Moorings](https://www.moorings.com/blog/best-diving-st-lucia), [Stolen Time](https://stolentime.com/dive-sites-in-saint-lucia), [Saint Lucia Tourism (stlucia.org)](https://stlucia.org/en/things-to-do/diving/)) lists a dive site called "The Drift (Pitons)." Drift diving is documented along the Piton walls generally: [PADI Blog](https://blog.padi.com/5-must-dive-sites-st-lucia/) describes a moderate current at Superman's Flight and recommends drift experience at Anse La Raye, and [Scuba St. Lucia](https://scubastlucia.com/diving/) lists Superman's Flight and Fairyland as drift dives. This entry may duplicate Superman's Flight and should be reviewed for removal. The 25 m depth and Advanced rating are not confirmed.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ The Drift (Pitons) represents the general drift-diving character of the Piton wa
 
 ## Marine Life
 
-Turtles, stingrays, and eagle rays are consistent with sightings reported for the broader Piton wall zone (matching Anse La Raye Wall's confirmed stingray/eagle ray sightings and general Piton-area turtle reports). Seahorses and frogfish, previously listed here, are more typical of the sheltered pinnacle sites nearby (Key Hole Pinnacles, Pinnacles at Anse Cochon) than an exposed, current-swept drift wall, and no source consulted today confirms them specifically at this location - they have been removed.
+No site-specific marine-life reports exist for this entry. St. Lucia's regional fauna applies, but no species are named here. See Superman's Flight and Anse La Raye Wall for species reported at the real nearby sites.
 
 ---
-*Sources: [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/). Last updated 2026-07-03.*
+*Description based on regional diving characteristics. No site-specific sources found. Consulted without a match: [Scuba St. Lucia](https://scubastlucia.com/diving/), [PADI Blog](https://blog.padi.com/5-must-dive-sites-st-lucia/), [Moorings](https://www.moorings.com/blog/best-diving-st-lucia), [Stolen Time](https://stolentime.com/dive-sites-in-saint-lucia), [Saint Lucia Tourism (stlucia.org)](https://stlucia.org/en/things-to-do/diving/). Last updated 2026-10-09.*

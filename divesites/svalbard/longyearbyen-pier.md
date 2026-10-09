@@ -13,13 +13,13 @@ addedBy: osm_import
 
 ## Longyearbyen Pier
 
-Longyearbyen Pier is the most accessible dive site in Svalbard, in the harbour at the archipelago's main settlement.
+Longyearbyen Pier is listed as a dive site at Svalbard's main settlement, on Adventfjorden.
 
 ## Overview
 
-Longyearbyen Pier sits in Adventfjorden, a 7 km long, 4 km wide bay on the southern side of Isfjorden where Longyearbyen — Svalbard's main town — occupies the south-western shore. The town has an active, non-commercial diving club (Longyearbyen Dykkerklubb / "Dive 78 North") run by local enthusiasts, confirming there is genuine local shore/harbour diving activity in the area.
+Adventfjorden is a bay 7 km long and 4 km wide running south-east from the southern side of Isfjorden, with Longyearbyen, Svalbard's main town, on its south-western shore (Wikipedia). The Longyearbyen Diving Club describes itself as a small non-commercial club run by local enthusiasts; its website has a dive-sites section for the most common or easily reached places but names none in the content we could read.
 
-We could not confirm site-specific depths, exact marine life, or dive-profile details for the pier itself from independently verifiable sources — the sources found describe Adventfjorden's geography rather than the pier's underwater conditions specifically. This location shares the region's Arctic marine fauna (kelp, anemones, invertebrates such as crabs and sea urchins, and cold-water fish), but no site-specific marine-life report for the pier was found. Divers should treat the depth and species information below as general regional characteristics rather than confirmed pier-specific facts pending further research.
+We found no source that describes diving at the pier itself: no depth, conditions, entry method or marine life. The depth, site type and boat entry in our data are unverified. Because no site-specific marine-life report was found, no species are named; the Arctic fauna of the region applies in general only.
 
 ## Site Information
 
@@ -30,4 +30,4 @@ We could not confirm site-specific depths, exact marine life, or dive-profile de
 - **Maximum Depth**: 12 meters
 
 ---
-*Sources: [Wikipedia — Adventfjorden](https://en.wikipedia.org/wiki/Adventfjorden), [Longyearbyen Dykkerklubb (Dive 78 North)](https://dive78north.wixsite.com/home). No site-specific marine-life or dive-profile source was found for the pier itself. Last updated 2026-07-05.*
+*Sources: [Wikipedia — Adventfjorden](https://en.wikipedia.org/wiki/Adventfjorden), [Longyearbyen Diving Club](https://dive78north.wixsite.com/home). No site-specific dive-profile or marine-life source found. Last updated 2026-10-09.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Tanjung Batu Putih
 
-Tanjung Batu Putih ("White Rock Point" in Indonesian) is a wall dive site located approximately 5 km east of the port of Bima on Sumbawa's northern coast. It is a regular stop for liveaboards transiting between Lombok/Bali and Komodo National Park.
+Tanjung Batu Putih ("White Rock Point") is a reef-and-wall dive about 5 km east of the port of Bima on Sumbawa's northern coast, usually visited as a stop on the way to or from Komodo.
 
 ## Overview
 
-The topography at Tanjung Batu Putih consists of a shallow fringing reef to around 20 metres, then a vertical drop to beyond 40 metres. The wall supports a variety of angelfish species, including the distinctly patterned bicolour angelfish (blue lower body with yellow upper half and eye patch) and Lamarck's angelfish with its black horizontal stripes. Along the drop-off edge, eagle rays and whitetip sharks are encountered, and schooling batfish gather in the shallower sections. The site has no permanent dive resort — access is exclusively by liveaboard or day charter from Bima — making it a relatively uncrowded site despite its regular inclusion on itineraries. Visibility reaches 15–35 m; currents are occasional. Best conditions April to November.
+Asia Dive Site and Dive-the-World both describe a shallow fringing reef to about 20 m followed by a drop-off to 40 m. Asia Dive Site lists emperor angelfish, bicolour angelfish and Lamarck's angelfish, with eagle rays, blacktip sharks and schooling batfish along the drop-off. Dive-the-World lists the angelfish plus "eagle rays or white tip sharks", tail-fin batfish, longnose butterflyfish and mirror basslet, so the two sources differ on which shark is seen. Separately, an Underwater Photography community listing for "Batu Putih Wall" in Bima Bay gives a typical depth of 0-20 m; it is not confirmed to be the same site and was not used for the classification, but it does not support a 40 m wall.
 
 ## Site Information
 
@@ -26,17 +26,12 @@ The topography at Tanjung Batu Putih consists of a shallow fringing reef to arou
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
-- **Visibility**: 15–35 metres
-- **Currents**: Occasional
-- **Best Season**: April–November
 
 ## Marine Life
 
-Bicolour angelfish, Lamarck's angelfish, emperor angelfish, batfish, eagle rays, whitetip sharks.
-
-## Dive Profile
-
-Enter on the shallow fringing reef (to ~20 m) then drop over the vertical wall. Main wall action between 20–40 m. Safety stop on the shallow reef plateau.
+Emperor angelfish, bicolour angelfish and Lamarck's angelfish, batfish and eagle rays (both sources); blacktip sharks (Asia Dive Site) or white tip sharks (Dive-the-World); longnose butterflyfish and mirror basslet (Dive-the-World).
 
 ---
-*Sources: [Asia Dive Site - Tanjung Batu Putih](http://www.asiadivesite.com/indonesia-dive-sites/sumbawa/tanjung-batu-putih.php), [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php). A third source (liveaboardindonesia.com's dedicated page) previously cited here returned a 404 as of this QA pass and could not be re-verified; ScubaBoard, DiveChamp, and PADI searches turned up no additional site-specific source (PADI's "Batu Putih" listing is a same-named but different site near Gili Rengit/Lombok). Only 2 independent domains confirmed — not yet meeting the 3-source bar. Last updated 2026-07-05.*
+*Sources: [Asia Dive Site - Tanjung Batu Putih](http://www.asiadivesite.com/indonesia-dive-sites/sumbawa/tanjung-batu-putih.php), [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php). Only 2 domains confirm this site; not validated. Last updated 2026-10-09.*
+
+*QA 2026-10-09: removed unsourced visibility, current and best-season lines and the "no permanent dive resort" claim; corrected whitetip-only shark claim to reflect the source conflict.*

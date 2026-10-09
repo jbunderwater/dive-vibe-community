@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Petit St. Vincent Reef
 
-Petit St. Vincent Reef is a reef dive site in St. Vincent and the Grenadines, Caribbean.
+Petit St. Vincent Reef is a reef off the private island of PSV in the southern Grenadines.
 
 ## Overview
 
-Petit St. Vincent Reef surrounds the private island of PSV in the southern Grenadines, adjacent to the Mission Blue Hope Spot, in a Marine Conservation Area where anchor and fishing restrictions plus an active CLEAR Caribbean coral nursery (elkhorn and staghorn coral) have produced notably healthy reefs. The site offers a mix of sloping coral gardens and gentle drop-offs to around 20 meters.
+This entry covers reef diving around Petit St. Vincent in the southern Grenadines. The previous version described a Marine Conservation Area, a Mission Blue Hope Spot and a coral nursery; these, and the 20 m depth, could not be re-confirmed in this audit (the resort and Scuba Diving Magazine pages were not accessible) and are not stated as fact.
 
 ## Site Information
 
-- **Location**: St. Vincent and the Grenadines, Caribbean
+- **Location**: St. Vincent and the Grenadines, Caribbean (Petit St. Vincent)
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
@@ -29,7 +29,7 @@ Petit St. Vincent Reef surrounds the private island of PSV in the southern Grena
 
 ## Marine Life
 
-Confirmed sightings around Petit St. Vincent include eagle rays, nurse sharks, Caribbean reef sharks, sea turtles, spiny lobsters, great barracuda, and schools of blue tang, cowfish, and unicornfish, along with juvenile-to-adult drum fish over the shallow, sandy-bottomed house reef (Scuba Diving Magazine, PSV Resort). The PSV Dive Center's own site listing (PADI) additionally reports scorpionfish, flamingo tongue snails, moray eels, and frogfish here, though those have not yet been independently corroborated by a second source, so they are noted as PADI-listed rather than fully cross-confirmed.
+No site-specific marine-life reports could be retrieved in this audit. The destination's regional reef fauna applies, but no species are named. The species list previously on this page was not re-confirmed and was removed.
 
 ---
-*Sources: [Petit St Vincent Resort - Watersports](https://www.petitstvincent.com/activities/watersports/), [PADI - Petit St. Vincent Dive Center](https://www.padi.com/dive-center/saint-vincent-the-grenadines/petit-st-vincent-dive-center/), [Scuba Diving Magazine](https://www.scubadiving.com/unwind-petit-st-vincent-st-vincent-and-grenadines). Last updated 2026-07-03.*
+*Description based on regional diving characteristics. No site-specific sources could be retrieved in this audit. Last updated 2026-10-09.*

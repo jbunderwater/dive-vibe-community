@@ -32,4 +32,4 @@ Pfeiffer Reef is a coral reef site in northern Sudan's Red Sea, reached via live
 No site-specific marine life source was found for Pfeiffer Reef. Sudan's Red Sea reefs generally support hard and soft coral cover with reef fish, sharks, and occasional pelagics, but no species are attributed to this specific site without confirmation.
 
 ---
-*Description based on limited, unconfirmed information. Only one weak source (a database listing with unavailable content) was found — this site is flagged as unresolved pending further research. Last updated 2026-07-03.*
+*Description based on limited, unconfirmed information. Only one weak source (a generic DivePlannerPro listing describing an advanced offshore reef in the northern Sudanese Red Sea, with no depth, access or operator detail) was found — this site is flagged as unresolved pending further research. Last updated 2026-10-09.*

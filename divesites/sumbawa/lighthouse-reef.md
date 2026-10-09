@@ -12,32 +12,26 @@ addedBy: contributor
 
 ## Lighthouse Reef
 
-Lighthouse Reef (also logged as "Tanjung Menjangan" or "Lighthouse Bay") is a sheltered muck and macro dive site in a small bay on the northern side of Sangeang Island, roughly 1.5 km west of the island's lighthouse.
+Lighthouse Reef (also logged as Tanjung Menjangan or Lighthouse Bay) is a sheltered muck and macro site in a small bay on the northern side of Sangeang Island, about 1.5 km west of the island's lighthouse.
 
 ## Overview
 
-The site sits in a small bay with a black sand bottom and coral reef to both the west and east, dotted with isolated coral bommies — mostly small, with a few larger ones. Divers typically work along the sand to around 28-29 m before making a gradual ascent, spending time in the shallows on the way up. It's a reliable spot for small critters: frogfish, nudibranchs (multiple species have been logged here), boxer crabs, pygmy seahorses (on gorgonians), ornate ghost pipefish, and dancing shrimp sheltering under anemones. The site's signature sighting is the flame file shell, whose "electric flash" display is actually light reflecting off thin bands on the mantle of the shell rather than true bioluminescence. Conditions are calmer here than at most other Sangeang sites, making it comparatively forgiving, though the depth itself puts it beyond a strict beginner profile.
+Michael McFadyen describes a small bay with a black-sand bottom, coral reefs to the west and east, scattered coral bommies and a shallow area of boulders and coral outcrops. His dive started on sand at about 8 m and went to about 29 m, with the reef portion reaching 16 m before a gradual ascent. Starfish.ch lists Tanjung Menjangan (Lighthouse Bay) as a sheltered site with "really good muck diving". Whether starfish.ch's Tanjung Menjangan and McFadyen's Lighthouse are the same bay is inferred from the shared name and location; the ScubaBoard GPS list shows a Lighthouse Reef entry at the same coordinates McFadyen gives. At 29 m this database rates the site Intermediate.
 
 ## Site Information
 
-- **Location**: Small bay on the northern side of Sangeang Island, about 1.5 km west of the island's lighthouse, east Sumbawa
+- **Location**: Small bay on the northern side of Sangeang Island, about 1.5 km west of the lighthouse, east Sumbawa
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 29 meters
-- **Currents**: Light; one of the calmer sites in the Sangeang cluster
+- **Currents**: Described as sheltered (starfish.ch); McFadyen does not mention current
 
 ## Marine Life
 
-Frogfish, nudibranchs (multiple species), boxer crabs, ornate ghost pipefish, pygmy seahorses, dancing shrimp (under anemones), and flame file shells (notable for their light-reflecting "electric flash" mantle display). An earlier version of this page also listed cuttlefish for this site; that claim could not be traced to a source specifically documenting cuttlefish at Lighthouse Reef, so it has been removed.
-
-## Dive Profile
-
-Entry is typically onto sand at shallow depth, working deeper along the black sand bottom to around 28-29 m before a gradual ascent, with additional time spent among the coral bommies in the shallows during the safety stop.
-
-## Photography Tips
-
-Macro lens recommended — this is a critter-hunting site. The flame file shell's light-reflecting display is a distinctive subject; a slow, patient search through the sand and coral bommies is the best approach for the site's small residents.
+Michael McFadyen: Indian walking fish on the sand, ornate ghost pipefish, pygmy seahorses on gorgonians, dancing shrimp under anemones, and nudibranchs including Co's chromodoris, golden Noumea and celestial phyllidia. Starfish.ch (Lighthouse Bay): nudibranchs, shrimps, boxer crabs, frogfish and pipefishes, and the flame file shell. Frogfish, boxer crabs and flame file shells rest on the starfish.ch report alone.
 
 ---
-*Sources: [starfish.ch — Diving Komodo/Sangeang](http://starfish.ch/dive/Komodo.html), [Michael McFadyen's Scuba Diving — Sangeang Lighthouse](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=856), [Kalimaya Dive Resort — Dive Sites](https://kalimayadiveresort.com/diving-site/), [ScubaBoard — Database for Bali-Komodo Dive Sites (GPS)](https://scubaboard.com/community/threads/database-for-bali-komodo-dive-sites-including-gps-info.620725/). Last updated 2026-07-05.*
+*Sources: [Michael McFadyen's Scuba Diving - Sangeang Lighthouse](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=856), [starfish.ch - Komodo/Sangeang](http://starfish.ch/dive/Komodo.html), [ScubaBoard - Database for Bali-Komodo Dive Sites (GPS)](https://scubaboard.com/community/threads/database-for-bali-komodo-dive-sites-including-gps-info.620725/). Last updated 2026-10-09.*
+
+*QA 2026-10-09: re-audited. Removed the flame-file-shell "not true bioluminescence" explanation, "calmer than most Sangeang sites" and photography tips (no fetched source), and the unreadable Kalimaya page. The ScubaBoard GPS list confirms the site name and coordinates only.*

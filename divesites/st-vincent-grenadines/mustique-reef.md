@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Mustique Reef
 
-Mustique Reef is a reef dive site in St. Vincent and the Grenadines, Caribbean.
+Mustique Reef represents the reefs around Mustique, where a coral restoration program has been running since 2015.
 
 ## Overview
 
-Mustique's dive sites, based out of the Mustique Water Sports Pavilion in Endeavour Bay, cover more than a dozen regular spots around the island. Since 2015, a coral restoration program (led by reef-restoration pioneer Ken Nedimyer) has planted more than 12,000 fragments of elkhorn, staghorn, and blade fire coral across the island's dive and snorkel sites, including Plantation Bay, L'Ansecoy Bay, and Endeavour Bay, with a goal of 100,000 plantings by 2030. Note: dive operators do not publish individually-named site lists for Mustique, so the marine life below reflects reporting on Mustique's reefs broadly rather than one narrowly-defined site.
+DIVE Magazine reports that a coral nursery was set up on Mustique in 2015, with more than 12,000 coral fragments planted since and a goal of 100,000 plantings by 2030. Ken Nedimyer was invited to assess the reefs. The first nursery was set up at L'Ansecoy Bay in 8 m of water; the Endeavour Bay nursery is a short swim from the Cotton House Hotel jetty; reefs at Plantation Bay were wiped out by Tropical Storm Danielle in 1986. Bluewater Dive Travel describes Mustique as a sloping reef and coral expanse for a lazy drift dive. No source names this specific entry or gives its depth; the 25 m is unconfirmed.
 
 ## Site Information
 
-- **Location**: St. Vincent and the Grenadines, Caribbean (Mustique, off Endeavour Bay)
+- **Location**: St. Vincent and the Grenadines, Caribbean (Mustique)
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
@@ -29,7 +29,7 @@ Mustique's dive sites, based out of the Mustique Water Sports Pavilion in Endeav
 
 ## Marine Life
 
-DIVE Magazine's reporting on Mustique's restored reefs confirms squirrelfish, grunts, porcupinefish, trumpetfish, damselfish, angelfish, butterflyfish, moray eels, cleaner gobies, and Spanish hogfish among the coral thickets, plus sea urchins, lobsters, octopuses (including the longlure frogfish and common octopus), and shovelnose lobster. Green sea turtles, hawksbill turtles, eagle rays, and stingrays are also reported across the island's reefs.
+Published species lists for Mustique describe the island's reefs broadly rather than this specific site, so no species are named here. The island's regional reef fauna applies, but no site-specific reports were found.
 
 ---
-*Sources: [DIVE Magazine - Life Returns: coral reef restoration in Mustique](https://divemagazine.com/scuba-diving-travel/americas-caribbean/life-returns-coral-reef-restoration-in-mustique), [Mustique Island - Watersports](https://mustique-island.com/activities/watersports), [Bluewater Dive Travel](https://www.bluewaterdivetravel.com/destination/st-vincent-and-grenadines-diving). Last updated 2026-07-03.*
+*Sources: [DIVE Magazine](https://divemagazine.com/scuba-diving-travel/americas-caribbean/life-returns-coral-reef-restoration-in-mustique), [Bluewater Dive Travel](https://bluewaterdivetravel.com/destination/st-vincent-and-grenadines-diving). Last updated 2026-10-09.*

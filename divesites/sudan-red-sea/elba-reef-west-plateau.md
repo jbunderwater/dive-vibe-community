@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Elba Reef, West-Plateau
 
-Elba Reef's West Plateau is the third of the four distinct dive zones on Elba Reef, presenting deep wall diving on the reef's western flank at Sudan's northern frontier. Like the other Elba Reef sites, it sees almost no regular diving traffic due to the remote location in the disputed Halaib Triangle, resulting in pristine coral and undisturbed marine life.
+Elba Reef, West-Plateau is part of the Elba Reef complex in the Halaib Triangle on the Egypt-Sudan border.
 
 ## Overview
 
-The West Plateau faces into the prevailing Red Sea currents from the northwest, making it the most current-influenced of Elba Reef's dive sites. This current exposure drives exceptional marine productivity — nutrient-rich water feeds dense fish populations and attracts the large pelagics that follow them. The wall descends steeply to 32 metres at the recreational limit, with sea fans and hard corals covering the face throughout. Compared to the North Plateau's dramatic depth, the West Plateau offers a more accessible advanced dive that still delivers the outstanding coral coverage and shark encounters characteristic of this remote atoll. Divers visiting Elba Reef typically dive all four plateau sites over two days to experience the full character of the reef.
+Elba Reef lies in the Halaib Triangle on the Egypt-Sudan border. Maldives Magazine describes three reefs forming a triangle, with north and south plateaus that slope from about 20 m to drop-offs at 45 m and deeper; the north plateau edge is noted for enormous coral fans. It gives no plateau detail for the east and west sides. Royal Evolution, a Hurghada-based operator, lists the Levanzo wreck at Elba as an Egyptian site, so this entry's classification under Sudan is uncertain. The separate North/South/East/West "plateau" subdivisions used for this dataset's GPS points are not confirmed by these sources, and only two sources could be re-confirmed on 2026-10-09, so the site is not marked validated. No source describes a west plateau specifically.
 
 ## Site Information
 
@@ -26,37 +26,10 @@ The West Plateau faces into the prevailing Red Sea currents from the northwest, 
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 32 meters
-- **Typical Visibility**: 25-40+ meters (80-130+ feet)
-- **Current**: Moderate to strong
-- **Best Time**: March to November
 
 ## Marine Life
 
-Confirmed for the Elba Reef complex generally: grey reef sharks, hammerheads, barracuda, large pelagic schools, and untouched hard coral formations with dramatic drop-offs. Specific claims of surgeonfish schools, staghorn coral, and resident Napoleon wrasse from a prior version of this page could not be confirmed for this precise plateau and have been trimmed to what sources support.
-
-## Dive Profile
-
-Enter upstream and drift along the west wall face, descending to 20-25 metres for the optimal balance of current, fish activity, and coral exploration. More experienced divers can explore to 32 metres on the deeper wall sections. The plateau surface above 20 metres offers easier navigation with good hard coral coverage. Complete the drift to a natural reef exit point, then ascend for the safety stop. The dive guide will plan entry and exit points based on current direction.
-
-## Entry and Exit
-
-Access is by liveaboard dive boat. Current-assisted drift dives require close coordination between the dive guide and the surface crew. Entry point is upstream of the main plateau; exit and SMB signalling are downstream. The remote location requires high-visibility SMBs for reliable surface tracking.
-
-## Tips and Recommendations
-
-- Assess current strength at depth before committing to the deeper sections
-- The west face tends to have the strongest currents of the Elba Reef system — build up with the shallower south plateau first
-- Hard coral formations on the upper plateau reward careful, slow exploration between drift sections
-- Bring a dive torch for examining the underside of table corals and crevices
-- Underwater camera wide-angle setup works well for the reef wall and schooling fish
-
-## Safety Considerations
-
-Strong currents require continuous buoyancy awareness throughout the dive. The deep wall drops below recreational limits — do not chase marine life deeper than your planned maximum. Fire coral on the wall surface and table coral edges requires good buoyancy control. The remote location means emergency support is limited; dive conservatively and within your proven experience range. Always carry an SMB and deploy before ascending.
-
-## Photography
-
-The west wall with its current-exposed schooling fish provides excellent wide-angle action shots. The hard coral plateau top photographs well in natural light as a reef landscape. Deeper sea fans at 25-30 metres are strong subjects against the blue water background.
+Operator sources list many species for the Elba complex, but they are marketing-level lists for the whole reef (and some are tied to neighbouring sites such as Daedalus), so no species are attributed to this specific point. Regional Red Sea fauna applies in general.
 
 ---
-*Sources: [Elba Reef Dive Site - Sadko Safari Fleet](https://www.sadko-safarifleet.com/dive-sites/elba-reef), [Discovering the Hidden Gem of the Red Sea: Diving Elba Reef - Divebooker](https://divebooker.com/blog/discovering-the-hidden-gem-of-the-red-sea-diving-elba-reef/), [Elba - Red Sea Diving Safari](http://cassiopeiasafari.com/tag/elba/). Last updated 2026-07-03.*
+*Sources: [Maldives Magazine - Elba Reef](https://maldives-magazine.com/diving/elba-reef-liveaboard-diving-egypt.html), [Royal Evolution - Levanzo Wreck](https://royalevolution.com/diving-in-egypt/levanzo-wreck/). Last updated 2026-10-09.*

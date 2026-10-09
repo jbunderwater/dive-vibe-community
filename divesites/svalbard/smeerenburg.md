@@ -13,13 +13,15 @@ addedBy: osm_import
 
 ## Smeerenburg
 
-Smeerenburg is a historically significant 17th-century Dutch whaling station and shipwreck site in Svalbard, Arctic.
+Smeerenburg is a 17th-century Dutch whaling station on Amsterdamøya, in a fjord where seventeen Dutch ships are reported to have been sunk in 1693.
 
 ## Overview
 
-Smeerenburg — "Blubber Town" — was the main base for Dutch whaling on Amsterdamøya, active from around 1619 (following temporary occupation from 1614) until roughly 1657-1660, with its peak in the 1630s when about 16-19 buildings and roughly 200 seasonal workers processed bowhead whale blubber in permanent tryworks. A cemetery at the site holds 101 graves of whalers who died there in the 17th and 18th centuries.
+Smeerenburg ("Blubber Town") was the main Dutch whaling base in the first half of the 17th century. Wikipedia lists the site as settled in 1619 and closed in 1657, with earlier temporary occupation from 1614 and final abandonment around 1660. Sources differ on the peak: Wikipedia gives 16-17 buildings and up to 200 men ashore, while the Norwegian Polar Institute gives around 19 buildings and about 200 inhabitants. The Polar Institute lists 101 graves of whalers from the 17th and 18th centuries. The ruins lie in North-West Spitsbergen National Park (since 1973), and visitor rules forbid touching blubber ovens and other remains.
 
-In 1693, French warships sent by Louis XIV attacked Dutch whaling operations at Sorgfjorden, elsewhere in Svalbard: two ships sank on the spot, and a further seventeen Dutch vessels were captured, towed back to Smeerenburg fjord, and sunk there. Crews survived by travelling overland to Smeerenburg. Multiple independent sources (a Norwegian science-news account and a general-history account) corroborate the count of seventeen wrecks in the fjord, and marine archaeologist Øyvind Ødegård has identified this "grail" of seventeen ships as an active research target. As of the most recent reporting found, the wrecks had not yet been definitively located — researchers are surveying the fjord with autonomous underwater vehicles and sonar rather than diver search, since most regional wrecks lie beyond standard recreational depths. No source describes the precise depth, condition, or exact position of any of the seventeen wrecks, so divers should not expect a mapped or penetrable wreck site; this is a place of major historical and archaeological significance rather than a routinely dived wreck.
+Two news accounts (Life in Norway; Norwegian SciTech News) report that in 1693 two French frigates fought 40 Dutch whaling ships in Sorgfjorden, that two ships sank there, and that seventeen more Dutch ships were taken to the Smeerenburg fjord and sunk. Both draw on the same marine-archaeology research by Øyvind Ødegård, so they are not fully independent, and Wikipedia's Smeerenburg article does not mention the event. Neither account says the seventeen wrecks have been found, gives their depth, or describes them as dive sites. They note that most Svalbard wrecks lie deeper than about 30 m and are being searched with sonar, hyperspectral imaging and ROVs rather than divers.
+
+We therefore have no verified wreck, depth or dive profile here. The wreck site type and the 20 m depth in our data are unverified. No marine life is described because no source reports sightings at this site.
 
 ## Site Information
 
@@ -30,4 +32,4 @@ In 1693, French warships sent by Louis XIV attacked Dutch whaling operations at 
 - **Maximum Depth**: 20 meters
 
 ---
-*Sources: [Wikipedia — Smeerenburg](https://en.wikipedia.org/wiki/Smeerenburg), [Norwegian Polar Institute — Smeerenburg cruise handbook](https://cruise-handbook.npolar.no/en/nordvesthjornet/smeerenburg.html), [Life in Norway — Finding the Shipwrecks of Svalbard](https://www.lifeinnorway.net/finding-the-shipwrecks-of-svalbard/), [Norwegian SciTech News — Using new technology to find shipwrecks](https://norwegianscitechnews.com/2018/09/using-new-technology-to-find-shipwrecks-on-the-ocean-floor/). Last updated 2026-07-05.*
+*Sources: [Wikipedia — Smeerenburg](https://en.wikipedia.org/wiki/Smeerenburg), [Norwegian Polar Institute — Smeerenburg cruise handbook](https://cruise-handbook.npolar.no/en/nordvesthjornet/smeerenburg.html), [Life in Norway — Finding the Shipwrecks of Svalbard](https://www.lifeinnorway.net/finding-the-shipwrecks-of-svalbard/), [Norwegian SciTech News — Using new technology to find shipwrecks](https://norwegianscitechnews.com/2018/09/using-new-technology-to-find-shipwrecks-on-the-ocean-floor/). Last updated 2026-10-09.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Mayreau Gardens
 
-Mayreau Gardens is a current-swept drift dive within Tobago Cays Marine Park, on the western side of Mayreau island.
+Mayreau Gardens is an expansive coral formation off Mayreau, described as a good drift dive.
 
 ## Overview
 
-Mayreau Gardens lies within the official boundaries of the Tobago Cays Marine Park (which encompasses Mayreau island itself alongside the five Tobago Cays), where a current sweeps divers past an expanse of healthy hard coral. Depth is current-dependent, with sources reporting a range of roughly 17-24 meters (55-80 feet) rather than a single fixed depth. Note: there is a separate, nearby dive site called the Puruni Wreck (a 1918 British gunship in about 12m/40ft of water) - it is a distinct site from Mayreau Gardens and is not part of this reef.
+DiscoverSVG and Bluewater Dive Travel both describe Mayreau Gardens as an expansive coral formation suited to a drift dive. Tobago Cays Marine Park includes the inhabited island of Mayreau alongside the five uninhabited cays. No source fetched in this audit gives a depth; the 24 m in our data (earlier text cited 17-24 m) is unconfirmed. Both travel sources also mention a separate site, the Puruni Wreck, described as a 1918 British gunship in about 40 feet (12 m) of water; this is a distinct site, and the vessel details come only from travel guides and were not cross-checked against a maritime source.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Mayreau Gardens lies within the official boundaries of the Tobago Cays Marine Pa
 
 ## Marine Life
 
-Clouds of creole wrasse, chubs, and horse-eye jacks fill the water column above the reef, along with flamingo tongues, crinoids, and garden eels reported on the sand. Spotted eagle rays, barracuda, and hawksbill turtles are commonly reported passing through on the drift, and sharks are reported in the area, though sources do not specify species beyond "sharks" for this particular site, so no specific shark species is claimed here.
+Both DiscoverSVG and Bluewater Dive Travel name crinoids, garden eels and flamingo tongues around Mayreau Gardens. Other species previously listed (wrasse, jacks, rays, barracuda, turtles, sharks) could not be confirmed for this site and were removed.
 
 ---
-*Sources: [Diveboard - Mayreau Gardens](https://www.diveboard.com/explore/spots/saint-vincent-and-the-grenadines/mayreau-island-L6BuaQz/mayreau-gardens-S1FSAIL), [Tobago Cays Marine Park](https://www.tobagocays.org/about/), [TripAdvisor - Mayreau Gardens](https://www.tripadvisor.com/Attraction_Review-g147386-d150142-Reviews-Mayreau_Gardens-Mayreau_St_Vincent_and_the_Grenadines.html), [Bluewater Dive Travel](https://www.bluewaterdivetravel.com/destination/st-vincent-and-grenadines-diving). Last updated 2026-07-03.*
+*Sources: [DiscoverSVG](https://discoversvg.com/?p=819), [Bluewater Dive Travel](https://bluewaterdivetravel.com/destination/st-vincent-and-grenadines-diving), [Tobago Cays Marine Park](https://www.tobagocays.org/about/). Last updated 2026-10-09.*

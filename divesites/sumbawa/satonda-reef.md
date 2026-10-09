@@ -13,30 +13,26 @@ addedBy: osm_import
 
 ## Satonda Reef
 
-Satonda Reef refers to the diving around Satonda Island, a small ancient volcanic crater island designated as a Marine Nature Park in 1999 and located approximately 3 km north of the Sumbawa coastline. The island is famous above water for its saltwater crater lake and massive flying-fox colonies; underwater it offers sheltered muck and reef diving.
+Satonda Reef refers to the diving around Satonda Island, a small volcanic island with a saltwater crater lake, roughly 3 km off Sumbawa's north coast. Underwater it is a sheltered sandy-bottom muck and macro site.
 
 ## Overview
 
-The diving at Satonda is primarily a macro and muck experience in a sheltered bay, with sparse coral patches and shallow depths suited to patient critter hunters. Reported depths range from about 5 m to 25 m depending on the source. The site is noted for rare clown frogfish — described independently by two operators as roughly 1 inch (2–3 cm), bright yellow with dark red patches, and easily mistaken for a sponge — along with scorpion leaffish, ghost pipefish, crinoids, polyclad flatworms, arrow crabs, and banded boxer shrimp. One liveaboard operator (Samata) specifically highlights pygmy seahorses as a draw, noting their guides know where to find them in the seafans; this is not corroborated elsewhere, so treat it as a single-source report rather than a guaranteed sighting. Night dives are offered at the site for additional macro subjects. Currents are typically weak. Visibility can be washed out when currents stir the sediment. Access is by liveaboard, with the best conditions from April to November.
+Wikipedia reports that Satonda was designated a Marine Nature Park (TWAL) in 1999 by Indonesia's Ministry of Forestry. Liveaboard Indonesia places the island three kilometres off the north coast. Asia Dive Site describes muck diving over a sandy bottom in a sheltered bay with sparse coral patches, at 5-25 m. Dive-the-world.com describes a small sheltered bay with a sandy bottom, suited to night and muck diving. Liveaboard Indonesia singles it out for night diving.
 
 ## Site Information
 
-- **Location**: Satonda Island, ~3 km north of Sumbawa coast
+- **Location**: Satonda Island, ~3 km off the north coast of Sumbawa
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Currents**: Weak
-- **Best Season**: April–November (year-round accessible)
-- **Protected Area**: Marine Nature Park / TWAL, designated 1999 by Indonesia's Ministry of Forestry (confirmed by Samata Liveaboard and Wikipedia)
+- **Protected Area**: Marine Nature Park (TWAL), designated 1999 (Wikipedia)
 
 ## Marine Life
 
-Clown frogfish (rare, confirmed by two independent sources), scorpion leaffish, ghost pipefish, crinoids, polyclad flatworms, arrow crabs, banded boxer shrimp. Pygmy seahorses are reported by one operator (Samata Liveaboard) but not confirmed elsewhere.
-
-## Dive Profile
-
-Shallow sandy bay with sparse coral patches. Work slowly through the 5–25 m depth range, looking for small critters in seafans and on rubble. Popular for macro photography and night dives.
+Reported at Satonda: clown frogfish (Asia Dive Site and Dive-the-World; described as about an inch long, bright yellow with dark red patches and easily mistaken for a sponge), scorpion leaffish, ghost pipefish and boxer crab (Asia Dive Site), crinoids, polyclad flatworms, arrow crabs and banded boxer shrimp (Dive-the-World). Pygmy seahorses are reported by Liveaboard Indonesia and Neptune Liveaboards; Liveaboard Indonesia also lists frogfish and chromis shoals.
 
 ---
-*Sources: [Asia Dive Site - Satonda Island](https://www.asiadivesite.com/indonesia-dive-sites/sumbawa/satonda-island.php), [Samata Liveaboard - Satonda Island Spotlight](https://samataliveaboard.com/satonda-island-destination-spotlight/), [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php), [Wikipedia - Satonda](https://en.wikipedia.org/wiki/Satonda_Island). Last updated 2026-07-05.*
+*Sources: [Asia Dive Site - Satonda Island](https://www.asiadivesite.com/indonesia-dive-sites/sumbawa/satonda-island.php), [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php), [Liveaboard Indonesia - Sumbawa](https://liveaboardindonesia.com/destinations/sumbawa/), [Neptune Liveaboards - Sumbawa Diving & Liveaboard](https://www.neptuneliveaboards.com/blog/sumbawa-diving-liveaboard/), [Wikipedia - Satonda Island](https://en.wikipedia.org/wiki/Satonda_Island). Last updated 2026-10-09.*
+
+*QA 2026-10-09: re-audited. Removed the "massive flying-fox colonies" claim (not in the Wikipedia page fetched), "currents typically weak", "visibility washed out" and best-season lines (no fetched source). The Samata Liveaboard page returned no readable content and is no longer cited. Pygmy seahorses are now corroborated by two operators rather than one.*

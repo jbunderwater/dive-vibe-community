@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## SS Umbria
 
-SS Umbria is a WWII cargo ship scuttled by her own captain in June 1940 at Wingate Reef near Port Sudan, and is regarded as one of the finest wreck dives in the world.
+SS Umbria is an Italian cargo ship scuttled by her captain in June 1940 at Wingate Reef near Port Sudan, and is regarded as one of the best wreck dives in the world.
 
 ## Overview
 
-SS Umbria was built in Hamburg in 1911 as SS Bahia Blanca, a 154.9m, 10,076 GRT cargo liner. Italy purchased and renamed her in 1935. In June 1940, en route to East Africa with a secret military cargo, she was intercepted by the British warships HMS Grimsby and HMS Leander and forced to anchor at Wingate Reef near Port Sudan. When Captain Lorenzo Muiesan learned that Italy had declared war, he scuttled the ship with his crew's help rather than let the cargo be seized. Wikipedia dates the sinking to 9 June 1940; several dive-industry sources describe the captain acting on the morning of 10 June — sources disagree on the exact day. She now lies on her port side at a maximum depth of 38 metres, her holds still holding part of her wartime cargo (reported as roughly 6,000 tons of bombs, 600 cases of detonators, and around 100 tons of assorted weapons, alongside over 2,000 tons of cement), and three Fiat 1100 cars remain on the car deck. Her engine room, kitchen, and dining areas are accessible and encrusted with soft corals and crinoids, with dense schools of sweepers and snapper reported around the wreck.
+Wikipedia gives the ship's original name as Bahia Blanca, built in Hamburg, with a launch date of 30 December 1911 in the infobox and "1912" in the lead; Duikersgids also gives a 30 December 1911 launch, while PADI and Dive The World say 1912. Italy bought her in 1935 and renamed her Umbria (Wikipedia). Wikipedia states that on 9 June 1940 HMS Grimsby and HMS Leander forced her to anchor at Wingate Reef, supposedly to search for contraband, and that Captain Lorenzo Muiesan, after hearing on the radio that Italy had entered the war, called a muster drill and scuttled the ship with the crew's help. PADI and Duikersgids say she was bound for Eritrea; accounts differ on who held her at the time (PADI: British; Duikersgids: Sudanese forces). Other sources in this review do not give a precise sinking date.
+
+Reported length varies: 154.9 m (Wikipedia), 155 m (Dive The World), 150 m (PADI, Blue Force Fleet, Duikersgids). Reported depth varies as well: Wikipedia and Dive The World give a maximum of 38 m, Duikersgids 36 m, and PADI and Blue Force Fleet about 33-35 m, with the shallowest parts at about 5 m. Wikipedia says she lies on her port side. Wikipedia lists the cargo as about 6,000 tons of bombs, 600 cases of detonators, 100 tons of various weapons, over 2,000 tons of cement and three Fiat 1100 cars. PADI and Dive The World instead cite roughly 350,000 bombs, and Duikersgids gives both 36,000 and 360,000 on the same page, so bomb counts should be treated as unreliable. Dive The World says the midships cargo holds are easy to enter and that experienced divers can reach the engine room and bakery; any penetration requires proper wreck training and equipment and is never risk-free.
 
 ## Site Information
 
@@ -29,11 +31,7 @@ SS Umbria was built in Hamburg in 1911 as SS Bahia Blanca, a 154.9m, 10,076 GRT 
 
 ## Marine Life
 
-Sources describe schools of snappers, sweetlips, butterflyfish, and barracuda around the wreck. No source-specific report of additional species at this exact site was found; broader Red Sea reef species are not attributed here to avoid overstating what has been confirmed.
-
-## Wreck History Notes
-
-Ship name, build year, length, and cargo composition are cross-checked against Wikipedia and multiple dive-industry sources. Where those sources genuinely disagree (the exact day of sinking), that disagreement is stated above rather than resolved by guesswork. No claim is made about the wreck being "safe" — wreck penetration always carries risk and requires appropriate training.
+Blue Force Fleet lists snappers, sweetlips, butterflyfish and barracuda. PADI reports snapper and featherstars under the large rudder near the stern and cleaner shrimp on a gangway near the collapsed midships funnel. Dive The World reports cleaner shrimps, a large school of snappers, butterflyfish, barracuda and featherstars.
 
 ---
-*Sources: [SS Umbria - Wikipedia](https://en.wikipedia.org/wiki/SS_Umbria), [Umbria Wreck dive site - PADI](https://www.padi.com/dive-site/sudan/umbria-wreck/), [Five Great Dive Sites in Sudan's Red Sea - Scuba Diving Magazine](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Blue Force Fleet - Central & North Route](https://www.blueforcefleet.com/diving-sudan-red-sea/route-central-north/). Last updated 2026-07-03.*
+*Sources: [Wikipedia - SS Umbria](https://en.wikipedia.org/wiki/SS_Umbria), [PADI - Umbria Wreck](https://www.padi.com/dive-site/sudan/umbria-wreck/), [Dive The World - Sudan](https://www.dive-the-world.com/diving-sites-sudan.php), [Duikersgids - Umbria Wreck](https://www.duikersgids.nl/en/dive-spots/umbria-wreck), [Blue Force Fleet - Central & North route](https://www.blueforcefleet.com/diving-sudan-red-sea/route-central-north/). Last updated 2026-10-09.*

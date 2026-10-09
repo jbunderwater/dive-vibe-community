@@ -20,8 +20,8 @@
       "wreck:visible_at_high_tide": "yes",
       "wreck:visible_at_low_tide": "yes",
       "validated": "true",
-      "validation_source": "wikipedia.org,spitsbergen-svalbard.com,gcaptain.com,barentsobserver.com",
-      "last_qa_date": "2026-07-05",
+      "validation_source": "wikipedia.org,spitsbergen-svalbard.com,gcaptain.com,thebarentsobserver.com,marinelink.com,expeditions.com",
+      "last_qa_date": "2026-10-09",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -36,8 +36,8 @@
     "difficulty": "Advanced",
     "tags": {
       "validated": "true",
-      "validation_source": "npolar.no,nyalesundresearch.no,kingsbay.no,oceanwide-expeditions.com,framforum.com",
-      "last_qa_date": "2026-07-05",
+      "validation_source": "kingsbay.no,nyalesundresearch.no,wikipedia.org,framforum.com,oceanwide-expeditions.com",
+      "last_qa_date": "2026-10-09",
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
     }
@@ -52,8 +52,8 @@
     "difficulty": "Advanced",
     "tags": {
       "validated": "true",
-      "validation_source": "wikipedia.org",
-      "last_qa_date": "2026-07-05",
+      "validation_source": "wikipedia.org,dive78north.wixsite.com",
+      "last_qa_date": "2026-10-09",
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
     }
@@ -69,7 +69,7 @@
     "tags": {
       "validated": "true",
       "validation_source": "wikipedia.org,npolar.no,lifeinnorway.net,norwegianscitechnews.com",
-      "last_qa_date": "2026-07-05",
+      "last_qa_date": "2026-10-09",
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
     }
@@ -85,7 +85,7 @@
     "tags": {
       "validated": "true",
       "validation_source": "wikipedia.org",
-      "last_qa_date": "2026-07-05",
+      "last_qa_date": "2026-10-09",
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
     }
@@ -100,8 +100,8 @@
     "difficulty": "Advanced",
     "tags": {
       "validated": "true",
-      "validation_source": "npolar.no,framforum.com,wikipedia.org,oceanwide-expeditions.com",
-      "last_qa_date": "2026-07-05",
+      "validation_source": "framforum.com,wikipedia.org,oceanwide-expeditions.com,npolar.no",
+      "last_qa_date": "2026-10-09",
       "kelp_forest": "true",
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
@@ -118,7 +118,7 @@
     "tags": {
       "validated": "true",
       "validation_source": "wikipedia.org",
-      "last_qa_date": "2026-07-05",
+      "last_qa_date": "2026-10-09",
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
     }
@@ -134,7 +134,7 @@
     "tags": {
       "validated": "true",
       "validation_source": "wikipedia.org",
-      "last_qa_date": "2026-07-05",
+      "last_qa_date": "2026-10-09",
       "kelp_forest": "true",
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
@@ -151,7 +151,7 @@
     "tags": {
       "validated": "true",
       "validation_source": "wikipedia.org,npolar.no,oceanwide-expeditions.com",
-      "last_qa_date": "2026-07-05",
+      "last_qa_date": "2026-10-09",
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
     }

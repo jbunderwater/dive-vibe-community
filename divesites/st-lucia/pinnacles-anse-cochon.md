@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Pinnacles (Anse Cochon)
 
-Pinnacles at Anse Cochon is a steep slope of large boulders and finger-like coral formations at a shallow maximum depth of 18 metres, with valleys and trenches creating varied topography.
+Pinnacles (Anse Cochon) is an unconfirmed entry in this database; the closest operator listing is a boulder slope at Anse Cochon ("Anse Couchon").
 
 ## Overview
 
-Scuba St. Lucia's dive-site listing for "Anse Couchon" (an alternate spelling of Anse Cochon) directly matches this site: "a steep slope with large boulders covered in sponges and gorgonians." The structures here are draped in sea whips, gorgonian fans, and organ pipe corals.
+[Scuba St. Lucia](https://scubastlucia.com/diving/) lists "Anse Couchon" as a boat dive on "a steep slope with large boulders covered in sponges and gorgonians." [Saint Lucia Tourism (stlucia.org)](https://stlucia.org/en/things-to-do/diving/) describes the south side of Anse Cochon as a varied reef with boulders, walls, and pinnacles (maximum about 12 m) that serves as a nursery for juvenile fish, and the north side as a reef with boulders and sand (about 1.5-18 m). **No source names a dive site called "Pinnacles" at Anse Cochon.** The operator listing called "Pinnacles" describes four seamounts, which matches Key Hole Pinnacles. The pinnacle classification and the 18 m depth below are therefore not confirmed, and the site is marked unvalidated.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Scuba St. Lucia's dive-site listing for "Anse Couchon" (an alternate spelling of
 
 ## Marine Life
 
-Scuba St. Lucia's dive-site page directly attributes seahorses, scorpionfish, and cleaner shrimp to the shallow areas of this site. This corrects a prior data error in this database where those same species were mistakenly listed under Anse Chastanet Reef, a different bay. Hawksbill turtles and flounder were reported here in prior research (smmainc.com, divesaintlucia.com); those pages could not be re-fetched directly on this pass, so those two claims are carried forward rather than freshly re-verified today.
+[Scuba St. Lucia](https://scubastlucia.com/diving/) attributes seahorses, scorpionfish, and cleaner shrimp to the shallower areas of its Anse Couchon listing. [Saint Lucia Tourism (stlucia.org)](https://stlucia.org/en/things-to-do/diving/) reports flounder and many juvenile fish on the south side, and turtles, trumpetfish, moray eels, octopus, and squid on the north side of the bay.
 
 ---
-*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/), [Dive Saint Lucia - Dive Sites](https://divesaintlucia.com/dive-sites/). Last updated 2026-07-03.*
+*Sources: [Scuba St. Lucia](https://scubastlucia.com/diving/), [Saint Lucia Tourism (stlucia.org)](https://stlucia.org/en/things-to-do/diving/). Last updated 2026-10-09.*
