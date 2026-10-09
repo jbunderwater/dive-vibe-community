@@ -13,19 +13,21 @@ addedBy: osm_import
 
 ## Daini Koyomaru Wreck
 
-The Daini Koyomaru is an Advanced wreck dive off St. Lucia's south/southwest coast near Anse Cochon — a 244-foot Japanese dredger scuttled in September 1996 as an artificial reef after completing dredging work at the port of Vieux Fort.
+The Daini Koyomaru is a roughly 244-foot Japanese dredger sunk in 1996 as an artificial reef off St. Lucia's west coast, near Anse Cochon; it is an Advanced wreck dive.
 
 ## Overview
 
-The Daini Koyomaru was purchased by the St. Lucia government in the early 1990s to maintain the dredged access channel at Vieux Fort's banana port. When that work was finished, the Department of Fisheries scuttled the vessel in September 1996 to create an artificial reef, sinking it at the south end of Anse Cochon. Its length is consistently reported at 244 feet, which converts to approximately 74-75 metres depending on the source's rounding (divefairhelen.com and scubaweather.com both give 244 feet). **Tonnage is not included here**: only one source consulted (divefairhelen.com, citing "16,000 tons") gives a specific figure, and no second independent source could confirm it, so per this database's two-source rule for wreck dimensions the tonnage claim has been omitted rather than stated as fact.
+**Identity and history.** [ScubaWeather](https://www.scubaweather.com/Caribbean/St%20Lucia/Daini%20Koyomaru/Point_Information.html) describes a 244-foot Japanese dredger bought by the St. Lucia government in the early 1990s to dredge access to the port of Vieux Fort for banana boats, then sunk at the end of operations to form an artificial reef. [Moorings](https://www.moorings.com/blog/best-diving-st-lucia) and [Saint Lucia Tourism (stlucia.org)](https://stlucia.org/en/things-to-do/diving/) give 1996 as the sinking year, and [Dive Fair Helen](https://www.divefairhelen.com/about-us.htm) (as summarised in search results; its page could not be fetched on this pass) gives September 1996 and credits the Department of Fisheries. No source consulted gives a build date, builder, or confirmed tonnage (one source cites a figure that no second source supports, so it is omitted). No Wikipedia or wreck-registry entry was found.
 
-**Sources disagree on how the wreck came to rest on its side.** divefairhelen.com states directly that the vessel "landed on its side" during the 1996 sinking itself. Separately, earlier research for this database attributed the sideways orientation to Hurricane Lenny toppling an originally upright wreck in 1999 — but the source for that claim could not be re-accessed on this pass (site returned 403/503 errors), so it cannot be independently reconfirmed. Both accounts are noted here rather than picking one. What is consistently reported is the current depth: approximately 33 metres (108 feet) to the deepest point, per divefairhelen.com and corroborating sources.
+**Length conflict.** [ScubaWeather](https://www.scubaweather.com/Caribbean/St%20Lucia/Daini%20Koyomaru/Point_Information.html), [Moorings](https://www.moorings.com/blog/best-diving-st-lucia), and [Saint Lucia Tourism (stlucia.org)](https://stlucia.org/en/things-to-do/diving/) give 244 ft (about 75 m); a Scuba Diving magazine itinerary is reported by search results to give 224 ft. Sources therefore report a length of roughly 68-75 m, with 244 ft the most common figure.
 
-Much of the interior was deliberately left intact, and the site functions as both a wreck dive and, given its sideways orientation, effectively a wall dive — a combination that makes it a genuinely Advanced dive.
+**Orientation conflict.** [Saint Lucia Tourism (stlucia.org)](https://stlucia.org/en/things-to-do/diving/) and [Dive Fair Helen](https://www.divefairhelen.com/about-us.htm) say the wreck came to rest on its side (mostly intact), which [Dive Fair Helen](https://www.divefairhelen.com/about-us.htm) says created a wall alongside the wreck. One diver review reported in search results says it rolled during sinking and lies inverted. This could not be resolved; confirm with a local operator. An earlier version of this page cited Hurricane Lenny toppling the wreck in 1999; no source supports that, and it has been removed.
+
+**Depth and access.** [Saint Lucia Tourism (stlucia.org)](https://stlucia.org/en/things-to-do/diving/) gives about 108 ft (33 m) and [Moorings](https://www.moorings.com/blog/best-diving-st-lucia) gives 10-33 m. [Saint Lucia Tourism (stlucia.org)](https://stlucia.org/en/things-to-do/diving/) rates it for advanced divers only and recommends Nitrox. Wreck penetration, where possible, requires proper wreck training and equipment.
 
 ## Site Information
 
-- **Location**: South end of Anse Cochon, St. Lucia
+- **Location**: Off Anse Cochon, St. Lucia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
@@ -33,7 +35,7 @@ Much of the interior was deliberately left intact, and the site functions as bot
 
 ## Marine Life
 
-divefairhelen.com specifically reports eels and barracuda around the wreck, noting that some of the barracuda are believed to have accompanied the vessel during its tow from Vieux Fort to its resting site. Pufferfish, French angelfish, and turtles were listed in a prior version of this page but could not be reconfirmed by any source consulted on this pass and have been removed.
+Barracuda are reported by [Moorings](https://www.moorings.com/blog/best-diving-st-lucia), [Saint Lucia Tourism (stlucia.org)](https://stlucia.org/en/things-to-do/diving/), and [Dive Fair Helen](https://www.divefairhelen.com/about-us.htm), which adds that some are believed to have followed the vessel during its tow. Moray eels are reported by [Moorings](https://www.moorings.com/blog/best-diving-st-lucia) and [Dive Fair Helen](https://www.divefairhelen.com/about-us.htm); pufferfish and angelfish (French angelfish per [Saint Lucia Tourism (stlucia.org)](https://stlucia.org/en/things-to-do/diving/)) by [Moorings](https://www.moorings.com/blog/best-diving-st-lucia) and [Saint Lucia Tourism (stlucia.org)](https://stlucia.org/en/things-to-do/diving/); jacks by [Saint Lucia Tourism (stlucia.org)](https://stlucia.org/en/things-to-do/diving/); turtles by [Moorings](https://www.moorings.com/blog/best-diving-st-lucia) only.
 
 ---
-*Sources: [Dive Fair Helen - About Us](https://www.divefairhelen.com/about-us.htm), [ScubaWeather - Daini Koyomaru](https://www.scubaweather.com/Caribbean/St%20Lucia/Daini%20Koyomaru/Point_Information.html), [Divingaway - Daini Koyomaru](https://divingaway.com/en/wreck-335/daini-koyomaru), [DeeperBlue - The Little Known Wrecks of St. Lucia](https://www.deeperblue.com/the-little-known-wrecks-of-st-lucia/). Last updated 2026-07-03.*
+*Sources: [ScubaWeather](https://www.scubaweather.com/Caribbean/St%20Lucia/Daini%20Koyomaru/Point_Information.html), [Moorings](https://www.moorings.com/blog/best-diving-st-lucia), [Saint Lucia Tourism (stlucia.org)](https://stlucia.org/en/things-to-do/diving/), [Dive Fair Helen](https://www.divefairhelen.com/about-us.htm). Last updated 2026-10-09.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Key Hole Pinnacles
 
-Key Hole Pinnacles is one of St. Lucia's most celebrated dive sites, featuring four dramatic volcanic seamounts that rise from depth to within a few feet of the surface — an underwater echo of the island's iconic Pitons above.
+Key Hole Pinnacles is a set of four volcanic seamounts that rise from deep water to within a few feet of the surface.
 
 ## Overview
 
-PADI's dive guide describes the site as "four dramatic seamounts that rise from the depths, almost up to the surface," encrusted with black and orange gorgonian sea fans. A fresh search of divein.com's St. Lucia guide independently corroborates the same four-seamount description and notes the site was voted one of the "10 Best Dive Sites" by Caribbean Travel & Life. Scuba St. Lucia's own listing (under the name "Pinnacles") and the Soufrière Marine Management Association both describe the same four-seamount formation with mild currents channelling between the peaks.
+[PADI Blog](https://blog.padi.com/5-must-dive-sites-st-lucia/) describes "four dramatic seamounts that rise from the depths, almost up to the surface," covered in black and orange gorgonian sea fans. [Scuba St. Lucia](https://scubastlucia.com/diving/) lists the same four-seamount formation under the name "Pinnacles" and calls it its most visually stunning dive site; it places the site among the closer afternoon boat dives. [Stolen Time](https://stolentime.com/dive-sites-in-saint-lucia), [Moorings](https://www.moorings.com/blog/best-diving-st-lucia), and [Saint Lucia Tourism (stlucia.org)](https://stlucia.org/en/things-to-do/diving/) describe the same gorgonian-covered peaks rising to just below the surface. No source consulted gives a maximum depth; the 30 m figure below is carried over from this database and is not confirmed.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ PADI's dive guide describes the site as "four dramatic seamounts that rise from 
 
 ## Marine Life
 
-Trumpetfish, filefish, and seahorses are confirmed across multiple sources (PADI, SMMA, Scuba St. Lucia); frogfish are confirmed by both SMMA and PADI; grouper is reported by PADI. Snappers, pufferfish, horse-eye jacks, and barracuda were listed in a prior version of this page but are not attributed to this specific site by any source consulted on this pass and have been removed, as were unconfirmed whale shark and ocean sunfish claims from an earlier audit.
+Trumpetfish and filefish are reported by [Scuba St. Lucia](https://scubastlucia.com/diving/), [Stolen Time](https://stolentime.com/dive-sites-in-saint-lucia), and [Moorings](https://www.moorings.com/blog/best-diving-st-lucia); seahorses by the same three ("sometimes" or "possible"). Grouper is reported by [PADI Blog](https://blog.padi.com/5-must-dive-sites-st-lucia/), [Stolen Time](https://stolentime.com/dive-sites-in-saint-lucia), and [Moorings](https://www.moorings.com/blog/best-diving-st-lucia). [PADI Blog](https://blog.padi.com/5-must-dive-sites-st-lucia/) lists frogfish as possible. [Stolen Time](https://stolentime.com/dive-sites-in-saint-lucia) also lists jack and snapper, and [Saint Lucia Tourism (stlucia.org)](https://stlucia.org/en/things-to-do/diving/) lists jacks and moray eels. [Moorings](https://www.moorings.com/blog/best-diving-st-lucia) additionally reports whale shark and sunfish sightings; this is a single-source report and is not repeated as an expectation.
 
 ---
-*Sources: [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/), [DIVEIN - Diving in St. Lucia](https://www.divein.com/diving/destination/diving-in-st-lucia/), [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/). Last updated 2026-07-03.*
+*Sources: [PADI Blog](https://blog.padi.com/5-must-dive-sites-st-lucia/), [Scuba St. Lucia](https://scubastlucia.com/diving/), [Moorings](https://www.moorings.com/blog/best-diving-st-lucia), [Stolen Time](https://stolentime.com/dive-sites-in-saint-lucia), [Saint Lucia Tourism (stlucia.org)](https://stlucia.org/en/things-to-do/diving/). Last updated 2026-10-09.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Anse Chastanet Reef
 
-Anse Chastanet Reef is the house reef of the Scuba St. Lucia dive resort — a shore dive on a shallow plateau that drops away to a much deeper outer edge, protected within the Soufrière Marine Management Area (SMMA).
+Anse Chastanet Reef is a shore-entry reef a few steps from the Scuba St. Lucia dive center at Anse Chastanet.
 
 ## Overview
 
-The reef begins on a shallow plateau just steps from the beach, running about 1.5-7.6 metres (5-25 feet) deep before the terrain drops away to roughly 42 metres (140 feet) at its outer edge, per Scuba St. Lucia's own dive-site listing. Most shore diving here — including the orientation dive Scuba St. Lucia requires before boat diving — stays on the shallower plateau, which is why the site is rated for beginners; the deeper drop-off is a separate, more advanced extension of the same reef. A Soufrière Marine Management Association search listing corroborates a "20ft-140ft" depth range for the area. The reef supports over 150 recorded fish species along with dense gorgonian fans, soft corals, and sponges.
+[Scuba St. Lucia](https://scubastlucia.com/diving/) describes a plateau between 5 and 25 feet (about 1.5-7.6 m) that drops away to 140 feet (about 42 m), covered in gorgonians, sponges, and soft corals, and popular for macro photography. The same operator uses it as the required first dive for all guests, to check equipment, buoyancy, and skills before entering the marine reserve. [Saint Lucia Tourism (stlucia.org)](https://stlucia.org/en/things-to-do/diving/) gives a shallow reef range of roughly 5-18 m and calls it good for snorkeling and first-time divers; [Moorings](https://www.moorings.com/blog/best-diving-st-lucia) describes a close-to-shore reef suited to shore diving and known for macro life. The deeper drop-off is beyond beginner depths; the maximum-depth field below reflects the shallower plateau.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ The reef begins on a shallow plateau just steps from the beach, running about 1.
 
 ## Marine Life
 
-Scuba St. Lucia's dive-site page reports moray eels, parrotfish, and schools of needlefish on this reef, alongside its characteristic gorgonian fans, soft corals, and sponges. Note: seahorses, scorpionfish, and cleaner shrimp were previously listed for this site, but that description actually matches Scuba St. Lucia's separate "Anse Couchon" listing (the Pinnacles at Anse Cochon, a different bay) — those species have been moved to that site's page instead.
+[Scuba St. Lucia](https://scubastlucia.com/diving/) reports moray eels, parrotfish, blennies, crabs, and big schools of needlefish. [Saint Lucia Tourism (stlucia.org)](https://stlucia.org/en/things-to-do/diving/) reports large trumpetfish and turtles. [Moorings](https://www.moorings.com/blog/best-diving-st-lucia) mentions macro life and a night-dive rumor of a worm-like creature nicknamed "The Thing"; no species is given.
 
 ---
-*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/), [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/). Last updated 2026-07-03.*
+*Sources: [Scuba St. Lucia](https://scubastlucia.com/diving/), [Saint Lucia Tourism (stlucia.org)](https://stlucia.org/en/things-to-do/diving/), [Moorings](https://www.moorings.com/blog/best-diving-st-lucia). Last updated 2026-10-09.*

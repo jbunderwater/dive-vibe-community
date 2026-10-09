@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Grand Caille
 
-Grand Caille — Patois for "Great House" — is one of Soufrière's most dramatic dive sites, with large boulders in the shallows giving way to a sheer wall below.
+Grand Caille is a boat-dive site of large shallow boulders above a sheer wall with deep-water gorgonians and sea whips.
 
 ## Overview
 
-Scuba St. Lucia describes Grand Caille as "a very dramatic dive site with deep water gorgonians and sea whips," featuring huge brain corals and barrel sponges in pristine condition. A separate dive guide (divein.com) corrects the name's translation: Grand Caille is Patois for "Great House," not "large reef" as a prior version of this page stated. That same source notes the site has long been known as a home for big fish, though it adds that few of these remain today due to extensive historical fishing pressure.
+[Scuba St. Lucia](https://scubastlucia.com/diving/) calls it "a very dramatic dive site with deep water gorgonians and sea whips," with huge brain corals and barrel sponges, and lists it among its closer afternoon boat dives. [Stolen Time](https://stolentime.com/dive-sites-in-saint-lucia) describes large boulders in the shallows and a sheer wall below; [Saint Lucia Tourism (stlucia.org)](https://stlucia.org/en/things-to-do/diving/) describes a terrace starting around 40 ft with a lip at about 50 ft leading to a wall. **Name translation is disputed:** [Scuba St. Lucia](https://scubastlucia.com/diving/) glosses it as "large reef" in Patois, while [Saint Lucia Tourism (stlucia.org)](https://stlucia.org/en/things-to-do/diving/) says it is also called "The Big House" (an earlier DIVEIN citation for "Great House" could not be re-fetched). [Stolen Time](https://stolentime.com/dive-sites-in-saint-lucia) notes few large fish remain because of extensive fishing. The 30 m maximum depth is not confirmed by any source consulted.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Scuba St. Lucia describes Grand Caille as "a very dramatic dive site with deep w
 
 ## Marine Life
 
-No source consulted on this pass provides a specific, site-attributed species list for Grand Caille beyond general references to "big fish" and the coral/sponge habitat described above. A prior version of this page listed trumpetfish, angelfish, butterflyfish, lionfish, lobsters, frogfish, puffer fish, spotted drums, damselfish, and turtles; none of these could be reconfirmed today, so rather than repeat an unverified species list, this section notes that St. Lucia's regional reef fauna likely applies here but no site-specific marine-life reports were found.
+[Stolen Time](https://stolentime.com/dive-sites-in-saint-lucia) reports that a large barracuda will occasionally inspect divers; [Saint Lucia Tourism (stlucia.org)](https://stlucia.org/en/things-to-do/diving/) describes abundant fish and coral without naming species. St. Lucia's regional fauna applies, but no further site-specific reports were found.
 
 ---
-*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [DIVEIN - Diving in St. Lucia](https://www.divein.com/diving/destination/diving-in-st-lucia/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/). Last updated 2026-07-03.*
+*Sources: [Scuba St. Lucia](https://scubastlucia.com/diving/), [Stolen Time](https://stolentime.com/dive-sites-in-saint-lucia), [Saint Lucia Tourism (stlucia.org)](https://stlucia.org/en/things-to-do/diving/). Last updated 2026-10-09.*

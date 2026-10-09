@@ -4,7 +4,7 @@ lat: 13.84
 lng: -61.06
 difficulty: Beginner
 maxDepth: 15
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Jalousie Beach Reef
 
-Jalousie Beach Reef sits at the base of Gros Piton in the dramatic bay between Gros and Petit Piton — a UNESCO World Heritage Site — continuing the volcanic wall diving character of the Piton coastline in shallow, shore-accessible form.
+Jalousie Beach Reef corresponds to the operator-listed "Jalousie" site at the base of Gros Piton, between the two Pitons.
 
 ## Overview
 
-Scuba St. Lucia's dive-site listing places Jalousie at the base of Gros Piton, describing schooling fish including creole wrasse and bar jack among the site's corals and sponges. The reef slope holds a variety of corals, sponges, and sea fans at depths to about 15 metres. The volcanic backdrop and the iconic Piton silhouette above the surface make this one of the more visually striking shore dives in the area.
+[Scuba St. Lucia](https://scubastlucia.com/diving/) lists "Jalousie" at the base of Gros Piton, with a range of corals and sponges and lots of schooling fish, and groups it with the Piton-wall sites that are further from its dive center. [Stolen Time](https://stolentime.com/dive-sites-in-saint-lucia) describes what appears to be the same site as "Gros Piton Reef": the mountain slope continuing underwater, with moray eels, reef crabs, and lobsters among the coral and sponges. Only two independent sources were found. **Entry type is unresolved:** [Scuba St. Lucia](https://scubastlucia.com/diving/) lists Jalousie as a boat dive, and no dive source confirms shore access, so the entry field has been changed to boat. The 15 m depth below is not confirmed by any source consulted.
 
 ## Site Information
 
 - **Location**: Jalousie Bay, St. Lucia, Caribbean
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 
 ## Marine Life
 
-Creole wrasse and bar jack are directly confirmed by Scuba St. Lucia's dive-site page. Seahorses and trumpetfish were reported in prior research citing SMMA and PADI, but those pages could not be re-fetched on this pass (no usable content returned); they are retained here as carried-forward, not freshly re-verified, claims. Sergeant majors and squid, previously listed, could not be corroborated by any source on this pass and have been removed.
+[Scuba St. Lucia](https://scubastlucia.com/diving/) and [Stolen Time](https://stolentime.com/dive-sites-in-saint-lucia) report creole wrasse, bar jack, and occasional southern sennet among the schooling fish. [Stolen Time](https://stolentime.com/dive-sites-in-saint-lucia) also reports moray eels, reef crabs, and lobsters.
 
 ---
-*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/), [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/). Last updated 2026-07-03.*
+*Sources: [Scuba St. Lucia](https://scubastlucia.com/diving/), [Stolen Time](https://stolentime.com/dive-sites-in-saint-lucia). Last updated 2026-10-09.*

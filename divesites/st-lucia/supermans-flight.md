@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Superman's Flight
 
-Superman's Flight is a wall dive site in St. Lucia, Caribbean.
+Superman's Flight is a boat-accessed drift dive along the sloping wall at the base of Petit Piton.
 
 ## Overview
 
-Superman's Flight is a drift dive along the submerged face of Petit Piton — named for the cliff used in filming Superman II and for the flying sensation as the current sweeps divers Superman-style along the wall's volcanic topography. The wall plunges to well below recreational depths and between 12–21 metres the colours are exceptional, with fiery red branching rope sponges, glowing orange elephant ear sponges, and an abundance of fish life benefiting from the mineral-rich volcanic substrate. Southern stingrays cruise the invertebrate-covered incline, sea turtles appear regularly, and the current-driven drift means you cover significant ground, making every pass along the wall different.
+[Scuba St. Lucia](https://scubastlucia.com/diving/) lists Superman's Flight as a drift dive below Petit Piton, a steep slope covered in soft corals with abundant fish life; it places it among the Piton-wall sites that lie further from its dive center than the "closer" afternoon sites. [PADI Blog](https://blog.padi.com/5-must-dive-sites-st-lucia/) describes a sloping wall with a moderate current that suits drift divers, massive sponges, and notes that a cliff above the site appeared in the 1980 film *Superman II*. [Stolen Time](https://stolentime.com/dive-sites-in-saint-lucia) and [Moorings](https://www.moorings.com/blog/best-diving-st-lucia) also describe a wall or steep slope with strong currents.
+
+**Depth is not confirmed.** None of the sources consulted gives a usable maximum depth (two list "1,500 ft", which is almost certainly an error). The 50 m figure below is carried over from this database and has not been confirmed by any source. Treat it as an Advanced, current-affected dive and confirm profile limits with a local operator.
 
 ## Site Information
 
@@ -29,7 +31,7 @@ Superman's Flight is a drift dive along the submerged face of Petit Piton — na
 
 ## Marine Life
 
-PADI's dive guide reports soft corals, sponges, and schools of grunts and parrotfish at this site. Southern stingrays and sea turtles are retained from prior research and remain consistent with the site's character, though they could not be independently re-fetched from a live source today. The previously listed "reef shark encounters... not consistently documented" line has been removed entirely - if a claim cannot be confirmed at this specific site, this database omits it rather than mentioning it with a hedge.
+[PADI Blog](https://blog.padi.com/5-must-dive-sites-st-lucia/) reports soft corals, sponges, schools of grunts, and parrotfish. [Moorings](https://www.moorings.com/blog/best-diving-st-lucia) lists squid, frogfish, and schools of reef fish. [Stolen Time](https://stolentime.com/dive-sites-in-saint-lucia) and [Moorings](https://www.moorings.com/blog/best-diving-st-lucia) mention whale sharks and humpback whales passing by; these are occasional reports, not something to expect on a dive.
 
 ---
-*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/). Last updated 2026-07-03.*
+*Sources: [Scuba St. Lucia](https://scubastlucia.com/diving/), [PADI Blog](https://blog.padi.com/5-must-dive-sites-st-lucia/), [Moorings](https://www.moorings.com/blog/best-diving-st-lucia), [Stolen Time](https://stolentime.com/dive-sites-in-saint-lucia), [Saint Lucia Tourism (stlucia.org)](https://stlucia.org/en/things-to-do/diving/). Last updated 2026-10-09.*
