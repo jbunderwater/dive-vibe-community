@@ -13,37 +13,31 @@ addedBy: osm_import
 
 ## Hot Rocks
 
-Hot Rocks is the most iconic dive site at Sangeang Island, an active volcanic island located off the northeast coast of Sumbawa. The site sits on the northern side of Sangeang Api volcano and is named for the geothermally heated rocks that divers can feel — but must not touch — near the volcanic gas vents.
+Hot Rocks (also called Bubble Reef or, in starfish.ch's list, Black Forest) is a volcanic-vent dive off the northeast side of Sangeang Island, off the northeast coast of Sumbawa, where gas bubbles rise from black sand.
 
 ## Overview
 
-Hot Rocks is built on volcanic geology. The dive typically begins in shallow water, around 5-8 m, over a black sand bottom where streams of volcanic gas bubble up continuously from the seafloor — an experience operators describe as "diving in champagne." Some rocks next to the vents are genuinely too hot to touch due to geothermal heating, and diver reports confirm the sand itself is noticeably warm near the bubble streams. Beyond the bubble field, the reef opens into gorgonian seafans, hard and soft corals, and black coral that is (despite its name) vividly colourful, with walls, overhangs, and swim-throughs reported on the reef's northern section. Pygmy seahorses are a near-guaranteed sighting on the gorgonians. Other regularly reported subjects include a wide range of nudibranchs (a single dive here has logged close to a dozen species, including Nembrotha, elysiid, and phyllidiid types), ghost pipefish, orangutan crabs, frogfish, ribbon eels, and mushroom coral pipefish, plus reef fish such as leaf fish, clown anemonefish, emperor angelfish, snapper, and banded sweetlips. Schools of bumphead parrotfish are occasionally seen further out along the reef. The main reef area is generally sheltered from current, though one source cautions that conditions can occasionally turn brisk. Visibility commonly reaches 30 m.
-
-The bubble-and-vent area sits in the 3-8 m range; the surrounding reef extends to around 28-30 m. Access is by liveaboard or day trip (roughly 40-45 minutes by speedboat from Kalimaya Dive Resort on east Sumbawa). Best season April to November, though the site is accessible year-round.
+Michael McFadyen describes dropping in at about 8 m on black sand with isolated coral bommies, with bubbles rising from the sand that are probably volcanic and likely sulphurous; the sand can be very warm where bubbles exit. The sand then leads to a coral reef with walls, a few overhangs and swim-throughs, and the bottom runs from 3-5 m at the top down to about 30 m (his group reached about 28 m). Master Liveaboards says the dive starts at about 5 m with volcanic gas streams rising from the sand, mentions heated rocks, and says the reef is sheltered from current. Starfish.ch says "currents can be a bit tricky" and that the water is "really hot" in spots, and describes black coral bushes and gorgonians below. Emperor Divers cites bubbles, many black coral bushes, whip corals, sea fans and fluorescent anemones. Liveaboard Indonesia reports a depth of 5-15 m and quotes locals calling it "diving in champagne"; that depth conflicts with the ~28-30 m reported by McFadyen. Visibility is probably about 30 m (McFadyen).
 
 ## Site Information
 
-- **Location**: Northern side of Sangeang Island, northeast Sumbawa
+- **Location**: Northeast side of Sangeang Island, northeast Sumbawa
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Visibility**: ~30 metres
-- **Currents**: Generally sheltered in the main reef area; can pick up at times
-- **Water Temperature**: ~27°C
-- **Best Season**: April–November
+- **Visibility**: about 30 metres (one source)
+- **Currents**: Sheltered in the main reef area (Master Liveaboards); "can be a bit tricky" (starfish.ch)
 
 ## Marine Life
 
-Pygmy seahorses, nudibranchs (numerous species, including Nembrotha, elysiid, and phyllidiid types), ghost pipefish, orangutan crabs, frogfish, ribbon eels, mushroom coral pipefish, leaf fish, clown anemonefish, emperor angelfish, snapper, banded sweetlips, bumphead parrotfish (occasional, further along the reef), large gorgonian seafans, black coral.
-
-## Photography Tips
-
-The combination of black sand, colourful soft corals, and volcanic gas streams creates unique wide-angle compositions. Macro subjects are abundant — carry a dioptre for the smaller nudibranchs and pygmy seahorses. Shoot around the bubble vents for otherworldly frames, but watch for hot rocks near the vents.
+Michael McFadyen: leaf fish, nudibranchs (nearly a dozen species, including red-gilled nembrothas and an elysia), pygmy seahorse, clown anemonefish, emperor angelfish, snapper, banded sweetlips, gorgonians and sea whips. Master Liveaboards: pygmy seahorse ("almost a guaranteed sight" in the seafans), ghost pipefish, orangutan crabs, frogfish, ribbon eels, mushroom coral pipefish, and bumphead parrotfish sometimes in the blue beyond the reef. Starfish.ch: hawkfish and pygmy seahorses in gorgonians. Neptune Liveaboards also lists pygmy seahorses, ribbon eels, ghost pipefish and frogfish.
 
 ## Safety Notes
 
-Do not touch rocks near the volcanic gas vents — geothermal heating can cause burns. The gases are reported as sulphurous; avoid lingering in heavy concentrations. Conditions are generally low-risk for an intermediate diver, though currents can occasionally build.
+Hot sand and heated rocks occur near the vents; do not touch them. The gas is likely sulphurous (McFadyen); avoid lingering in dense bubble streams.
 
 ---
-*Sources: [Master Liveaboards — Hot Rocks, Sangeang Volcano Diving](https://masterliveaboards.com/hot-rocks-sangeang-volcano-diving/), [Michael McFadyen's Scuba Diving — Hot Rocks, Sangeang Island](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=855), [starfish.ch — Diving Komodo/Sangeang](http://starfish.ch/dive/Komodo.html). Last updated 2026-07-05.*
+*Sources: [Master Liveaboards - Hot Rocks](https://masterliveaboards.com/hot-rocks-sangeang-volcano-diving/), [Michael McFadyen's Scuba Diving - Hot Rocks](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=855), [starfish.ch - Komodo/Sangeang](http://starfish.ch/dive/Komodo.html), [Emperor Divers - Lombok-Sumbawa-Komodo](https://www.emperordivers.com/liveaboard-itinerary/lombok-sumbawa-komodo/), [Liveaboard Indonesia - Sumbawa](https://liveaboardindonesia.com/destinations/sumbawa/), [Neptune Liveaboards - Sumbawa Diving & Liveaboard](https://www.neptuneliveaboards.com/blog/sumbawa-diving-liveaboard/). Last updated 2026-10-09.*
+
+*QA 2026-10-09: re-audited. Removed unsourced "40-45 minutes from Kalimaya", water temperature ~27 C, April-November season, "burns" warning, and "vividly colourful black coral". Kalimaya's page returned no readable content and is not cited. The ScubaBoard GPS database lists this site with a 117 degree E longitude, which looks like a typo and was not used.*

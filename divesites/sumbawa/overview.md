@@ -14,7 +14,7 @@ Sumbawa stretches across the north coast of the island of the same name in Nusa 
 
 - **Wall Diving**: Sites including Angel Reef, Little Angel, Sumbawa Wall, and Tanjung Batu Putih, with dramatic sheer drop-offs and pelagic visitors around Moyo Island
 - **Reef Diving**: Sites ranging from sheltered Panjang Reef (30m, suitable for beginners) to current-swept Tanduk Rusa and Rollercoaster (advanced, with strong drift conditions)
-- **Muck Diving**: Sites (Satonda Reef at the sunken volcanic caldera, Tikno Reef) with black sand critter habitat including blue-ringed octopus and frogfish
+- **Muck Diving**: Sites (Satonda Reef, Tikno Reef, Lighthouse Reef) over sand or black volcanic sand; see each site page for the species reported there
 - **Boat Diving**: All sites are boat-access, reached from Moyo Island resorts or liveaboard vessels
 
 ### Accessibility
@@ -28,8 +28,8 @@ Sumbawa stretches across the north coast of the island of the same name in Nusa 
 ### Marine Life & Environment
 
 - **Water Conditions**: Water temperature ranges from 24-28C depending on season and site. Visibility varies widely from 10 meters at nutrient-rich sites to 30+ meters at outer walls. Currents range from gentle in sheltered bays to strong at exposed sites like Rollercoaster and Tanduk Rusa.
-- **Marine Biodiversity**: Whale sharks visit Saleh Bay to feed on baitfish aggregations. Sangeang Island's geothermal vents create a unique habitat with bubbling black sand and heat-tolerant coral communities. Sites support reef sharks, turtles, eagle rays, schooling tuna and barracuda, ribbon eels, pygmy seahorses, blue-ringed octopus, and frogfish. Moyo Island's marine park protects healthy hard coral walls with abundant reef fish.
-- **Conservation**: Moyo Island is a designated nature reserve with protected coastline and reefs. Commercial fishing is restricted, and the coral reefs benefit from conservation area status. Sangeang and Satonda are geological reserves.
+- **Marine Biodiversity**: Whale sharks visit Saleh Bay to feed on baitfish aggregations. Whale sharks are reported year-round around the fishing platforms (bagans) of Saleh Bay (Dive The World). Species at individual sites are listed on the site pages only where a source reports them at that site; no site-specific reports were found for a regional species list, so none is given here.
+- **Conservation**: Satonda was designated a Marine Nature Park (TWAL) in 1999 (Wikipedia). Protection status of Moyo and Sangeang was not re-verified in this pass.
 
 ## Additional Information
 
@@ -39,4 +39,4 @@ Sumbawa stretches across the north coast of the island of the same name in Nusa 
 - **Safety**: Current-swept sites like Rollercoaster and Tanduk Rusa require advanced skills and drift diving experience. Sangeang's geothermal sites require awareness of hot water vents on the bottom. The region is remote with limited medical facilities; the nearest hyperbaric chamber is in Bali.
 
 ---
-*Sources: [Liveaboard Indonesia - Sumbawa](https://liveaboardindonesia.com/destinations/sumbawa/), [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php), [Roctopus Dive Moyo Island](https://roctopusdivemoyoisland.com/), [Maleo Moyo Scuba Divers](https://scubadivemoyo.com/). Last updated 2026-04-05.*
+*Sources: [Liveaboard Indonesia - Sumbawa](https://liveaboardindonesia.com/destinations/sumbawa/), [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php), [Maleo Moyo Scuba Divers](https://scubadivemoyo.com/). Last updated 2026-10-09.*

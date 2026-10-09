@@ -13,29 +13,25 @@ addedBy: osm_import
 
 ## Tikno Reef
 
-Tikno Reef is a muck and macro dive site off a black sand/rocky beach on the northwestern side of Sangeang Island, one of the deeper classic dives in the Sangeang volcanic diving area (alongside Bubble Reef and Black Magic), and the site to choose for divers wanting more depth than the shallower Sangeang sites offer.
+Tikno Reef is a slope dive off a black-sand and rocky beach on the northwest side of Sangeang Island.
 
 ## Overview
 
-Tikno Reef starts on a sloping black sand bottom around 8-10 m and drops gradually to about 30-31 m, where it meets a further drop-off that independent dive logs describe continuing to roughly 40 m or more — a technical extension beyond normal recreational limits that is not part of the standard dive plan. The main slope is scattered with small coral bommies, and the reef breaks up over dark volcanic ash and sandy patches around 18 m. Black coral is abundant, clustered off the wall, and sea whips are a defining feature — most host resident gobies. Look for orangutan crabs tucked into bubble corals, hawkfish among the gorgonians, ornate ghost pipefish, and hairy squat lobsters hiding in the large barrel sponges. Schools of yellow snapper gather over the black sand. The volcanic setting gives the reef an unusual character — coral formations growing out of dark substrate with high contrast for photography. Access is by liveaboard or day trips from operators working the Sangeang area. Best season April to November.
+Michael McFadyen (visited September 2012 from a liveaboard) describes a sloping black-sand bottom starting around 10 m with small coral bommies, deepening gradually to about 30 m, where divers typically turn at about 31 m just above a steep drop to roughly 40 m or more; he describes that drop-off as looking like a sand wall rather than coral reef. Asia Dive Site notes that the reef gives way to dark volcanic ash and sand at about 18 m and is noted for macro life. Dive Happy lists Tikno Reef among the Sangeang classics visited from Kalimaya Dive Resort (with Bubble Reef and Black Magic) and shows yellow snappers over black sand. Based on the 31 m depth this database rates it Advanced.
 
 ## Site Information
 
-- **Location**: Northwestern side of Sangeang Island, east Sumbawa
+- **Location**: Northwest side of Sangeang Island, east Sumbawa
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 31 meters
-- **Currents**: Light to occasional
-- **Best Season**: April–November
 
 ## Marine Life
 
-Sea whip gobies, orangutan crabs (in bubble corals), hawkfish, ornate ghost pipefish, nudibranchs, yellow snapper (schooling), hairy squat lobsters (in barrel sponges), black coral, gorgonians.
-
-## Photography Tips
-
-High contrast between black volcanic substrate and colourful marine life makes for striking images. Look for sea whip gobies at close range, check bubble corals for hiding orangutan crabs, and inspect barrel sponges for hairy squat lobsters. Macro lens recommended; a wide-angle option is worth carrying if you plan to approach the wall/drop-off.
+Michael McFadyen: black coral, gorgonians, barrel sponges, many sea whips hosting gobies, orangutan crabs, hawkfish, leaf fish, clownfish, mantis shrimps, ornate ghost pipefish, firefish, and nudibranchs including Carlson's halgerda and crested nembrotha. Dive Happy: yellow snappers.
 
 ---
-*Sources: [Barefoot Cruising Indonesia — Sangeang Volcano](https://www.barefoot-cruising-indonesia.com/private-yacht-charter/indonesias-best-kept-diving-secret/), [Michael McFadyen's Scuba Diving — Tikno Reef](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=867), [Asia Dive Site — Sangeang Island](http://www.asiadivesite.com/indonesia-dive-sites/sumbawa/sangeang-island.php), [Dive Happy — Kalimaya Dive Resort Review](https://divehappy.com/kalimaya-dive-resort-review-july-august-2025/), [Kalimaya Dive Resort — Dive Sites](https://kalimayadiveresort.com/diving-site/), [ScubaBoard — Database for Bali-Komodo Dive Sites (GPS)](https://scubaboard.com/community/threads/database-for-bali-komodo-dive-sites-including-gps-info.620725/). Last updated 2026-07-05.*
+*Sources: [Michael McFadyen's Scuba Diving - Tikno Reef](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=867), [Asia Dive Site - Sangeang Island](http://www.asiadivesite.com/indonesia-dive-sites/sumbawa/sangeang-island.php), [Dive Happy - Kalimaya Dive Resort Review](https://divehappy.com/kalimaya-dive-resort-review-july-august-2025/), [ScubaBoard - Database for Bali-Komodo Dive Sites (GPS)](https://scubaboard.com/community/threads/database-for-bali-komodo-dive-sites-including-gps-info.620725/). Last updated 2026-10-09.*
+
+*QA 2026-10-09: re-audited. Removed hairy squat lobsters in barrel sponges (not in any fetched source), "the deeper dive to choose" framing, and the best-season/access lines. Barefoot Cruising Indonesia (blank on fetch) and Kalimaya Dive Resort (blank on fetch) are no longer cited. The ScubaBoard GPS list confirms the coordinates only.*

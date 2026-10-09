@@ -29,4 +29,4 @@ No site-specific source could be found for Sumbawa Surprise despite an extensive
 - **Best Season**: Not documented
 
 ---
-*Description based on regional diving characteristics only. No site-specific sources found despite a dedicated search of dive shops, liveaboard operators, structured databases, and ScubaBoard. Last updated 2026-07-05.*
+*Description based on regional diving characteristics only. No site-specific sources found despite a dedicated search of dive shops, liveaboard operators, structured databases, and ScubaBoard. Last updated 2026-10-09.*

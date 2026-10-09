@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Angel Reef
 
-Angel Reef is a wall dive on the west coast of Moyo Island, located approximately 15 km north of mainland Sumbawa. Healthy hard corals carpet the shoreward shallows before the reef drops away in an abrupt vertical wall that plunges beyond 40 metres.
+Angel Reef is a wall dive on the west coast of Moyo Island, just south of Panjang Reef, with hard corals in the protected shallows and a near-vertical wall that drops past 40 metres.
 
 ## Overview
 
-Angel Reef sits just south of Panjang Reef and is the signature dive of the Moyo Island area. Divers descend the steep bank to the top of the wall where large schools of redtooth triggerfish, longfin bannerfish, and rounded batfish are regularly encountered. The striking wall is draped in colourful soft tree corals and hardy sheet corals. In the deeper channels, yellowtail tuna streak past on hunting runs, and blacktip reef sharks patrol the edge. Visibility typically reaches 20–35 metres, and surface conditions are generally calm, though currents can strengthen. Evidence of past dynamite fishing remains visible as fractured blast zones on the wall — a reminder of pressure the reef has faced despite its recovery.
+Operators describe Angel Reef as a deep reef with healthy hard corals in the shoreward shallows and an abrupt vertical wall plunging to well over 40 m. The wall is decorated with soft tree corals and some sheet corals. Large schools of redtooth triggerfish, longfin bannerfish and rounded batfish gather near the top of the wall, yellowtail tuna are reported hunting in the deep channels, and blacktip reef sharks are described as common. Emperor Divers adds ribbon eels and Denise's pygmy seahorse on the wall and sloping reef, and spaghetti eels on a sandy plateau beyond the reef. Barren blast zones from past dynamite fishing are still visible on the wall. A trip report on a different liveaboard (Perth Scuba, Mermaid II) also logged emperor fish schools, blue-spotted trevally, majestic angelfish, blacktip reef sharks and banded sea snakes on its Angel Reef dive.
+
+Reported conditions: depth listed as 8 to over 40 m, visibility 20-35 m, water temperature 24-28 C, calm surface with currents that can be strong. Sources rate it suitable for beginner to intermediate divers and dive-able year-round; this database records it as Intermediate. (One unrelated dive.site listing of an "Angel Reef" with a 20 m maximum has no stated location and was not used.)
 
 ## Site Information
 
@@ -26,19 +28,14 @@ Angel Reef sits just south of Panjang Reef and is the signature dive of the Moyo
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
-- **Visibility**: 20–35 metres
-- **Water Temperature**: 24–28°C
-- **Best Season**: April–November
+- **Visibility**: 20-35 metres
+- **Water Temperature**: 24-28 C
 
 ## Marine Life
 
-Redtooth triggerfish, longfin bannerfish, batfish, yellowtail tuna, blacktip reef sharks, soft tree corals. Ribbon eels and Denise pygmy seahorses have also been reported along the wall, with spaghetti eels on the sandy plateau beyond the reef.
-
-## Dive Profile
-
-Enter the shallows at 8–10 m and follow the steep bank to the wall crest, then drop along the vertical face. Most action is between 15–30 m. Current can pick up; dive with a guide familiar with the site.
+Site-specific reports: redtooth triggerfish, longfin bannerfish, rounded batfish, yellowtail tuna, blacktip reef sharks (dive-the-world.com, asiadivesite.com, the Dive Indonesia blog, ScubaBoard); ribbon eels, Denise's pygmy seahorse and spaghetti eels (Emperor Divers); soft tree corals and sheet corals.
 
 ---
-*Sources: [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php), [Asia Dive Site - Moyo Island](http://www.asiadivesite.com/indonesia-dive-sites/sumbawa/moyo-island.php), [Dive Indonesia Blog - Angel Reef](http://dive-indonesia.blogspot.com/2007/09/moyo-island-angel-reef.html), [ScubaBoard - Moyo National Park 5d/4n Cruise](https://scubaboard.com/community/threads/moyo-national-park-5d-4n-cruise.76167/), [Neptune Liveaboards - Sumbawa Diving & Liveaboard](https://www.neptuneliveaboards.com/blog/sumbawa-diving-liveaboard/). Last updated 2026-07-05.*
+*Sources: [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php), [Asia Dive Site - Moyo Island](http://www.asiadivesite.com/indonesia-dive-sites/sumbawa/moyo-island.php), [Dive Indonesia Blog - Angel Reef](http://dive-indonesia.blogspot.com/2007/09/moyo-island-angel-reef.html), [ScubaBoard - Moyo National Park 5d/4n Cruise](https://scubaboard.com/community/threads/moyo-national-park-5d-4n-cruise.76167/), [Neptune Liveaboards - Sumbawa Diving & Liveaboard](https://www.neptuneliveaboards.com/blog/sumbawa-diving-liveaboard/), [Emperor Divers - Lombok-Sumbawa-Komodo](https://www.emperordivers.com/liveaboard-itinerary/lombok-sumbawa-komodo/). Last updated 2026-10-09.*
 
-*QA note (2026-07-05): Re-audited. Core claims (dynamite-fishing scarring, redtooth triggerfish schools, blacktip reef sharks, yellowtail tuna, 20–35m visibility) are corroborated across 5 independent domains, including a ScubaBoard trip thread. The JSON `validation_source` previously listed neptuneliveaboards.com without it appearing in this footer — verified that citation is accurate (neptuneliveaboards.com/blog/sumbawa-diving-liveaboard/ independently confirms the wall, depth, and species list) and it has been added above. A small number of lower-quality SEO/blog pages (e.g. johnnyafrica.com, one neptuneliveaboards.com listicle, tartarugaadventures.com) describe an "Angel Reef" as a gentle macro/muck site with pygmy seahorses and gorgonian fans — this conflicts with the wall-dive consensus and reads like generic content-farm copy or a naming mix-up with another site; it was not incorporated.*
+*QA 2026-10-09: re-audited against all six sources. Removed the unsourced "most action 15-30 m" and "best season April-November" statements. The ribbon eel, Denise's pygmy seahorse and spaghetti eel claims were previously unattributed and are now traced to Emperor Divers.*
