@@ -3833,7 +3833,7 @@
         "sites_unresolved": "see PR",
         "notes": "sudan is a group entry (isGroup) with no osm_clean data or divesites directory; sites live under sudan-red-sea"
       },
-      "pr_url": null
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/174"
     }
   ]
 }
