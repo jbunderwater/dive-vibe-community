@@ -17,7 +17,7 @@ Anchor Reef is a wall dive site in St. Vincent and the Grenadines, Caribbean.
 
 ## Overview
 
-Named for an 18th-century anchor buried in its coral, Anchor Reef is consistently voted one of the top 100 dive sites in the world and one of St. Vincent's standout experiences. The reef starts at around 9 meters and drops into a 35-meter wall festooned with gorgonians and black corals, riddled with swim-throughs and crevices where frogfish, longsnout seahorses, and moray eels take up residence.
+Anchor Reef is a boat dive on St. Vincent's leeward coast, described by tourism material as voted one of the top 100 dive sites in the world. A historic anchor is reported embedded in the coral; no source found gives its age or origin. Sources describe the reef starting at about 9 meters (30 ft) and dropping to a wall-like formation at about 36 meters (120 ft), with swim-throughs and large rocks. Depth conflict: theDiveGlobe lists a maximum of 30 meters (average 18 m) and rates the site beginner-friendly, while other accounts describe the wall to about 36 meters; this page keeps Intermediate given the deeper wall and occasional current reported.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Named for an 18th-century anchor buried in its coral, Anchor Reef is consistentl
 
 ## Marine Life
 
-The wall's crevices and overhangs shelter longsnout seahorses and multiple color morphs of frogfish, along with goldentail moray eels and the occasional porcelain two-spot octopus (logged on Dive St. Vincent trip reports). Ghost pipefish, lobsters, and other rays are also reported here, with black coral and gorgonian fans lining the drop-off. Barracuda patrol the open blue beyond the wall edge, and squid have been reported in the water column.
+Site-specific reports (theDiveGlobe, divers' accounts) name several color morphs of frogfish, longsnout seahorses, ghost pipefish, a porcelain two-spot octopus and goldentail morays, with black coral and gorgonians on the wall. Earlier claims of barracuda, squid, lobsters and rays at this site were removed because no site-specific source was found.
 
 ---
-*Sources: [Dive St. Vincent](https://www.divestvincent.com/), [theDiveGlobe - Anchor Reef](https://www.thediveglobe.com/app/nl/dive/anchor-reef-st-vincent), [Bluewater Dive Travel](https://www.bluewaterdivetravel.com/destination/st-vincent-and-grenadines-diving), [TripAdvisor - Anchor Reef](https://www.tripadvisor.com/Attraction_Review-g147380-d150154-Reviews-Anchor_Reef-St_Vincent_St_Vincent_and_the_Grenadines.html). Last updated 2026-07-03.*
+*Sources: [Dive St. Vincent](https://www.divestvincent.com/), [theDiveGlobe - Anchor Reef](https://www.thediveglobe.com/app/nl/dive/anchor-reef-st-vincent), [Bluewater Dive Travel](https://www.bluewaterdivetravel.com/destination/st-vincent-and-grenadines-diving), [St. Vincent Tourism - Dive Sites](https://tourism.gov.vc/tourism/index.php/diving-a-watersports/63-dive-sites), [TripAdvisor - Anchor Reef](https://www.tripadvisor.com/Attraction_Review-g147380-d150154-Reviews-Anchor_Reef-St_Vincent_St_Vincent_and_the_Grenadines.html). Last updated 2026-10-16.*

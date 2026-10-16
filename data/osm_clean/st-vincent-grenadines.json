@@ -12,8 +12,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "zentacle.com,thediveglobe.com,tobagocaysmarine.com",
-      "last_qa_date": "2026-07-03",
-      "qa_notes": "Re-audited 2026-07-03. Horseshoe Reef and near-guaranteed green/hawksbill turtle sightings reconfirmed via thediveglobe.com and tobagocaysmarine.com/tobagocays.org. thediveglobe.com lists max depth 15m/avg 8m vs our 12m - noted as a range in markdown rather than overwritten. Nurse sharks and eagle rays reconfirmed as common TCMP sightings (thetobagocays.com). No changes to site_type/difficulty."
+      "last_qa_date": "2026-10-16",
+      "qa_notes": "Re-audited 2026-10-16. Stripped unsourced nurse shark/eagle ray/stingray/leatherback/'guaranteed' claims; kept turtles, conch, lobster per tobagocays.org."
     }
   },
   {
@@ -46,8 +46,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "divestvincent.com,thediveglobe.com,bluewaterdivetravel.com,tripadvisor.com",
-      "last_qa_date": "2026-07-03",
-      "qa_notes": "Re-audited 2026-07-03. Core facts reconfirmed: reef starts ~30ft/9m, drops to a 120ft/36m wall, 18th-century anchor embedded in coral, swim-throughs. Marine life reconfirmed and expanded with site-specific sightings: frogfish (multiple color morphs), longsnout seahorses, goldentail moray, porcelain two-spot octopus (divessi.com trip log), ghost pipefish, barracuda, lobsters, rays (tripadvisor/thediveglobe.com), eels and squid (bluewaterdivetravel.com). No factual corrections needed; markdown expanded with additional confirmed species."
+      "last_qa_date": "2026-10-16",
+      "qa_notes": "Re-audited 2026-10-16. Removed unsourced '18th-century' anchor age and unsourced barracuda/squid/lobster/ray claims; flagged depth conflict (30m thediveglobe vs ~36m other accounts)."
     }
   },
   {
@@ -138,7 +138,7 @@
   {
     "name": "Mustique Reef",
     "lat": 12.8796,
-    "lon": -61.1920,
+    "lon": -61.192,
     "depth": 25,
     "site_type": "reef",
     "entry_type": "boat",
@@ -165,7 +165,7 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "zentacle.com,tripadvisor.com,islands.com",
-      "last_qa_date": "2026-07-03",
+      "last_qa_date": "2026-10-16",
       "qa_notes": "Re-audited 2026-07-03. MAJOR CORRECTION: prior markdown listed specific underwater marine life (glassy sweepers, bigeye fish, spiny lobsters, cleaner wrasse, yellowtail snappers, small parrotfish, hawksbill turtle, nurse shark) with no source confirming any of it at this cave specifically - removed and replaced with an explicit statement that no site-specific fish reports were found. Confirmed facts: also known as Byahaut Bat Cave, located at Petit Byahaut within Buccament Bay; two bat species specifically documented (Fisherman bat, Fruit bat - islands.com); a ~250-year-old sandstone tunnel. Depth conflict flagged rather than guessed: zentacle.com's site rating gives a max depth of ~32.8ft/10m, while a first-hand account (islands.com) describes descending ~50ft/15m into the chasm and exiting around 60ft/18m; set JSON depth to 15m as a mid-range figure and stated the 10-18m range explicitly in the markdown per anti-hallucination policy on conflicting depths, rather than silently picking one number."
     }
   }

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Blue Belt
 
-Blue Belt, better known as the "Toyota Wreck," is a 103m cargo ship that struck Shaab Suedi reef in 1977 while carrying a hold full of Toyota vehicles, and now lies upside down on a steep slope roughly 75km north of Port Sudan.
+Blue Belt, better known as the "Toyota Wreck," is a 103 m cargo ship that struck Shaab Suedi reef in 1977 carrying 190 Toyota vehicles. She lies upside down on a slope about 75 km north of Port Sudan.
 
 ## Overview
 
-The Blue Belt was a general cargo ship built in 1950 by Howaldtswerke A.G. in Hamburg. On 2 December 1977, while sailing from Jeddah to Port Sudan carrying around 190 Toyota vehicles (cars, trucks, tractors, and spare parts), she struck Shaab Suedi reef — sources attribute the collision to poor winter weather and a navigational error, but the precise cause is not fully documented. Salvage attempts removed part of the cargo, scattering vehicles and parts around the site, and the ship eventually settled upside down on a roughly 30-degree slope. Historically, divers entered through a large hull opening around 36m and worked up through the interior toward the bow. In 2013, the hull reportedly slipped further off the reef, putting most of the structure beyond recreational diving range. The ship's flag/nationality and exact tonnage are not confirmed by any source found during research and are not stated here.
+Adrex reports the Blue Belt as a general cargo ship built in 1950 by Howaldtswerke A.G., Hamburg, which struck the reef at Sha'ab Suedi on 2 December 1977 carrying 190 Toyota vehicles. The cause is disputed: Adrex calls a navigation error in poor visibility the most likely explanation, while The Drive relays a local account that the captain was trying to offload contraband, which it notes is poorly documented. A refloat attempt failed because of the ship's position and upside-down orientation, and cargo was unloaded and scattered around the site. The wreck rests on a drop-off between roughly 15 and 85 m (Adrex); The Drive reports vehicles at 85-255 ft. Adrex says divers can enter the hull. Flag and tonnage were not confirmed by sources found. Current accessible depths should be confirmed with operators.
 
 ## Site Information
 
@@ -25,30 +25,23 @@ The Blue Belt was a general cargo ship built in 1950 by Howaldtswerke A.G. in Ha
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Expert
-- **Depth Range**: 15-85 meters (much of the wreck is now beyond recreational limits following a 2013 shift)
-- **Note**: Wreck is upside down and largely beyond recreational range post-2013 — this is technical/deep diving territory only
+- **Depth Range**: 15-85 meters (Adrex)
 
 ## Marine Life
 
-Sources describe schools of trevally and snappers and occasional groupers around the wreck; no site-specific report of shark sightings was found and none is claimed here. The deep, technical nature of the site limits documented biodiversity compared to Sudan's shallower reefs.
+The regional Red Sea fauna applies, but no site-specific marine life reports were found for this wreck.
 
 ## Dive Profile
 
-This is a deep technical wreck dive. Historically, recreational-limit divers focused on upper sections around 21-40m before the reported 2013 shift; current accessibility of those upper sections is not confirmed by recent sources. Divers attempting this site should plan with their liveaboard's dive guides and confirm current conditions before entering the water — do not rely on older published depth figures without local verification.
+A deep wreck dive. Adrex reports visibility around 25 m and recommends the site for advanced divers because of depth and currents. Confirm current conditions with your liveaboard guide.
 
 ## Entry and Exit
 
-Access is exclusively via liveaboard from Port Sudan. Entry and exit are managed by the dive guide given the depth and technical nature of the site.
-
-## Tips and Recommendations
-
-- Confirm current wreck position and accessible depth with your liveaboard operator before diving — the site has shifted since being originally surveyed
-- Technical/deep diving certification is required for anything beyond the shallowest sections
-- Carry redundant depth-tracking instruments and appropriate decompression gas planning
+Access is by liveaboard from Port Sudan; entry and exit are managed by the dive guide.
 
 ## Safety Considerations
 
-This is demanding, technical diving. Never attempt wreck penetration without appropriate training — interior exploration always carries risk and is never "safe," regardless of experience level. Nitrogen narcosis, decompression obligations, and limited visibility in silt are all relevant hazards at depth.
+Deep diving carries nitrogen narcosis and decompression risks. Wreck penetration is never "safe" and requires proper training and equipment.
 
 ---
-*Sources: [Blue Belt - Toyota Wreck - Adrex.com](https://www.adrex.com/en/articles/water/scuba-diving/blue-belt-toyota-wreck-scuba-diving-sudan/), [The Blue Bell (Toyota Wreck) in Sudan - Red Sea Diving Safari](http://cassiopeiasafari.com/blue-bell-toyota-wreck/), [Sudan - Blue Belt (Toyota Wreck) - GoodDive](https://www.gooddive.com/egypt/blue-belt-wreck.htm). Last updated 2026-07-03.*
+*Sources: [Blue Belt - Toyota Wreck - Adrex](https://www.adrex.com/en/articles/water/scuba-diving/blue-belt-toyota-wreck-scuba-diving-sudan/), [A Shipwrecked Graveyard of 1970s Toyotas - The Drive](https://www.thedrive.com/news/27362/a-shipwrecked-graveyard-of-1970s-toyotas-is-hiding-off-the-coast-of-africa). Last updated 2026-10-16.*

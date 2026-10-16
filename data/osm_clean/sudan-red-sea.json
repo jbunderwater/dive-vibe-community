@@ -15,9 +15,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "adrex.com,cassiopeiasafari.com,gooddive.com",
-      "last_qa_date": "2026-07-03",
-      "note": "Toyota Wreck: 103m general cargo ship built 1950 (Howaldtswerke A.G., Hamburg), struck Shaab Suedi reef 2 Dec 1977 sailing Jeddah-Port Sudan with 190 Toyota vehicles aboard. Lies upside down on a slope, 15-85m. In 2013 the hull reportedly slipped further off the reef, putting most of it beyond recreational range. Nationality of the vessel and a specific tonnage figure are not confirmed by available sources and have been removed from the description."
+      "validation_source": "adrex.com,thedrive.com",
+      "last_qa_date": "2026-10-16",
+      "note": "Re-audited 2026-10-16. Toyota Wreck: 103m general cargo ship built 1950 (Howaldtswerke A.G., Hamburg), struck Shaab Suedi reef 2 Dec 1977 with 190 Toyota vehicles (Adrex). Cause disputed: Adrex says navigation error in poor visibility most likely; The Drive reports local account of contraband offloading, undocumented. Lies upside down on a slope, 15-85m (Adrex). The previously stated '2013 hull slip' was NOT found in any source and was removed. Only 2 confirmed sources; validation not upgraded (needs 3rd)."
     }
   },
   {
@@ -373,9 +373,9 @@
       "wikipedia": "en:SS Umbria",
       "wreck:date_sunk": "9-10 June 1940 (sources disagree on exact day)",
       "validated": "true",
-      "validation_source": "en.wikipedia.org,padi.com,scubadiving.com,blueforcefleet.com",
-      "last_qa_date": "2026-07-03",
-      "note": "CORRECTED cargo: 6,000 tons of bombs, 600 cases of detonators, 100 tons of assorted weapons, over 2,000 tons of cement, and three Fiat 1100 cars (not '360,000 bombs' and unspecified 'FIAT automobiles' as previously stated - a significant fabrication). Built 1911 in Hamburg as SS Bahia Blanca (154.9m, 10,076 GRT), purchased and renamed by Italy in 1935. British warships forced her to anchor at Wingate Reef on 9 June 1940; Captain Lorenzo Muiesan scuttled her with crew assistance on learning of Italy's declaration of war - Wikipedia dates the sinking to 9 June, other sources to the morning of 10 June; this conflict is noted rather than resolved. Lies on her port side, max depth 38m."
+      "validation_source": "en.wikipedia.org,dan.org,travel.padi.com",
+      "last_qa_date": "2026-10-16",
+      "note": "Re-audited 2026-10-16. Built Hamburg as Bahia Blanca; Wikipedia gives launch 30 Dec 1911 and service from 1912, DAN says 1911, PADI says 1912 (conflict stated). 154.9 m / 10,076 GRT (Wikipedia); DAN ~506 ft, ~10,000 GT. Scuttled June 1940 by Capt. Lorenzo Muiesan after British interception 9 June (Wikipedia: 9 June; DAN gives no exact date). Cargo ~6,000 t bombs, 600 cases detonators, 100 t weapons, 2,000+ t cement/construction materials, three Fiat 1100 cars (Wikipedia, DAN). Depth: Wikipedia max 38 m; DAN stern ~35 ft/bow ~125 ft; PADI 5-35 m. Removed unverified HMS Grimsby and generic fish list; marine life now only DAN (corals, sponges, twoband anemonefish) and PADI (snapper, featherstars under rudder, cleaner shrimp)."
     }
   },
   {
@@ -403,7 +403,7 @@
     "lon": 37.0452519,
     "osm_id": 13045042048,
     "osm_type": "node",
-    "depth": 65,
+    "depth": 70,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -411,9 +411,10 @@
       "name": "Levanzo Wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "sadko-safarifleet.com,divescover.com,royalevolution.com",
-      "last_qa_date": "2026-07-03",
-      "note": "CORRECTED length: SS Isola di Levanzo was 339.6 ft (~103.5m), not 113m as previously stated. Built 1901 by the Orlando Brothers, Livorno; 3,713 tons. Ran aground on Elba Reef 14 March 1923 en route Genova-Durban carrying salt and other cargo; broke her towing hawser during salvage on 28 March 1923 and sank. Stern/propeller at 22m, broken section ~40m, max depth ~65m."
+      "validation_source": "sadko-safarifleet.com,dive3d.eu,diveplannerpro.com",
+      "last_qa_date": "2026-10-16",
+      "note": "Re-audited 2026-10-16. Italian steel cargo steamer Levanzo, Genoa-Durban with salt and general cargo, ran aground on Elba Reef 14 March 1923 (dive3d.eu). Builder (Orlando, Livorno), 1901 build, 339.6 ft length, 3,713 tons, 28 March sinking/hawser story and 65 m max depth were NOT found in any source and were removed. Depth conflict: dive3d stern ~27 m keel-up on south plateau, bow ~70 m; Sadko 20-40 m. Only one source for history; no maritime/Wikipedia source found.",
+      "depth_note": "Sources conflict: 20-40 m (Sadko) vs stern 27 m to bow 70 m (dive3d.eu)"
     }
   },
   {

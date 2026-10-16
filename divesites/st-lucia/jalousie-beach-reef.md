@@ -29,7 +29,7 @@ Scuba St. Lucia's dive-site listing places Jalousie at the base of Gros Piton, d
 
 ## Marine Life
 
-Creole wrasse and bar jack are directly confirmed by Scuba St. Lucia's dive-site page. Seahorses and trumpetfish were reported in prior research citing SMMA and PADI, but those pages could not be re-fetched on this pass (no usable content returned); they are retained here as carried-forward, not freshly re-verified, claims. Sergeant majors and squid, previously listed, could not be corroborated by any source on this pass and have been removed.
+Creole wrasse and bar jack are directly confirmed by Scuba St. Lucia's dive-site page. Seahorses and trumpetfish, previously listed, could not be re-verified at this site and have been removed. Sergeant majors and squid, previously listed, could not be corroborated by any source on this pass and have been removed.
 
 ---
-*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/), [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/). Last updated 2026-07-03.*
+*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/), [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/). Last updated 2026-10-16.*

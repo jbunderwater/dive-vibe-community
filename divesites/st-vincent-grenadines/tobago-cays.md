@@ -17,7 +17,7 @@ Tobago Cays is a reef dive site in St. Vincent and the Grenadines, Caribbean.
 
 ## Overview
 
-Tobago Cays Marine Park protects a four-kilometer Horseshoe Reef enclosing five uninhabited cays (Petit Bateau, Petit Rameau, Baradal, Jamesby, and Petit Tabac), where green and hawksbill turtles graze openly on the seagrass beds inside the lagoon — sightings are nearly guaranteed, especially around Baradal. Diving inside the horseshoe lagoon is shallow and easy, while the outer reef offers deeper exploration; sources report maximum depths of 12-15 meters depending on which part of the reef is dived.
+Tobago Cays Marine Park protects a four-kilometer Horseshoe Reef enclosing five uninhabited cays (Petit Bateau, Petit Rameau, Baradal, Jamesby, and Petit Tabac), where sea turtles feed and nest. Diving inside the horseshoe lagoon is shallow and easy, while the outer reef offers deeper exploration; sources report maximum depths of 12-15 meters depending on which part of the reef is dived.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Tobago Cays Marine Park protects a four-kilometer Horseshoe Reef enclosing five 
 
 ## Marine Life
 
-Green and hawksbill turtles are virtually guaranteed here, grazing openly on the seagrass beds inside the Horseshoe Reef lagoon in numbers that are rare elsewhere in the Caribbean; the park's beaches and seagrass beds also serve as feeding and nesting grounds for leatherback turtles. Nurse sharks and eagle rays are commonly reported sightings within the marine park, and stingrays are seen across the sandy lagoon floor. Divers and snorkelers also report vibrant hard and soft coral cover and abundant reef fish within the protected lagoon.
+Tobago Cays Marine Park reports that sea turtles nest and feed in its protected waters, and that conchs, lobsters and iguanas live in the protected area. Earlier claims of specific turtle species, nurse sharks, eagle rays, stingrays and leatherbacks were removed because the park source does not name them and no site-specific dive report was re-confirmed in this audit. Regional Caribbean reef fauna applies, but no further site-specific reports were found.
 
 ---
-*Sources: [Tobago Cays Marine Park](https://www.tobagocays.org/about/), [theDiveGlobe - Tobago Cays](https://www.thediveglobe.com/app/ko/dive/tobago-cays-grenadines), [The Tobago Cays](https://thetobagocays.com/tobago-cays-snorkeling-diving-reef/), [Zentacle](https://www.zentacle.com/). Last updated 2026-07-03.*
+*Sources: [Tobago Cays Marine Park](https://www.tobagocays.org/about/), [theDiveGlobe - Tobago Cays](https://www.thediveglobe.com/app/ko/dive/tobago-cays-grenadines), [The Tobago Cays](https://thetobagocays.com/tobago-cays-snorkeling-diving-reef/), [Zentacle](https://www.zentacle.com/). Last updated 2026-10-16.*

@@ -29,7 +29,7 @@ Scuba St. Lucia's dive-site listing describes Turtle Reef as a "crescent-shaped 
 
 ## Marine Life
 
-Hawksbill and green turtles are directly confirmed by Scuba St. Lucia's listing for this site. Parrotfish, blue chromis, damselfish, moray eels, and spiny lobsters were reported in prior research; those specific claims could not be re-fetched from a live source on this pass and are retained as carried-forward rather than freshly re-verified today.
+Hawksbill and green turtles are directly confirmed by Scuba St. Lucia's listing for this site. Parrotfish, chromis, damselfish, moray eels, and spiny lobsters were listed previously but could not be traced to a site-specific source and have been removed.
 
 ---
-*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/), [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/). Last updated 2026-07-03.*
+*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/), [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/). Last updated 2026-10-16.*

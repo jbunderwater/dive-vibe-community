@@ -36,8 +36,8 @@
     "difficulty": "Advanced",
     "tags": {
       "validated": "true",
-      "validation_source": "npolar.no,nyalesundresearch.no,kingsbay.no,oceanwide-expeditions.com,framforum.com",
-      "last_qa_date": "2026-07-05",
+      "validation_source": "nyalesundresearch.no,kingsbay.no,framforum.com",
+      "last_qa_date": "2026-10-16",
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
     }
@@ -100,8 +100,8 @@
     "difficulty": "Advanced",
     "tags": {
       "validated": "true",
-      "validation_source": "npolar.no,framforum.com,wikipedia.org,oceanwide-expeditions.com",
-      "last_qa_date": "2026-07-05",
+      "validation_source": "framforum.com,wikipedia.org,oceanwide-expeditions.com",
+      "last_qa_date": "2026-10-16",
       "kelp_forest": "true",
       "source": "curated",
       "addedBy": "fill_remaining_gaps"

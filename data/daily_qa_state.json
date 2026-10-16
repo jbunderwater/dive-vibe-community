@@ -2,12 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "st-lucia",
-    "st-vincent-grenadines",
-    "sudan",
-    "sudan-red-sea",
-    "sumbawa",
-    "svalbard",
     "tanzania",
     "thailand",
     "thailand-similan-islands",
@@ -174,7 +168,13 @@
     "south-florida",
     "south-pacific",
     "sri-lanka",
-    "st-kitts-and-nevis"
+    "st-kitts-and-nevis",
+    "st-lucia",
+    "st-vincent-grenadines",
+    "sudan",
+    "sudan-red-sea",
+    "sumbawa",
+    "svalbard"
   ],
   "history": [
     {
@@ -3812,6 +3812,26 @@
         "notes": "south-pacific skipped: no osm_clean data or divesites directory"
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/173"
+    },
+    {
+      "date": "2026-10-16",
+      "slugs": [
+        "st-lucia",
+        "st-vincent-grenadines",
+        "sudan",
+        "sudan-red-sea",
+        "sumbawa",
+        "svalbard"
+      ],
+      "summary": {
+        "sites_re_audited": 18,
+        "sites_validated_today": 0,
+        "marine_life_claims_trimmed": 14,
+        "unsourced_claims_removed": 22,
+        "wreck_conflicts_flagged": 6,
+        "note": "'sudan' is a group entry with no data files; covered by sudan-red-sea. Several destinations only partially re-audited."
+      },
+      "pr_url": null
     }
   ]
 }
