@@ -3831,7 +3831,7 @@
         "wreck_conflicts_flagged": "~30",
         "notes": "sudan skipped: no osm_clean data or divesites directory"
       },
-      "pr_url": null
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/176"
     }
   ]
 }
