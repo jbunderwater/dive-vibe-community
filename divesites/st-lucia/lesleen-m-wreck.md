@@ -13,25 +13,26 @@ addedBy: osm_import
 
 ## Lesleen M Wreck
 
-The Lesleen M is one of St. Lucia's most-dived wrecks — a 165-foot freighter deliberately scuttled by St. Lucia's Department of Fisheries in 1986 near Anse Cochon.
+The Lesleen M is a freighter of about 165 feet that was deliberately sunk as an artificial reef in Anse Cochon Bay on St. Lucia's west coast.
 
 ## Overview
 
-Multiple independent sources agree on the core facts: the Lesleen M is a 165-foot freighter (islanderkeys.com, Scuba St. Lucia, PADI), sunk in 1986 by St. Lucia's Department of Fisheries as a deliberate artificial reef (all sources consulted). One source specifies October 1986; this could not be independently reconfirmed on this pass, so the month is noted as reported rather than stated as certain. The wreck rests upright and intact on its keel (all sources agree).
+Multiple dive sources agree that the Lesleen M is a freighter of roughly 165 feet (50 m) that was intentionally sunk as an artificial reef. Stolen Time and Caribbean-Diving.com attribute the sinking to the Department of Fisheries, and Stolen Time gives October 1986. **Sources disagree on the year:** PADI, Scuba St. Lucia, St. Lucia Tourism, Caribbean-Diving.com, and Dune World give 1986, while DeeperBlue gives 1985. **Length** is given as 165 feet by most sources, 165 to 167 feet by St. Lucia Tourism, and 50 to 51 m by others. The vessel's original name, build date, and tonnage are not reported in any source consulted, so none are stated here.
 
-**Depth is reported with some variation across sources**: caribbean-diving.com gives approximately 22m (60ft), islanderkeys.com gives 60ft, Scuba St. Lucia gives 65ft maximum with the deck at 30ft (about 9m), and PADI's blog gives a range of "40 to 65 feet (12 to 20 meters)." Taken together, sources put the wreck's depth range at roughly 18-22 metres (60-72 feet), with the accessible deck around 9 metres. The rudder and propeller remain intact, and the cargo hold is open and accessible, making this one of the more beginner-friendly wreck dives in the area.
+**Depth varies by source and by where on the wreck it is measured.** Scuba St. Lucia gives about 30 ft to the deck and 65 ft at the deepest point; PADI gives 40-65 ft (12-20 m); St. Lucia Tourism gives 40-60 ft; DeeperBlue gives a 60 ft maximum with the pilothouse at 40 ft; Caribbean-Diving.com gives about 22 m. The wreck sits upright on its keel (DeeperBlue, Caribbean-Diving.com). Stolen Time and St. Lucia Tourism describe swim-throughs of the hold and engine room; any penetration requires appropriate training and equipment. DeeperBlue advises using the mooring lines because bay currents can pick up, and warns that fire coral growing on the wreck can sting.
 
 ## Site Information
 
-- **Location**: Anse Cochon, St. Lucia
+- **Location**: Anse Cochon Bay, St. Lucia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 
+
 ## Marine Life
 
-Moray eels are confirmed across four independent sources (caribbean-diving.com, islanderkeys.com, Scuba St. Lucia, and prior research). Lobsters are confirmed by three sources. islanderkeys.com additionally reports turtles, spider crabs, shrimp, angelfish, red snapper, barracuda, and tuna/pelagics; caribbean-diving.com reports scorpionfish and pelagics passing in the blue; Scuba St. Lucia reports frogfish and general fish schools around deep sea fans, sponges, and hydroids that colonise the hull. A previously reported naming-origin story for the vessel (a "Pappy Mac" and McQuilkin family history) appeared in only one source found today and could not be corroborated elsewhere, so it has been omitted per this database's anti-hallucination policy on single-sourced historical narratives.
+Moray eels are reported by Scuba St. Lucia, Caribbean-Diving.com, and PADI (with French angelfish); lobsters by Scuba St. Lucia, St. Lucia Tourism, and DeeperBlue. Scuba St. Lucia also reports frogfish, juvenile fish, and soft coral and sponge growth. DeeperBlue reports turtles, octopus, spider crabs, nudibranchs, and coral-banded shrimp. Caribbean-Diving.com reports scorpionfish. Stolen Time reports soft corals, sponges, hydroids, and juvenile Nassau grouper, queen angelfish, and French angelfish.
 
 ---
-*Sources: [islanderkeys.com - Lesleen M Wreck](https://www.islanderkeys.com/lesleen-m-wreck-st-lucia/), [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [Caribbean-Diving.com - Lesleen M Freighter Wreck](https://caribbean-diving.com/dive-sites/lesleen-m-freighter-wreck-st-lucia), [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/). Last updated 2026-07-03.*
+*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [PADI Blog - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [Caribbean-Diving.com - Lesleen M](https://caribbean-diving.com/dive-sites/lesleen-m-freighter-wreck-st-lucia), [Saint Lucia Tourism - Scuba Diving](https://stlucia.org/en/things-to-do/diving/), [DeeperBlue - The Little Known Wrecks of St. Lucia](https://www.deeperblue.com/the-little-known-wrecks-of-st-lucia/), [Stolen Time - Dive Sites in Saint Lucia](https://stolentime.com/dive-sites-in-saint-lucia), [Dune World - Lesleen M](https://dune-world.com/en-us/wrecks/lesleen-m). Last updated 2026-10-23.*

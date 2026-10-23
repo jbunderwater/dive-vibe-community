@@ -3,7 +3,7 @@ name: Tobago Cays
 lat: 12.6355
 lng: -61.3486
 difficulty: Beginner
-maxDepth: 12
+maxDepth: 15
 entryType: boat
 siteType: reef
 ref: null
@@ -17,7 +17,7 @@ Tobago Cays is a reef dive site in St. Vincent and the Grenadines, Caribbean.
 
 ## Overview
 
-Tobago Cays Marine Park protects a four-kilometer Horseshoe Reef enclosing five uninhabited cays (Petit Bateau, Petit Rameau, Baradal, Jamesby, and Petit Tabac), where green and hawksbill turtles graze openly on the seagrass beds inside the lagoon — sightings are nearly guaranteed, especially around Baradal. Diving inside the horseshoe lagoon is shallow and easy, while the outer reef offers deeper exploration; sources report maximum depths of 12-15 meters depending on which part of the reef is dived.
+Tobago Cays Marine Park is centred on the four-kilometre-long Horseshoe Reef, which encloses Petit Bateau, Petit Rameau, Baradal and Jamesby; Petit Tabac lies outside the reef to the east (Tobago Cays Marine Park). The shallow area inside the horseshoe contrasts with a deeper drop-off on the outside (SVG Tourism), and a local guide notes that Baradal is a turtle sanctuary where snorkelers stay over seagrass, while scuba divers may use deeper or more exposed sites with local operators. theDiveGlobe lists a maximum depth of 15 meters and an average of 8 meters, with beginner difficulty, water temperatures of 26-29 C and visibility that varies widely.
 
 ## Site Information
 
@@ -25,11 +25,11 @@ Tobago Cays Marine Park protects a four-kilometer Horseshoe Reef enclosing five 
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
+- **Maximum Depth**: 15 meters
 
 ## Marine Life
 
-Green and hawksbill turtles are virtually guaranteed here, grazing openly on the seagrass beds inside the Horseshoe Reef lagoon in numbers that are rare elsewhere in the Caribbean; the park's beaches and seagrass beds also serve as feeding and nesting grounds for leatherback turtles. Nurse sharks and eagle rays are commonly reported sightings within the marine park, and stingrays are seen across the sandy lagoon floor. Divers and snorkelers also report vibrant hard and soft coral cover and abundant reef fish within the protected lagoon.
+Green sea turtles are the documented highlight: theDiveGlobe describes dozens of green turtles in very shallow water, and SVG Tourism lists green turtles for the Cays. The marine park also protects sea turtle nesting sites and feeding areas. No other species were confirmed in current sources for this specific site, so none are named here; the wider Grenadines fauna applies in general.
 
 ---
-*Sources: [Tobago Cays Marine Park](https://www.tobagocays.org/about/), [theDiveGlobe - Tobago Cays](https://www.thediveglobe.com/app/ko/dive/tobago-cays-grenadines), [The Tobago Cays](https://thetobagocays.com/tobago-cays-snorkeling-diving-reef/), [Zentacle](https://www.zentacle.com/). Last updated 2026-07-03.*
+*Sources: [Tobago Cays Marine Park](https://www.tobagocays.org/about/), [theDiveGlobe - Tobago Cays](https://www.thediveglobe.com/app/ko/dive/tobago-cays-grenadines), [The Tobago Cays](https://thetobagocays.com/tobago-cays-snorkeling-diving-reef/), [SVG Tourism - Dive Sites](https://tourism.gov.vc/tourism/index.php/diving-a-watersports/63-dive-sites). Last updated 2026-10-23.*

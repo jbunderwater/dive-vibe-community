@@ -10,16 +10,17 @@ ref: null
 osmId: null
 addedBy: osm_import
 ---
-
 ## Kongsfjorden
 
-Kongsfjorden is one of the Arctic's most scientifically studied kelp-forest fjords, at 79 degrees north on Spitsbergen's west coast.
+Kongsfjorden is an intensively studied glacial fjord at about 79 degrees north on Spitsbergen's west coast.
 
 ## Overview
 
-Kongsfjorden is a 26 km long, 6-14 km wide glacial fjord fed by the Kronebreen and Kongsvegen tidewater glaciers, which calve directly into the sea. It has no sill at its entrance, so it receives Atlantic water inflow, and has been a Ramsar-listed wetland since 1985. It is one of the most intensively monitored kelp-forest ecosystems in the Arctic: long-term scientific diving surveys (part of the BlueARC research project) have tracked kelp forests dominated by large oarweed, winged kelp, and sugar kelp from the surface to 15-25 metres (red algae persist to at least 40 metres), documenting 62 macroalgal species overall. Kelp biomass at monitored sites has increased roughly 7-8 fold since the original 1996-98 surveys as sea ice has diminished, though sea urchin grazing has also intensified, with large aggregations observed grazing down kelp in the outer fjord as recently as May 2024.
+Kongsfjorden is about 26 km long and 6-14 km wide, headed by the Kronebreen and Kongsvegen glaciers, and has been a Ramsar-listed wetland since 24 July 1985 (Wikipedia). Oceanwide Expeditions describes it as an open fjord with no sill at its entrance.
 
-Documented marine life in the fjord includes polar cod, capelin, and the shrimp Pandalus borealis, plus a resident breeding population of ringed seals (roughly 50-100 pups born each March-April) and bearded seals. Beluga whales are seen from early spring through summer, with minke and fin whales foraging in warmer months. Visibility varies with glacial meltwater runoff.
+Scientific diving surveys in the fjord (the BlueARC project, revisiting transects first surveyed in 1996/98, including Hansneset) report kelp forests of oarweed (Laminaria digitata), winged kelp (Alaria esculenta) and sugar kelp (Saccharina latissima) extending from the surface to roughly 15-25 m, with red algae persisting to at least 40 m. Shallow kelp biomass at Hansneset (2.5 m) rose 7-8-fold since 1996/98, but brown algae have mostly disappeared below 10 m, which the researchers link to turbid glacial meltwater. Researchers also observed "hordes of sea urchins" in the outer fjord in May 2024. These are fjord-scale research findings, not a recreational dive-site report.
+
+Oceanwide Expeditions lists polar cod and capelin as the most common fish, Pandalus borealis as the most common shrimp, ringed seals (about 50-100 pups born in March-April), bearded seals, and beluga, minke and fin whales as fjord wildlife. Those are fjord-wide observations and not confirmed as seen by divers at a particular dive point.
 
 ## Site Information
 
@@ -30,4 +31,4 @@ Documented marine life in the fjord includes polar cod, capelin, and the shrimp 
 - **Maximum Depth**: 25 meters
 
 ---
-*Sources: [Norwegian Polar Institute — Scientific Diving in Kongsfjorden (BlueARC)](https://npolar.no/en/newsarticle/scientific-diving-in-kongsfjorden-svalbard-to-detect-climate-related-changes-in-the-kelp-forest-bluearc-project/), [Framforum — Climate-related changes detected in kelp forests](https://framforum.com/2025/03/14/scientific-diving-in-arctic-kelp-forests-to-detect-climate-related-changes/), [Wikipedia — Kongsfjorden](https://en.wikipedia.org/wiki/Kongsfjorden), [Oceanwide Expeditions — Say Hello to Kongsfjorden](https://oceanwide-expeditions.com/blog/say-hello-to-kongsfjorden-svalbard). Last updated 2026-07-05.*
+*Sources: [Wikipedia — Kongsfjorden](https://en.wikipedia.org/wiki/Kongsfjorden), [Framforum — Climate-related changes detected in kelp forests](https://framforum.com/2025/03/14/scientific-diving-in-arctic-kelp-forests-to-detect-climate-related-changes/), [Oceanwide Expeditions — Say Hello to Kongsfjorden](https://oceanwide-expeditions.com/blog/say-hello-to-kongsfjorden-svalbard). Last updated 2026-10-23.*

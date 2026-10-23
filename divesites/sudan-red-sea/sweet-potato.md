@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Sweet Potato
 
-A dive site in Sudan's Red Sea listed under the name "Sweet Potato" in this dataset; the name could not be independently confirmed.
+An entry named "Sweet Potato" in Sudan's Red Sea in this dataset; the name could not be confirmed.
 
 ## Overview
 
-**This site could not be independently verified.** No source found during research documents a Sudan Red Sea dive site named "Sweet Potato." Potato grouper (Epinephelus tukula) aggregations are documented by multiple sources at Sha'ab Rumi's South Plateau — it is possible this entry duplicates or mislabels that site rather than describing a distinct location, but that connection is not confirmed either. The previous description's specific claim of "30+ resident potato groupers" at this exact coordinate has been removed since it could not be traced to any source.
+Repeated searches (including 2026-10-23) found no dive site called Sweet Potato in Sudan in any operator, magazine or database source reviewed. The entry is retained only because it is mapped in OpenStreetMap.
 
 ## Site Information
 
-- **Location**: Central Sudan Red Sea (liveaboard access) — exact identity unconfirmed
+- **Location**: Sudan Red Sea (identity unconfirmed)
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
@@ -29,7 +29,11 @@ A dive site in Sudan's Red Sea listed under the name "Sweet Potato" in this data
 
 ## Marine Life
 
-No site-specific marine life source was found for this coordinate. Potato grouper are documented in Sudan's Red Sea (notably at Sha'ab Rumi South Plateau), but attributing them to this specific, unconfirmed site would not be supportable.
+No site-specific marine life reports were found for this site. The regional Sudan Red Sea fauna applies, but no species are attributed here.
+
+## Safety Considerations
+
+Dive within your certification limits, use a surface marker buoy, and confirm current conditions and official travel advisories with your liveaboard operator before booking.
 
 ---
-*Description based on limited, unconfirmed information. No independent source confirms this site's name, character, or marine life — flagged as unresolved pending further research. Last updated 2026-07-03.*
+*Sources: [Diving in Sudan - Dive the World](https://www.dive-the-world.com/diving-sites-sudan.php). Last updated 2026-10-23.*

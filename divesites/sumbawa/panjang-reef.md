@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Panjang Reef
 
-Panjang Reef is a submerged reef lying approximately 1 km off the northwest corner of Moyo Island, directly in front of a small coastal fishing village. It is one of the main dive sites for the Moyo Island area and is notable for its biodiversity and a rare Indo-Pacific resident.
+Panjang Reef is a submerged reef about 1 km off the northwest corner of Moyo Island, just north of Angel Reef.
 
 ## Overview
 
-Panjang is a banked, colourful reef sitting in shallow water north of Angel Reef. Common residents include bicolour angelfish, six-banded angelfish, yellow-bellied damsels, and harlequin sweetlips. The reef is perhaps best known as one of the few sites in Indonesia where patient, observant divers may encounter the blue-ringed octopus — its bright yellow colouration and distinctive blue rings are striking, though the animal is thumbnail-sized and its bite carries potent venom. Divers should never handle it. Depths to 30 m suit beginners and less experienced divers, and the site serves as a good check-out or first dive of the day. Visibility reaches 15–35 m in good conditions. Currents are occasional.
+Dive The World describes a banked, colourful reef. Neptune Liveaboards describes a gentler sloping reef with vibrant hard corals and dense schools of reef fish in the shallows. Asia Dive Site notes that a patient, observant diver may spot a blue-ringed octopus. ScubaBoard lists visibility of 20-35 m and currents that "can be strong".
+
+**Depth uncertainty**: the database records 30 m. ScubaBoard gives a range of 5 to over 40 m; other sources give no depth. The Beginner rating is therefore not firmly established.
 
 ## Site Information
 
@@ -26,18 +28,15 @@ Panjang is a banked, colourful reef sitting in shallow water north of Angel Reef
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
-- **Visibility**: 15–35 metres
-- **Best Season**: April–November
+- **Visibility**: 20-35 metres (ScubaBoard)
 
 ## Marine Life
 
-Bicolour angelfish, six-banded angelfish, yellow-bellied damsels, harlequin sweetlips, blue-ringed octopus (rare — do not touch).
+Bicolour angelfish, six-banded angelfish, yellow-bellied damsels, harlequin sweetlips and blue-ringed octopus are reported for Panjang Reef by Dive The World and ScubaBoard; Asia Dive Site and Neptune Liveaboards corroborate parts of this list (octopus and angelfish respectively).
 
 ## Safety Note
 
-The blue-ringed octopus is highly toxic — its venom is not treated by antivenom and can cause respiratory paralysis. Never touch or provoke one. Observation only.
+The blue-ringed octopus is venomous and can be dangerous. Observe only; never touch or provoke it.
 
 ---
-*Sources: [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php), [Asia Dive Site - Moyo Island](http://www.asiadivesite.com/indonesia-dive-sites/sumbawa/moyo-island.php), [ScubaBoard - Moyo National Park 5d/4n Cruise](https://scubaboard.com/community/threads/moyo-national-park-5d-4n-cruise.76167/), [Neptune Liveaboards - Sumbawa Diving & Liveaboard](https://www.neptuneliveaboards.com/blog/sumbawa-diving-liveaboard/). Last updated 2026-07-05.*
-
-*QA note (2026-07-05): Re-audited. The blue-ringed octopus claim is genuinely site-specific — dive-the-world.com, asiadivesite.com, and neptuneliveaboards.com each independently name Panjang Reef (not just "the Moyo area" generally) as a location where the species is observed. The other reef fish (bicolour angelfish, six-banded angelfish, yellow-bellied damsels, harlequin sweetlips) are corroborated the same way. This resolves the prior JSON/markdown mismatch: the JSON's `neptuneliveaboards.com` citation was actually valid, it had simply been omitted from this footer — it has now been added along with a ScubaBoard corroboration, bringing confirmed independent sources to 4. Validated status remains "true."*
+*Sources: [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php), [Asia Dive Site - Moyo Island](http://www.asiadivesite.com/indonesia-dive-sites/sumbawa/moyo-island.php), [ScubaBoard - Moyo National Park 5d/4n Cruise](https://scubaboard.com/community/threads/moyo-national-park-5d-4n-cruise.76167/), [Neptune Liveaboards - Sumbawa Diving & Liveaboard](https://www.neptuneliveaboards.com/blog/sumbawa-diving-liveaboard/). Last updated 2026-10-23.*

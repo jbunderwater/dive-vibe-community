@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Pinnacles (Anse Cochon)
 
-Pinnacles at Anse Cochon is a steep slope of large boulders and finger-like coral formations at a shallow maximum depth of 18 metres, with valleys and trenches creating varied topography.
+This entry covers the boat-accessible reef at Anse Cochon on St. Lucia's west coast.
 
 ## Overview
 
-Scuba St. Lucia's dive-site listing for "Anse Couchon" (an alternate spelling of Anse Cochon) directly matches this site: "a steep slope with large boulders covered in sponges and gorgonians." The structures here are draped in sea whips, gorgonian fans, and organ pipe corals.
+Scuba St. Lucia lists the site under the spelling "Anse Couchon" and describes it as "a steep slope with large boulders covered in sponges and gorgonians." St. Lucia Tourism separates Anse Cochon into north and south reefs; it describes the south reef as having boulders, walls, and pinnacles to about 12 m (40 ft), and the north reef at 5-60 ft. Bluewater Dive Travel also lists north and south reefs at Anse Cochon and describes the area as accessible and suitable for beginners.
+
+No source uses the exact label "Pinnacles (Anse Cochon)", so the match between this entry and the operators' Anse Cochon listings is approximate. The 18 m maximum depth below is not confirmed by the sources consulted.
 
 ## Site Information
 
@@ -27,9 +29,10 @@ Scuba St. Lucia's dive-site listing for "Anse Couchon" (an alternate spelling of
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 
+
 ## Marine Life
 
-Scuba St. Lucia's dive-site page directly attributes seahorses, scorpionfish, and cleaner shrimp to the shallow areas of this site. This corrects a prior data error in this database where those same species were mistakenly listed under Anse Chastanet Reef, a different bay. Hawksbill turtles and flounder were reported here in prior research (smmainc.com, divesaintlucia.com); those pages could not be re-fetched directly on this pass, so those two claims are carried forward rather than freshly re-verified today.
+Scuba St. Lucia reports seahorses, scorpionfish, and cleaner shrimp in the shallower parts of the reef.
 
 ---
-*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/), [Dive Saint Lucia - Dive Sites](https://divesaintlucia.com/dive-sites/). Last updated 2026-07-03.*
+*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [Saint Lucia Tourism - Scuba Diving](https://stlucia.org/en/things-to-do/diving/), [Bluewater Dive Travel - St. Lucia](https://www.bluewaterdivetravel.com/destination/scuba-diving-st-lucia). Last updated 2026-10-23.*

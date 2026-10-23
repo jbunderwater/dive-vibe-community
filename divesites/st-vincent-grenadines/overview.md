@@ -8,13 +8,13 @@ Tobago Cays Marine Park with Horseshoe Reef turtle encounters, volcanic black sa
 
 ## Description
 
-St. Vincent and the Grenadines offers diverse dive sites ranging from 10 to 36 meters depth, spread across the volcanic main island and the southern Grenadine cays. The Tobago Cays Marine Park anchors the diving with Horseshoe Reef and World's End Reef, where green turtles, nurse sharks, and eagle rays patrol pristine coral gardens. St. Vincent's leeward coast features volcanic formations with black sand muck diving and cave sites, while Union Island serves as the gateway to the southern Grenadines' uncrowded reefs.
+St. Vincent and the Grenadines offers diverse dive sites ranging from shallow macro sites to walls of 30 meters or more, spread across the volcanic main island and the southern Grenadine cays. The Tobago Cays Marine Park anchors the diving with Horseshoe Reef, where green turtles are the documented highlight. St. Vincent's leeward coast features volcanic formations with black sand muck diving and cave sites, while Union Island serves as the gateway to the southern Grenadines' uncrowded reefs.
 
 ### Diving Opportunities
 
-- **Boat Diving**: All sites are boat-accessible, with departures from St. Vincent, Bequia, Union Island, and Canouan
+- **Boat Diving**: Most sites are boat-accessible (New Guinea Reef is a shore entry), with departures from St. Vincent, Bequia, Union Island, and Canouan
 - **Wall Diving**: Wall sites along volcanic drop-offs on St. Vincent's leeward coast
-- **Reef Diving**: Reef sites including Horseshoe Reef and World's End Reef in the Tobago Cays, and Anchor Reef and Bottle Reef in the Grenadines
+- **Reef Diving**: Reef sites including Horseshoe Reef in the Tobago Cays and Bottle Reef on St. Vincent
 - **Cave Diving**: Cave site (Bat Cave) off St. Vincent's coast
 - **Muck Diving**: Muck diving site on St. Vincent's volcanic black sand slopes, offering critter hunting in an unusual Caribbean setting
 
@@ -29,8 +29,8 @@ St. Vincent and the Grenadines offers diverse dive sites ranging from 10 to 36 m
 ### Marine Life & Environment
 
 - **Water Conditions**: Water temperature 26-28°C year-round, visibility 15-25 meters, mild currents on most sites with stronger drift possible at exposed reef edges
-- **Marine Biodiversity**: Green sea turtles (resident population in Tobago Cays), nurse sharks, spotted eagle rays, southern stingrays, barracudas, seahorses, frogfish on muck sites, moray eels, and diverse reef fish. World's End Reef is known for eagle ray squadrons. Mopion Reef near Petit St. Vincent offers shark sightings.
-- **Conservation**: Tobago Cays Marine Park protects five islands and their surrounding reefs with regulated access and mooring buoys. The park supports a resident green turtle population and active reef monitoring programs.
+- **Marine Biodiversity**: Green turtles are documented at the Tobago Cays; macro life (frogfish, seahorses, flying gurnards) is reported at St. Vincent sites such as Anchor Reef and Critter Corner. Species lists are given on individual site pages only where site-specific sources exist.
+- **Conservation**: Tobago Cays Marine Park protects five islands and their surrounding reefs with regulated access and mooring buoys. The park includes sea turtle nesting sites and feeding areas.
 
 ## Additional Information
 
@@ -40,4 +40,4 @@ St. Vincent and the Grenadines offers diverse dive sites ranging from 10 to 36 m
 - **Safety**: No recompression chamber in St. Vincent and the Grenadines; nearest chambers on Barbados or Martinique. DAN insurance strongly recommended. Boat transfers between islands can be rough in trade wind season.
 
 ---
-*Sources: [CaribbeanDiveGuide - St. Vincent and the Grenadines](https://www.caribdiveguide.com/st_vincent.htm), [Bluewater Dive Travel - St. Vincent and the Grenadines](https://www.bluewaterdivetravel.com/st-vincent-and-grenadines-diving), [Grenadines Dive - Union Island](https://www.grenadinesdive.com/), [SVG Tourism - Dive Sites](https://tourism.gov.vc/tourism/index.php/diving-a-watersports/63-dive-sites). Last updated 2026-04-05.*
+*Sources: [CaribbeanDiveGuide - St. Vincent and the Grenadines](https://www.caribdiveguide.com/st_vincent.htm), [Bluewater Dive Travel - St. Vincent and the Grenadines](https://www.bluewaterdivetravel.com/st-vincent-and-grenadines-diving), [Grenadines Dive - Union Island](https://www.grenadinesdive.com/), [SVG Tourism - Dive Sites](https://tourism.gov.vc/tourism/index.php/diving-a-watersports/63-dive-sites). Last updated 2026-10-23 (destination-level text partially reviewed; water-condition figures not re-verified).*

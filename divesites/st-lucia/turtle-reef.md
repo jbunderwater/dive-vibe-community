@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Turtle Reef
 
-Turtle Reef is a crescent-shaped reef where, as the name suggests, hawksbill and green turtle encounters are common.
+Turtle Reef is a crescent-shaped reef near Anse Chastanet on St. Lucia's west coast.
 
 ## Overview
 
-Scuba St. Lucia's dive-site listing describes Turtle Reef as a "crescent-shaped reef that drops quickly from a plateau area starting at 40 feet [12m] to over 150 feet [45m+]," featuring pillar coral and barrel sponges. **Depth note**: the beginner-accessible plateau where most turtle encounters happen begins around 12 metres, but the reef face continues well beyond recreational depth limits (45m+) according to this source - the maximum-depth field below reflects the beginner-accessible plateau, not the full drop-off.
+Scuba St. Lucia describes a crescent-shaped reef that drops quickly from a plateau starting at 40 feet (about 12 m) to over 150 feet (45 m+), with pillar coral and barrel sponges. St. Lucia Tourism gives 40-150 feet. Stolen Time gives the same crescent-reef description and adds soft corals and ledges deeper down. The maximum-depth figure below reflects the plateau, not the full drop-off.
 
 ## Site Information
 
@@ -27,9 +27,10 @@ Scuba St. Lucia's dive-site listing describes Turtle Reef as a "crescent-shaped 
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 
+
 ## Marine Life
 
-Hawksbill and green turtles are directly confirmed by Scuba St. Lucia's listing for this site. Parrotfish, blue chromis, damselfish, moray eels, and spiny lobsters were reported in prior research; those specific claims could not be re-fetched from a live source on this pass and are retained as carried-forward rather than freshly re-verified today.
+Scuba St. Lucia and St. Lucia Tourism report hawksbill and green turtles, with Scuba St. Lucia noting them near turtle grass beds. Stolen Time says turtles visit only occasionally, so sightings are not guaranteed.
 
 ---
-*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/), [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/). Last updated 2026-07-03.*
+*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [Saint Lucia Tourism - Scuba Diving](https://stlucia.org/en/things-to-do/diving/), [Stolen Time - Dive Sites in Saint Lucia](https://stolentime.com/dive-sites-in-saint-lucia). Last updated 2026-10-23.*

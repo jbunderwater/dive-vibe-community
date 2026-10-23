@@ -13,13 +13,13 @@ addedBy: osm_import
 
 ## Little Angel
 
-Little Angel is a wall dive site on the west coast of Moyo Island, situated close to Angel Reef. Like its neighbour, it features a drop-off descending to significant depth along Moyo's western reef system.
+Little Angel is a dive site on the west coast of Moyo Island near Angel Reef. Documentation is thin and the recorded classification is in conflict with the one detailed source.
 
 ## Overview
 
-Little Angel lies close to Angel Reef on Moyo's west coast. One independent operator source (Emperor Divers' Lombok–Sumbawa–Komodo liveaboard itinerary) describes it as "the small sister of Angel Reef, a smaller reef slightly to the east" — a submerged plateau from 5–15 m with coral bommies and sandy slopes, rather than a wall. A ScubaBoard poster with multiple visits to Moyo also references Little Angel by name as a real, regularly-dived reef site, though without further depth or topography detail.
+Emperor Divers describes Little Angel as the small sister of Angel Reef, a submerged plateau at 5-15 m with coral bommies and sandy slopes. A ScubaBoard poster lists "Angel Reef, Little Angel, Angel Ridge" as reef dives at Moyo, with no further detail.
 
-**Data conflict flagged**: this single detailed source (Emperor Divers) describes a shallow plateau (5–15 m), which conflicts with the `wall` / 35 m classification currently recorded for this site. With only two independent domains found — short of the 3+ required to mark this validated — the existing site_type/depth fields have not been changed, but this discrepancy should be resolved with further research before the site is next reviewed.
+**Data conflict flagged**: the database records this site as a `wall` with a 35 m maximum depth. The only detailed source describes a 5-15 m plateau, and no source found describes a wall. These fields are unchanged pending a third source. Only two independent domains were found, so the site is not marked validated.
 
 ## Site Information
 
@@ -28,17 +28,10 @@ Little Angel lies close to Angel Reef on Moyo's west coast. One independent oper
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
-- **Best Season**: April–November
 
 ## Marine Life
 
-No site-specific marine life has been confirmed by a reliable source. Regional Coral Triangle/Indo-Pacific reef fauna applies (as at neighbouring Angel Reef and Panjang Reef), but no species have been specifically reported for Little Angel.
-
-## Dive Profile
-
-Insufficient site-specific information to describe a dive profile with confidence. Often dived on the same boat trip as Angel Reef, per general operator itineraries for the area.
+No site-specific marine-life reports were found for this site. The destination's regional fauna applies, but no species are named here.
 
 ---
-*Sources: [Emperor Divers - Lombok-Sumbawa-Komodo Liveaboard Itinerary](https://www.emperordivers.com/liveaboard-itinerary/lombok-sumbawa-komodo/), [ScubaBoard - Diving in Moyo, Indonesia](https://scubaboard.com/community/threads/diving-in-moyo-indonesia.656630/). Only 2 independent sources found; 3+ required for validation. Last updated 2026-07-05.*
-
-*Note: Little Angel is still not comprehensively documented in online dive databases. Previously cited sources (dive-the-world.com, asiadivesite.com, liveaboardindonesia.com) do not actually mention Little Angel by name on inspection — they were removed from this footer as unverifiable for this specific site.*
+*Sources: [Emperor Divers - Lombok-Sumbawa-Komodo Itinerary](https://www.emperordivers.com/liveaboard-itinerary/lombok-sumbawa-komodo/), [ScubaBoard - Diving in Moyo, Indonesia](https://scubaboard.com/community/threads/diving-in-moyo-indonesia.656630/). Only 2 independent sources found; 3+ required for validation. Last updated 2026-10-23.*

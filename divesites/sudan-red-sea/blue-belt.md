@@ -13,42 +13,35 @@ addedBy: osm_import
 
 ## Blue Belt
 
-Blue Belt, better known as the "Toyota Wreck," is a 103m cargo ship that struck Shaab Suedi reef in 1977 while carrying a hold full of Toyota vehicles, and now lies upside down on a steep slope roughly 75km north of Port Sudan.
+Blue Belt, better known as the Toyota Wreck (also spelled Blue Bell), is a cargo ship that struck the Sha'ab Suedi reef in December 1977 while carrying Toyota vehicles. She lies upside down on a slope, and her current position is largely beyond recreational range.
 
 ## Overview
 
-The Blue Belt was a general cargo ship built in 1950 by Howaldtswerke A.G. in Hamburg. On 2 December 1977, while sailing from Jeddah to Port Sudan carrying around 190 Toyota vehicles (cars, trucks, tractors, and spare parts), she struck Shaab Suedi reef — sources attribute the collision to poor winter weather and a navigational error, but the precise cause is not fully documented. Salvage attempts removed part of the cargo, scattering vehicles and parts around the site, and the ship eventually settled upside down on a roughly 30-degree slope. Historically, divers entered through a large hull opening around 36m and worked up through the interior toward the bow. In 2013, the hull reportedly slipped further off the reef, putting most of the structure beyond recreational diving range. The ship's flag/nationality and exact tonnage are not confirmed by any source found during research and are not stated here.
+Sources agree that the ship was a general cargo vessel launched in 1950, about 103 m long, that was lost on the Sha'ab Suedi reef about 75 km north of Port Sudan carrying Toyota vehicles. The builder, tonnage and flag are each given by only one source reviewed and are therefore not stated here.
+
+**Sinking (sources differ).** Two sources date the loss to 2 December 1977; another listing gives 6 December. The cause is attributed to a navigation error, with poor weather or poor visibility mentioned; sources note the exact circumstances are unclear, and smuggling stories are described as undocumented. Reported cargo varies: 190 Toyota vehicles in one source, 181 cars and six trucks in another, and 'at least 170' in a third.
+
+**Depth and position (sources differ).** Reported depth ranges include 15-85 m (Adrex), roughly 20 to 90 m (Cassiopeia Safari), and a wreck top at 56 m (Blue Force Fleet). Several sources report that the hull slipped further down the slope in or around 2013: Dive the World places it beyond recreational range, Cassiopeia Safari reports it past 60 m and states diving it is no longer permitted, and Egyptian Cruising Company reports about 100 m. Some vehicles that fell off the wreck rest on the reef at shallower depths (Blue Force Fleet). Confirm current access with your operator.
 
 ## Site Information
 
-- **Location**: Shaab Suedi Reef, ~75km north of Port Sudan
+- **Location**: Sha'ab Suedi, about 75 km north of Port Sudan
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Expert
-- **Depth Range**: 15-85 meters (much of the wreck is now beyond recreational limits following a 2013 shift)
-- **Note**: Wreck is upside down and largely beyond recreational range post-2013 — this is technical/deep diving territory only
+- **Maximum Depth**: 85 meters
 
 ## Marine Life
 
-Sources describe schools of trevally and snappers and occasional groupers around the wreck; no site-specific report of shark sightings was found and none is claimed here. The deep, technical nature of the site limits documented biodiversity compared to Sudan's shallower reefs.
+Cassiopeia Safari reports big-eye trevally, snappers, lunartail groupers and whitetip reef sharks at the wreck; Dive the World reports Napoleon wrasse and manta rays occasionally seen nearby, and corals and sponges growing on the vehicles.
 
-## Dive Profile
+## Wreck Notes
 
-This is a deep technical wreck dive. Historically, recreational-limit divers focused on upper sections around 21-40m before the reported 2013 shift; current accessibility of those upper sections is not confirmed by recent sources. Divers attempting this site should plan with their liveaboard's dive guides and confirm current conditions before entering the water — do not rely on older published depth figures without local verification.
-
-## Entry and Exit
-
-Access is exclusively via liveaboard from Port Sudan. Entry and exit are managed by the dive guide given the depth and technical nature of the site.
-
-## Tips and Recommendations
-
-- Confirm current wreck position and accessible depth with your liveaboard operator before diving — the site has shifted since being originally surveyed
-- Technical/deep diving certification is required for anything beyond the shallowest sections
-- Carry redundant depth-tracking instruments and appropriate decompression gas planning
+This is technical-depth diving only. Wreck penetration requires appropriate training and equipment and is never risk-free.
 
 ## Safety Considerations
 
-This is demanding, technical diving. Never attempt wreck penetration without appropriate training — interior exploration always carries risk and is never "safe," regardless of experience level. Nitrogen narcosis, decompression obligations, and limited visibility in silt are all relevant hazards at depth.
+Dive within your certification limits, use a surface marker buoy, and confirm current conditions and official travel advisories with your liveaboard operator before booking.
 
 ---
-*Sources: [Blue Belt - Toyota Wreck - Adrex.com](https://www.adrex.com/en/articles/water/scuba-diving/blue-belt-toyota-wreck-scuba-diving-sudan/), [The Blue Bell (Toyota Wreck) in Sudan - Red Sea Diving Safari](http://cassiopeiasafari.com/blue-bell-toyota-wreck/), [Sudan - Blue Belt (Toyota Wreck) - GoodDive](https://www.gooddive.com/egypt/blue-belt-wreck.htm). Last updated 2026-07-03.*
+*Sources: [Blue Belt - Toyota Wreck - Adrex](https://www.adrex.com/en/articles/water/scuba-diving/blue-belt-toyota-wreck-scuba-diving-sudan/), [Blue Bell (Toyota wreck) - Cassiopeia Safari](http://cassiopeiasafari.com/blue-bell-toyota-wreck/), [Diving in Sudan - Dive the World](https://www.dive-the-world.com/diving-sites-sudan.php), [Central & North Route - Blue Force Fleet](https://www.blueforcefleet.com/diving-sudan-red-sea/route-central-north/), [Sudan North & Mesharifa - Egyptian Cruising Company](https://www.egyptiancruising.com/itineraries/sudan-north-and-mesharifa/). Last updated 2026-10-23.*
