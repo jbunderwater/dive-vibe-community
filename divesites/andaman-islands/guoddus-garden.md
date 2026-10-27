@@ -2,7 +2,7 @@
 name: Guoddus Garden
 lat: 12.0218714
 lng: 92.8006998
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 25
 entryType: boat
 siteType: reef
@@ -24,7 +24,7 @@ Guoddus Garden is logged in OpenStreetMap as a dive site near Havelock Island at
 - **Location**: Andaman Islands, near Havelock Island (Swaraj Dweep)
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Current**: Unknown
 - **Best Time**: November to April (general Andaman season)

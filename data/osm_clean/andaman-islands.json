@@ -8,7 +8,7 @@
     "depth": 25,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Guoddus Garden",
       "scuba_diving:divespot": "Guoddus Garden",
@@ -16,7 +16,7 @@
       "validated": "false",
       "validation_source": "",
       "last_qa_date": "2026-07-10",
-      "qa_note": "Re-audited 2026-07-10 (fresh web search, not carried over from prior pass). Still no site-specific source found under any spelling variant (Guoddus, Guodus, Guddus). Checked Dive Andaman, Seahawks Scuba, Barefoot Scuba, DIVEIndia, ScubaLov, Frogman Adventures, Private Scuba, Gypsy Divers, The Divemaster Havelock via targeted WebSearch — none list a site by this name. Cannot validate; leaving validated=false rather than padding with weak sources."
+      "qa_note": "Re-audited 2026-07-10 (fresh web search, not carried over from prior pass). Still no site-specific source found under any spelling variant (Guoddus, Guodus, Guddus). Checked Dive Andaman, Seahawks Scuba, Barefoot Scuba, DIVEIndia, ScubaLov, Frogman Adventures, Private Scuba, Gypsy Divers, The Divemaster Havelock via targeted WebSearch — none list a site by this name. Cannot validate; leaving validated=false rather than padding with weak sources. 2026-10-27: difficulty raised Beginner -> Intermediate per the 18-30m depth rule (site depth 25m); no other fields changed."
     }
   },
   {
