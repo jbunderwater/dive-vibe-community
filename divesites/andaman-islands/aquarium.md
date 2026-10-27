@@ -17,7 +17,7 @@ A sheltered circular reef that really does look like an aquarium: dense fish, mu
 
 ## Site Information
 
-- **Location**: Havelock Island (Swaraj Dweep), Andaman Islands. Surface approximation on the southeast fringing reef of Havelock.
+- **Location**: Havelock Island (Swaraj Dweep), Andaman Islands. Surface approximation of the reef, not a mooring. Sources conflict on which side of Havelock it fringes (southeast per the Diver Atlas plate, southwest per some operator pages).
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
@@ -32,4 +32,4 @@ A sheltered circular reef that really does look like an aquarium: dense fish, mu
 Coordinates are a surface approximation, not a mooring or exact entry point. Dive within your certification and training limits and carry an SMB.
 
 ---
-*Sources: [Diver Atlas - Aquarium](https://www.diveratlas.com/sites/aquarium) (sourced encyclopedia plate; see plate for primary citations). Last updated 2026-10-27.*
+*Sources: [ScubaLov - Havelock dive sites](https://www.scubalov.in/havelock-island/havelock-dive-sites/), [Frogman - Dive sites in Havelock](https://frogman.in/dive-sites-in-havelock/), [Seahawks Scuba - Aquarium at Havelock Island](https://seahawksscuba.in/aquarium-at-havelock-island/), [Diver Atlas - Aquarium](https://www.diveratlas.com/sites/aquarium) (aggregating plate). Last updated 2026-10-27.*

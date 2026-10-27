@@ -190,95 +190,95 @@
     "name": "Aquarium",
     "lat": 11.9924,
     "lon": 93.0018,
+    "osm_id": null,
+    "osm_type": null,
     "depth": 16,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "diveratlas.com",
     "tags": {
       "source": "community_contribution",
-      "addedBy": "diveratlas",
+      "addedBy": "community_contribution",
       "validated": "true",
-      "validation_source": "https://www.diveratlas.com/sites/aquarium",
+      "validation_source": "scubalov.in,frogman.in,seahawksscuba.in",
       "last_qa_date": "2026-10-27",
-      "geo_note": "Surface approximation on the southeast fringing reef of Havelock."
+      "qa_note": "Added 2026-10-27 from community contribution (Diver Atlas plate aggregating three operator sources: ScubaLov, Frogman, Seahawks Scuba). Coordinates are a surface approximation of the reef, not a mooring. LOCATION CONFLICT: the plate places the reef on Havelock's southeast fringe while some operator pages say southwest - unresolved. Depth band 5-16m is the plate baseline; Seahawks gives 2-15m."
     }
   },
   {
     "name": "Nemo Reef",
     "lat": 12.0169,
     "lon": 92.9888,
+    "osm_id": null,
+    "osm_type": null,
     "depth": 16,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "diveratlas.com",
     "tags": {
       "source": "community_contribution",
-      "addedBy": "diveratlas",
+      "addedBy": "community_contribution",
       "validated": "true",
-      "validation_source": "https://www.diveratlas.com/sites/nemo-reef",
+      "validation_source": "scubalov.in,frogman.in,scubago.com,divessi.com",
       "last_qa_date": "2026-10-27",
-      "geo_note": "Shore entry off Beach No. 2. Surface approximation of the inner reef."
+      "qa_note": "Added 2026-10-27 from community contribution (Diver Atlas plate; primaries ScubaLov, Frogman, ScubaGo/DIVEIndia). Beach No. 2 shore entry per Frogman. Sunken jeep ('Ghost Jeep', a Mahindra Commander at 6-8m) independently confirmed via SSI MyDiveGuide. Depth sources range 2-16m (ScubaLov) to 15-20m max (older DIVEIndia profile); 16m kept as baseline. NOTE: ScubaLov states it no longer dives Nemo Reef to reduce pressure on the site; other operators still use it for training - unresolved."
     }
   },
   {
     "name": "Turtle Beach",
     "lat": 12.0412,
     "lon": 93.0126,
+    "osm_id": null,
+    "osm_type": null,
     "depth": 10,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "diveratlas.com",
     "tags": {
       "source": "community_contribution",
-      "addedBy": "diveratlas",
+      "addedBy": "community_contribution",
       "validated": "true",
-      "validation_source": "https://www.diveratlas.com/sites/turtle-beach",
+      "validation_source": "scubalov.in,frogman.in",
       "last_qa_date": "2026-10-27",
-      "geo_note": "Surface approximation on the eastern shallow reef of Havelock."
+      "qa_note": "Added 2026-10-27 from community contribution (Diver Atlas plate; primaries ScubaLov, Frogman). Coordinates are a surface approximation. DEPTH CONFLICT: ScubaLov lists 5-24m while Frogman and the plate baseline give 5-10m; 10m kept, the 24m figure flagged by the plate as under review."
     }
   },
   {
     "name": "Pilot Reef",
     "lat": 12.0515,
     "lon": 92.9912,
+    "osm_id": null,
+    "osm_type": null,
     "depth": 25,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "diveratlas.com",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
-      "addedBy": "diveratlas",
+      "addedBy": "community_contribution",
       "validated": "true",
-      "validation_source": "https://www.diveratlas.com/sites/pilot-reef",
+      "validation_source": "diveindia.com,scubalov.in",
       "last_qa_date": "2026-10-27",
-      "geo_note": "Surface approximation near the channel entrance north-west of Havelock."
+      "qa_note": "Added 2026-10-27 from community contribution (Diver Atlas plate; primaries DIVEIndia 2018 site page, ScubaLov index). DEPTH CONFLICT: DIVEIndia's 2018 profile gives tiered maxima of 12/18/25m by certification while a later DIVEIndia list compresses the site to 16-18m; 25m kept as the published maximum, difficulty set to Intermediate per the 18-30m rule. Coordinates are a surface approximation near the channel entrance."
     }
   },
   {
     "name": "Mac Point",
     "lat": 12.0286,
     "lon": 93.0041,
+    "osm_id": null,
+    "osm_type": null,
     "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "diveratlas.com",
     "tags": {
       "source": "community_contribution",
-      "addedBy": "diveratlas",
-      "validated": "true",
-      "validation_source": "https://www.diveratlas.com/sites/mac-point",
+      "addedBy": "community_contribution",
+      "validated": "false",
+      "validation_source": "frogman.in",
       "last_qa_date": "2026-10-27",
-      "geo_note": "Surface approximation on a shallow seagrass/reef edge east of Havelock."
+      "qa_note": "Added 2026-10-27 from community contribution (Diver Atlas plate). Single named primary source (Frogman) - left unvalidated pending a second independent source. Dugong sightings reported but never guaranteed. Coordinates deliberately coarsened because of dugong forage-site sensitivity; treat as approximate."
     }
   }
 ]

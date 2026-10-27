@@ -22,7 +22,7 @@ Shallow staghorn gardens (often cited around 80% live cover) with regular green 
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
-- **Depth Range**: 5–10 m (typical ~7 m)
+- **Depth Range**: 5–10 m (typical ~7 m). Depth conflict: ScubaLov lists 5–24 m for this site; Frogman and the Diver Atlas baseline give 5–10 m, and the deeper figure is flagged as under review
 - **Recommended Level**: Open Water
 - **Current**: Mild
 - **Best Time**: October–May (peak December–April). Monsoon June–September.
@@ -32,4 +32,4 @@ Shallow staghorn gardens (often cited around 80% live cover) with regular green 
 Coordinates are a surface approximation, not a mooring or exact entry point. Dive within your certification and training limits and carry an SMB.
 
 ---
-*Sources: [Diver Atlas - Turtle Beach](https://www.diveratlas.com/sites/turtle-beach) (sourced encyclopedia plate; see plate for primary citations). Last updated 2026-10-27.*
+*Sources: [ScubaLov - Turtle Beach](https://www.scubalov.in/havelock-island/havelock-dive-sites/turtle-beach/), [Frogman - Dive sites in Havelock](https://frogman.in/dive-sites-in-havelock/), [Diver Atlas - Turtle Beach](https://www.diveratlas.com/sites/turtle-beach) (aggregating plate). Last updated 2026-10-27.*

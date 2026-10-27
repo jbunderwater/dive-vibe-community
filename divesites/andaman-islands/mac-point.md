@@ -27,9 +27,13 @@ Seagrass meadows and a quiet coral edge. Turtles are regular; dugong are reporte
 - **Current**: Mild
 - **Best Time**: October–May (peak December–April). Monsoon June–September.
 
+## Sourcing Note
+
+Only one named primary source (Frogman) could be confirmed for this site, so it is recorded as unvalidated pending a second independent source. Dugong sightings are reported here more than at most Havelock sites, but are never guaranteed.
+
 ## Safety Considerations
 
 Coordinates are a surface approximation, not a mooring or exact entry point. Dive within your certification and training limits and carry an SMB.
 
 ---
-*Sources: [Diver Atlas - Mac Point](https://www.diveratlas.com/sites/mac-point) (sourced encyclopedia plate; see plate for primary citations). Last updated 2026-10-27.*
+*Sources: [Frogman - Dive sites in Havelock](https://frogman.in/dive-sites-in-havelock/), [Diver Atlas - Mac Point](https://www.diveratlas.com/sites/mac-point) (aggregating plate). No second independent source found. Last updated 2026-10-27.*
