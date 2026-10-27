@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Pfeiffer Reef
 
-Pfeiffer Reef is a coral reef site in northern Sudan's Red Sea, reached via liveaboard.
+Pfeiffer Reef is a reef in northern Sudan's Red Sea listed in a dive-planning database. It could not be independently verified.
 
 ## Overview
 
-**This site could not be independently verified.** A listing for Pfeiffer Reef exists in one dive site database (divescover.com), confirming the name is used in the industry, but repeated attempts to retrieve that page's content and to find any second independent source describing its depth, marine life, or specific character were unsuccessful. The detailed narrative previously published here (currents, pelagic species, specific depth profile) could not be traced to any verifiable source and has been removed rather than repeated. This entry is retained with only structural data (location, coordinates) until a genuine source is found.
+A DivePlannerPro listing names Pfeiffer Reef as an advanced boat dive in northern Sudan with reef, wall and plateau topography, but gives no depth, no coordinates, and wording that appears templated across many Sudan listings. A search of Dive the World, Blue Force Fleet, DeeperBlue, Divernet, Royal Evolution and Scuba Diving magazine found no mention. The species list on that listing is identical to those on other listings and is not repeated here.
 
 ## Site Information
 
@@ -29,7 +29,11 @@ Pfeiffer Reef is a coral reef site in northern Sudan's Red Sea, reached via live
 
 ## Marine Life
 
-No site-specific marine life source was found for Pfeiffer Reef. Sudan's Red Sea reefs generally support hard and soft coral cover with reef fish, sharks, and occasional pelagics, but no species are attributed to this specific site without confirmation.
+No site-specific marine life reports were found for this site. The regional Sudan Red Sea fauna applies, but no species are attributed here.
+
+## Safety Considerations
+
+Dive within your certification limits, use a surface marker buoy, and confirm current conditions and official travel advisories with your liveaboard operator before booking.
 
 ---
-*Description based on limited, unconfirmed information. Only one weak source (a database listing with unavailable content) was found — this site is flagged as unresolved pending further research. Last updated 2026-07-03.*
+*Sources: [Pfeiffer Reef - DivePlannerPro](https://diveplannerpro.com/spots/sd/northern/pfeiffer-reef-northern-sd). Last updated 2026-10-23.*

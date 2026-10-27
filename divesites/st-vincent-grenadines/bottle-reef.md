@@ -17,7 +17,7 @@ Bottle Reef is a reef dive site in St. Vincent and the Grenadines, Caribbean.
 
 ## Overview
 
-Bottle Reef takes its name from the rum and gin bottles discarded by soldiers stationed at Fort Charlotte, the 1806 fortification whose cliff face looms directly above the site; antique bottles are still scattered through the coral garden below. Shoals of fish move through the reef beneath the fort. The reef lies at depths to around 22 meters.
+Bottle Reef lies below the cliffs near Fort Charlotte on St. Vincent. Soldiers from the fort threw gin and rum bottles from the cliff top, and old, encrusted bottles remain among the coral (Dive Training Magazine); Scuba Diving Magazine's dive-area guide describes a coral garden with shoals of fish and antique bottles. No source reviewed states the depth; the data file lists 22 meters as an unconfirmed estimate.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Bottle Reef takes its name from the rum and gin bottles discarded by soldiers st
 
 ## Marine Life
 
-Correction: an earlier version of this page listed red-lipped batfish, flying gurnards, seahorses, frogfish, yellowhead jawfish, electric rays, and peacock flounders here. Research found those specific species are documented for "The Steps," a separate Fort Charlotte-area dive site nearby — not Bottle Reef. No source ties that species list specifically to Bottle Reef itself; confirmed reports describe "shoals of fish" moving through the bottle-strewn coral garden. St. Vincent's broader "critter capital" reputation applies to the region, but no site-specific critter inventory was found for Bottle Reef.
+Dive Training Magazine reports schools of blackbar soldierfish and various small creatures at Bottle Reef. No further site-specific species were found.
 
 ---
-*Sources: [Dive St. Vincent](https://www.divestvincent.com/DiveSites2.html), [Dive Training Magazine - Treasure Islands: St. Vincent and the Grenadines](https://dtmag.com/thelibrary/treasure-islands-st-vincent-and-the-grenadines/), [Scuba Diving Magazine](https://www.scubadiving.com/dive-areas-st-vincent-grenadines). Last updated 2026-07-03.*
+*Sources: [Dive Training Magazine](https://dtmag.com/thelibrary/treasure-islands-st-vincent-and-the-grenadines/), [Scuba Diving Magazine](https://www.scubadiving.com/dive-areas-st-vincent-grenadines), [Dive St. Vincent](https://www.divestvincent.com/). Last updated 2026-10-23.*

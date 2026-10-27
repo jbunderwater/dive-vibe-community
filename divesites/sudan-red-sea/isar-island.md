@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Isar Island
 
-A dive site listed under the name "Isar Island" in Sudan's extreme southern Red Sea; the name could not be independently confirmed.
+An entry named "Isar Island" in Sudan's extreme southern Red Sea in this dataset; the name could not be confirmed.
 
 ## Overview
 
-**This site could not be independently verified.** No source found during research documents a Sudan dive site named "Isar Island," despite multiple searches and alternate spellings. As with the nearby "Dibsel Island" entry in this dataset, this name does not match any site on the documented Deep South reef circuit (Barra Musa Kebir/Saghir, Keary, Logan, Protector, Preserver, Karam Masamirit, Dahrat Qab, Dahrat Abid, Shaab Loka, Shaab Tawil). The detailed description previously published here (silky shark encounters, cold upwellings, specific current patterns) could not be traced to any source and has been removed.
+Repeated searches (including 2026-10-23) found no dive site called Isar Island in any source reviewed, including the Deep South coverage from Divernet and Scuba Diving magazine. The entry is retained only because it is mapped in OpenStreetMap.
 
 ## Site Information
 
-- **Location**: Extreme southern Sudan Red Sea (Deep South liveaboard route) — exact identity unconfirmed
+- **Location**: Extreme southern Sudan Red Sea (identity unconfirmed)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
@@ -29,7 +29,11 @@ A dive site listed under the name "Isar Island" in Sudan's extreme southern Red 
 
 ## Marine Life
 
-No site-specific marine life source was found. No species are attributed to this specific, unconfirmed site.
+No site-specific marine life reports were found for this site. The regional Sudan Red Sea fauna applies, but no species are attributed here.
+
+## Safety Considerations
+
+Dive within your certification limits, use a surface marker buoy, and confirm current conditions and official travel advisories with your liveaboard operator before booking.
 
 ---
-*Description based on limited, unconfirmed information. No independent source confirms this site's name or character — flagged as unresolved pending further research. Last updated 2026-07-03.*
+*Sources: [Southern Sudan Odyssey - Divernet](https://divernet.com/world-dives/africa/southern-sudan-odyssey/). Last updated 2026-10-23.*

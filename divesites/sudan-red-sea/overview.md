@@ -4,39 +4,25 @@ addedBy: osm_import
 
 ## Sudan Red Sea
 
-Pristine Red Sea reefs, shark encounters, and WWII wrecks in remote waters.
+Offshore reefs, shark sites and WWII-era wrecks in the Sudanese Red Sea, reached almost entirely by liveaboard.
 
 ## Description
 
-Sudan Red Sea is a premier diving destination in the Middle East region, offering dive sites ranging from shallow reef diving (as shallow as 12m at Abu Seif) to deep walls, pinnacles, and technical wrecks (65-85m at the Levanzo and Blue Belt wrecks). Water temperatures average 22-30°C (72-86°F), with visibility typically reaching 20-40 meters (65-130 feet). Year-round diving is possible, with the best conditions during September to May. Sudan Red Sea is accessible only by liveaboard; the destination-wide minimum difficulty rating applied across this dataset is Advanced.
+Dive operators and travel guides describe Sudan's diving as almost exclusively liveaboard-based, with trips typically running seven to ten days from Port Sudan. Highlights covered in this dataset include the SS Umbria wreck near Wingate Reef, the Blue Belt (Toyota) wreck at Sha'ab Suedi, the Conshelf II remains at Sha'ab Rumi, the Sanganeb atoll (part of a UNESCO World Heritage serial site inscribed in 2016), shark sites such as Angarosh, Shaab Jimna and Dahrat Abid in the south, and the remote Elba Reef on the Egypt-Sudan border. Because access is by liveaboard to exposed offshore sites, the destination-wide minimum difficulty applied across this dataset is Advanced.
 
-### Diving Opportunities
+### Conditions and Season
 
-- **Boat Diving**: Boat-accessible sites reached through local dive operators
-- **Wreck Diving**: Wreck sites ranging from historic vessels to purpose-sunk artificial reefs
-- **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
-- **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
+- **Depth and visibility**: One operator lists a general depth range of 5-40 m; individual site pages give site-specific figures, and visibility figures vary by site (for example 10-15 m reported at the Umbria wreck and 10-30 m at Shaab Jimna).
+- **Hammerheads**: Dive the World reports hammerheads at Sha'ab Rumi from November to April.
+- **Manta rays**: Mantas gather at the Mesharifa lagoon from roughly August to November.
 
-### Accessibility
+### Marine Life
 
-- **Getting There**: Sudan Red Sea is accessible via international and regional flights to nearby airports. Check with airlines for current routes and connections.
-- **Dive Operators**: Professional dive operators offer equipment rental, guided dives, certification courses, and boat trips to offshore sites.
-- **Accommodation**: Options range from dedicated dive resorts to budget-friendly guesthouses, with many properties located near popular dive sites.
-- **Transportation**: Local transportation and dive operator transfers are the primary means of reaching dive sites.
-- **Facilities**: Dive sites vary in available amenities; operator-run sites typically provide comprehensive facilities while remote sites may have limited infrastructure.
+Species are listed only on the individual site pages where a source reports them at that site. Several sites have no site-specific reports; for those the regional Red Sea fauna applies but no species are named.
 
-### Marine Life & Environment
+### Safety and Travel
 
-- **Water Conditions**: Water temperatures range from 22-30°C (72-86°F) with visibility of 20-40 meters (65-130 feet). Currents are generally moderate to strong.
-- **Marine Biodiversity**: Species confirmed by multiple sources across this destination's individual sites include hammerhead sharks, grey reef sharks, silvertip sharks, whitetip reef sharks, tiger sharks, manta rays, and barracuda. Whale sharks and dolphins are not confirmed by site-specific sources for Sudan Red Sea in this research pass and have been removed from this general list; see individual site pages for species confirmed at each location.
-- **Conservation**: Marine protected areas help preserve the reef ecosystems and regulate diving activities.
-
-## Additional Information
-
-- **Best Time to Visit**: September to May. Diving is possible year-round.
-- **Currency**: Sudanese Pound (SDG)
-- **Language**: Arabic, English
-- **Safety**: Always dive within certification limits. Be aware of strong currents, fire coral, lionfish stings. Verify the location of the nearest hyperbaric chamber before diving.
+Dive within certification limits and use a surface marker buoy. Check current official travel advisories before planning a trip, as listings for Sudan carry travel warnings, and confirm itineraries and conditions with your liveaboard operator.
 
 ---
-*Sources: [Diving in Sudan - dive-the-world.com](https://www.dive-the-world.com/diving-sites-sudan.php), [Five Great Dive Sites in Sudan's Red Sea - Scuba Diving Magazine](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Diving in Sudan - Royal Evolution](https://royalevolution.com/diving-in-sudan/). Last updated 2026-07-03.*
+*Sources: [Diving in Sudan - Dive the World](https://www.dive-the-world.com/diving-sites-sudan.php), [Central & North Route - Blue Force Fleet](https://www.blueforcefleet.com/diving-sudan-red-sea/route-central-north/), [Sanganeb and Dungonab Bay - WorldHeritageSite.org](https://www.worldheritagesite.org/list/id/262), [Sudan North & Mesharifa - Egyptian Cruising Company](https://www.egyptiancruising.com/itineraries/sudan-north-and-mesharifa/). Last updated 2026-10-23.*

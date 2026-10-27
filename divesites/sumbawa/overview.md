@@ -14,29 +14,29 @@ Sumbawa stretches across the north coast of the island of the same name in Nusa 
 
 - **Wall Diving**: Sites including Angel Reef, Little Angel, Sumbawa Wall, and Tanjung Batu Putih, with dramatic sheer drop-offs and pelagic visitors around Moyo Island
 - **Reef Diving**: Sites ranging from sheltered Panjang Reef (30m, suitable for beginners) to current-swept Tanduk Rusa and Rollercoaster (advanced, with strong drift conditions)
-- **Muck Diving**: Sites (Satonda Reef at the sunken volcanic caldera, Tikno Reef) with black sand critter habitat including blue-ringed octopus and frogfish
+- **Muck Diving**: Sites (Satonda Reef at the sunken volcanic caldera, Tikno Reef) with black sand critter habitat (see individual site pages for site-specific reports)
 - **Boat Diving**: All sites are boat-access, reached from Moyo Island resorts or liveaboard vessels
 
 ### Accessibility
 
-- **Getting There**: Fly to Sumbawa Besar (SWQ) or Bima (BMU) from Bali (DPS) or Lombok (LOP) via Wings Air or Citilink. Regular ferries connect Lombok to Poto Tano (western Sumbawa) and Sape (eastern Sumbawa). Most divers visit via liveaboard on multi-destination itineraries bridging Komodo and Alor.
-- **Dive Operators**: Roctopus Dive on Moyo Island and Maleo Moyo Scuba Divers operate from shore-based resorts. Liveaboard operators including Majik, Coralia, Lamima, and The Seven Seas include Sumbawa on their Komodo-Alor routes.
-- **Accommodation**: Moyo Island has several resorts ranging from budget dive lodges to the luxury Amanwana resort. Sumbawa Besar and Bima have standard hotels. Liveaboards are the most common accommodation for visiting multiple dive areas.
+- **Getting There**: Confirm airports, ferries and transfers with your operator. Most divers visit via liveaboard on multi-destination itineraries bridging Komodo and Alor.
+- **Dive Operators**: Roctopus Dive on Moyo Island and Maleo Moyo Scuba Divers operate from shore-based resorts. Liveaboard operators include Sumbawa on Lombok-Komodo itineraries (e.g., Emperor Divers).
+- **Accommodation**: Moyo Island has resorts offering diving (e.g., Amanwana dive centre, Maleo Moyo). Sumbawa Besar and Bima have standard hotels. Liveaboards are the most common accommodation for visiting multiple dive areas.
 - **Transportation**: Boat transfers from Moyo Island resorts to nearby dive sites. Sangeang Island and eastern sites require longer boat rides or liveaboard access.
-- **Facilities**: Basic facilities in Sumbawa Besar and Bima. Moyo Island resorts are self-contained. No hyperbaric chamber on Sumbawa; nearest is in Bali or Lombok.
+- **Facilities**: Basic facilities in Sumbawa Besar and Bima; Moyo Island resorts are self-contained. Confirm medical and hyperbaric arrangements with your operator before travel.
 
 ### Marine Life & Environment
 
 - **Water Conditions**: Water temperature ranges from 24-28C depending on season and site. Visibility varies widely from 10 meters at nutrient-rich sites to 30+ meters at outer walls. Currents range from gentle in sheltered bays to strong at exposed sites like Rollercoaster and Tanduk Rusa.
-- **Marine Biodiversity**: Whale sharks visit Saleh Bay to feed on baitfish aggregations. Sangeang Island's geothermal vents create a unique habitat with bubbling black sand and heat-tolerant coral communities. Sites support reef sharks, turtles, eagle rays, schooling tuna and barracuda, ribbon eels, pygmy seahorses, blue-ringed octopus, and frogfish. Moyo Island's marine park protects healthy hard coral walls with abundant reef fish.
-- **Conservation**: Moyo Island is a designated nature reserve with protected coastline and reefs. Commercial fishing is restricted, and the coral reefs benefit from conservation area status. Sangeang and Satonda are geological reserves.
+- **Marine Biodiversity**: Species are documented per site on the individual site pages. No destination-wide species list is given here because only site-specific reports are used. Sangeang Island has volcanic gas vents with warm sand at Hot Rocks.
+- **Conservation**: Satonda Island was designated a Marine Nature Park (TWAL) in 1999 per Wikipedia. Operators report dynamite-fishing damage on the wall at Angel Reef, so protection status does not guarantee undamaged reefs.
 
 ## Additional Information
 
-- **Best Time to Visit**: April to November for the calmest conditions. Whale shark encounters in Saleh Bay are reported year-round but are more frequent during the wet season. Liveaboard itineraries typically operate from April to November.
+- **Best Time to Visit**: April to November for the calmest conditions. Liveaboard itineraries typically operate from April to November.
 - **Currency**: Indonesian Rupiah (IDR)
 - **Language**: Indonesian (Bahasa Indonesia) and Sumbawan/Bimanese locally
-- **Safety**: Current-swept sites like Rollercoaster and Tanduk Rusa require advanced skills and drift diving experience. Sangeang's geothermal sites require awareness of hot water vents on the bottom. The region is remote with limited medical facilities; the nearest hyperbaric chamber is in Bali.
+- **Safety**: Current-swept sites like Rollercoaster and Tanduk Rusa require advanced skills and drift diving experience. Sangeang's geothermal sites require awareness of hot water vents on the bottom. The region is remote with limited medical facilities; confirm evacuation and chamber arrangements with your operator.
 
 ---
-*Sources: [Liveaboard Indonesia - Sumbawa](https://liveaboardindonesia.com/destinations/sumbawa/), [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php), [Roctopus Dive Moyo Island](https://roctopusdivemoyoisland.com/), [Maleo Moyo Scuba Divers](https://scubadivemoyo.com/). Last updated 2026-04-05.*
+*Sources: [Liveaboard Indonesia - Sumbawa](https://liveaboardindonesia.com/destinations/sumbawa/), [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php), [Roctopus Dive Moyo Island](https://roctopusdivemoyoisland.com/), [Maleo Moyo Scuba Divers](https://scubadivemoyo.com/). Last updated 2026-10-23.*

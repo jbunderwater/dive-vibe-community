@@ -3,7 +3,7 @@ name: Anse La Raye Wall
 lat: 13.94
 lng: -61.05
 difficulty: Advanced
-maxDepth: 40
+maxDepth: 34
 entryType: boat
 siteType: wall
 ref: null
@@ -13,23 +13,24 @@ addedBy: osm_import
 
 ## Anse La Raye Wall
 
-Anse La Raye Wall — named for the "Bay of Rays" — is a mix of steep sloping reef and vertical wall on St. Lucia's northwest coast, with a main wall that PADI reports starting at 18 metres and descending to 34 metres.
+Anse La Raye Wall is a wall and slope dive off the village of Anse La Raye on St. Lucia's west coast. The name is commonly translated as "Bay of Rays."
 
 ## Overview
 
-The dive begins over a shallow wall covered in brightly coloured fire coral before dropping onto huge boulders and then a densely coral-covered slope and vertical wall face. PADI's own site guide puts the main wall between 18 metres (60 feet) and 34 metres (110 feet), lined with gorgonian fans, sea whips, and huge barrel sponges — a combination reconfirmed independently by a fresh search of divein.com's St. Lucia dive guide, which cites the same depth range and features. PADI recommends Advanced Open Water certification and drift-diving experience for this site, noting it as excellent for wide-angle underwater photography.
+Scuba St. Lucia describes "a dramatic wall" falling from the surface, covered in sea whips, gorgonians, and soft coral, with delicate soft corals and large feather duster worms. PADI describes a mix of steep sloping reef and vertical walls, with the wall starting around 60 ft (18 m) and descending to about 110 ft (34 m), prone to currents; it recommends Advanced Open Water certification and drift-diving experience. St. Lucia Tourism gives the same 60-110 ft range. Stolen Time describes a shallow wall above a slope covered in huge boulders, with fire coral, purple vase sponges, and barrel sponges.
 
 ## Site Information
 
-- **Location**: Anse La Raye, St. Lucia, Caribbean
+- **Location**: Anse La Raye, St. Lucia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
+- **Maximum Depth**: 34 meters
+
 
 ## Marine Life
 
-Stingrays and eagle rays "abound" at this site per PADI's dive guide — the most consistently corroborated sighting here. Prior claims that turtles are "more common here than anywhere else in the Soufrière area," along with Bermuda chubs, spotted drums, and jacks, could not be reconfirmed by any source consulted on this pass and have been removed rather than repeated without support.
+PADI and St. Lucia Tourism report frequent stingrays and eagle rays. Stolen Time reports jacks, Bermuda chub, spotted drums, and turtles (calling it probably the best place to spot turtles in the area; this is a single-source claim).
 
 ---
-*Sources: [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [DIVEIN - Diving in St. Lucia](https://www.divein.com/diving/destination/diving-in-st-lucia/), [Ti Kaye Resort - Dive Sites](https://tikaye.com/diving/dive-sites/). Last updated 2026-07-03.*
+*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [PADI Blog - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [Saint Lucia Tourism - Scuba Diving](https://stlucia.org/en/things-to-do/diving/), [Stolen Time - Dive Sites in Saint Lucia](https://stolentime.com/dive-sites-in-saint-lucia). Last updated 2026-10-23.*

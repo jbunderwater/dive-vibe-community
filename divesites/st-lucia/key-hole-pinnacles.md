@@ -13,23 +13,24 @@ addedBy: osm_import
 
 ## Key Hole Pinnacles
 
-Key Hole Pinnacles is one of St. Lucia's most celebrated dive sites, featuring four dramatic volcanic seamounts that rise from depth to within a few feet of the surface — an underwater echo of the island's iconic Pitons above.
+Key Hole Pinnacles is a site of four volcanic seamounts that rise from deep water to within a few feet of the surface off St. Lucia's west coast.
 
 ## Overview
 
-PADI's dive guide describes the site as "four dramatic seamounts that rise from the depths, almost up to the surface," encrusted with black and orange gorgonian sea fans. A fresh search of divein.com's St. Lucia guide independently corroborates the same four-seamount description and notes the site was voted one of the "10 Best Dive Sites" by Caribbean Travel & Life. Scuba St. Lucia's own listing (under the name "Pinnacles") and the Soufrière Marine Management Association both describe the same four-seamount formation with mild currents channelling between the peaks.
+PADI describes it as "much like an underwater version of the Pitons," with four dramatic seamounts rising from the depths almost to the surface and covered in black and orange gorgonian sea fans. Scuba St. Lucia lists the same four-seamount formation under the name "Pinnacles" and calls it its most visually stunning site. Stolen Time and St. Lucia Tourism describe the same structure, the latter adding barrel sponges and tube corals. Bluewater Dive Travel describes the site as challenging and aimed at experienced divers. Published sources do not give a firm maximum depth; the 30 m figure below is a curated estimate.
 
 ## Site Information
 
-- **Location**: St. Lucia, Caribbean
+- **Location**: West coast, near Soufrière, St. Lucia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 
+
 ## Marine Life
 
-Trumpetfish, filefish, and seahorses are confirmed across multiple sources (PADI, SMMA, Scuba St. Lucia); frogfish are confirmed by both SMMA and PADI; grouper is reported by PADI. Snappers, pufferfish, horse-eye jacks, and barracuda were listed in a prior version of this page but are not attributed to this specific site by any source consulted on this pass and have been removed, as were unconfirmed whale shark and ocean sunfish claims from an earlier audit.
+Scuba St. Lucia reports trumpetfish, filefish, and sometimes seahorses sheltering among the structures. PADI additionally reports sleepy grouper, color-changing filefish, and frogfish, and Stolen Time reports grouper, jack, and snapper. St. Lucia Tourism reports moray eels.
 
 ---
-*Sources: [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/), [DIVEIN - Diving in St. Lucia](https://www.divein.com/diving/destination/diving-in-st-lucia/), [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/). Last updated 2026-07-03.*
+*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [PADI Blog - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [Saint Lucia Tourism - Scuba Diving](https://stlucia.org/en/things-to-do/diving/), [The Moorings - Best Diving in St. Lucia](https://www.moorings.com/blog/best-diving-st-lucia), [Stolen Time - Dive Sites in Saint Lucia](https://stolentime.com/dive-sites-in-saint-lucia), [Bluewater Dive Travel - St. Lucia](https://www.bluewaterdivetravel.com/destination/scuba-diving-st-lucia). Last updated 2026-10-23.*

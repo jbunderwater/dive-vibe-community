@@ -3,9 +3,9 @@ name: Fairyland
 lat: 13.8627497
 lng: -61.0779083
 difficulty: Intermediate
-maxDepth: 15
+maxDepth: 18
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 398450579
 addedBy: osm_import
@@ -13,23 +13,24 @@ addedBy: osm_import
 
 ## Fairyland
 
-Fairyland sits just off the rocky headland of West Pointe, south of Anse Chastanet, where periodic strong currents flush nutrient-rich water through the reef and keep its corals and sponges exceptionally vivid — giving the site its name.
+Fairyland is a colourful reef wall off the West Pointe headland near Anse Chastanet, known for drift diving.
 
 ## Overview
 
-PADI's dive guide describes Fairyland as one of St. Lucia's most colourful reefs: "strong currents and flow of nutrient-rich water keep its abundance of corals and sponges vibrant in color." The Soufrière Marine Management Association lists it as considered the most beautiful site by local operators and instructors. Scuba St. Lucia, which named the site, describes it as a nutrient-dense "lush, magical garden" with a plateau sloping gently from about 12 to 18 metres (40-60 feet). The site sits within the Soufrière Marine Management Area (SMMA).
+Scuba St. Lucia describes a reef that "sparkles with vibrant colors of many varieties of corals and sponges," with a plateau sloping gently from 40 to 60 feet (12-18 m) and "great drift diving along one of the most colorful walls in the Caribbean." PADI attributes the vibrant colours to strong currents and nutrient-rich water. Stolen Time describes a major headland subject at times to very strong currents, with dives usually 50 ft or shallower; St. Lucia Tourism gives 40-200 ft. The Moorings reports it was named by a local dive instructor.
 
 ## Site Information
 
-- **Location**: West Pointe, south of Anse Chastanet, St. Lucia
+- **Location**: West Pointe, near Anse Chastanet, St. Lucia
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 18 meters
+
 
 ## Marine Life
 
-PADI reports schools of fish, rays, curious sea turtles, parrotfish, and moray eels here. Scuba St. Lucia additionally reports lobsters, stingrays, and flounders, and describes the site as a breeding ground for octopuses. A prior version of this page listed horse-eye jacks, Bermuda chubs, Creole wrasse, and chromis for this site; none of these could be reconfirmed by any source consulted on this pass and they have been removed.
+Scuba St. Lucia reports occasional turtles. PADI reports hawksbill and green turtles, rays, schools of fish, moray eels, and parrotfish. The Moorings reports dense fish schools, lobsters, stingrays, flounders, and octopuses. Stolen Time reports schooling chromis and creole wrasse.
 
 ---
-*Sources: [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/). Last updated 2026-07-03.*
+*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [PADI Blog - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [The Moorings - Best Diving in St. Lucia](https://www.moorings.com/blog/best-diving-st-lucia), [Stolen Time - Dive Sites in Saint Lucia](https://stolentime.com/dive-sites-in-saint-lucia), [Bluewater Dive Travel - St. Lucia](https://www.bluewaterdivetravel.com/destination/scuba-diving-st-lucia). Last updated 2026-10-23.*

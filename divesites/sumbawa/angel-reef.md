@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Angel Reef
 
-Angel Reef is a wall dive on the west coast of Moyo Island, located approximately 15 km north of mainland Sumbawa. Healthy hard corals carpet the shoreward shallows before the reef drops away in an abrupt vertical wall that plunges beyond 40 metres.
+Angel Reef is a wall dive on the west coast of Moyo Island, just south of Panjang Reef. Operators describe healthy hard corals in the protected shallows, then an abrupt vertical wall dropping beyond 40 metres, with soft tree corals on the face.
 
 ## Overview
 
-Angel Reef sits just south of Panjang Reef and is the signature dive of the Moyo Island area. Divers descend the steep bank to the top of the wall where large schools of redtooth triggerfish, longfin bannerfish, and rounded batfish are regularly encountered. The striking wall is draped in colourful soft tree corals and hardy sheet corals. In the deeper channels, yellowtail tuna streak past on hunting runs, and blacktip reef sharks patrol the edge. Visibility typically reaches 20–35 metres, and surface conditions are generally calm, though currents can strengthen. Evidence of past dynamite fishing remains visible as fractured blast zones on the wall — a reminder of pressure the reef has faced despite its recovery.
+Sources agree on the wall (over 40 m) and on schools of redtooth triggerfish, longfin bannerfish and rounded batfish. Yellowtail tuna and blacktip reef sharks are also reported, with the sharks in the deeper sections. Dynamite-fishing damage (fractured, barren blast zones) is visible on the wall per Dive The World and Asia Dive Site. ScubaBoard lists visibility of 20-35 m, water temperature of 24-28 C and currents that "can be strong". Emperor Divers also describes a sandy plateau beyond the reef.
+
+Note: a few lower-quality pages describe an "Angel Reef" as a gentle macro site; this conflicts with the wall-dive consensus and was not used. A ScubaBoard poster refers to Angel Reef as a reef dive, which is not inconsistent with a reef-top and wall profile.
 
 ## Site Information
 
@@ -26,19 +28,16 @@ Angel Reef sits just south of Panjang Reef and is the signature dive of the Moyo
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
-- **Visibility**: 20–35 metres
-- **Water Temperature**: 24–28°C
-- **Best Season**: April–November
+- **Visibility**: 20-35 metres (ScubaBoard)
+- **Water Temperature**: 24-28 C (ScubaBoard)
 
 ## Marine Life
 
-Redtooth triggerfish, longfin bannerfish, batfish, yellowtail tuna, blacktip reef sharks, soft tree corals. Ribbon eels and Denise pygmy seahorses have also been reported along the wall, with spaghetti eels on the sandy plateau beyond the reef.
+Redtooth triggerfish, longfin bannerfish, rounded batfish, yellowtail tuna and blacktip reef sharks are reported for this site by multiple sources. Emperor Divers alone additionally lists ribbon eels and Denise pygmy seahorse on the wall and slope, and spaghetti eels on the sandy plateau; treat these as single-source reports.
 
 ## Dive Profile
 
-Enter the shallows at 8–10 m and follow the steep bank to the wall crest, then drop along the vertical face. Most action is between 15–30 m. Current can pick up; dive with a guide familiar with the site.
+Sources report a depth range from about 8 m to over 40 m and variable current. No further profile detail was found; dive with a local guide.
 
 ---
-*Sources: [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php), [Asia Dive Site - Moyo Island](http://www.asiadivesite.com/indonesia-dive-sites/sumbawa/moyo-island.php), [Dive Indonesia Blog - Angel Reef](http://dive-indonesia.blogspot.com/2007/09/moyo-island-angel-reef.html), [ScubaBoard - Moyo National Park 5d/4n Cruise](https://scubaboard.com/community/threads/moyo-national-park-5d-4n-cruise.76167/), [Neptune Liveaboards - Sumbawa Diving & Liveaboard](https://www.neptuneliveaboards.com/blog/sumbawa-diving-liveaboard/). Last updated 2026-07-05.*
-
-*QA note (2026-07-05): Re-audited. Core claims (dynamite-fishing scarring, redtooth triggerfish schools, blacktip reef sharks, yellowtail tuna, 20–35m visibility) are corroborated across 5 independent domains, including a ScubaBoard trip thread. The JSON `validation_source` previously listed neptuneliveaboards.com without it appearing in this footer — verified that citation is accurate (neptuneliveaboards.com/blog/sumbawa-diving-liveaboard/ independently confirms the wall, depth, and species list) and it has been added above. A small number of lower-quality SEO/blog pages (e.g. johnnyafrica.com, one neptuneliveaboards.com listicle, tartarugaadventures.com) describe an "Angel Reef" as a gentle macro/muck site with pygmy seahorses and gorgonian fans — this conflicts with the wall-dive consensus and reads like generic content-farm copy or a naming mix-up with another site; it was not incorporated.*
+*Sources: [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php), [Asia Dive Site - Moyo Island](http://www.asiadivesite.com/indonesia-dive-sites/sumbawa/moyo-island.php), [ScubaBoard - Moyo National Park 5d/4n Cruise](https://scubaboard.com/community/threads/moyo-national-park-5d-4n-cruise.76167/), [Neptune Liveaboards - Sumbawa Diving & Liveaboard](https://www.neptuneliveaboards.com/blog/sumbawa-diving-liveaboard/), [Emperor Divers - Lombok-Sumbawa-Komodo Itinerary](https://www.emperordivers.com/liveaboard-itinerary/lombok-sumbawa-komodo/). Last updated 2026-10-23.*

@@ -10,24 +10,23 @@ ref: null
 osmId: null
 addedBy: osm_import
 ---
-
 ## Barentsburg Coast
 
-Barentsburg Coast lies off Svalbard's Russian coal-mining settlement on Isfjorden.
+Barentsburg Coast lies off Svalbard's Russian coal-mining settlement in the Isfjorden area.
 
 ## Overview
 
-Barentsburg is a Russian coal-mining settlement in Grønfjord, about 37 km west-southwest of Longyearbyen, and is Svalbard's second-largest settlement. It is named for Dutch explorer Willem Barentsz, and has been operated by the Russian state trust Arktikugol since 1932; population peaked at over 2,000 during the Soviet era and now stands at roughly 400 in summer. These facts are well documented for the settlement itself, but we could not find a site-specific source describing the underwater conditions, depth profile, or marine life actually observed off the Barentsburg coastline.
+Barentsburg is a Russian coal-mining settlement that Wikipedia links to Grønfjorden (Green Harbour). It is about 55 km from Longyearbyen with no connecting road (access by boat, snowmobile or helicopter), is Svalbard's second-largest settlement, and has been run by the Soviet-era trust Arktikugol since the mine was sold to it in 1932. Wikipedia reports a population of about 297 in 2025 (a figure that includes Pyramiden); the article gives no date for a peak of around a thousand.
 
-This location shares the region's Arctic marine fauna (kelp forests, cold-water invertebrates, seals), but no site-specific marine-life report was found for this exact stretch of coast. The depth and site-type values below reflect the existing (unverified) data rather than a confirmed source.
+No site-specific source describing the underwater conditions, depth profile or access for the Barentsburg coastline was found, and no source mentions diving there. The depth and site-type values below come from the existing unverified dataset. The Arctic fauna of the region applies in general, but no site-specific marine-life reports were found for this site, so no species are named.
 
 ## Site Information
 
-- **Location**: Barentsburg, Isfjorden, Svalbard, Arctic
+- **Location**: Barentsburg, Svalbard, Arctic
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 15 meters
 
 ---
-*Description based on regional diving characteristics and settlement history from Wikipedia — [Barentsburg](https://en.wikipedia.org/wiki/Barentsburg). No site-specific marine-life or dive-profile sources found. Last updated 2026-07-05.*
+*Sources: [Wikipedia — Barentsburg](https://en.wikipedia.org/wiki/Barentsburg). No site-specific marine-life or dive-profile sources found; fewer than three independent sources available. Last updated 2026-10-23.*

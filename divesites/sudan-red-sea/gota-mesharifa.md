@@ -3,7 +3,7 @@ name: Gota Mesharifa
 lat: 20.8608834
 lng: 37.3190921
 difficulty: Advanced
-maxDepth: 15
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -13,38 +13,28 @@ addedBy: osm_import
 
 ## Gota Mesharifa
 
-Gota Mesharifa (also known simply as Mesharifa) is a small sand island in a sheltered lagoon in northern Sudan, known as a manta ray cleaning and feeding station rather than as a wall or pinnacle dive.
+Mesharifa is a small sand island in a lagoon close to the Sudanese shore, known as a manta ray cleaning and feeding station.
 
 ## Overview
 
-**This description has been corrected from a prior version that inaccurately portrayed Mesharifa as a wall/pinnacle shark site — that content could not be verified and did not match any source found.** Mesharifa is a small sand island situated in a lagoon close to the Sudanese shore. From roughly August to November, the lagoon draws large numbers of manta rays that gather to feed on plankton blooms, and it is regarded as a manta cleaning station. Because of the same plankton that attracts the mantas, visibility during the season can be more limited than at Sudan's clearer offshore reefs. It is a comparatively gentle, shallow site by Sudan standards — divers and snorkelers alike can encounter mantas here.
+Egyptian Cruising Company and theDiveGlobe describe Mesharifa as a manta ray site; PADI Travel places it within the Dungonab Bay - Mukkawar Island protected area. Mantas gather in the lagoon from roughly August to November (mating season September to early November per Egyptian Cruising Company), feeding on plankton that also reduces visibility. TheDiveGlobe lists a maximum depth of 30 m (average 18 m), visibility of 10-30 m and an intermediate difficulty rating, while this dataset applies a destination-wide Advanced minimum because access is by liveaboard.
 
 ## Site Information
 
-- **Location**: Northern Sudan Red Sea, sheltered lagoon close to shore
+- **Location**: Lagoon near the Sudanese shore, Dungonab Bay - Mukkawar Island area
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 15 meters
-- **Best Time**: August to November for manta encounters
+- **Maximum Depth**: 30 meters
+- **Best Time**: Roughly August to November for mantas
 
 ## Marine Life
 
-Manta rays are the confirmed draw at this site, gathering seasonally (roughly August-November) to feed on plankton in the lagoon. No other species are confirmed for this specific site by available sources, so no broader species list is given here.
-
-## Entry and Exit
-
-Access is by liveaboard dive boat / tender into the lagoon. Conditions are sheltered compared to Sudan's exposed offshore walls and pinnacles.
-
-## Tips and Recommendations
-
-- Visit in season (roughly August-November) for the best chance of manta encounters
-- Expect reduced visibility during the plankton bloom that draws the mantas
-- This is a good stop for photographers focused on manta behaviour rather than wide reef scenery
+Manta rays are the species reported at this site (theDiveGlobe, Egyptian Cruising Company, PADI Travel). No other species were found in site-specific sources.
 
 ## Safety Considerations
 
-Standard buddy diving and SMB practices apply. Be aware that limited visibility during plankton blooms can make maintaining buddy contact harder than at Sudan's clear offshore sites.
+Dive within your certification limits, use a surface marker buoy, and confirm current conditions and official travel advisories with your liveaboard operator before booking.
 
 ---
-*Sources: [Mesharifa Dive Site Guide - theDiveGlobe](https://www.thediveglobe.com/app/ar/dive/mesharifa-sudan), [Sudan North & Mesharifa - Egyptian Cruising Company](https://www.egyptiancruising.com/itineraries/sudan-north-and-mesharifa/), [Diving in Sudan. Top 5 Dive Sites - Divebooker](https://divebooker.com/blog/sudan-liveaboards-top-5-dive-sites/). Last updated 2026-07-03.*
+*Sources: [Mesharifa - theDiveGlobe](https://www.thediveglobe.com/app/ar/dive/mesharifa-sudan), [Sudan North & Mesharifa - Egyptian Cruising Company](https://www.egyptiancruising.com/itineraries/sudan-north-and-mesharifa/), [Diving in Sudan - Dive the World](https://www.dive-the-world.com/diving-sites-sudan.php). Last updated 2026-10-23.*

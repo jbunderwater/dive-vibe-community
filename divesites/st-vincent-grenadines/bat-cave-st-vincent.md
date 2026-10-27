@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Bat Cave (St. Vincent)
 
-Also known as Byahaut Bat Cave, this cave dive at Petit Byahaut in Buccament Bay is one of St. Vincent's most distinctive dives: a swim through a bat-filled sandstone tunnel into a submerged chasm and out the other side of the headland.
+Also known as Byahaut Bat Cave, this cave dive at Petit Byahaut near Buccament Bay is a tunnel-and-fissure dive into a bat-inhabited cave.
 
 ## Overview
 
-The Bat Cave sits at Petit Byahaut, within Buccament Bay on St. Vincent's coast. It is a roughly 250-year-old sandstone tunnel, and two bat species specifically call it home: the Fisherman bat and the Fruit bat. Divers swim into the mouth of the cave, then descend into a narrow chasm before exiting through a passage on the far side of the headland into open water, with light filtering through from the exit. Depth conflict: sources disagree on how deep the chasm goes. One site database rates the maximum depth at about 10 meters (32.8 feet), while a first-hand published account describes descending about 15 meters (50 feet) into the chasm and exiting around 18 meters (60 feet). Rather than pick one figure, this range is stated here; JSON data uses 15 meters as a mid-range estimate.
+The Bat Cave is on St. Vincent's western coast near Buccament Bay. Islands.com describes a subterranean sea cavern in volcanic rock and sandstone reached through a roughly 300-foot underwater swim through a narrow tunnel, possible only in calm seas and low surge; the tunnel's origins are described as unclear. Bluewater Dive Travel describes a half-submerged cave with hundreds of bats and calls it one of the most challenging dives in St. Vincent, and SVG Tourism describes a dive into an underwater fissure. Depth sources conflict: Zentacle lists a maximum of about 10 meters (32.8 feet, rated beginner, shore or boat access), while other guides report roughly 12-18 meters, so a range of about 10-18 meters applies. This is an overhead environment; it requires appropriate training and a local professional guide.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ The Bat Cave sits at Petit Byahaut, within Buccament Bay on St. Vincent's coast.
 
 ## Marine Life
 
-Correction: an earlier version of this page listed specific fish species (glassy sweepers, bigeye fish, spiny lobsters, cleaner wrasse, yellowtail snappers, small parrotfish) plus hawksbill turtles and nurse sharks at the cave exit. No source found in this audit confirms any of these species specifically at the Bat Cave — a mention of blackbar soldierfish and a sponge wall was found for a different, unnamed small cave elsewhere in Buccament Bay, not this one. The only site-specific fauna confirmed here is the resident bat colony (Fisherman bat and Fruit bat). St. Vincent's regional reef and cave fauna likely applies to the underwater sections, but no site-specific fish reports were found, so none are listed.
+Hundreds of bats roost in the cave (Bluewater Dive Travel); islands.com does not name the species. No site-specific underwater fish reports were found, so no fish species are named; the regional fauna of St. Vincent's west coast applies in general.
 
 ---
-*Sources: [Zentacle - Bat Cave](https://www.zentacle.com/Beach/12553/bat-cave), [TripAdvisor - Byahaut Bat Cave](https://www.tripadvisor.com/Attraction_Review-g147380-d150155-Reviews-Byahaut_Bat_Cave-St_Vincent_St_Vincent_and_the_Grenadines.html), [Islands.com](https://www.islands.com/1958215/petit-byahaut-remote-nature-preserve-caribbean-mysterious-cave-home-hidden-treasure-snorkelers/). Last updated 2026-07-03.*
+*Sources: [Zentacle - Bat Cave](https://www.zentacle.com/Beach/12553/bat-cave), [Bluewater Dive Travel](https://www.bluewaterdivetravel.com/destination/st-vincent-and-grenadines-diving), [Islands.com](https://www.islands.com/1958215/petit-byahaut-remote-nature-preserve-caribbean-mysterious-cave-home-hidden-treasure-snorkelers/), [SVG Tourism - Dive Sites](https://tourism.gov.vc/tourism/index.php/diving-a-watersports/63-dive-sites). Last updated 2026-10-23.*

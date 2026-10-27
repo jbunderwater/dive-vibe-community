@@ -1,40 +1,23 @@
 ---
 addedBy: osm_import
 ---
-
 ## Svalbard
 
-Arctic marine life encounters and extreme ice diving conditions.
+Arctic expedition-style diving in cold water among glaciers, fjords and seabird cliffs.
 
 ## Description
 
-Svalbard is a notable diving destination in the Arctic region with depths ranging from 5 to 30 meters. Water temperatures average -1 to 8°C (30-46°F), with visibility typically reaching 10-30 meters (30-100 feet). The diving season runs June to September, with the best conditions during June to September.
+Svalbard diving is mostly done on expedition cruises and by scientific teams. Oceanwide Expeditions requires divers to be advanced and experienced in cold-water diving with at least 30 drysuit dives; Liveaboard.com says Spitsbergen is not suitable for beginners and suggests at least 30 dives including cold-water dives. Dives depend on local ice and weather conditions, and medical help (aside from an onboard doctor) can be several hours away. Liveaboard.com describes summer (May to July for polar diving) as the best season, with good visibility in summer.
 
-### Diving Opportunities
+Local activity includes the non-commercial Longyearbyen Diving Club, and the Kings Bay Marine Laboratory in Ny-Ålesund (dive locker and compression chamber) supports scientific diving in Kongsfjorden.
 
-- **Wreck Diving**: Historic shipwrecks preserved in the region's waters
-- **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
+## Marine Life
 
-### Accessibility
+Oceanwide Expeditions mentions kelp walls, crabs, jellyfish and starfish among things seen on its Spitsbergen dives; Liveaboard.com mentions seals in the water. These are trip-level, not site-specific, observations; see individual site pages for what has been reported at each location.
 
-- **Getting There**: Svalbard is accessible via international and regional flights to nearby airports. Check with airlines for current routes and connections.
-- **Dive Operators**: Professional dive operators offer equipment rental, guided dives, certification courses, and boat trips to offshore sites.
-- **Accommodation**: Options range from dedicated dive resorts to budget-friendly guesthouses, with many properties located near popular dive sites.
-- **Transportation**: Local transportation and dive operator transfers are the primary means of reaching dive sites.
-- **Facilities**: Dive sites vary in available amenities; operator-run sites typically provide comprehensive facilities while remote sites may have limited infrastructure.
+## Safety
 
-### Marine Life & Environment
-
-- **Water Conditions**: Water temperatures range from -1 to 8°C (30-46°F) with visibility of 10-30 meters (30-100 feet). Currents are generally variable, tidal currents.
-- **Marine Biodiversity**: The waters support diverse marine ecosystems including seals (harbor, bearded, ringed), walruses, beluga whales, narwhals, polar cod, sea anemones, soft corals, kelp forests, sea urchins, starfish.
-- **Conservation**: Local conservation efforts help protect marine habitats and ensure sustainable diving practices.
-
-## Additional Information
-
-- **Best Time to Visit**: June to September. Outside the main season, conditions may be less favorable.
-- **Currency**: Norwegian Krone (NOK)
-- **Language**: Norwegian
-- **Safety**: Always dive within certification limits. Be aware of extreme cold, hypothermia risk, ice. Verify the location of the nearest hyperbaric chamber before diving.
+Dive within certification limits and verify the location of the nearest decompression chamber before diving. Most sites in this dataset lack site-specific dive reports; treat their depths and types as unverified.
 
 ---
-*Sources: [Dive Svalbard](https://dive-svalbard.com/), [PADI - Diving in Svalbard](https://www.padi.com/diving-in/svalbard/), [ZuBlu - Svalbard and Jan Mayen Island](https://www.zubludiving.com/destination/arctic/norway/svalbard-jan-mayen-island), [Oceanwide Expeditions - Diving in Spitsbergen](https://oceanwide-expeditions.com/to-do/experiences/diving-in-spitsbergen), [DiverTown - Svalbard](https://www.divertown.com/en/destination/svalbard/). Last updated 2026-04-04.*
+*Sources: [Oceanwide Expeditions — Diving in Spitsbergen](https://oceanwide-expeditions.com/to-do/experiences/diving-in-spitsbergen), [Liveaboard.com — Spitsbergen](https://liveaboard.com/diving/arctic/spitsbergen), [Ny-Ålesund Research Station — Kings Bay Marine Laboratory](https://nyalesundresearch.no/infrastructures/kings-bay-marine-laboratory/), [Longyearbyen Dykkerklubb](https://dive78north.wixsite.com/home). Last updated 2026-10-23.*
