@@ -3851,7 +3851,7 @@
         "wreck_conflicts_flagged": "~7",
         "notes": "thailand skipped: no osm_clean data or divesites directory"
       },
-      "pr_url": null
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/178"
     }
   ]
 }
