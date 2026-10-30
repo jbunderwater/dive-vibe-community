@@ -17,7 +17,7 @@ Memba 1 sits within the Mnemba Island area off Zanzibar's northeast coast — th
 
 ## Overview
 
-Research for this pass could not find any operator, guidebook, or forum reference to a dive site specifically named "Memba 1." Multiple Mnemba-area dive operators (including Fun Divers Zanzibar, Zanzibar One Ocean, Scuba-Do Zanzibar, and ScubaFish Zanzibar) do document named wall dive sites in this immediate area — notably Kichwani (a sloping wall from roughly 5-35m, described by ScubaFish Zanzibar), Big Wall / The Big Wall (a vertical wall dropping from about 12-18m to 40-70m depending on source), and Wattabomi (a gentler site for beginners/snorkelers). The general character of the area — a wall dropping from a shallow reef crest into deeper water with excellent visibility (widely reported at 15-30m in the Mnemba area) — is consistent with this site being tagged as a wall dive, but no source confirms "Memba 1" as naming this specific location versus a nearby named site like Kichwani or Big Wall. It is possible this is an unnamed or informally-numbered point within the broader Mnemba wall system, not a site independently marketed by name.
+Research for this pass could not find any operator, guidebook, or forum reference to a dive site specifically named "Memba 1." Multiple Mnemba-area dive operators (including Diving in Zanzibar, Zanzibar One Ocean, Scuba-Do Zanzibar, and ScubaFish Zanzibar) do document named wall dive sites in this immediate area — notably Kichwani (a sloping wall from roughly 5-35m, described by ScubaFish Zanzibar), Big Wall / The Big Wall (a vertical wall dropping from about 12-18m to 40-70m depending on source), and Wattabomi (a gentler site for beginners/snorkelers). The general character of the area — a wall dropping from a shallow reef crest into deeper water with excellent visibility (widely reported at 15-30m in the Mnemba area) — is consistent with this site being tagged as a wall dive, but no source confirms "Memba 1" as naming this specific location versus a nearby named site like Kichwani or Big Wall. It is possible this is an unnamed or informally-numbered point within the broader Mnemba wall system, not a site independently marketed by name.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Research for this pass could not find any operator, guidebook, or forum referenc
 
 ## Marine Life
 
-No species can be confirmed specifically for "Memba 1." Species reported by multiple sources for the general Mnemba wall-diving area include Napoleon wrasse, white tip reef sharks, groupers, moray eels, turtles, and (at Kichwani specifically) frogfish and leaf fish — but attributing these to this exact, unnamed coordinate would be speculative. Earlier drafts of this page named specific pelagic and shark sightings and nudibranch diversity as if confirmed for this site; those claims were not corroborated in this research pass and have been removed.
+No site-specific marine-life reports were found for this site. The destination's regional fauna applies in general, but no species are named here because none could be traced to a source confirming sightings at this location.
 
 ## Dive Profile
 
@@ -56,4 +56,4 @@ Given the 25-meter depth and wall topography, standard deep-wall precautions app
 No site-specific photography guidance was found in available sources.
 
 ---
-*Description based on the general character of Mnemba-area wall diving, cross-referenced across [Fun Divers Zanzibar](https://fundiverszanzibar.com/diving-mnemba-island/), [ScubaFish Zanzibar](https://www.scubafishzanzibar.com/dive-in-zanzibar/dive-sites-zanzibar/), and [TGI Diving](https://www.tgidiving.com/en/indian-ocean/zanzibar-nungwi/dive-sites/). No source names a site specifically called "Memba 1" or confirms marine life at this exact coordinate. Last updated 2026-07-05.*
+*Description based on the general character of Mnemba-area wall diving, cross-referenced across [Diving in Zanzibar – Mnemba Atoll](https://www.divinginzanzibar.com/diving-mnemba-atoll/), [ScubaFish Zanzibar](https://www.scubafishzanzibar.com/dive-in-zanzibar/dive-sites-zanzibar/), and [TGI Diving](https://www.tgidiving.com/en/indian-ocean/zanzibar-nungwi/dive-sites/). No source names a site specifically called "Memba 1" or confirms marine life at this exact coordinate. Last updated 2026-10-30.*

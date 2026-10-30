@@ -35,7 +35,7 @@ Separately, the underlying OSM tag data for this site is unusually noisy: alongs
 
 ## Marine Life
 
-No source confirms any marine life specific to this site. The previous version's claims (parrotfish, surgeonfish, moray eels, turtles) were generic reef boilerplate, not researched findings, and have been removed rather than replaced with new speculation.
+No site-specific marine-life reports were found for this site. The destination's regional fauna applies in general, but no species are named here because none could be traced to a source confirming sightings at this location.
 
 ---
-*Sources: [getamap.net — Mwamba Kikwero](https://www.getamap.net/maps/tanzania/tanzania_(general)/_kikwero_mwamba/), [Cebuano Wikipedia — Mwamba Kikwero](https://ceb.wikipedia.org/wiki/Mwamba_Kikwero) (both derived from the same GEOnet Names Server gazetteer entry — confirms location only). No site-specific diving source was found. Last updated 2026-07-05.*
+*Sources: [getamap.net — Mwamba Kikwero](https://www.getamap.net/maps/tanzania/tanzania_(general)/_kikwero_mwamba/), [Cebuano Wikipedia — Mwamba Kikwero](https://ceb.wikipedia.org/wiki/Mwamba_Kikwero) (both derived from the same GEOnet Names Server gazetteer entry — confirms location only). No site-specific diving source was found. Last updated 2026-10-30.*

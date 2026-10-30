@@ -17,7 +17,7 @@ Moore Bank is a named reef feature in the Zanzibar Channel south of Zanzibar (Un
 
 ## Overview
 
-No dive operator, dive-forum, or gazetteer reference to a site named "Moore Bank" could be found during this research pass. It does not appear on the dive-site lists published by Kizimkazi-based operators (e.g. Dive Time Zanzibar), nor in ScubaBoard discussion, nor in general Tanzania dive round-ups. Given its coordinates, it most likely refers to a locally known reef or bank feature in or near the Menai Bay Conservation Area — an area independently confirmed to hold extensive coral gardens, reef sharks, dolphins, and occasional manta rays — but no source ties those characteristics specifically to a feature called "Moore Bank." The description below is therefore limited to what is verifiable: its approximate location and the general character of reef diving in this part of the Zanzibar Channel, not site-specific claims.
+No dive operator, dive-forum, or gazetteer reference to a site named "Moore Bank" could be found during this research pass. It does not appear on the dive-site lists published by Kizimkazi-based operators (e.g. Dive Time Zanzibar), nor in ScubaBoard discussion, nor in general Tanzania dive round-ups. Given its coordinates, it most likely refers to a locally known reef or bank feature in or near the Menai Bay Conservation Area — an area documented as having coral gardens — but no source ties those characteristics specifically to a feature called "Moore Bank." The description below is therefore limited to what is verifiable: its approximate location and the general character of reef diving in this part of the Zanzibar Channel, not site-specific claims.
 
 ## Site Information
 
@@ -31,7 +31,7 @@ No dive operator, dive-forum, or gazetteer reference to a site named "Moore Bank
 
 ## Marine Life
 
-No marine life has been confirmed specifically at "Moore Bank." The wider Menai Bay Conservation Area is documented to host reef sharks, dolphins, sea turtles, and occasional manta rays, with humpback whales passing through seasonally (roughly August–October), but none of these are confirmed at this specific coordinate and none should be assumed present here without site-specific confirmation.
+No site-specific marine-life reports were found for this site. The destination's regional fauna applies in general, but no species are named here because none could be traced to a source confirming sightings at this location.
 
 ## Dive Profile
 
@@ -55,4 +55,4 @@ Standard Zanzibar Channel precautions apply generically (boat traffic, tidal cur
 Not documented.
 
 ---
-*Description based on the site's recorded coordinates and general knowledge of the Menai Bay Conservation Area / Zanzibar Channel. No independent source naming or describing a site called "Moore Bank" was found; this appears to be an obscure or OSM-scraper-generated feature name. Last updated 2026-07-05.*
+*Description based on the site's recorded coordinates and general knowledge of the Menai Bay Conservation Area / Zanzibar Channel. No independent source naming or describing a site called "Moore Bank" was found; this appears to be an obscure or OSM-scraper-generated feature name. Last updated 2026-10-30.*

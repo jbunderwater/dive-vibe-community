@@ -31,7 +31,7 @@ Local operator Buccaneer Diving (Paje) lists "Woo South" by name as one of its r
 
 ## Marine Life
 
-Buccaneer Diving describes the Woo site generally as having "beautiful untouched coral heads teeming with life" in the shallower zone, with potential sightings of sharks, barracuda, and giant kingfish near the deeper drop-off. These are the operator's general claims for the Woo site as a whole rather than confirmed sightings specific to the 16-meter Woo South section. No other species should be assumed present without further corroboration.
+No site-specific marine-life reports were found for this site. The destination's regional fauna applies in general, but no species are named here because none could be traced to a source confirming sightings at this location.
 
 ## Dive Profile
 
@@ -55,4 +55,4 @@ No site-specific hazards are documented for Woo South beyond standard reef divin
 No site-specific photography guidance was found in available sources.
 
 ---
-*Sources: [Buccaneer Diving – Dive Zanzibar](https://www.buccaneerdiving.com/pages/dive-zanzibar/). Only one independent site-specific source found; not corroborated by a second source. Last updated 2026-07-05.*
+*Sources: [Buccaneer Diving – Dive Zanzibar](https://www.buccaneerdiving.com/pages/dive-zanzibar/). Only one independent site-specific source found; not corroborated by a second source. Last updated 2026-10-30.*

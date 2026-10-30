@@ -13,9 +13,10 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "svsoggypaws.com,tongapocketguide.com,uwphotographyguide.com,timelesstonga.com",
-      "last_qa_date": "2026-07-07",
-      "description": "Sea cave on the NW corner of Kapa Island, entrance ~4.5m deep, cave floor ~18m. Faces west, so best light is in the afternoon. Schools of baitfish shelter inside from predators; hundreds of swiftlets (locally called swallows) nest in the roof. Late-1800s inscriptions are visible on the cave walls above the surface. A secondary cave/swim-through system reaches 20-21m with a very strong current possible in places."
+      "validation_source": "svsoggypaws.com,tongapocketguide.com,uwphotographyguide.com",
+      "last_qa_date": "2026-10-30",
+      "description": "Sea cave on the NW corner of Kapa Island; mouth ~4.5m deep and ~6m wide, faces west (best in the afternoon), cave bottom ~18m. Birds nest in the roof; late-1800s inscriptions are visible on the wall at the surface. A second cave reached along the wall (~21m) has a very strong current in one part.",
+      "qa_note": "2026-10-30 re-audit: removed 'swiftlets' species ID, visibility/temperature figures and photography gear advice (unsourced); timelesstonga.com page returned empty and was dropped; replaced with tongapocketguide.com and uwphotographyguide.com. Marine life limited to what those sources report."
     }
   },
   {
@@ -33,8 +34,8 @@
       "addedBy": "gap_fill",
       "validated": "false",
       "validation_source": "none",
-      "last_qa_date": "2026-07-07",
-      "qa_note": "'Coral Garden' is a real, commonly used site-name pattern among Vava'u operators (dive-shop listings reference Coral Garden N/S sites in the area), but no source ties a site by this exact name to these exact coordinates, and no site-specific depth/marine-life report was found. Left as unvalidated; description trimmed to avoid site-specific claims that cannot be sourced.",
+      "last_qa_date": "2026-10-30",
+      "qa_note": "'Coral Garden' is a real, commonly used site-name pattern among Vava'u operators (dive-shop listings reference Coral Garden N/S sites in the area), but no source ties a site by this exact name to these exact coordinates, and no site-specific depth/marine-life report was found. Left as unvalidated; description trimmed to avoid site-specific claims that cannot be sourced. 2026-10-30: tongapocketguide.com lists a 'Coral Garden' in Vava'u (surface to 15-20m, relaxed site) but only one source and no coordinates; still unvalidated.",
       "description": "A reef site in the Vava'u group. Vava'u's shallow reef areas generally offer coral gardens with soft and hard coral growth, but no source-confirmed, site-specific details were found for this exact location."
     }
   },
@@ -53,7 +54,7 @@
       "addedBy": "gap_fill",
       "validated": "false",
       "validation_source": "none",
-      "last_qa_date": "2026-07-07",
+      "last_qa_date": "2026-10-30",
       "qa_note": "No source could be found confirming a distinctly named 'The Ledge' dive site at these coordinates. Vava'u wall diving generally is well documented, but nothing ties this specific name/location to a verifiable site. Left as unvalidated; description trimmed of unconfirmed specifics (manta ray claim removed).",
       "description": "A wall site in the Vava'u group where the reef top drops toward deeper water. Vava'u's outer walls are a well-documented diving style in the region, but no site-specific source confirms details (depth profile, marine life, conditions) for a site by this exact name at these coordinates."
     }
@@ -72,10 +73,10 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "svsoggypaws.com,seamester.com,sailblogs.com,bandcstaffregister.com",
-      "last_qa_date": "2026-07-07",
-      "qa_note": "Corrected misidentification: this coordinate (Neiafu Harbour, Vava'u) previously carried the name 'St Catherine Wreck' with a fabricated backstory. No source anywhere documents a 'St Catherine' wreck in Tonga. The well-documented, famous wreck at this exact location and depth is the Clan McWilliam (sunk 1927). Renamed and rewritten accordingly. Sources disagree on registered tonnage (3,743 tons vs 6,000 tons) and on the exact sinking date (Dec 24 vs Dec 25, 1927) -- both are flagged as unresolved discrepancies in the markdown rather than picked arbitrarily. Depth and difficulty updated from 25m/Intermediate to 37m/Advanced to match sourced maximum depth.",
-      "description": "Clan McWilliam, a copra steamer built in 1918, caught fire while loading cargo in Neiafu Harbour and sank on 24-25 December 1927. Now lies at approx. 37m max depth (superstructure ~18-29m), marked by three mooring buoys. Encrusted with hard/soft coral; home to schooling fish, batfish, snapper, small tuna, and macro/crustacean life."
+      "validation_source": "svsoggypaws.com,bandcstaffregister.com,seamester.com,tongapocketguide.com",
+      "last_qa_date": "2026-10-30",
+      "qa_note": "2026-10-30 re-audit: removed unsupported 'batfish, snapper, small tuna' (only source sailblogs.com returned 403 and was dropped); fixed sinking date (fire 24 Dec, sank 25 Dec) and cause (undetermined); added fatalities; flagged build year, tonnage and depth conflicts. No Wikipedia article found, so wreck history rests on dive, register and travel sources (Wikipedia + 1 requirement not met).",
+      "description": "Copra steamer (built 1918 per three sources, 1917 per one) burned and sank in Neiafu Harbour 25 Dec 1927 after a fire discovered 24 Dec; inquiry could not determine cause. Length ~127-128m; tonnage reported as 3,743, 6,000 and 7,234; depth reported 30-37m."
     }
   },
   {
@@ -93,7 +94,7 @@
       "addedBy": "gap_fill",
       "validated": "false",
       "validation_source": "none",
-      "last_qa_date": "2026-07-07",
+      "last_qa_date": "2026-10-30",
       "qa_note": "Vava'u's July-October humpback whale season and outer-wall diving are both well documented destination-level facts, but no source ties a distinctly named 'Humpback Wall' site to these exact coordinates. Left as unvalidated; rewrote to separate the well-sourced destination-level whale-season facts from unconfirmed site-specific claims (removed unconfirmed marine life list).",
       "description": "A wall site on an outer Vava'u island edge. Tonga's Vava'u group is one of the few places in the world with legal in-water humpback whale encounters, July through October/November, and outer walls are a common dive style in the area -- but no source confirms site-specific details for a location named 'Humpback Wall.'"
     }
@@ -124,7 +125,7 @@
     "lon": -174.0333,
     "osm_id": null,
     "osm_type": null,
-    "depth": 12,
+    "depth": 16,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -132,10 +133,10 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "svsoggypaws.com,timelesstonga.com,avatarlogs.com,bumfuzzle.com",
-      "last_qa_date": "2026-07-07",
-      "qa_note": "Corrected: shallow entrance is ~3m (snorkel-accessible), deeper diver entrance is ~12m, not '1-4m/12-15m' as previously stated. Corrected the naming legend -- multiple sources describe a rebel chief hiding a forbidden love interest in the cave for months before escaping with her to Fiji, not simply 'protecting her from an arranged marriage.' Depth field updated from 15m to 12m to match the sourced diver entrance/wall-dive profile.",
-      "description": "Underwater cave on the west side of Nuapapu Island. Shallow entrance ~3m deep (snorkel-accessible); a second, deeper entrance around 12m is used by divers. Incoming swell compresses air in the chamber, producing a brief 'fog-out' each time a swell passes. A lobster is regularly seen near the 12m (40ft) swim-through. Exiting and turning left leads to a wall dive with two further swim-throughs around 6-12m. Named for William Mariner, a young English clerk who survived the 1806 massacre of the crew of the Port-au-Prince and lived in Tonga for about four years; local legend holds that a rebel chief hid a forbidden love interest in the cave for months before escaping with her to Fiji."
+      "validation_source": "svsoggypaws.com,avatarlogs.com,bumfuzzle.com,tongapocketguide.com",
+      "last_qa_date": "2026-10-30",
+      "qa_note": "2026-10-30 re-audit: corrected Mariner legend (he did not confirm the fissure); flagged conflicting entrance depths (12/15/16.5m), set depth to 16; removed 'Mariner clerk' as sole fact (clerk vs ship's boy conflict flagged); timelesstonga.com returned empty and was dropped; added nudibranchs from tongapocketguide.com.",
+      "description": "Cave on the west side of Nuapapu Island with an underwater entrance opening into an air chamber that fogs with swell. Deeper entrance depth is reported variously as 12m, ~15m and 16.5m."
     }
   },
   {
@@ -153,8 +154,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "eua-island-tonga.com,tongapocketguide.com,spearfishingtonga.com",
-      "last_qa_date": "2026-07-07",
-      "qa_note": "Renamed from the generic 'Eua Island' to the actual named dive site, Cathedral Cave. Removed a significant fabrication: the previous description claimed 'Eua has no commercial dive operators and requires private charter logistics. In fact, Deep Blue Diving (based in the Tongatapu/'Eua area, run by Sam Tatafu, a retired Tongan Navy officer) is a known, active operator running trips to this exact cave. Rewrote entry/exit, safety, and overview sections accordingly.",
+      "last_qa_date": "2026-10-30",
+      "qa_note": "2026-10-30 re-audit: removed unsourced visibility, temperature, current and November-June season claims; added crayfish and ocean-side current-prone entrance from spearfishingtonga.com.",
       "description": "Cathedral Cave, discovered circa 2001 on 'Eua's north coast, is a sea cave roughly 100m long, 50m wide, 30m deep, with the entrance at 28m. Three openings in the roof let sunlight stream in; a 20m tunnel leads to a second chamber near the surface. Marine life recorded here includes sharks, groupers, and schooling reef fish (cardinalfish, butterflyfish, sweetlips) along healthy coral. Deep Blue Diving runs guided trips to this site; diving/snorkelling tours generally run November-June, outside Tonga's whale season."
     }
   },
@@ -180,8 +181,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "none (single uncorroborated web account; not independently confirmed)",
-      "last_qa_date": "2026-07-07",
-      "qa_note": "Flagged discrepancy: the only account found describing a vessel named Takuo says it was a fishing vessel that foundered on Hakaufisi reef in the Ha'apai group during a storm, with the hull eventually washing up on Nomuka Iki -- lives were lost. This account could not be corroborated by a second independent source (direct fetch of the source page returned 403; no other outlet mentions it), and it is ambiguous whether that vessel is a diveable, tide-covered wreck (consistent with the official LINZ hydrographic chart tag 'water_level: covers' at this coordinate) or a fully beached relic. Depth/site_type left unchanged (chart data does support a real, charted, tide-covered wreck at this location) but NOT marked validated given only one uncorroborated narrative source. Removed fabricated 'coral encrustation abundant, moderate currents typical' filler that had no source.",
+      "last_qa_date": "2026-10-30",
+      "qa_note": "Flagged discrepancy: the only account found describing a vessel named Takuo says it was a fishing vessel that foundered on Hakaufisi reef in the Ha'apai group during a storm, with the hull eventually washing up on Nomuka Iki -- lives were lost. This account could not be corroborated by a second independent source (direct fetch of the source page returned 403; no other outlet mentions it), and it is ambiguous whether that vessel is a diveable, tide-covered wreck (consistent with the official LINZ hydrographic chart tag 'water_level: covers' at this coordinate) or a fully beached relic. Depth/site_type left unchanged (chart data does support a real, charted, tide-covered wreck at this location) but NOT marked validated given only one uncorroborated narrative source. Removed fabricated 'coral encrustation abundant, moderate currents typical' filler that had no source. 2026-10-30: a second web-map page (virtualglobetrotting.com, same likely origin) was found naming a Nomuka Iki stranding; still a single source, so no history stated.",
       "description": "A charted wreck (LINZ hydrographic ID 8269138) in the Ha'apai island group, tagged as tide-covered with the hull showing. A single, uncorroborated web account describes a fishing vessel named Takuo that foundered on Hakaufisi reef in a storm, with the hull later washing ashore on nearby Nomuka Iki; this could not be independently confirmed and may describe a different remnant than the charted wreck at this position. Treat site-specific details as unconfirmed."
     }
   },
@@ -210,9 +211,9 @@
       "wreck:type": "ship",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "virtualoceania.net,jouljet.blogspot.com,en.wikipedia.org,worldnomads.com",
-      "last_qa_date": "2026-07-07",
-      "qa_note": "Renamed from the OSM chart label 'Marmer' (kept as alt_name) to the vessel's real, well-documented identity, My Lady Lata II -- a half-submerged wreck at Pangaimotu Island near Nuku'alofa, a popular, easily accessible snorkel/dive site. Sources conflict on the cause/date of sinking: one account (2014) attributes it to a cyclone approx. 12 years earlier (~2002); a separate account attributes wreck material at Pangaimotu to Cyclone Gita (Feb 2018). It is unclear whether both describe the same vessel; this conflict is stated explicitly in the markdown rather than resolved by guessing.",
+      "validation_source": "jouljet.blogspot.com,en.wikipedia.org,worldnomads.com",
+      "last_qa_date": "2026-10-30",
+      "qa_note": "2026-10-30 re-audit: virtualoceania.net returned HTTP 526 and was dropped. Vessel name appears only in jouljet.blogspot.com; 2m/2.4m depth, visibility and temperature unconfirmed; cause conflict (cyclone ~2002 vs Cyclone Gita 2018) retained. Partial verification only.",
       "description": "My Lady Lata II, a half-submerged wreck at Pangaimotu Island near Nuku'alofa harbour, sits in ~2-2.4m of water and is a popular, easily accessible snorkel/dive site. Sources disagree on when and how it was wrecked -- one account attributes it to a cyclone roughly two decades ago, another associates Pangaimotu wreck material with Cyclone Gita (2018); which storm produced this specific wreck is not resolved."
     }
   },

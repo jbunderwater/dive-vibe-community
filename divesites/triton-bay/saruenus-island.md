@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Saruenus Island
 
-Saruenus Island (also called Seruenus, and known to some operators as Pintu Arus — "current gate") is a multi-site reef system in Triton Bay offering at least four distinct dives around a single island, including Little Komodo at its southern tip.
+Saruenus Island (also spelled Seruenus, and called Pintu Arus or Pulau Arus locally) is a small island in Triton Bay, about five minutes by boat from Triton Bay Divers resort, that hosts several dives including Little Komodo and Aquarium.
 
 ## Overview
 
-Saruenus Island sits in Triton Bay, West Papua, Indonesia. Independent operator sources confirm that its varying exposure on different faces produces at least four distinct named dives, one of which is Little Komodo at the island's southern tip — the coordinates for the two sites in this database, a few hundred meters apart, are consistent with that relationship rather than being duplicate entries. Regional characterization is soft coral gardens with strong macro potential, including pygmy seahorses and nudibranchs, though most detailed marine-life reporting for this island group is attached specifically to the Little Komodo dive rather than to "Saruenus Island" as a standalone site.
+Diveplanit lists Saruenus Island (locally "Pintu Arus", Pulau Arus) as a small island with boulder reef, soft coral wall, drift and soft coral garden diving. Little Komodo, Aquarium and Pintu Arus are described by several sources (Diveplanit, Bluewater Dive Travel, Divers Alert Network, Dive The World) as linked sites around the same rock, and Pintu Arus is reported on the side opposite Little Komodo. Earlier versions of this page said the island hosts "at least four" dives; the sources re-checked on 2026-10-30 name three (Little Komodo, Aquarium, Pintu Arus), so that claim has been dropped. The coordinates in this database (a few hundred meters from the Little Komodo entry) are consistent with Little Komodo being a sub-site of this island.
 
 ## Site Information
 
@@ -26,36 +26,25 @@ Saruenus Island sits in Triton Bay, West Papua, Indonesia. Independent operator 
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 8-20 meters
-- **Current**: Variable by aspect; sheltered faces have minimal flow, exposed faces can run more strongly
-- **Water Temperature**: 27-30°C (81-86°F)
-- **Best Time**: October to April
+- **Current**: Varies by side. Diveplanit: "currents can get crazy with eddies so timing on this dive site is everything" at Pintu Arus on the western side. The Seven Seas describes strong current there, where two water masses meet.
+- **Best Time**: Dive season October to April/May per Dive The World and the Divers Alert Network
 
 ## Marine Life
 
-Confirmed regional character for the Saruenus Island group is soft coral gardens with pygmy seahorses and nudibranchs, consistent with what is separately documented for Little Komodo at the island's southern tip. Beyond this, no independent source was found describing marine life specific to "Saruenus Island" as distinct from its named sub-sites, so more detailed claims (specific octopus species, turtle behavior, reef shark patrols) have been removed rather than assumed. If you're diving here specifically for macro life, ask your guide which of the island's several named dives is being run that day, since reports are generally tied to the sub-site rather than the island as a whole.
+- Giant grouper, fusiliers and anthias in the current at Pintu Arus (Diveplanit)
+- Soft corals and sea fans, tiny crustaceans, reef fish, and fast-moving trevallies and jacks at Pintu Arus (The Seven Seas)
+- Dive The World reports pygmy seahorses, mantis shrimp and wobbegong sharks at Saruenus, without separating the sub-sites
+- Diveplanit reports several pygmy seahorse species, nudibranchs and shrimp as macro life around the island, again without naming a sub-site
+
+Species reported for Little Komodo and Aquarium are on those pages.
 
 ## Dive Profile
 
-The guide will choose the specific dive on the island based on current and conditions on the day — this island hosts at least four distinct named dives rather than a single uniform site. Expect the profile to be shaped by which face/sub-site is selected; sheltered faces suit slower macro-focused diving, while more exposed aspects can be worked as a light drift.
-
-## Entry and Exit
-
-Access by liveaboard tender or day-boat. Sheltered faces allow straightforward giant stride entry and ladder exit; on more exposed faces in current, the boat may run a drift pickup. Confirm the exit plan with your guide before entering.
-
-## Tips and Recommendations
-
-- Ask your guide which of the island's several named dives (e.g. Little Komodo) is planned — the descriptive details for this island are mostly tied to specific sub-sites
-- Move slowly on sheltered faces to avoid disrupting resident macro life
-- Bring both macro and wide-angle capability, since conditions vary significantly between the island's different faces
+The dive depends on which sub-site and side is used that day. Pintu Arus can be a strong, eddying drift; Aquarium is a small bommie site that The Seven Seas describes as gentle and Diveplanit recommends for calm morning conditions.
 
 ## Safety Considerations
 
-Saruenus Island's sheltered aspects are generally forgiving for intermediate divers; more exposed faces can run stronger current. If conditions are stronger than briefed, stay with your guide. Always carry an SMB. As with all Triton Bay sites, dive conservatively given the remote location and limited medical evacuation options.
-
-## Photography
-
-The island's soft coral and macro-life reputation (pygmy seahorses, nudibranchs) supports patient macro work with a 100mm lens on its sheltered faces. Wide-angle opportunities depend heavily on which specific sub-site and face is being dived that day.
+Pintu Arus is described by two sources as a current-prone site where timing matters. Dive with an experienced local guide and carry a surface marker buoy.
 
 ---
-*Sources: [Merapi Tours — Triton Bay Dive Sites](https://www.merapitours.com/indonesia/papua/triton-bay-dive-sites), [Diveplanit — Triton Bay Divers](https://www.diveplanit.com/indonesia/raja-ampat/triton-bay-divers/), [DiveHappy — Triton Bay Whale Sharks](https://divehappy.com/triton-bay-whale-sharks/). Last updated 2026-07-07.*
+*Sources: [Diveplanit - Triton Bay Divers](https://www.diveplanit.com/indonesia/raja-ampat/triton-bay-divers/), [Dive The World - Triton Bay](https://www.dive-the-world.com/posts/triton/triton-bay-diving-indonesias-last-frontier.php), [Bluewater Dive Travel - Triton Bay and Banda Sea 2023 trip recap](https://www.bluewaterdivetravel.com/article/triton-and-banda-sea-trip-recap-2023), [Divers Alert Network - Dive Triton Bay](https://dan.org/alert-diver/article/alert-diver-2022-q4-feature-dive-triton-bay-indonesia/), [The Seven Seas - Triton Bay](https://thesevenseas.net/?p=23158). Last updated 2026-10-30.*

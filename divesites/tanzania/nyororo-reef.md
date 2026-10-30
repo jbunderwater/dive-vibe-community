@@ -35,7 +35,7 @@ No source describes the reef itself (structure, depth, visibility) at Niororo/Ny
 
 ## Marine Life
 
-No marine life has been confirmed specifically at this site. Whale shark and humpback whale claims from the previous version have been removed as unsupported for this specific location (see Correction 2). General Mafia Archipelago reef fish, turtles, and reef sharks are plausible on a fringing reef here but are not confirmed at this specific point.
+No site-specific marine-life reports were found for this site. The destination's regional fauna applies in general, but no species are named here because none could be traced to a source confirming sightings at this location.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ No site-specific hazard information exists. General Mafia Archipelago boat-divin
 Not documented for this specific site. The previous claim of "rare possibility of photographing whale sharks in a reef dive context" at this site has been removed along with the unsupported whale shark claim.
 
 ---
-*Sources: [Niororo Island — Wikipedia](https://en.wikipedia.org/wiki/Niororo_Island), [Mafia Island Marine Park — mafiaisland.com](https://mafiaisland.com/marine-park/), [Mafia Island whale shark season sources (Kitu Kiblu, Afro Whale Shark Safari, and others locating the aggregation near Kilindoni)]. These confirm the island's real geography and correct two errors in the previous write-up (marine park boundary and whale shark location) but do not describe a dive site named "Nyororo Reef" specifically. Last updated 2026-07-05.*
+*Sources: [Niororo Island — Wikipedia](https://en.wikipedia.org/wiki/Niororo_Island), [Mafia Island Marine Park — mafiaisland.com](https://mafiaisland.com/marine-park/), [Mafia Island whale shark season sources (Kitu Kiblu, Afro Whale Shark Safari, and others locating the aggregation near Kilindoni)]. These confirm the island's real geography and correct two errors in the previous write-up (marine park boundary and whale shark location) but do not describe a dive site named "Nyororo Reef" specifically. Last updated 2026-10-30.*

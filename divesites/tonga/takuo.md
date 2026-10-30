@@ -17,7 +17,7 @@ Takuo is a charted wreck in the Ha'apai island group, officially recorded on hyd
 
 ## Overview
 
-**A note on this entry**: the previous description ("origin and history not extensively documented... coral encrustation and macro life abundant... moderate currents typical") was largely generic filler with no traceable source. During this review, a single web account was found describing a vessel named Takuo as a fishing boat that foundered on Hakaufisi reef in the Ha'apai group during a storm, with lives lost and the hull eventually washing ashore on nearby Nomuka Iki. That account could not be independently corroborated (a direct fetch of the source page was blocked, and no second outlet repeats the story), and it's ambiguous whether it describes a submerged, tide-covered wreck (consistent with this location's official chart tag) or a fully beached relic on land (which would not be a scuba site at all). Per this destination's wreck-research standard, a single uncorroborated source is not sufficient to state this as fact, so it is presented here as an unconfirmed lead rather than history.
+**A note on this entry**: earlier text and a later search found only a single web map entry (virtualglobetrotting.com) describing a vessel named Takuo as stranded on Nomuka Iki after a storm; it conflicts with the Ha'apai/Hakaufisi location in an earlier account and could not be corroborated by a second source, so no vessel history is stated here. That account also suggests the vessel may be stranded rather than submerged, so it may not be a scuba site.
 
 What is independently confirmed is the official hydrographic chart record: a wreck at this position (LINZ hydrographic ID 8269138), tagged as tide-covered with the hull showing.
 
@@ -59,4 +59,4 @@ Given the uncertainty over whether this wreck is a stable, established dive site
 Not independently confirmed for this specific site.
 
 ---
-*Sources: single uncorroborated web account referencing Hakaufisi reef and Nomuka Iki (not independently verified — see note above); OSM/LINZ hydrographic chart data (ref:linz:hydrographic_id 8269138) confirms a charted wreck at this position. No dive-specific source was found. Last updated 2026-07-07.*
+*Sources: [FV Takuo — VirtualGlobetrotting](https://virtualglobetrotting.com/map/fv-takuo/) (single uncorroborated account, not relied on for any claim); OSM/LINZ hydrographic chart data (ref:linz:hydrographic_id 8269138) confirms a charted wreck at this position. No dive-specific source was found. Last updated 2026-10-30.*

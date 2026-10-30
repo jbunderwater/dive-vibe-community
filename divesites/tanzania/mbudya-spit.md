@@ -31,7 +31,7 @@ Mbudya Island (Wikipedia-confirmed coordinates 6°39'23"S 39°15'0"E) is one of 
 
 ## Marine Life
 
-No marine life has been confirmed specifically at this site. The previous description's claims of giant trevally and barracuda "patrolling the spit tip," and cryptic flatfish/garden eels on the sand side, were unsourced and have been removed. Mbudya Island in general is documented to host coconut crabs on land and the endemic isopod *Metacirolana mbudya* in its surrounding waters; general Dar es Salaam Marine Reserve species (parrotfish, groupers, moray eels, nesting green and hawksbill turtles) are plausible but not confirmed at this specific point.
+No site-specific marine-life reports were found for this site. The destination's regional fauna applies in general, but no species are named here because none could be traced to a source confirming sightings at this location.
 
 ## Dive Profile
 
@@ -55,4 +55,4 @@ No site-specific hazard information exists. General Dar es Salaam Marine Reserve
 Not documented for this specific site.
 
 ---
-*Sources: [Mbudya Island — Wikipedia](https://en.wikipedia.org/wiki/Mbudya_Island), [Mbudya: A perfect island for snorkeling, scuba diving — The EastAfrican](https://www.theeastafrican.co.ke/tea/magazine/mbudya-a-perfect-island-for-snorkeling-scuba-diving-3791406), [Mbudya Island Marine Reserve — Tanzania Tourism](https://www.tanzaniatourism.com/destination/mbudya-island-marine-reserve). These confirm Mbudya Island's real geography and general character but do not name or describe a dive site called "Mbudya Spit" specifically. Last updated 2026-07-05.*
+*Sources: [Mbudya Island — Wikipedia](https://en.wikipedia.org/wiki/Mbudya_Island), [Mbudya: A perfect island for snorkeling, scuba diving — The EastAfrican](https://www.theeastafrican.co.ke/tea/magazine/mbudya-a-perfect-island-for-snorkeling-scuba-diving-3791406), [Mbudya Island Marine Reserve — Tanzania Tourism](https://www.tanzaniatourism.com/destination/mbudya-island-marine-reserve). These confirm Mbudya Island's real geography and general character but do not name or describe a dive site called "Mbudya Spit" specifically. Last updated 2026-10-30.*

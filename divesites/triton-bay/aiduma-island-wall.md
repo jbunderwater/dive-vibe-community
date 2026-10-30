@@ -17,7 +17,7 @@ addedBy: osm_import
 
 ## Overview
 
-Aiduma Island is well documented as the location of Triton Bay Divers, the area's dedicated dive resort, and sits at the southern end of Triton Bay, roughly two kilometers off the West Papua mainland. This corrects the previous version of this page, which described Aiduma as remote and accessible "exclusively by liveaboard" on "extended... itineraries" — in fact, Aiduma is the base for shore-based resort diving in the bay, making it one of the more accessible parts of the destination rather than one of the most remote. Wall and reef diving does occur in the waters around Aiduma, including at Christmas Rock, an independently documented site off the island's southern end known for black coral bushes, soft coral bommies, and schools of snapper and surgeonfish. However, no source confirms "Aiduma Island Wall" as a specific, named dive site distinct from Christmas Rock or other nearby dives, so the detailed species and dive-profile claims previously recorded here have been removed.
+Aiduma Island is well documented as the location of Triton Bay Divers, the area's dedicated dive resort, and sits at the southern end of Triton Bay, roughly two kilometers off the West Papua mainland. This corrects the previous version of this page, which described Aiduma as remote and accessible "exclusively by liveaboard" on "extended... itineraries" — in fact, Aiduma is the base for shore-based resort diving in the bay, making it one of the more accessible parts of the destination rather than one of the most remote. Wall and reef diving does occur in the waters around Aiduma, including at Christmas Rock, a separately documented site south of Aiduma (Diveplanit, Divers Alert Network, Bluewater Dive Travel). However, no source confirms "Aiduma Island Wall" as a specific, named dive site distinct from Christmas Rock or other nearby dives, so the detailed species and dive-profile claims previously recorded here have been removed.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Aiduma Island is well documented as the location of Triton Bay Divers, the area'
 
 ## Marine Life
 
-No independent, site-specific marine-life source was found for a site named "Aiduma Island Wall." For context, the confirmed nearby site Christmas Rock (off southern Aiduma) is documented to host black coral bushes, soft coral bommies, and schools of snapper and surgeonfish — but this is a distinct, separately-named site and its details should not be assumed to apply to this exact entry. The previous description's claims (ghost pipefish, wobbegong sharks, dogtooth tuna, hawksbill turtles at these specific coordinates) could not be corroborated and have been removed.
+No independent, site-specific marine-life source was found for a site named "Aiduma Island Wall." For context, the confirmed nearby site Christmas Rock (off southern Aiduma) is a distinct, separately named site and its marine life is not assumed to apply here. The destination's regional fauna applies in general terms, but no site-specific reports were found, so no species are named. Species claims in earlier versions of this page were removed because no source supports them.
 
 ## Dive Profile
 
@@ -57,4 +57,4 @@ Standard Triton Bay advanced-diving precautions apply: dive with an experienced 
 No site-specific photography guidance could be confirmed for this exact entry. If diving Christmas Rock or another confirmed wall/bommie site near Aiduma, close-focus wide-angle on the coral bommies and macro work in the black coral would be standard approaches.
 
 ---
-*Description based on regional Aiduma-area diving characteristics. No site-specific source confirming a distinct dive site named "Aiduma Island Wall" was found; the confirmed nearby site Christmas Rock is noted for context but is a different, separately-documented location. Last updated 2026-07-07.*
+*Description based on regional Aiduma-area diving characteristics. No site-specific source confirming a distinct dive site named "Aiduma Island Wall" was found; the confirmed nearby site Christmas Rock is noted for context but is a different, separately-documented location. Last updated 2026-10-30.*

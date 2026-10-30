@@ -17,7 +17,7 @@ addedBy: osm_import
 
 ## Overview
 
-The Iris Strait is well documented as the body of water between Aiduma Island and the mainland where most of Triton Bay's dive sites are located — it is a central, well-dived part of the bay rather than a remote or exposed outer edge, correcting the previous description of this site as being where "the outer waters of Triton Bay meet the open Ceram Sea." Wall dives with black coral and drop-offs do occur within the Iris Strait area, consistent with a site like this existing at these coordinates, but this review could not confirm the specific name "Iris Wall" as used by any dive operator or independent source, nor could it verify the site-specific claims (pelagic frequency, exact depth profile, resident species) previously recorded here.
+The Iris Strait is well documented as the body of water between Aiduma Island and the mainland where most of Triton Bay's dive sites are located — it is a central, well-dived part of the bay rather than a remote or exposed outer edge, correcting the previous description of this site as being where "the outer waters of Triton Bay meet the open Ceram Sea." The Divers Alert Network and Divernet both describe the Iris Strait as where most Triton Bay dives take place. This review could not confirm the specific name "Iris Wall" as used by any dive operator or independent source, nor could it verify the site-specific claims (pelagic frequency, exact depth profile, resident species) previously recorded here.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ The Iris Strait is well documented as the body of water between Aiduma Island an
 
 ## Marine Life
 
-No independent, site-specific marine-life source was found for a dive site named "Iris Wall." The previous description's detailed species list (dogtooth tuna and wahoo schools, resident whitetip sharks at 25-30m, manta rays, bumphead parrotfish) could not be corroborated and has been removed. Triton Bay's general reputation for black coral and soft coral growth on wall sites in the Iris Strait would be expected to apply, but specific sightings at these exact coordinates are unconfirmed.
+No independent, site-specific marine-life source was found for a dive site named "Iris Wall." The destination's regional fauna applies in general terms, but no site-specific reports were found, so no species are named. The species list in earlier versions of this page was removed because no source supports it.
 
 ## Dive Profile
 
@@ -57,4 +57,4 @@ General Triton Bay precautions for advanced wall diving apply: dive with an expe
 No site-specific photography guidance could be confirmed for this location. General advice for Iris Strait black coral wall sites (strobe-lit macro on the coral branches, wide-angle in the shallower reef crest) would be a reasonable starting point, but was not independently verified for this exact site.
 
 ---
-*Description based on regional Iris Strait diving characteristics. No site-specific source confirming a distinct dive site named "Iris Wall" was found. Last updated 2026-07-07.*
+*Description based on regional Iris Strait diving characteristics. No site-specific source confirming a distinct dive site named "Iris Wall" was found. Last updated 2026-10-30 (Iris Strait context re-checked against Divernet and the Divers Alert Network; no source names an "Iris Wall").*

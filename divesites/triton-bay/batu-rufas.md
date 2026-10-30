@@ -17,7 +17,7 @@ Batu Rufas ("rufas rock" — batu is Indonesian for rock) is a submerged rocky r
 
 ## Overview
 
-Batu Rufas sits among the inner islands of Triton Bay, West Papua, Indonesia. This review could not find three independent, site-specific sources describing this location. One low-authority aggregated source mentions a "Batu Rufus" in the Triton Bay area characterized by hard coral fields with large schools of chromis — notably different from the "soft coral reef" character previously recorded for this entry — but that detail could not be corroborated by a second independent source, so it is noted here as unconfirmed rather than adopted outright. Readers should also be aware that a separate, better-documented "Batu Rufas" dive site exists near Piaynemo in Raja Ampat; that site is a different location and should not be confused with this Triton Bay entry.
+Batu Rufas sits among the inner islands of Triton Bay, West Papua, Indonesia. This review could not find three independent, site-specific sources describing this location. A search on 2026-10-30 found no source placing a "Batu Rufas" or "Batu Rufus" in Triton Bay; the Triton Bay articles fetched (Diveplanit, Divernet, Divers Alert Network, Bluewater Dive Travel, The Seven Seas, Dive The World) do not list it. Readers should also be aware that a separate, better-documented "Batu Rufas" dive site exists near Piaynemo in Raja Ampat; that site is a different location and should not be confused with this Triton Bay entry.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Batu Rufas sits among the inner islands of Triton Bay, West Papua, Indonesia. Th
 
 ## Marine Life
 
-No site-specific marine-life source was found for Batu Rufas during this review. One weak, unverified source mentions hard coral fields with chromis schools, but this has not been corroborated. Rather than repeat the previous description's detailed (and unverified) species list — Dendronephthya soft corals, Coleman shrimp, mantis shrimp, resident blacktip reef sharks, Napoleon wrasse — those claims have been removed. Triton Bay's regional reputation for soft coral and reef biodiversity would be expected to apply in general terms, but no site-specific confirmation exists for this location.
+No site-specific marine-life source was found for Batu Rufas during this review. The destination's regional fauna applies in general terms, but no site-specific reports were found, so no species are named. The species list in earlier versions of this page was removed because no source supports it.
 
 ## Dive Profile
 
@@ -57,4 +57,4 @@ General Triton Bay precautions apply: dive with a knowledgeable local guide, car
 No site-specific photography guidance could be confirmed for this location.
 
 ---
-*Description based on limited, unverified sourcing. No 3 independent site-specific sources were found for Batu Rufas in Triton Bay; the one low-authority mention found (describing hard coral and chromis schools) is flagged as unconfirmed and contradicts the previous soft-coral characterization. Last updated 2026-07-07.*
+*Description based on limited, unverified sourcing. No 3 independent site-specific sources were found for Batu Rufas in Triton Bay; re-searched 2026-10-30 and the only "Batu Rufus" found is in Raja Ampat. Last updated 2026-10-30.*

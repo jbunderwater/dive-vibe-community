@@ -14,7 +14,7 @@
       "sport": "scuba_diving",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-07-05",
+      "last_qa_date": "2026-10-30",
       "notes": "QA 2026-07-05: coordinates match Mnemba Island's dive area, not Pemba Island as previously described. No source uses the name 'Little Wall' — possibly an unconfirmed alias of Mnemba's 'Small Wall.' Location corrected; prior perplexity-only validation removed as unsupported."
     }
   },
@@ -32,9 +32,9 @@
       "name": "Big Wall",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "fundiverszanzibar.com,divinginzanzibar.com,angelfish.travel,pongwe.com",
-      "last_qa_date": "2026-07-05",
-      "notes": "QA 2026-07-05: this is a Mnemba Island (east side) site, NOT Pemba Island as previously described — the entire Pemba/Chake Chake/hammerhead narrative was hallucinated and removed. Depth corrected 20m -> sources report a wide 18-60m range depending on drift depth; 35m used as a representative figure, see markdown for full range."
+      "validation_source": "divinginzanzibar.com,angelfish.travel,pongwe.com",
+      "last_qa_date": "2026-10-30",
+      "notes": "QA 2026-07-05: this is a Mnemba Island (east side) site, NOT Pemba Island as previously described — the entire Pemba/Chake Chake/hammerhead narrative was hallucinated and removed. Depth corrected 20m -> sources report a wide 18-60m range depending on drift depth; 35m used as a representative figure, see markdown for full range. QA 2026-10-30: fundiverszanzibar.com page now 404, dropped; 3 live domains remain. Removed unsupported 'grouper', 'barracuda' and 'sparse coral cover' claims."
     }
   },
   {
@@ -54,8 +54,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "tanzaniatourism.com,visittanzania.org,wikipedia.org,tripadvisor.com",
-      "last_qa_date": "2026-07-05",
-      "notes": "QA 2026-07-05: fabricated encounter-rate claims ('5-10 turtles in a single dive,' 'nesting peaks March-August') removed — these conflated the island's turtle-nesting conservation significance with unconfirmed diving-encounter claims. Hawksbill/leatherback turtle mentions flagged as single-sourced, kept as a hedge alongside confirmed green/olive ridley nesting."
+      "last_qa_date": "2026-10-30",
+      "notes": "QA 2026-07-05: fabricated encounter-rate claims ('5-10 turtles in a single dive,' 'nesting peaks March-August') removed — these conflated the island's turtle-nesting conservation significance with unconfirmed diving-encounter claims. Hawksbill/leatherback turtle mentions flagged as single-sourced, kept as a hedge alongside confirmed green/olive ridley nesting. QA 2026-10-30: fish count conflict flagged (200/400/425); hawksbill/leatherback mention stripped. TripAdvisor not re-fetchable."
     }
   },
   {
@@ -75,7 +75,7 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-07-05",
+      "last_qa_date": "2026-10-30",
       "notes": "QA 2026-07-05: no dive-specific source found. Only the nearby Tongoni Ruins (a historical Shirazi site ~21km south of Tanga) are documented — all diving-specific claims (visibility figures, mangrove-transition fish) were fabricated and removed."
     }
   },
@@ -227,7 +227,7 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "buccaneerdiving.com",
-      "last_qa_date": "2026-07-05",
+      "last_qa_date": "2026-10-30",
       "notes": "QA 2026-07-05: only 1 qualifying domain found. Species narrowed to confirmed table corals, sweetlips, unicornfish, scorpionfish, octopus; other invented specifics (garden eels, cuttlefish, resting turtles, night-dive octopus claims) removed."
     }
   },
@@ -249,7 +249,7 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "buccaneerdiving.com",
-      "last_qa_date": "2026-07-05",
+      "last_qa_date": "2026-10-30",
       "notes": "QA 2026-07-05: only 1 qualifying domain, and its claims are for the wider 'Woo' cluster rather than specifically the South section. Unconfirmed specifics (garden eels, stingrays, generic Jambiani species cast) removed."
     }
   },
@@ -270,7 +270,7 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-07-05",
+      "last_qa_date": "2026-10-30",
       "notes": "QA 2026-07-05: no source uses the name 'Memba 1' — likely OSM auto-numbering/truncation of 'Mnemba.' Coordinates sit inside the Mnemba Marine Conservation Area near real wall sites (Kichwani/Big Wall), but this exact named site is unconfirmed. Fabricated marine-life specifics (unusual nudibranch diversity, named pelagics) removed."
     }
   },
@@ -291,7 +291,7 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-07-05",
+      "last_qa_date": "2026-10-30",
       "notes": "QA 2026-07-05: same situation as Memba 1 — no source names this exact site, likely a Mnemba auto-numbering artifact. Fabricated 'pygmy seahorses on sea fans at 18-22m' and frequent Napoleon wrasse/eagle ray claims were not corroborated by any source and were removed."
     }
   },
@@ -335,8 +335,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "scubaboard.com",
-      "last_qa_date": "2026-07-05",
-      "notes": "QA 2026-07-05: vessel remains unidentified. The OSM source node only carries the generic label 'old shipwreck' + historic=wreck, with no vessel name/date/tonnage. Ruled out as MV Moto, The Great Northern, Royal Naval Lighter, and The Penguin based on location/depth mismatches (all are Zanzibar-area wrecks, not Dar es Salaam). No historical facts were invented; the description states plainly what is and isn't known."
+      "last_qa_date": "2026-10-30",
+      "notes": "QA 2026-07-05: vessel remains unidentified. The OSM source node only carries the generic label 'old shipwreck' + historic=wreck, with no vessel name/date/tonnage. Ruled out as MV Moto, The Great Northern, Royal Naval Lighter, and The Penguin based on location/depth mismatches (all are Zanzibar-area wrecks, not Dar es Salaam). No historical facts were invented; the description states plainly what is and isn't known. QA 2026-10-30: single-source named-wreck claims removed; no wreck conflicts, identity still unknown."
     }
   },
   {
@@ -356,7 +356,7 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-07-05",
+      "last_qa_date": "2026-10-30",
       "notes": "QA 2026-07-05: no operator, forum, or gazetteer names this site specifically; plausible only by proximity to the Dar es Salaam Marine Reserve System (between Fungu Yasini and Bongoyo reserve islands). Fabricated behavioral marine-life claims removed."
     }
   },
@@ -381,7 +381,7 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-07-05",
+      "last_qa_date": "2026-10-30",
       "notes": "QA 2026-07-05: location confirmed via gazetteer records only (coordinates match closely, but this counts as one source, not independent triangulation); not listed among the Dar es Salaam Marine Reserve System's named islands, and no operator/ScubaBoard coverage found. Fabricated marine-life claims removed."
     }
   },
@@ -403,8 +403,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "wikipedia.org,seaunseen.com,protectedseas.net",
-      "last_qa_date": "2026-07-05",
-      "notes": "QA 2026-07-05: whale-shark/manta-ray claims from a low-quality tourism site excluded as geographically implausible (Tanzania's whale sharks aggregate in the Mafia Channel, not off Dar es Salaam). Intertidal/reef-flat marine life (sea cucumbers, octopus, giant clams, nudibranchs) confirmed via Wikipedia."
+      "last_qa_date": "2026-10-30",
+      "notes": "QA 2026-07-05: whale-shark/manta-ray claims from a low-quality tourism site excluded as geographically implausible (Tanzania's whale sharks aggregate in the Mafia Channel, not off Dar es Salaam). Intertidal/reef-flat marine life (sea cucumbers, octopus, giant clams, nudibranchs) confirmed via Wikipedia. QA 2026-10-30: area conflict flagged (22.9 vs 9 km2); operator fish groups stripped."
     }
   },
   {
@@ -422,10 +422,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
+      "validated": "false",
       "validation_source": "seaunseen.com,deepmarinediving.com,wikipedia.org",
-      "last_qa_date": "2026-07-05",
-      "notes": "QA 2026-07-05: 'Mbudya Patches' as a distinct named feature isn't directly attested by any source — matched to a sourced nearby reef area (Big T Reef/Octopus Reef, matching depth) as a reasonable but unconfirmed inference. Added an overfishing/dynamite-fishing caveat from Seaunseen; unverified specifics (moray eels, 'long turtle history') removed."
+      "last_qa_date": "2026-10-30",
+      "notes": "QA 2026-07-05: 'Mbudya Patches' as a distinct named feature isn't directly attested by any source — matched to a sourced nearby reef area (Big T Reef/Octopus Reef, matching depth) as a reasonable but unconfirmed inference. Added an overfishing/dynamite-fishing caveat from Seaunseen; unverified specifics (moray eels, 'long turtle history') removed. QA 2026-10-30: downgraded - name unattested; sources describe Big T Reef/Octopus Reef, mapping is inference. Generic fish groups stripped."
     }
   },
   {
@@ -445,7 +445,7 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-07-05",
+      "last_qa_date": "2026-10-30",
       "notes": "QA 2026-07-05: no operator/forum/gazetteer names this site. Location corrected: coordinates place it near Pungume Island/Menai Bay Conservation Area (Zanzibar Channel), not the Dar es Salaam reserve cluster as previously described; access point corrected from Stone Town to Kizimkazi/Fumba. Unsourced whale-shark/predator claims removed."
     }
   },
@@ -466,7 +466,7 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-07-05",
+      "last_qa_date": "2026-10-30",
       "notes": "QA 2026-07-05: no qualifying source found. Location corrected: ~13-24km from Pungume/Pangavini Islands in the Zanzibar Channel/Menai Bay area, not clustered with Dar es Salaam reserve sites as previously described. Unsourced marine-life claims removed."
     }
   },
@@ -487,7 +487,7 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-07-05",
+      "last_qa_date": "2026-10-30",
       "notes": "QA 2026-07-05: Pungume Island itself is well documented (Wikipedia, Menai Bay Conservation Area sources — ~5-8km away, southern boundary marker of Zanzibar's largest MPA), but no source names this specific patch reef. Access corrected from Stone Town to Kizimkazi."
     }
   },
@@ -508,7 +508,7 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-07-05",
+      "last_qa_date": "2026-10-30",
       "notes": "QA 2026-07-05: Mbudya Island itself is well documented, but this site's coordinates sit 2-4km southeast of the island's charted center, not confirmed as the 'northern tip' sources describe. Unsourced predator-patrol claims removed."
     }
   },
@@ -550,7 +550,7 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-07-05",
+      "last_qa_date": "2026-10-30",
       "notes": "QA 2026-07-05: Niororo Island's reserve is listed separately from Mafia Island Marine Park proper — the 'within MIMP' framing was unsupported and removed. The claim of regular whale-shark sightings here was removed as unsupported; Mafia's documented whale-shark aggregation is in the channel near Kilindoni, 30+km away."
     }
   },
@@ -571,8 +571,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "wikipedia.org,tanzaniatourism.com,seaunseen.com",
-      "last_qa_date": "2026-07-05",
-      "notes": "QA 2026-07-05: fabricated seahorses/ghost pipefish/reef sharks removed. Confirmed marine life includes coconut crabs (island), butterflyfish/groupers/sweetlips, and nesting turtles. A distinct nearby Moto shipwreck (5m avg/12m max) is documented separately — not to be conflated with this reef's own 18m depth."
+      "last_qa_date": "2026-10-30",
+      "notes": "QA 2026-07-05: fabricated seahorses/ghost pipefish/reef sharks removed. Confirmed marine life includes coconut crabs (island), butterflyfish/groupers/sweetlips, and nesting turtles. A distinct nearby Moto shipwreck (5m avg/12m max) is documented separately — not to be conflated with this reef's own 18m depth. QA 2026-10-30: Moto wreck details (single-source) and wreck-specific species removed; unsourced current/side-shelter claims removed."
     }
   },
   {
@@ -590,10 +590,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
+      "validated": "false",
       "validation_source": "wikipedia.org,tanzaniatourism.com",
-      "last_qa_date": "2026-07-05",
-      "notes": "QA 2026-07-05: removed an incorrect beach/surface-interval claim — Wikipedia states the island has a rocky coastline with no beaches and is seldom visited. Removed invented coral-genus/depth-profile specifics."
+      "last_qa_date": "2026-10-30",
+      "notes": "QA 2026-07-05: removed an incorrect beach/surface-interval claim — Wikipedia states the island has a rocky coastline with no beaches and is seldom visited. Removed invented coral-genus/depth-profile specifics. QA 2026-10-30: downgraded - only 2 independent domains (wikipedia.org, tanzaniatourism.com); unconfirmed species stripped."
     }
   }
 ]

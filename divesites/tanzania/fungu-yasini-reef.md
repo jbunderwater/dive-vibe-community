@@ -17,7 +17,7 @@ Fungu Yasini is a coral and sand-bank reef north of Dar es Salaam, Tanzania, and
 
 ## Overview
 
-"Fungu" means "reef" or "shoal" in Swahili. Fungu Yasini Island itself is a vegetation-free sandbank visible only at low tide, covering roughly 22.9 km² including its surrounding reef flat, protected since 1975 as an IUCN Category II marine reserve within the Dar es Salaam Marine Reserve System. Coral cover — over 35% of the reef area — concentrates in two zones: shallow water on the southwest side (under 10 meters) and a deeper reef area further out. West of the island the seabed drops to a sandy bottom around 40 meters, a spot noted by local sources as good for freediving; that deeper zone is distinct from the shallower reef-diving area this record describes. Coordinates for the island itself (6°35'39"S, 39°13'26"E) sit a few kilometers from this record's coordinates, consistent with the record describing a specific reef patch within the broader reserve rather than the island proper.
+"Fungu" means "reef" or "shoal" in Swahili. Fungu Yasini Island itself is a vegetation-free sandbank visible only at low tide, with a reserve area that sources give differently (Wikipedia: about 22.9 km²; ProtectedSeas Navigator: about 9 km²), protected since 1975 as an IUCN Category II marine reserve within the Dar es Salaam Marine Reserve System. Wikipedia states that more than 35% of the island's coral cover is found in two sites: shallow water on the southwest side (under 10 meters) and a deeper area further out. Seaunseen describes the surrounding reefs as fairly extensive, with large portions visible at spring low tide, making the area a navigational hazard. Coordinates for the island itself (6°35'39"S, 39°13'26"E) sit a few kilometers from this record's coordinates, consistent with the record describing a specific reef patch within the broader reserve rather than the island proper.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Fungu Yasini is a coral and sand-bank reef north of Dar es Salaam, Tanzania, and
 
 ## Marine Life
 
-Sources describing the reef flat and intertidal zone specifically at Fungu Yasini document sea cucumbers, octopuses, sea urchins, giant clams, rock crabs, tiger cowries, starfish, cushion stars, and nudibranchs, along with seagrass beds of *Thalassia hemprichii* and *Thalassodendron ciliatum*. A dive operator description of the general Mbudya/Fungu Yasini reef area separately notes coral-associated reef fish (wrasses, butterfly fish, damselfish) as visible in the wider reserve, though not confirmed specifically for this reef patch. Claims found on one low-quality tourism site (whale sharks, manta rays, 30m+ visibility) were not corroborated anywhere else and are not consistent with the known geographic range of Tanzania's whale shark aggregations (which center on the Mafia Channel, well south of Dar es Salaam) — those claims are excluded rather than repeated here.
+Wikipedia and ProtectedSeas Navigator list, for the Fungu Yasini reserve (reef flat and intertidal zone): sea cucumbers, octopus, sea urchins, giant clams, rock crabs, tiger cowries, starfish, cushion stars and nudibranchs, plus seagrass beds of *Thalassia hemprichii* and *Thalassodendron ciliatum*. These are reserve-level records, not dive-by-dive sightings at this exact coordinate. No other species are named because none could be traced to a source confirming sightings here.
 
 ## Entry and Exit
 
@@ -43,4 +43,4 @@ Boat access from Dar es Salaam, consistent with operators based at Msasani/Slipw
 No site-specific safety information was found. General caution appropriate to shallow coral reef diving (buoyancy control, sea urchin avoidance) applies, but this is carried over as general good practice rather than a researched finding.
 
 ---
-*Sources: [Fungu Yasini Island — Wikipedia](https://en.wikipedia.org/wiki/Fungu_Yasini_Island), [Dive Sites of Mainland Tanzania — Seaunseen](https://seaunseen.com/diving-in-tanzania/), [Fungu Yasini Island Marine Reserve — ProtectedSeas Navigator](https://map.navigatormap.org/site-detail?site_id=25660). Last updated 2026-07-05.*
+*Sources: [Fungu Yasini Island — Wikipedia](https://en.wikipedia.org/wiki/Fungu_Yasini_Island), [Dive Sites of Mainland Tanzania — Seaunseen](https://seaunseen.com/diving-in-tanzania/), [Fungu Yasini Island Marine Reserve — ProtectedSeas Navigator](https://map.navigatormap.org/site-detail?site_id=25660). Re-audited 2026-10-30; the Seaunseen page was re-read. Last updated 2026-10-30.*

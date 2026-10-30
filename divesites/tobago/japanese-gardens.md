@@ -32,7 +32,7 @@ Located in the Speyside dive area, Japanese Gardens features an exceptional cora
 
 ## Marine Life
 
-The nutrient-rich Guiana Current supports rich fish life at Japanese Gardens. ERIC Tobago and Tropical Sky both confirm tube sponges, vase sponges, and sea whips as characteristic features, with a passage called Kamikaze Cut that opens to a sheltered area where nurse sharks are sometimes found resting. Tropical Sky separately confirms large schools of jacks at this site, and describes it as sitting on the fringes of Goat Island with a steep sloping profile. Colourful organ pipe corals and barrel sponges are confirmed features of the site. Manta rays are associated with the broader northeast Tobago zone, particularly during upwelling season; however, specific documentation of manta encounters at this specific site (as opposed to Kelleston Drain or Sisters Rocks) is less definitive. "Eagle rays," "Caribbean reef sharks," and "large groupers" attributed in previous descriptions are plausible Speyside species but were not confirmed from primary sources specific to this site.
+ERIC Tobago and Tropical Sky both confirm tube sponges, vase sponges, and sea whips as characteristic features, with a passage called Kamikaze Cut that opens to a sheltered area where nurse sharks are sometimes found resting. Tropical Sky separately confirms large schools of jacks at this site and describes it as sitting on the fringes of Goat Island with a steep sloping profile. Discover Trinidad & Tobago (re-checked 2026-10-30) also reports bicolor damselfish, vase sponges and sea turtles at Japanese Gardens. Manta rays, eagle rays, reef sharks and groupers are not confirmed by any source for this specific site and are not claimed.
 
 Note: one additional source (via search only, not independently confirmed by direct fetch) cites a shallower 40-80ft (12-24m) depth range for a "Japanese Gardens" listing, which would conflict with the 34m maximum depth used elsewhere in this description. That figure could not be independently re-verified, so it is flagged here rather than adopted.
 
@@ -46,11 +46,11 @@ Boat dive from Speyside operators. Giant stride entry. Live-boat or mooring pick
 
 ## Tips and Recommendations
 
-- Plan your visit for October to February for the best chance of manta ray encounters
+- Plan your visit with your operator for current and visibility conditions
 - The Guiana Current can feel cold — a 3mm wetsuit minimum is recommended, 5mm for extended current exposure
 - Spend time in the coral garden at 10–20 meters where the site earns its name — the coral density is extraordinary
 - Ask your operator about current conditions before committing to the deepest sections
-- Japanese Gardens pairs ideally with Kelleston Drain for a full-day northeast Tobago pelagic experience
+- Japanese Gardens is close to Kelleston Drain in this dataset and can be combined in a day trip
 
 ## Safety Considerations
 
@@ -58,7 +58,7 @@ Current at Japanese Gardens can be strong and variable. Only attempt the site wi
 
 ## Photography
 
-Japanese Gardens is one of the Caribbean's finest underwater photography destinations. The coral density and colour at 10–20 meters in good visibility is extraordinary for wide-angle reef shots. Manta ray encounters in blue water during upwelling season are the headline images. A strobe is recommended to bring out the full colour of the coral and sponge community.
+Japanese Gardens is one of the Caribbean's finest underwater photography destinations. The coral density and colour at 10–20 meters in good visibility is extraordinary for wide-angle reef shots. A strobe is recommended to bring out the full colour of the coral and sponge community.
 
 ---
-*Sources: [ERIC Tobago - Dive Sites](https://www.eric-tobago.org/dive-sites-and-species), [Visit Tobago - East Tobago Dive Sites](https://visittobago.gov.tt/east-tobago-speyside-dive-sites), [Tropical Sky - Best Dive Sites Tobago](https://www.tropicalsky.co.uk/caribbean-holidays/tobago/the-best-dive-sites-in-tobago), [Scubaverse - Tobago](https://scubaverse.com/dive-guide/caribbean/tobago/). Last updated 2026-07-05.*
+*Sources: [ERIC Tobago - Dive Sites](https://www.eric-tobago.org/dive-sites-and-species), [Visit Tobago - East Tobago Dive Sites](https://visittobago.gov.tt/east-tobago-speyside-dive-sites), [Tropical Sky - Best Dive Sites Tobago](https://www.tropicalsky.co.uk/caribbean-holidays/tobago/the-best-dive-sites-in-tobago), [Scubaverse - Tobago](https://scubaverse.com/dive-guide/caribbean/tobago/). [Discover Trinidad & Tobago](https://www.discovertnt.com/articles/tobago/diving-kingdom-of-the-corals/). Last updated 2026-10-30.*

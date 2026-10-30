@@ -2,12 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "tanzania",
-    "thailand",
-    "thailand-similan-islands",
-    "tobago",
-    "tonga",
-    "triton-bay",
     "turkey",
     "turks-and-caicos",
     "uae",
@@ -174,7 +168,13 @@
     "sudan",
     "sudan-red-sea",
     "sumbawa",
-    "svalbard"
+    "svalbard",
+    "tanzania",
+    "thailand",
+    "thailand-similan-islands",
+    "tobago",
+    "tonga",
+    "triton-bay"
   ],
   "history": [
     {
@@ -3832,6 +3832,26 @@
         "notes": "sudan skipped: no osm_clean data or divesites directory"
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/176"
+    },
+    {
+      "date": "2026-10-30",
+      "slugs": [
+        "tanzania",
+        "thailand",
+        "thailand-similan-islands",
+        "tobago",
+        "tonga",
+        "triton-bay"
+      ],
+      "summary": {
+        "sites_total": 79,
+        "sites_validated_today": 0,
+        "sites_re_audited": "~47 (tanzania 6, similan 14, tobago 13, tonga 5, triton-bay 9)",
+        "hallucinations_removed": "~56 (approx., per agent reports)",
+        "wreck_conflicts_flagged": "~7",
+        "notes": "thailand skipped: no osm_clean data or divesites directory"
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/178"
     }
   ]
 }

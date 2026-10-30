@@ -17,7 +17,7 @@ Pungume Patches takes its name from Pungume Island, a real, well-documented isla
 
 ## Overview
 
-Pungume Island itself is confirmed by multiple independent sources: it is composed of limestone, is the largest of the Menai Bay islands, and is reached from Kizimkazi (a fishing village at the southern tip of Zanzibar) via a roughly 40-minute boat ride — not from Stone Town, which is about 50 km away by sea. The previous version of this page incorrectly described Stone Town access; that has been corrected. The Menai Bay Conservation Area is independently documented to have coral gardens, reef sharks, dolphins, and occasional manta rays, with dive depths generally 10-35 meters. However, no dive operator or forum source specifically describes a site named "Pungume Patches" — Kizimkazi-based operator DiveTime Zanzibar's published site list (Aquarium, Balu's Place, Barracuda, Mnazi Mmoja, Frank Reef, Mjuma, Coral Garden, Abbas Reef, Dolphin Wall, Camera Drop, Pig Rock) does not include it by this name, so the specific claims below about this exact patch reef remain unverified.
+Pungume Island itself is confirmed by multiple independent sources: it is composed of limestone, is the largest of the Menai Bay islands, and is reached from Kizimkazi (a fishing village at the southern tip of Zanzibar) via a roughly 40-minute boat ride — not from Stone Town, which is about 50 km away by sea. The previous version of this page incorrectly described Stone Town access; that has been corrected. The Menai Bay Conservation Area is documented as having coral gardens, with dive depths generally 10-35 meters. However, no dive operator or forum source specifically describes a site named "Pungume Patches" — Kizimkazi-based operator DiveTime Zanzibar's published site list (Aquarium, Balu's Place, Barracuda, Mnazi Mmoja, Frank Reef, Mjuma, Coral Garden, Abbas Reef, Dolphin Wall, Camera Drop, Pig Rock) does not include it by this name, so the specific claims below about this exact patch reef remain unverified.
 
 ## Site Information
 
@@ -31,7 +31,7 @@ Pungume Island itself is confirmed by multiple independent sources: it is compos
 
 ## Marine Life
 
-No marine life has been confirmed specifically at "Pungume Patches." The Menai Bay Conservation Area in general is documented to host reef sharks, dolphins, sea turtles, and occasional manta rays, with humpback whales passing through seasonally, but none of these are confirmed at this exact location and the previous description's specific claims (giant trevally patrolling, resident stingrays) have been removed as unsourced.
+No site-specific marine-life reports were found for this site. The destination's regional fauna applies in general, but no species are named here because none could be traced to a source confirming sightings at this location.
 
 ## Dive Profile
 
@@ -55,4 +55,4 @@ No site-specific hazard information exists for this feature. General Menai Bay p
 Not documented for this specific site.
 
 ---
-*Sources: [Pungume Island — WeAreZanzibar](https://wearezanzibar.com/zanzibar/pungume-island-zanzibar), [Menai Bay Conservation Area — Wikipedia](https://en.wikipedia.org/wiki/Menai_Bay_Conservation_Area), [Dive Time Zanzibar site list](https://www.divetimezanzibar.com/diving). These confirm the real Pungume Island and the general Menai Bay diving environment but do not name or describe a site called "Pungume Patches" specifically. Last updated 2026-07-05.*
+*Sources: [Pungume Island — WeAreZanzibar](https://wearezanzibar.com/zanzibar/pungume-island-zanzibar), [Menai Bay Conservation Area — Wikipedia](https://en.wikipedia.org/wiki/Menai_Bay_Conservation_Area), [Dive Time Zanzibar site list](https://www.divetimezanzibar.com/diving). These confirm the real Pungume Island and the general Menai Bay diving environment but do not name or describe a site called "Pungume Patches" specifically. Last updated 2026-10-30.*

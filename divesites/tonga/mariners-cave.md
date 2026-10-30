@@ -3,7 +3,7 @@ name: Mariner's Cave
 lat: -18.675
 lng: -174.0333
 difficulty: Advanced
-maxDepth: 12
+maxDepth: 16
 entryType: boat
 siteType: cave
 ref: null
@@ -13,51 +13,53 @@ addedBy: osm_import
 
 ## Mariner's Cave
 
-Mariner's Cave is one of the most famous and unusual dive experiences in the South Pacific — a fully submerged cave entrance reached by an underwater swim, opening into an air-filled chamber where passing swells produce a recurring "fog-out" effect.
+Mariner's Cave is a cave on the west side of Nuapapu Island in the Vava'u group with an underwater entrance that opens into an air-filled chamber where passing swell produces a fog.
 
 ## Overview
 
-Located on the west side of Nuapapu Island in the Vava'u group, Mariner's Cave has no visible opening from the surface. There are two ways in: a shallow entrance around 3m (10ft) deep that's accessible to confident snorkelers, and a second, deeper entrance around 12m (40ft) used by divers, who typically enter through the shallow opening, explore, then exit via the deeper route (or vice versa). Once inside, the only light comes from the underwater passage — a blue glow that shifts with the surface conditions outside. As ocean swell rolls in, it compresses the air trapped in the chamber quickly enough to produce an instant fog, which clears again just as fast as the swell recedes; this repeats with each wave. The cave is named for William Mariner, a young English clerk who survived the 1806 massacre of the crew of the privateer Port-au-Prince in the Ha'apai group and lived in Tonga for about four years afterward, closely observing Tongan society and later publishing an account of his time there. Local legend tied to the cave describes a rebel chief who hid a forbidden love interest inside for several months while plotting an escape, eventually fleeing with her to Fiji; Mariner is said to have been skeptical she could have survived without an air source and to have investigated the cave, later confirming a tidal fissure that lets it "breathe."
+Soggy Paws places the cave on the west wall of the north end of Nuapapu Island. The entrance is underwater and easy to miss from a dinghy; AVATAR Logs reports two large pink arrows on the cliffs pointing to it and Bumfuzzle reports finding it only by GPS. Two entrances are described: a shallow one reachable by strong snorkelers and a deeper one used by scuba divers. The shallow entrance is reported at about 3 m (10 ft) by Soggy Paws, 4 m (13 ft) by Tonga Pocket Guide and about 6 ft by AVATAR Logs. The deeper entrance is reported at about 12 m (40 ft) by Soggy Paws, about 15 m by AVATAR Logs and 16.5 m (54 ft) by Tonga Pocket Guide; the sources conflict and this entry does not choose one.
+
+Inside, the light is a blue glow from the underwater entrance. When swell enters, the trapped air is compressed and expands again as the water recedes, producing an instant fog that clears as the swell ebbs (Soggy Paws, AVATAR Logs, Bumfuzzle, Tonga Pocket Guide). Bumfuzzle reports ear pressure changes inside.
+
+The cave is named for William Mariner, who survived the 1806 killing of the crew of the privateer Port-au-Prince in the Ha'apai group and lived in Tonga for about four years (Soggy Paws, AVATAR Logs). Sources differ on his role: Soggy Paws calls him a 14-year-old clerk, AVATAR Logs a ship's boy. Soggy Paws tells a local legend of a chief who hid a loved one in the cave for two or three months before fleeing with her to Fiji; it says Mariner doubted the cave could hold air and searched for an opening without finding one, and that a low-tide fissure that lets the cave "breathe" was found later. This is legend, not verified history.
 
 ## Site Information
 
-- **Location**: Nuapapu Island, Vava'u, Tonga
+- **Location**: West side of Nuapapu Island, Vava'u, Tonga
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 15–25 meters (exterior); dim, blue ambient light inside the cave
-- **Current**: Surge at the cave entrances with passing swell
-- **Water Temperature**: 24–28°C (75–82°F)
-- **Best Time to Dive**: Calm days; the cave faces west, and the fog effect needs some swell but becomes hazardous to enter in large swell
+- **Maximum Depth**: 16 meters
+- **Typical Visibility**: Not confirmed for this specific site
+- **Current**: Surge at the entrance with swell
+- **Water Temperature**: Not confirmed for this specific site
+- **Best Time to Dive**: Mid-afternoon or later, since the cave faces west (Soggy Paws), in calm conditions
 
 ## Marine Life
 
-A large lobster is regularly seen near the 12m (40ft) swim-through and should be observed, not disturbed. Beyond the lobster, no other site-specific marine life reports were found for the cave interior itself. The wall dive that follows after exiting the cave lies within Vava'u's general reef habitat, but no source lists specific species for that particular stretch of wall.
+Soggy Paws reports a large lobster living in the cave near the deeper swim-through ("look, don't molest"). Tonga Pocket Guide reports a few nudibranchs outside the cave. No other site-specific species are documented.
 
 ## Dive Profile
 
-Divers descend to one of the two entrances — the shallow opening at roughly 3m or the deeper one at roughly 12m — and swim horizontally through a short submerged passage before surfacing inside the air-filled chamber. After exploring the chamber (and, conditions permitting, watching for the fog effect), divers exit through the cave, turn left along the outside wall, and follow it to about 12m (40ft), where roughly 30 minutes into the dive a sandy patch offers two further swim-throughs — one rising from about 12m to 6m, the second returning from 6m back down to 12m before finishing around 6m.
+Soggy Paws suggests entering through the shallow opening, exploring the chamber, and exiting via the deeper swim-through. Outside, turn left and follow the wall down to a sand patch at about 40 ft (12 m) with two swim-throughs: the first rises from 40 to 20 ft, the second drops from 20 back to 40 ft, and the dive ends around 20 ft. Soggy Paws suggests pairing it with The Gap for a two-tank outing.
 
 ## Entry and Exit
 
-Access is by dive boat from Neiafu; the boat anchors off Nuapapu Island and a guide leads divers to the cave entrance, which is not visible or obvious from the surface. Diving it without a guide on a first visit is strongly discouraged. Entry requires a controlled descent to the chosen entrance depth and a confident, short horizontal swim through the passage; the same swim is reversed to exit (or continued through to the wall dive beyond).
+There is no good anchoring spot, so private divers usually go in pairs and take turns while one stays with the boat (Soggy Paws). Bumfuzzle also reports the dinghy could not be tied off outside and people entered one at a time.
 
 ## Tips and Recommendations
 
-- This is also offered as a snorkel/free-dive experience through the shallow 3m entrance
-- Follow your guide closely on the first pass — hesitating mid-passage during a surge cycle is uncomfortable
-- Look for the resident lobster near the 12m (40ft) swim-through, but don't touch it
-- After exiting, the wall dive to the left is worth continuing onto if air and conditions allow
-- Do not attempt this site solo or without a guide on a first visit
+- Go in the mid-afternoon or later for better light; a flashlight is a backup
+- Look for the lobster but do not disturb it
+- Use a guide or local operator for a first visit; the entrance is hard to find
 
 ## Safety Considerations
 
-Mariner's Cave carries genuine hazard for unprepared divers: the submerged passage is a confined-space situation with no bailout point mid-swim. Surge at the entrances can be significant when swell is running, and operators typically cancel or postpone visits above a certain swell height. Always dive with a guide on a first visit; cavern or cave certification is not strictly required but improves comfort and safety.
+The entry is a short underwater swim into a chamber with no bailout mid-passage, and swell strongly affects the fog, pressure and entry. No source characterizes the cave as safe for casual entry; go only in suitable swell and with a guide or experienced buddy. Cavern or cave training requirements are not specified by the sources.
 
 ## Photography
 
-The brief, unpredictable fog effect calls for burst-shooting and patience; wide-angle lenses suit the interior chamber, framing divers against the ambient blue light. The passage itself, with a diver silhouetted against the brighter chamber light ahead, is a classic shot taken from just outside the entrance.
+The fog is brief and unpredictable (Bumfuzzle, AVATAR Logs) and the interior is lit only by blue light through the entrance.
 
 ---
-*Sources: [Diving Mariner's Cave — svsoggypaws.com](https://svsoggypaws.com/tongadive/mariners_cave.htm), [Mariner's Cave — Timeless Tonga](https://timelesstonga.com/activities/mariners-cave/), [Swallows' Cave and Mariner's Cave — The AVATAR Logs](https://avatarlogs.com/2013/09/03/swallows-cave-and-mariners-cave/), [Mariner's Cave — Bumfuzzle](https://www.bumfuzzle.com/mariners-cave/). Last updated 2026-07-07.*
+*Sources: [Diving Mariner's Cave — Soggy Paws](https://svsoggypaws.com/tongadive/mariners_cave.htm), [Swallows' Cave and Mariner's Cave — The AVATAR Logs](https://avatarlogs.com/2013/09/03/swallows-cave-and-mariners-cave/), [Mariner's Cave — Bumfuzzle](https://www.bumfuzzle.com/mariners-cave/), [10 Incredible Caves in Tonga — Tonga Pocket Guide](https://tongapocketguide.com/10-incredible-caves-in-tonga/), [Best Dive Sites in Vava'u — Tonga Pocket Guide](https://tongapocketguide.com/10-best-dive-sites-in-vavau). Last updated 2026-10-30.*

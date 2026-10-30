@@ -13,49 +13,26 @@ addedBy: osm_import
 
 ## The Dome
 
-The Dome is the name used by some operators for the central dome-shaped granite boulder at the Koh Tachai Pinnacle dive site, roughly 500 meters south of Koh Tachai island, Similan Islands National Park, Phang Nga Province, Thailand.
+"The Dome" is the dataset's name for the dome-topped main pinnacle at Koh Tachai. Sunrise Divers describes the larger southern pinnacle as dome-shaped; Divezone lists a separate "Koh Tachai The Dome" entry; Hobo-ya Similan describes a dome-shaped rock at Twin Peaks.
 
-**Data-quality note:** This destination's dataset lists "The Dome," "Twin Peaks," and "Koh Tachai Pinnacle" as three separate entries with distinct GPS coordinates a few hundred meters apart, and this destination's own OSM data already tags this entry's English name as "Koh Tachai Pinnacle." Multiple independent operator sources describe these three names as referring to the same physical site — two pinnacles plus a large central dome-shaped boulder — used interchangeably by different dive shops, rather than three genuinely distinct locations. This has been flagged for maintainer review (possible merge/dedupe) rather than resolved by deleting entries in this pass. See the fuller write-up and full source list under Koh Tachai Pinnacle.
+**Data-quality note:** The dataset lists "Twin Peaks", "The Dome" and "Koh Tachai Pinnacle" as three entries with coordinates a few hundred meters apart. Sunrise Divers describes one site with a dome-topped main pinnacle plus a smaller second pinnacle; Hobo-ya Similan calls the same formation "Twin Peaks" (a dome-shaped rock ringed by smaller reefs); Divezone lists "Ko Tachai (also called Twin Peaks)" and a separate "Koh Tachai The Dome" entry without saying whether they are the same spot. The three entries very likely overlap and are flagged for maintainer review (possible merge), not deleted here. Wikipedia reports Ko Tachai island has been closed to tourists since 15 October 2016; operators still list the pinnacle dive, so confirm current access with your operator.
 
 ## Overview
 
-The dome-shaped granite boulder that gives this name its origin tops out around 12–14 meters and drops to a sandy bottom reported between 30 and 40 meters depending on source and flank. It sits alongside two pinnacles (the feature some operators call "Twin Peaks") in the same current-exposed formation. Manta rays and, less predictably, whale sharks are reported in the area when oceanic/current conditions bring in plankton-rich water.
+Sunrise Divers: top at about 12-14 m, sandy base from about 30 m, currents can be strong, best dived as a deep dive. Names are used inconsistently between operators, so confirm with yours what "The Dome" means.
 
 ## Site Information
 
-- **Location**: ~500m south of Koh Tachai island (same complex as Twin Peaks / Koh Tachai Pinnacle), Phang Nga Province, Thailand
+- **Location**: About 500 m south of Koh Tachai, Phang Nga Province, Thailand
 - **Entry Type**: liveaboard
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 15–40 meters
-- **Current**: Very strong; highly variable
-- **Best Time**: November to May
+- **Current**: Can be strong
 
 ## Marine Life
 
-See the fuller, consolidated marine-life account under Koh Tachai Pinnacle — sources report manta rays, occasional whale sharks, giant and bigeye trevally, great barracuda, fusiliers, banded sea snakes, moray eels, lobsters, mantis shrimp, ghost pipefish, nudibranchs, and seahorses across this site complex. This entry previously described soft-coral-focused marine life (Dendronephthya/Chironephthya beds, whitetip reef sharks) not corroborated by the sources reviewed this pass; that content has been removed rather than carried forward unverified.
-
-## Dive Profile
-
-A circumnavigation of the dome-shaped boulder is achievable in a single dive, typically combined with a visit to the adjacent pinnacle(s) depending on current and guide judgment.
-
-## Entry and Exit
-
-Exclusively liveaboard, timed to tidal windows given the site's strong and variable current.
-
-## Tips and Recommendations
-
-- Given the source overlap with Twin Peaks and Koh Tachai Pinnacle, check with your operator which specific feature they mean when briefing "The Dome" — naming varies by shop
-- A reef hook on bare rubble helps hold a stationary position to observe schooling fish without fighting current
-
-## Safety Considerations
-
-Treat this as part of the same current-exposed pinnacle complex as Twin Peaks/Koh Tachai Pinnacle: strong, variable current requires genuine current-diving experience and a deployable SMB at all times.
-
-## Photography
-
-Wide-angle photography of the dome's shape with a diver for scale, and of the schooling fish that orbit the formation, are the main subjects reported for this site complex.
+See Koh Tachai Pinnacle; reports cannot be separated by name. Sunrise Divers reports manta rays, leopard sharks on deeper sand and batfish at the main pinnacle. Hobo-ya Similan lists whale sharks and manta rays for the Twin Peaks formation. Soft-coral and whitetip claims in earlier versions were not confirmed.
 
 ---
-*Sources: [Khao Lak Scuba Adventures](https://www.khaolakscubaadventures.com/divesite/koh-tachai-the-dome), [Sunrise Divers](https://www.sunrise-divers.com/dive-sites/koh-tachai-pinnacle/), [Hobo-ya Similan](https://hobo-ya-similan.com/en/similan/divesite/twinpeaks.html). Last updated 2026-07-05.*
+*Sources: [Sunrise Divers](https://www.sunrise-divers.com/dive-sites/koh-tachai-pinnacle/), [Hobo-ya Similan](https://hobo-ya-similan.com/en/similan/divesite/twinpeaks.html), [Divezone](https://divezone.net/divesite/ko-tachai). Last updated 2026-10-30.*

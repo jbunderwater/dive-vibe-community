@@ -17,7 +17,7 @@ Tongoni is a real place — a fishing village and the site of the Tongoni Ruins,
 
 ## Overview
 
-The Tongoni Ruins and nearby fishing village are well documented, including one historical note that a Vasco da Gama-era ship ran aground on the reef off Tongoni in the 15th century. Reef diving occurs generally along the Tanga coast (including through the Tanga Coelacanth Marine Park), but no source specifically describes a named "Tongoni Reef" dive site, its depth range, or its marine life. The previous version of this page's specific claims (10-15m depth, particular fish species, mangrove-transition marine life) are not supported by any source found here.
+The Tongoni Ruins and nearby fishing village are well documented. Reef diving occurs generally along the Tanga coast (including through the Tanga Coelacanth Marine Park), but no source specifically describes a named "Tongoni Reef" dive site, its depth range, or its marine life. The previous version of this page's specific claims (10-15m depth, particular fish species, mangrove-transition marine life) are not supported by any source found here.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ The Tongoni Ruins and nearby fishing village are well documented, including one 
 
 ## Marine Life
 
-No qualifying site-specific marine life source was found. Regional northern-Tanzania reef fauna (parrotfish, surgeonfish, moray eels, sea turtles) likely applies given the general area, but no source confirms specific sightings at this named reef, so no species are named here.
+No site-specific marine-life reports were found for this site. The destination's regional fauna applies in general, but no species are named here because none could be traced to a source confirming sightings at this location.
 
 ## Dive Profile
 
@@ -53,4 +53,4 @@ Not assessed — no site-specific information was found.
 Not assessed — no site-specific information was found.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found for a dive site named "Tongoni Reef." The Tongoni Ruins and general Tanga-area location are confirmed real via [Tanzania Tourism – Tongoni Ruins, Tanga](https://www.tanzaniatourism.com/safari/tongoni-ruins-tanga) and [Kiwoito Africa Safaris – Tongoni Ruins](https://www.kiwoitoafricasafaris.com/tongoni-ruins/), but neither source describes diving at this location. Last updated 2026-07-05.*
+*Description based on regional diving characteristics. No site-specific sources found for a dive site named "Tongoni Reef." The Tongoni Ruins and general Tanga-area location are confirmed real via [Tanzania Tourism – Tongoni Ruins, Tanga](https://www.tanzaniatourism.com/safari/tongoni-ruins-tanga) and [Kiwoito Africa Safaris – Tongoni Ruins](https://www.kiwoitoafricasafaris.com/tongoni-ruins/), but neither source describes diving at this location. Last updated 2026-10-30.*
