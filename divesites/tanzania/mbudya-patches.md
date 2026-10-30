@@ -19,7 +19,7 @@ Mbudya Patches refers to the coral patch-reef area around Mbudya Island, part of
 
 Mbudya Island is surrounded by shallow coral reef on its northeast, east, and southeast sides. The best-documented named reef in this area is **Big T Reef**, on the seaward (eastern) side of the island: its reef top runs 9-15 meters before the seaward face drops steeply to 40-50 meters. **Octopus Reef** lies just southeast of the island as a separate named site. The dataset's "Mbudya Patches" is not, itself, independently attested under that exact name by any source found — it most plausibly refers to this same general patch-reef area (Big T Reef's shallow top matches this record's 15m depth reasonably well), but that identification is an inference, not a confirmed one-to-one match. One dive-operator source (Deep Marine Diving) independently confirms Mbudya as an active, currently-operating snorkel/dive site with marine park entry fees, describing it generically as having "rich marine life" without site-specific detail.
 
-A dive-oriented source (Seaunseen) also notes candidly that overfishing and dynamite fishing have damaged reefs in this general area, and that reef fish over 30 cm are now uncommon — an honest caveat against overstating fish abundance or size here.
+Seaunseen (re-read 2026-10-30) notes that overfishing and dynamite fishing have damaged reefs in this general Dar es Salaam area and that reef fish over 30 cm are seldom seen. For Big T Reef it also describes hard and soft corals; those details belong to Big T Reef, not to this record.
 
 ## Site Information
 
@@ -34,7 +34,7 @@ A dive-oriented source (Seaunseen) also notes candidly that overfishing and dyna
 
 ## Marine Life
 
-No source confirms specific species sightings for "Mbudya Patches" by that name. General reef-fish groups (wrasses, butterfly fish, damselfish) are documented for the broader Mbudya reef area, and reef sharks and clownfish are mentioned by tourism sources for Mbudya's shallow reefs generally, but without site-specific confirmation for the "Patches" area specifically. Per the fishing-pressure caveat above, large-bodied reef fish should not be over-promised. The previous version's claims of moray eels, rays, and "long history of turtle visits" were generic boilerplate and have been removed rather than replaced with unverified specifics.
+No site-specific marine-life reports were found for this site. The destination's regional fauna applies in general, but no species are named here because none could be traced to a source confirming sightings at this location.
 
 ## Entry and Exit
 
@@ -45,4 +45,4 @@ Regular boat departures from Msasani Bay/Slipway in Dar es Salaam serve Mbudya I
 No site-specific safety information was found beyond the general fishing-pressure/reef-damage note above. General shallow-reef diving caution applies as good practice, not as a researched finding.
 
 ---
-*Sources: [Dive Sites of Mainland Tanzania — Seaunseen](https://seaunseen.com/diving-in-tanzania/) (names Big T Reef and Octopus Reef near Mbudya, and notes dynamite-fishing damage), [Deep Marine Diving](https://deepmarinediving.com/) (confirms Mbudya as an active operator dive/snorkel site), [Dar es Salaam Marine Reserve — Wikipedia](https://en.wikipedia.org/wiki/Dar_es_Salaam_Marine_Reserve) (confirms Mbudya's place in the reserve system). The exact name "Mbudya Patches" is not independently attested; identification with the sourced reef area is a reasonable but unconfirmed inference. Last updated 2026-07-05.*
+*Sources: [Dive Sites of Mainland Tanzania — Seaunseen](https://seaunseen.com/diving-in-tanzania/) (names Big T Reef and Octopus Reef near Mbudya, and notes dynamite-fishing damage), [Deep Marine Diving](https://deepmarinediving.com/) (confirms Mbudya as an active operator dive/snorkel site), [Dar es Salaam Marine Reserve — Wikipedia](https://en.wikipedia.org/wiki/Dar_es_Salaam_Marine_Reserve) (confirms Mbudya's place in the reserve system). The exact name "Mbudya Patches" is not independently attested; identification with the sourced reef area is a reasonable but unconfirmed inference. Because the name is unattested and the matching to Big T Reef is an inference, this record is no longer marked validated. Re-audited 2026-10-30. Last updated 2026-10-30.*

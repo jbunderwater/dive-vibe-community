@@ -17,7 +17,7 @@ Big Wall is a real, well-documented advanced dive site located east of Mnemba Is
 
 ## Overview
 
-Big Wall is a vertical wall in open water east of Mnemba Island. Sources consistently describe it as reserved for advanced, deep-certified divers due to strong currents and considerable depth, but they do not agree on the maximum depth: reports range from "18 to 35+ meters," to a drop reaching roughly 50 meters, to one source stating depths approaching 60 meters. Rather than pick one figure, this should be read as a wall that continues well beyond recreational depth limits. Unlike some neighboring reef sites, Big Wall has relatively little coral cover — sources describe overhangs and small caves rather than dense coral growth, with a strong current supporting a serious drift dive.
+Big Wall is a vertical wall in open water east of Mnemba Island. Sources consistently describe it as reserved for advanced, deep-certified divers due to strong currents and considerable depth, but they do not agree on the maximum depth: reports range from "18 to 35+ meters," to a drop reaching roughly 50 meters, to one source stating depths approaching 60 meters. Rather than pick one figure, this should be read as a wall that continues well beyond recreational depth limits. Sources describe small caves along the wall and a strong current that makes it a serious drift dive; one source mentions a coral-garden area where the dive ends. No source quantifies coral cover.
 
 ## Site Information
 
@@ -31,11 +31,11 @@ Big Wall is a vertical wall in open water east of Mnemba Island. Sources consist
 
 ## Marine Life
 
-Multiple independent sources describing this specific site report: Napoleon wrasse, tuna, rainbow runners, grouper, lobster, barracuda, bigeye, moray eels, octopus, and mantis shrimp, with occasional white-tip reef sharks and rays. Coral cover is reported as sparse compared to nearby reef sites.
+Diving in Zanzibar reports, for this site: Napoleon, tuna and rainbow runners in the blue; lobsters in small caves among yellow snappers and bigeyes; octopus, moray eels and mantis shrimp; and a white tip reef shark passing by. Angelfish Travel and Pongwe Beach Hotel mention potential sightings of whitetip reef sharks and rays (Pongwe only for rays). Angelfish Travel's page lists no site-specific marine life.
 
 ## Dive Profile
 
-Divers typically descend directly onto the wall face and work along the vertical structure, exploring overhangs and small caves rather than extensive coral gardens, drifting with the current. Because the wall does not bottom out at a recreational depth, continuous depth and gas monitoring is essential rather than optional.
+Divers typically descend directly onto the wall face and work along the vertical structure, exploring small caves along the face, drifting with the current. Because the wall does not bottom out at a recreational depth, continuous depth and gas monitoring is essential rather than optional.
 
 ## Entry and Exit
 
@@ -53,7 +53,7 @@ The combination of open water, a wall with no confirmed bottom, and strong curre
 
 ## Photography
 
-Because coral cover is sparse, the site favors pelagic and open-water subjects — Napoleon wrasse, tuna, and reef sharks in blue water — over the reef-scene wide-angle shots typical of Mnemba's shallower sites.
+Operators highlight open-water subjects (pelagics in the blue, a passing whitetip reef shark) and up to ~30 m visibility, which suit wide-angle work; no source gives photography-specific guidance.
 
 ---
-*Sources: [Fun Divers Zanzibar – Diving Mnemba Island](https://fundiverszanzibar.com/diving-mnemba-island/), [Diving in Zanzibar – Mnemba Atoll](https://www.divinginzanzibar.com/diving-mnemba-atoll/), [Angelfish Travel – Zanzibar Diving, Mnemba Island](https://www.angelfish.travel/zanzibar/diving/mnemba-island), [Pongwe Beach Hotel – Zanzibar Scuba Diving Guide](https://pongwe.com/zanzibar-scuba-diving-guide/). Last updated 2026-07-05.*
+*Sources: [Diving in Zanzibar – Mnemba Atoll](https://www.divinginzanzibar.com/diving-mnemba-atoll/), [Angelfish Travel – Zanzibar Diving, Mnemba Island](https://www.angelfish.travel/zanzibar/diving/mnemba-island), [Pongwe Beach Hotel – Zanzibar Scuba Diving Guide](https://pongwe.com/zanzibar-scuba-diving-guide/). Re-audited 2026-10-30 (Fun Divers Zanzibar page now returns 404 and was dropped as a source). Last updated 2026-10-30.*

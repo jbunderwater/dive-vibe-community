@@ -31,7 +31,7 @@ No dive operator, guidebook, forum thread, or gazetteer reference to "Mwamba Mka
 
 ## Marine Life
 
-No species can be confirmed specifically for Mwamba Mkadya. Earlier drafts of this page described specific behavior (relaxed groupers, cruising reef sharks, terminal-phase parrotfish, active cleaning stations) as if confirmed for this exact site — none of this was corroborated by any source in this research pass, and it has been removed rather than repeated.
+No site-specific marine-life reports were found for this site. The destination's regional fauna applies in general, but no species are named here because none could be traced to a source confirming sightings at this location.
 
 ## Dive Profile
 
@@ -55,4 +55,4 @@ No source-confirmed, site-specific hazards were found. Standard reef-diving prec
 No site-specific photography guidance was found in available sources.
 
 ---
-*Description based on regional diving characteristics of the Dar es Salaam Marine Reserve System area. No site-specific sources found for "Mwamba Mkadya." Last updated 2026-07-05.*
+*Description based on regional diving characteristics of the Dar es Salaam Marine Reserve System area. No site-specific sources found for "Mwamba Mkadya." Last updated 2026-10-30.*

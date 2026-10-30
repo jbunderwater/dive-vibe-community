@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Pangavini Reef
 
-Pangavini Island is a real, Wikipedia-documented island in the Dar es Salaam Marine Reserve — small (only about 250 m long), with a rocky coastline and no beaches, positioned north of Bongoyo Island and south of Mbudya Island. Three independent sources confirm its general character, though none describes diving depths or visibility specifically.
+Pangavini Island is a real, Wikipedia-documented island in the Dar es Salaam Marine Reserve — small (only about 250 m long), with a rocky coastline and no beaches, positioned north of Bongoyo Island and south of Mbudya Island. Wikipedia and Tanzania Tourism (two independent domains) confirm its general character, though none describes diving depths or visibility specifically.
 
 ## Overview
 
@@ -31,7 +31,7 @@ Wikipedia describes Pangavini as protecting "seagrass beds, coral reefs, and sev
 
 ## Marine Life
 
-Confirmed generally for the reserve/island: coral reef and seagrass habitat, a coconut crab colony on land, and bird nesting/roosting use of the island (Wikipedia). Claims of hawksbill/green turtles being "reliably present," dense surgeonfish schools, and white-tip reef sharks from the previous version are plausible for a Dar es Salaam reserve reef in general but were not independently confirmed specifically for Pangavini during this research pass, so they are stated here with reduced confidence rather than as settled fact.
+No site-specific marine-life reports were found for this site. The destination's regional fauna applies in general, but no species are named here because none could be traced to a source confirming sightings at this location.
 
 ## Dive Profile
 
@@ -55,4 +55,4 @@ No site-specific hazard information exists beyond the general note that landing/
 Not independently documented for this specific site.
 
 ---
-*Sources: [Pangavini Island — Wikipedia](https://en.wikipedia.org/wiki/Pangavini_Island), [Pangavini Island Marine Reserve — Tanzania Tourism](https://www.tanzaniatourism.com/destination/pangavini-island-marine-reserve), [Dar es Salaam Marine Reserve — Wikipedia](https://en.wikipedia.org/wiki/Dar_es_Salaam_Marine_Reserve). Last updated 2026-07-05.*
+*Sources: [Pangavini Island — Wikipedia](https://en.wikipedia.org/wiki/Pangavini_Island), [Pangavini Island Marine Reserve — Tanzania Tourism](https://www.tanzaniatourism.com/destination/pangavini-island-marine-reserve), [Dar es Salaam Marine Reserve — Wikipedia](https://en.wikipedia.org/wiki/Dar_es_Salaam_Marine_Reserve). Only two independent domains (Wikipedia, Tanzania Tourism) cover this island, so the record is not marked validated. Re-audited 2026-10-30. Last updated 2026-10-30.*

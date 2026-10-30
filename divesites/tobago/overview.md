@@ -31,7 +31,7 @@ Tobago, the smaller sibling of Trinidad and Tobago, punches far above its weight
 ### Marine Life & Environment
 
 - **Water Conditions**: Water temperature 24-27°C (75-80°F), cooler January through March (24°C) and warmer June through October (27°C). A 3mm to 5mm wetsuit is recommended. Visibility ranges from 12-30 meters (40-100 ft), with Speyside generally offering the best clarity. Currents are common, particularly at Speyside drift sites.
-- **Marine Biodiversity**: Giant manta rays (historically resident at Speyside, most reliably seen March-July with April-May being mating season, though sightings have become less frequent in recent years), whale sharks (occasional migratory visitors), nurse sharks, stingrays, barracuda, tarpon, hawksbill turtles, parrotfish, angelfish, and over 700 species of reef fish documented in Tobago's waters. The giant brain coral at Kelleston Drain measures approximately 5.3 meters wide by 3 meters high.
+- **Marine Biodiversity**: Species are documented per site in the individual site pages; only site-confirmed species are named there. Region-wide manta ray season reports vary by source (roughly March-July, or November-June). Overview-level species lists were removed because they were not tied to specific sites.
 - **Conservation**: The Main Ridge Forest Reserve (the oldest legally protected forest reserve in the western hemisphere) extends its watershed protection to offshore reefs. No spearfishing is permitted in Tobago. The Buccoo Reef Marine Park protects the southwest coast reefs.
 
 ## Additional Information
@@ -42,4 +42,4 @@ Tobago, the smaller sibling of Trinidad and Tobago, punches far above its weight
 - **Safety**: The Tobago Hyperbaric Facility in Roxborough operates 24 hours a day and is reachable from anywhere on the island in approximately 30 minutes. DAN insurance recommended. Drift dive sites at Speyside require current awareness — always follow your divemaster's briefing.
 
 ---
-*Sources: [myTobago Diving Guide](https://www.mytobago.info/diving.php), [Visit Tobago - Speyside Dive Sites](https://visittobago.gov.tt/east-tobago-speyside-dive-sites), [ATDO Recompression Facility](https://www.tobagoscubadiving.com/chamber.html), [Tobago Dive Experience](https://tobagodiveexperience.com/), [DAN - Tobago](https://dan.org/alert-diver/article/tobago/). Last updated 2026-04-05.*
+*Sources: [myTobago Diving Guide](https://www.mytobago.info/diving.php), [Visit Tobago - Speyside Dive Sites](https://visittobago.gov.tt/east-tobago-speyside-dive-sites), [ATDO Recompression Facility](https://www.tobagoscubadiving.com/chamber.html), [Tobago Dive Experience](https://tobagodiveexperience.com/), [DAN - Tobago](https://dan.org/alert-diver/article/tobago/). Last updated 2026-10-30.*

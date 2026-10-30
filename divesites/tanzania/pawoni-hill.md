@@ -31,7 +31,7 @@ Local operator Buccaneer Diving (based in Paje, a short boat ride from Jambiani)
 
 ## Marine Life
 
-Buccaneer Diving describes the Powoni cluster (North/Hill/South together) as having "magnificent table corals" with sweetlips and unicornfish, plus scorpionfish and octopus to watch for in the coral and shells, and occasional pelagic sightings. These species are confirmed for the Powoni site group as a whole by this one operator source; no site-specific confirmation exists distinguishing Pawoni Hill individually from Powoni North or South. No other species should be assumed present without further corroboration.
+No site-specific marine-life reports were found for this site. The destination's regional fauna applies in general, but no species are named here because none could be traced to a source confirming sightings at this location.
 
 ## Dive Profile
 
@@ -55,4 +55,4 @@ No site-specific hazards are documented for Pawoni Hill beyond standard reef div
 No site-specific photography guidance was found in available sources.
 
 ---
-*Sources: [Buccaneer Diving – Dive Zanzibar](https://www.buccaneerdiving.com/pages/dive-zanzibar/). Only one independent site-specific source found; site type/depth otherwise unconfirmed by a second source. Last updated 2026-07-05.*
+*Sources: [Buccaneer Diving – Dive Zanzibar](https://www.buccaneerdiving.com/pages/dive-zanzibar/). Only one independent site-specific source found; site type/depth otherwise unconfirmed by a second source. Last updated 2026-10-30.*

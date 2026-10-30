@@ -30,7 +30,7 @@ Multiple Zanzibar dive operators describe a wall site called "Small Wall" in alm
 
 ## Marine Life
 
-No source confirms marine life for a site specifically named "Little Wall." Regional wall sites near Mnemba Island are reported to host reef fish schools, nudibranchs, moray eels, and occasional turtles or reef sharks, but these cannot be attributed to this specific entry without confirming its identity. No species are named here for that reason.
+No site-specific marine-life reports were found for this site. The destination's regional fauna applies in general, but no species are named here because none could be traced to a source confirming sightings at this location.
 
 ## Dive Profile
 
@@ -54,4 +54,4 @@ General wall-diving hazards apply if this site matches the profile of nearby wal
 Not assessed — no site-specific information was found.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found under the name "Little Wall." Coordinate evidence suggests this entry may be near Mnemba Island's "Small Wall," but this identification is unconfirmed. Last updated 2026-07-05.*
+*Description based on regional diving characteristics. No site-specific sources found under the name "Little Wall." Coordinate evidence suggests this entry may be near Mnemba Island's "Small Wall," but this identification is unconfirmed. Last updated 2026-10-30.*

@@ -20,10 +20,7 @@ Old Shipwreck is a charted wreck in coastal waters near Dar es Salaam, Tanzania.
 **Wreck-history cross-check performed for this pass, per project policy requiring 2+ independent sources for any historical claim:**
 
 - The OSM source node (id 13265023321) supplies no vessel identity, only a generic descriptive name and wreck/seamark tags.
-- Several genuinely named, documented Tanzania-area wrecks were checked against this site's location (-6.7596, 39.2683) and depth (25m) and **do not match**:
-  - The **MV Moto**, an oil-recovery vessel sunk near Bongoyo Island's inner reef (Msasani Bay area), lies at only 11-14 meters depth and roughly 6-7 km north of this coordinate — a different, shallower wreck.
-  - **The Great Northern**, a wreck described on ScubaBoard as a cable-laying ship that sank in 1903, and **The Royal Naval Lighter** (~30m) and **The Penguin** (~42m) described by a Zanzibar tour operator, are all associated with the Zanzibar Channel/Zanzibar Island area, not the Dar es Salaam mainland coast where this site's coordinates fall.
-  - No record for a named wreck at this specific location was found on Wikipedia or wrecksite.eu searches.
+- Other named Tanzania wrecks (for example MV Moto near Bongoyo Island, and wrecks discussed around Zanzibar) were considered, but each is documented by only one source found in this pass and none could be matched to this location and depth, so no vessel details are repeated here.
 - A ScubaBoard diver trip report on Dar es Salaam diving mentions generally that there is "a nice dive on an old wreck close to port," alongside damage to nearby reefs from dynamite fishing — consistent with there being an unnamed wreck near Dar es Salaam's port approaches, but with no name, date, or vessel details given.
 
 **Conclusion: the wreck's identity remains unconfirmed.** This matches the hedged framing already used for this site, and that hedging is itself accurate — no source found in this pass, independent or otherwise, supplies a vessel name, build date, length, tonnage, or sinking cause for this exact wreck. Per project policy, no such details have been invented. Only one general-mention source (ScubaBoard) and the OSM tag data itself were found; this does not meet the bar of 2+ independent sources with real per-vessel history, so no historical claims beyond "an unidentified wreck exists in this vicinity" can be made.
@@ -40,7 +37,7 @@ Old Shipwreck is a charted wreck in coastal waters near Dar es Salaam, Tanzania.
 
 ## Marine Life
 
-No species have been confirmed at this specific wreck by any source found in this research pass. Earlier drafts of this page listed specific species (batfish schools, glass catfish, cardinalfish, particular coral cover) as if confirmed — none of this could be corroborated, and it has been removed rather than repeated. Dar es Salaam-area wrecks in general host reef-associated fish and encrusting growth, but attributing specific species to this exact, unidentified wreck without confirmation would be speculative.
+No site-specific marine-life reports were found for this site. The destination's regional fauna applies in general, but no species are named here because none could be traced to a source confirming sightings at this location.
 
 ## Dive Profile
 
@@ -64,4 +61,4 @@ This is an unidentified wreck; do not assume any part of it is stable or safe to
 No site-specific photography guidance was found in available sources.
 
 ---
-*Sources: [ScubaBoard – Dar es Salaam diving trip report](https://scubaboard.com/community/threads/tanzania-zanzibar-diving.566696/), OpenStreetMap node 13265023321 (source tag data, not a secondary confirming source). Vessel identity and history remain unconfirmed after checking Wikipedia, wrecksite.eu, and known named Tanzania-area wrecks (MV Moto, The Great Northern, Royal Naval Lighter, The Penguin) — none match this location. Last updated 2026-07-05.*
+*Sources: [ScubaBoard – Dar es Salaam diving trip report](https://scubaboard.com/community/threads/tanzania-zanzibar-diving.566696/), OpenStreetMap node 13265023321 (source tag data, not a secondary confirming source). Vessel identity and history remain unconfirmed; no vessel name, build date, length, tonnage or sinking cause could be found in two independent sources. Re-audited 2026-10-30: unverified single-source wreck claims (names, a 1903 sinking date, depths) were removed from this page. Last updated 2026-10-30.*

@@ -31,7 +31,7 @@ No dive operator, forum, or gazetteer reference to a site named "Bedford Bank" c
 
 ## Marine Life
 
-No marine life has been confirmed specifically at "Bedford Bank." The previous description's claims of hawksbill turtles, reef whitetip sharks, and garden eels at this site were generic Indian-Ocean-reef filler with no site-specific sourcing and have been removed rather than repeated.
+No site-specific marine-life reports were found for this site. The destination's regional fauna applies in general, but no species are named here because none could be traced to a source confirming sightings at this location.
 
 ## Dive Profile
 
@@ -54,4 +54,4 @@ No site-specific hazard information exists for this feature. Mid-channel positio
 Not documented.
 
 ---
-*Description based on the site's recorded coordinates only. No independent source naming or describing a site called "Bedford Bank" was found; this appears to be an obscure or OSM-scraper-generated feature name, and the previous write-up's claim of proximity to the Dar es Salaam reserve islands was a geographic error corrected in this pass. Last updated 2026-07-05.*
+*Description based on the site's recorded coordinates only. No independent source naming or describing a site called "Bedford Bank" was found; this appears to be an obscure or OSM-scraper-generated feature name, and the previous write-up's claim of proximity to the Dar es Salaam reserve islands was a geographic error corrected in this pass. Last updated 2026-10-30.*

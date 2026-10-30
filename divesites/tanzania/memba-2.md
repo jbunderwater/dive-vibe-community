@@ -32,7 +32,7 @@ As with Memba 1, no operator, guidebook, or forum source found in this research 
 
 ## Marine Life
 
-No species can be confirmed specifically for "Memba 2." An earlier draft of this page claimed pygmy seahorses on sea fans in the 18-22m zone and frequent Napoleon wrasse and eagle ray sightings as if confirmed for this exact site — none of this was corroborated by any source in this research pass, and it has been removed rather than repeated. Species reported generally for the Mnemba wall area (not site-specific) include Napoleon wrasse, white tip reef sharks, groupers, and turtles.
+No site-specific marine-life reports were found for this site. The destination's regional fauna applies in general, but no species are named here because none could be traced to a source confirming sightings at this location.
 
 ## Dive Profile
 
@@ -45,7 +45,7 @@ Boat access from Mnemba-area operators. Specific mooring or entry-point details 
 ## Tips and Recommendations
 
 - Ask your Mnemba-area operator whether "Memba 2" corresponds to a named site such as Kichwani or Big Wall, since no independent source uses this exact name
-- Confirm with the operator whether pygmy seahorses or other specific macro subjects have actually been seen at this coordinate before planning a dedicated search — this was not corroborated in research
+- Ask the operator what has actually been seen at this coordinate; no site-specific sightings were corroborated in research
 
 ## Safety Considerations
 
@@ -56,4 +56,4 @@ Given the 25-meter depth and wall topography, standard deep-wall precautions app
 No site-specific photography guidance was found in available sources.
 
 ---
-*Description based on the general character of Mnemba-area wall diving, cross-referenced across [Fun Divers Zanzibar](https://fundiverszanzibar.com/diving-mnemba-island/), [ScubaFish Zanzibar](https://www.scubafishzanzibar.com/dive-in-zanzibar/dive-sites-zanzibar/), and [TGI Diving](https://www.tgidiving.com/en/indian-ocean/zanzibar-nungwi/dive-sites/). No source names a site specifically called "Memba 2" or confirms marine life at this exact coordinate. Last updated 2026-07-05.*
+*Description based on the general character of Mnemba-area wall diving, cross-referenced across [Diving in Zanzibar – Mnemba Atoll](https://www.divinginzanzibar.com/diving-mnemba-atoll/), [ScubaFish Zanzibar](https://www.scubafishzanzibar.com/dive-in-zanzibar/dive-sites-zanzibar/), and [TGI Diving](https://www.tgidiving.com/en/indian-ocean/zanzibar-nungwi/dive-sites/). No source names a site specifically called "Memba 2" or confirms marine life at this exact coordinate. Last updated 2026-10-30.*
