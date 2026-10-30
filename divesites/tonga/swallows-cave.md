@@ -13,51 +13,51 @@ addedBy: osm_import
 
 ## Swallows Cave
 
-Swallows Cave is one of the most celebrated natural attractions in the Vava'u island group and a signature dive site of Tonga — a wide sea cave on Kapa Island's northwest corner, named for the swiftlets that nest in its ceiling.
+Swallows Cave is a sea cave on the northwest corner of Kapa Island in the Vava'u group, popular with both snorkelers and divers.
 
 ## Overview
 
-Swallows Cave sits on the northwest corner of Kapa Island, with a wide, open entrance about 6m across and roughly 4.5m deep at the mouth, deepening to about 18m on the cave floor. Because the cave mouth faces west, the light show inside is best in the afternoon, when sunlight streams through the entrance and scatters across the water in shifting columns — divers and boats commonly time visits accordingly rather than in the morning. The cave takes its name from the hundreds of swiftlets (locally called swallows) that nest in the ceiling, their calls echoing off the walls. Inscriptions carved into the cave walls, dating to the late 1800s, are visible above the waterline. A secondary cave and swim-through system extends from the main chamber, reaching around 20-21m, where a very strong current can build in places. The site works for both snorkelers and certified divers, making it one of the most accessible iconic experiences in the South Pacific.
+The cave mouth is about 15 ft (4.5 m) deep and 20 ft (6 m) wide and faces west, so Soggy Paws recommends visiting in the afternoon when sunlight enters the mouth. The cave bottom is at roughly 60 ft (18 m); Tonga Pocket Guide also gives 18 m. Birds nest in the cave roof, and inscriptions dating to the late 1800s are visible on the wall at the surface. The cave can also be done as a snorkel, and one source calls it a nice night dive in settled weather.
+
+One described route exits through a swim-through at about 40 ft (12 m) on the left (south) side, then follows the wall left for about 20 minutes to a second cave at around 70 ft (21 m), or right along the wall at 40-50 ft for about 20 minutes before a narrow swim-through that rises to about 20 ft. Soggy Paws reports a very strong current in one part of the second cave and advises caution, and calls the cave interior somewhat barren.
 
 ## Site Information
 
-- **Location**: Kapa Island, Vava'u, Tonga
+- **Location**: Northwest corner of Kapa Island, Vava'u, Tonga
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20–30 meters
-- **Current**: Generally calm in the main chamber; a very strong current is possible in the secondary swim-through system
-- **Water Temperature**: 24–28°C (75–82°F)
-- **Best Time to Dive**: Year-round; afternoon light gives the strongest illumination since the cave mouth faces west
+- **Typical Visibility**: Not confirmed for this specific site
+- **Current**: Very strong in one part of the second cave per one source; not documented for the main chamber
+- **Water Temperature**: Not confirmed for this specific site
+- **Best Time to Dive**: Afternoon, because the cave mouth faces west
 
 ## Marine Life
 
-Confirmed sightings at this specific site are limited to what's visible in and around the cave itself: schools of small baitfish shelter inside the chamber, and the ceiling and crevices host the resident swiftlet colony the cave is named for. No source-specific reports of turtles, dolphins, or other pelagic visitors inside the cave were found for this site — Tonga's regional reef fauna (parrotfish, surgeonfish, reef sharks, and similar species) is present on the surrounding fringing reef generally, but is not documented as a site-specific feature of the cave interior itself.
+Site-specific reports describe large schools of small baitfish inside the cave, a few larger fish (Tonga Pocket Guide), reef fish gathering at the entrance, and an abundant coral reef at the mouth, while the cave walls themselves carry no visible life (Underwater Photography Guide). Nesting birds in the roof are noted by Soggy Paws. No other species are documented here.
 
 ## Dive Profile
 
-Enter through the wide, well-lit entrance either on the surface or by descending directly. The main chamber floor is around 18m at its deepest. A secondary cave and swim-through section leads off the main chamber, with entrances/exits down to roughly 20-21m — this section can develop a very strong current and is best suited to more experienced divers comfortable managing it. Navigation in the main chamber is straightforward thanks to the large, naturally lit entrance.
+See the Overview for the route described by Soggy Paws (profile courtesy of Two If By Sea Sail & Dive Charters). Depths there are given in feet and converted here approximately.
 
 ## Entry and Exit
 
-Access is by dive boat from Neiafu or day-trip operators based in Vava'u, typically reached by dinghy from nearby anchorages (e.g., Mala or Port Maurelle). Boats anchor or drift outside the entrance while divers enter by giant stride or simple water entry. Surface snorkeling inside the main chamber is equally popular and requires no dive gear.
+Soggy Paws reports reaching the cave by dinghy from Mala (Anchorage 6) or Port Maurelle (Anchorage 7); in calm weather a dinghy can be driven carefully into the mouth and tied to a small pinnacle rock at the back. Tonga Pocket Guide notes that Vava'u operators (e.g. AX-Factor Dive, Riki Tiki Tours) include the cave in snorkel and scuba tours. Watch for other divers and snorkelers when entering.
 
 ## Tips and Recommendations
 
-- Dive in the afternoon, not the morning — the cave mouth faces west, so afternoon light gives the strongest illumination
-- Approach the secondary cave/swim-through system with caution; a very strong current has been reported there
-- Buoyancy control matters near the roof — avoid breaking the surface and disturbing the nesting swiftlets
-- Combine with a visit to Mariner's Cave on the same day trip, as boats frequently run both together
-- Look for the late-1800s inscriptions carved into the cave walls above the waterline
+- Visit in the afternoon, when the west-facing mouth is lit
+- Be cautious in the second cave, where a very strong current has been reported
+- Look for the late-1800s inscriptions on the wall at the surface
 
 ## Safety Considerations
 
-The main chamber is well-lit with a large entrance and poses minimal air-supply or navigation risk for a simple in-and-out visit. Conditions there are generally calm, though surge can build at the entrance in swell — avoid diving if surge is present. The secondary cave/swim-through system is a different matter: a very strong current has been reported in that section, so only divers comfortable with current and swim-through navigation should continue past the main chamber.
+The second cave has a very strong current in one part per Soggy Paws; stay in the main chamber unless comfortable with current and swim-throughs. Boats and snorkelers can make the entrance busy.
 
 ## Photography
 
-Swallows Cave is one of the most photogenic sites in the South Pacific. Wide-angle lenses capture the light-shaft effect as afternoon sun enters the cave mouth; shooting toward the entrance from a few meters inside yields silhouette compositions of the arch with divers for scale. A red filter or strobe helps restore color in the dimmer interior sections.
+Light patterns from sunlight entering the mouth and the reflective baitfish are the main subjects; the Underwater Photography Guide notes the baitfish are difficult to expose with strobes and that silhouettes of people at the mouth are challenging.
 
 ---
-*Sources: [Diving Swallows Cave — svsoggypaws.com](https://www.svsoggypaws.com/tongadive/swallows_cave.htm), [10 Best Caves in Tonga — Tonga Pocket Guide](https://tongapocketguide.com/10-incredible-caves-in-tonga/), [Story Behind the Shot: Swallows Cave — Underwater Photography Guide](https://www.uwphotographyguide.com/story-behind-the-shot-swallows-cave/), [Swallows Cave — Timeless Tonga](https://timelesstonga.com/activities/swallows-cave/). Last updated 2026-07-07.*
+*Sources: [Diving Swallows Cave — Soggy Paws](https://www.svsoggypaws.com/tongadive/swallows_cave.htm), [10 Incredible Caves in Tonga — Tonga Pocket Guide](https://tongapocketguide.com/10-incredible-caves-in-tonga/), [Best Dive Sites in Vava'u — Tonga Pocket Guide](https://tongapocketguide.com/10-best-dive-sites-in-vavau), [Story Behind the Shot: Swallows Cave — Underwater Photography Guide](https://www.uwphotographyguide.com/story-behind-the-shot-swallows-cave/). Last updated 2026-10-30.*

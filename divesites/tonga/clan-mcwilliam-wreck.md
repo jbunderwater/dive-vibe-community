@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Clan McWilliam Wreck
 
-The Clan McWilliam is Vava'u's best-known wreck dive — a copra steamer that caught fire and sank in Neiafu Harbour two days before Christmas, 1927, and now lies encrusted with coral at the far end of the bay.
+The Clan McWilliam is a copra steamer that caught fire and sank in Neiafu Harbour, Vava'u, in December 1927, and is now a wreck dive at the far end of the harbour.
 
 ## Overview
 
-**A note on this entry**: this site was previously listed in our data under the name "St Catherine Wreck," with an invented backstory about a small copra trader deliberately scuttled as an artificial reef. No source of any kind documents a wreck by that name in Tonga. Research into this exact location (Neiafu Harbour, Vava'u) instead turned up the real, well-documented wreck resting there: the Clan McWilliam. This entry has been renamed and rewritten to reflect that.
+**Vessel history (cross-checked)**: Soggy Paws and B&C Staff Register (which reproduces the Clan Line inquiry finding) report the ship as built in 1918; B&C says at Greenock and registered at Glasgow. Tonga Pocket Guide also says 1918, while Seamester says 1917. She was launched as Clan Quhele and registered as Clan MacWilliam (B&C Staff Register). Length is reported as 423 ft (127 m) by Soggy Paws and 128 m (423 ft) by Tonga Pocket Guide. Tonnage conflicts: B&C Staff Register gives 3,743 tons registered in the inquiry text and 7,234 in a vessel table (possibly different measures), while Soggy Paws and Seamester say 6,000 tons.
 
-Clan McWilliam was a copra steamer built in 1918. Sources agree she was en route through the islands collecting copra — via Fiji and Nuku'alofa — before anchoring in Neiafu Harbour on 23 December 1927 to load cargo. In the early hours of the following day, a fire broke out in one of her holds; despite firefighting efforts the blaze spread, the hull was compromised, and the vessel ultimately buckled and sank at the harbour's far end. Accounts place the sinking in the early morning of either 24 or 25 December 1927 — sources are not fully consistent on the exact date, so both are noted here rather than picking one. Sources also disagree on her registered tonnage, variously reported as roughly 3,743 tons and 6,000 tons; this discrepancy is flagged rather than resolved. Her length is more consistently reported at about 423 feet (127m).
-
-Since sinking, the wreck has been steadily colonized by hard and soft coral and has become one of Vava'u's signature dive sites, marked today by three mooring buoys along her length.
+**Loss**: The ship anchored in Neiafu Harbour on 23 December 1927 and began loading copra. A fire was discovered at about 1:55 a.m. on 24 December; the inquiry excerpt on Soggy Paws places it in No. 2 hold, while the same page also says she arrived with a smoldering fire in No. 3 hold and notes its account differs from the inquiry. The ship was moved to the head of the harbour and sank at about 9 a.m. on 25 December 1927. The master (William Thomson) and chief engineer (John G. Dishington) drowned (Soggy Paws). The inquiry could not determine how or when the fire started (B&C Staff Register). Seamester's account differs in several respects (including crew numbers) and is not relied on for detail. No Wikipedia entry for the wreck was found, so this history rests on the dive, maritime-register and travel sources listed below.
 
 ## Site Information
 
-- **Location**: Neiafu Harbour, Vava'u, Tonga
+- **Location**: Far end of Neiafu Harbour, Vava'u, Tonga
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 37 meters
-- **Typical Visibility**: 15–25 meters
-- **Current**: Light; calm conditions typical within the sheltered harbour
-- **Water Temperature**: 24–28°C (75–82°F)
-- **Best Time to Dive**: Year-round
+- **Typical Visibility**: Not confirmed for this specific site (Seamester describes murky conditions on its visit)
+- **Current**: Not confirmed for this specific site
+- **Water Temperature**: Not confirmed for this specific site
+- **Best Time to Dive**: Not confirmed for this specific site
 
 ## Marine Life
 
-Sources describe the wreck's superstructure and deck as covered in a wide variety of hard and soft coral. Marine life documented on the wreck specifically includes schooling fish, batfish, snapper, and small tuna, along with crustaceans and other macro life in the coral growth. No source-specific reports of sharks or turtles at this particular wreck were found, so they are not listed here even though both are commonly seen elsewhere in Vava'u.
+Tonga Pocket Guide reports hard and soft coral attracting colourful reef fish, and stonefish. Seamester reports a jellyfish on the descent. No other species are documented.
 
 ## Dive Profile
 
-The wreck lies at a maximum depth of about 37 meters, with the superstructure beginning around 18-20 meters and most of the deck in the 24-29 meter range. Three mooring buoys mark the bow, midships, and stern. A typical profile descends the mooring line to the shallower superstructure first, working along the hull and deck before dropping to the sand for the full profile view, then ascending back up the structure for the safety stop. Given the depth, this is a dive for divers comfortable with deeper profiles and, ideally, some wreck experience.
+Soggy Paws: superstructure begins at about 60 ft (18 m), the bottom is about 120 ft (37 m), and most of the deck is at 80-95 ft (24-29 m), which limits bottom time to about 20 minutes. Seeing the whole wreck takes two dives. Three buoys mark the bow, middle and stern; as of early 2012 the middle one was missing, and the stern buoy trails horizontally about 100 ft from the wreck at 15-25 ft, suggested as a safety-stop location. Current buoy status is unverified.
 
 ## Entry and Exit
 
-Access is by dive boat from Neiafu. Boats typically tie in to one of the three marker buoys. Giant stride entry, descent down the buoy line to the wreck, and a controlled ascent back up the line for the safety stop.
+Boat or dinghy from the Neiafu harbour anchorages.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to look into the compartments and see the macro life living in the coral growth
-- Plan the dive around the ~37m maximum depth — this is not a shallow, casual wreck dive
-- Given the conflicting historical accounts (sinking date, tonnage), treat any single retelling with some skepticism
-- Ascend and do your safety stop on the mooring line given the depth involved
+- Plan around the depth and short bottom time
+- Check with local operators on the current state of the mooring buoys
 
 ## Safety Considerations
 
-At a maximum depth of 37 meters, this dive calls for Advanced certification and comfort with deeper profiles; appropriately plan gas and no-decompression limits. Maintain good buoyancy near the encrusted structure, and avoid penetration without appropriate wreck training — the interior has not been documented as safe for casual entry, and no source characterizes it as such.
+Soggy Paws states it is dangerous to attempt any penetration because the wreck is old. Any penetration requires proper wreck training and equipment. Depths of 24-37 m call for Advanced certification and careful gas and decompression planning.
 
 ## Photography
 
-The coral-encrusted deck and superstructure make for strong wide-angle wreck photography, particularly along the hull length from the sandy bottom. Macro subjects — crustaceans and small reef fish sheltering in the coral growth — are worth a dedicated macro pass given the depth limits available time on the wreck itself.
+No site-specific photography guidance was found.
 
 ---
-*Sources: [Diving the Clan McWilliam Wreck — svsoggypaws.com](https://www.svsoggypaws.com/tongadive/clan_macwilliam_wreck.htm), [The Haunted Ghost Ship — Seamester](https://www.seamester.com/trip-logs/the-haunted-ghost-ship/), [Clan McWilliam Shipwreck — sailblogs.com](https://www.sailblogs.com/member/dbear/330067), [Clan MacWilliam — B&C Staff Register](https://www.bandcstaffregister.com/page540.html). Last updated 2026-07-07.*
+*Sources: [Diving the Clan McWilliam Wreck — Soggy Paws](https://www.svsoggypaws.com/tongadive/clan_macwilliam_wreck.htm), [Clan MacWilliam (1918) — B&C Staff Register](https://www.bandcstaffregister.com/page540.html), [The Haunted Ghost Ship — Seamester](https://www.seamester.com/trip-logs/the-haunted-ghost-ship/), [Best Dive Sites in Vava'u — Tonga Pocket Guide](https://tongapocketguide.com/10-best-dive-sites-in-vavau). Last updated 2026-10-30.*

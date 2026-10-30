@@ -13,52 +13,48 @@ addedBy: osm_import
 
 ## Cathedral Cave ('Eua)
 
-Cathedral Cave is 'Eua island's signature dive site — a vast sea cave beneath the island's north coast, discovered around 2001, with beams of natural light pouring through openings in its roof.
+Cathedral Cave is a large sea cave system at the northern end of 'Eua island, discovered around 2001.
 
 ## Overview
 
-**A note on this entry**: this site was previously listed under the generic name "Eua Island" with a description claiming the island has no commercial dive operators and requires fully self-sufficient private-charter logistics. That is inaccurate — Deep Blue Diving, an established operator, runs guided cave-diving trips to this exact site, and it is one of the better-documented dive destinations in Tonga. This entry has been renamed to the actual named site and rewritten accordingly.
-
-Cathedral Cave, discovered circa 2001 on 'Eua's north coast, is described as roughly 100m long, 50m wide, and 30m deep, with the cave entrance itself at about 28m — meaning it requires a certified, comfortable diver to reach. Three large openings in the cave roof let sunlight stream down into the chamber, and a 20m tunnel in the end wall leads through to a second cave that rises almost to the surface, facing the open ocean. 'Eua's diving more broadly is known for dramatic drop-offs, seamounts, and canyons in addition to the cave itself.
+The 'Eua island tourism site reports the cave as about 100 m long, 50 m wide and 30 m deep, with the entrance at 28 m; Tonga Pocket Guide and Spearfishing Tonga give the same dimensions. The 'Eua site describes three largish roof holes, the last nearly at the surface in front of the 'Eua cliff, letting in spotlight-like light, and a 20 m tunnel in the end wall leading up into a large cave that rises almost to the surface and faces the ocean. It says other tunnels have not been explored. Spearfishing Tonga reports natural light reaching a sandy bottom 25-30 m down and that the scuba entrance is on the ocean side in a current-prone area.
 
 ## Site Information
 
-- **Location**: North coast of 'Eua Island, Tonga
+- **Location**: North end of 'Eua Island, Tonga
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20–35 meters
-- **Current**: Variable; can be moderate to strong on exposed sections of coastline
-- **Water Temperature**: 22–26°C (72–79°F)
-- **Best Time to Dive**: Diving and snorkelling tours generally run November through June, outside Tonga's whale season
+- **Typical Visibility**: Not confirmed for this specific site
+- **Current**: Entrance area described as current-prone (Spearfishing Tonga); dive only in calm conditions
+- **Water Temperature**: Not confirmed for this specific site
+- **Best Time to Dive**: Calm conditions; no season confirmed
 
 ## Marine Life
 
-Sources describe sharks, groupers, and schooling reef fish — specifically cardinalfish, butterflyfish, and sweetlips — around the cave and its surrounding drop-off, along with healthy coral growth. Beyond these, no further site-specific species reports were found; general 'Eua-area fauna (turtles, additional reef fish) may be present but is not documented as specific to this cave.
+The 'Eua island site reports sharks, groupers, schooling fish and coral fish on the drop-off. Tonga Pocket Guide reports healthy corals and schools of cardinalfish, butterflyfish and sweetlips. Spearfishing Tonga reports crayfish in the cave system. The sources do not say precisely where around the cave each sighting was made.
 
 ## Dive Profile
 
-The cave entrance sits at about 28m. Divers enter and explore the main chamber — approximately 100m long and 50m wide — where light from three roof openings creates a dramatic, cathedral-like effect. A 20m tunnel at the end of the main chamber connects to a second cave that rises close to the surface, facing the ocean. Given the entrance depth, this dive requires careful gas planning and is not suited to beginners.
+Entry at about 28 m into the main chamber; the 20 m end-wall tunnel leads to the ocean-facing cave. Only the figures above are sourced; no detailed route was found.
 
 ## Entry and Exit
 
-Access is by dive boat, typically arranged through Deep Blue Diving, which operates cave-diving and whale-swimming trips serving 'Eua and Tongatapu. Entry is a standard boat dive descent to the cave entrance at 28m.
+The 'Eua site names Deep Blue Diving as the operator for diving on 'Eua and Tongatapu; Tonga Pocket Guide says it is reached by operators from Tongatapu. Spearfishing Tonga runs scenic boat tours to the caves in whale season and has pioneered freediving access via a different entrance.
 
 ## Tips and Recommendations
 
-- Book through an established operator (Deep Blue Diving) rather than assuming this requires improvised private-charter logistics
-- Plan gas conservatively given the 28m entrance depth before you even reach the main chamber
-- Bring a light to appreciate the cave's scale beyond what the roof openings illuminate
-- Diving and snorkelling tours typically run November-June, outside whale season
+- Dive with an operator that knows the site
+- Dive only in calm conditions
 
 ## Safety Considerations
 
-This is an Advanced-level dive: the cave entrance itself is at 28m, deeper than many recreational cave/cavern experiences, and the site involves overhead sections (the 20m connecting tunnel). Divers should be certified, comfortable at depth, and ideally have some cavern/overhead-environment experience. Dive with a guide familiar with the site.
+The entrance is at 28 m, so this is an Advanced deep dive with overhead and tunnel sections. It requires proper training, equipment and gas planning; no source characterizes it as safe for untrained divers.
 
 ## Photography
 
-The three roof openings create dramatic shafts of light through the main chamber — a strong setting for wide-angle photography framing divers against the light beams. The scale of the cave (100m x 50m) rewards a wide field of view; a torch is useful for illuminating the schooling fish and coral along the chamber walls.
+Light from the roof openings is the main feature; no further guidance was found.
 
 ---
-*Sources: [Scuba diving in 'Eua — eua-island-tonga.com](https://www.eua-island-tonga.com/euascubadivingeua.html), [10 Best Dive Sites in Tonga — Tonga Pocket Guide](https://tongapocketguide.com/10-best-dive-sites-in-tonga/), [Cathedral Caves — Spearfishing Tonga](https://spearfishingtonga.com/cathedral-caves/). Last updated 2026-07-07.*
+*Sources: [Scuba diving in 'Eua — eua-island-tonga.com](https://www.eua-island-tonga.com/euascubadivingeua.html), [Amazing Dive Sites in Tonga — Tonga Pocket Guide](https://tongapocketguide.com/10-best-dive-sites-in-tonga/), [Cathedral Caves — Spearfishing Tonga](https://spearfishingtonga.com/cathedral-caves/). Last updated 2026-10-30.*
