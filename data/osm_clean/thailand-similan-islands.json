@@ -10,15 +10,15 @@
     "entry_type": "liveaboard",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "sunrise-divers.com,hobo-ya-similan.com,khaolakscubaadventures.com,similandivingtours.com",
+    "validation_source": "hobo-ya-similan.com,sunrise-divers.com,divezone.net",
     "tags": {
       "name": "Twin Peaks",
       "scuba_diving:entry": "boat",
       "scuba_diving:type:reef": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-07-05",
-      "qa_note": "Multiple independent operator sources (sunrise-divers.com, hobo-ya-similan.com, khaolakscubaadventures.com) describe 'Twin Peaks', 'The Dome', and 'Koh Tachai Pinnacle' as the same or immediately overlapping formation ~500m south of Koh Tachai island, referenced under all three names interchangeably. See same qa_note on koh-tachai-pinnacle and the-dome entries. Flagged as a likely duplicate-listing issue for maintainer review; not merged/deleted in this pass."
+      "last_qa_date": "2026-10-30",
+      "qa_note": "Probable duplicate of Koh Tachai Pinnacle; flagged for maintainer review."
     }
   },
   {
@@ -32,11 +32,12 @@
     "entry_type": "day trip",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "khaolakexplorer.com,khaolakscubaadventures.com,idcphuket.com,notroublesjustbubbles.com,wetzonedivers.com",
+    "validation_source": "khaolakscubaadventures.com,idcphuket.com,notroublesjustbubbles.com",
     "tags": {
       "name": "Boonsung Wreck",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-07-05"
+      "last_qa_date": "2026-10-30",
+      "qa_note": "Wreck history unresolved: sinking date 1983-1985, cause (scuttled/accident/toilet legend), length (~30-60 m) and tsunami piece count (3-6) conflict across operator sources; no Wikipedia entry found."
     }
   },
   {
@@ -50,15 +51,15 @@
     "entry_type": "liveaboard",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "khaolakscubaadventures.com,sunrise-divers.com,hobo-ya-similan.com",
+    "validation_source": "sunrise-divers.com,hobo-ya-similan.com,divezone.net",
     "tags": {
       "name": "The Dome",
       "name:en": "Koh Tachai Pinnacle",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-07-05",
-      "qa_note": "See qa_note on twin-peaks entry — sources indicate this is the same dive site complex as Twin Peaks / Koh Tachai Pinnacle, not a distinct location."
+      "last_qa_date": "2026-10-30",
+      "qa_note": "Probable duplicate of Koh Tachai Pinnacle; flagged for maintainer review."
     }
   },
   {
@@ -74,7 +75,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "last_qa_date": "2026-07-05"
+      "last_qa_date": "2026-10-30",
+      "qa_note": "Re-audit 2026-10-30: fewer than 3 domains substantively re-confirmed this site (dive-the-world.com,sunrise-divers.com,similandivingtours.com); validated flag left as-is, needs further sourcing."
     }
   },
   {
@@ -82,15 +84,15 @@
     "lat": 8.6808,
     "lon": 97.6372,
     "depth": 40,
-    "site_type": "boulder",
+    "site_type": "reef",
     "entry_type": "liveaboard",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "khaolakscubaadventures.com,aussiediversphuket.com,similandivingtours.com,idcphuket.com,hobo-ya-similan.com",
+    "validation_source": "similandivingtours.com,idcphuket.com,sunrise-divers.com,divehappy.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "last_qa_date": "2026-07-05"
+      "last_qa_date": "2026-10-30"
     }
   },
   {
@@ -102,12 +104,12 @@
     "entry_type": "liveaboard",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "similandivingtours.com,divehappy.com,thailanddiveandsail.com",
+    "validation_source": "divehappy.com,similandivingtours.com,idcphuket.com,sunrise-divers.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "last_qa_date": "2026-07-05",
-      "qa_note": "Multiple 2025-2026 sources (divehappy.com, thailanddiveandsail.com) report this site closed indefinitely for coral conservation/bleaching recovery as of the current park season. Status should be re-checked before publishing as an active itinerary stop."
+      "last_qa_date": "2026-10-30",
+      "qa_note": "Closure status conflicts: divehappy.com says closed; similandivingtours.com says reopened after two years; idcphuket.com says closed from 2011."
     }
   },
   {
@@ -119,20 +121,20 @@
     "entry_type": "liveaboard",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "similandivingtours.com,dive-the-world.com,divehappy.com,thailanddiveandsail.com",
+    "validation_source": "dive-the-world.com,divehappy.com,similandivingtours.com,sunrise-divers.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "last_qa_date": "2026-07-05",
-      "qa_note": "Multiple 2025-2026 sources report this site closed for coral protection as of the current park season. Status should be re-checked before publishing as an active itinerary stop."
+      "last_qa_date": "2026-10-30",
+      "qa_note": "Closure status conflicts: divehappy.com says closed; similandivingtours.com and sunrise-divers.com list it without closure. Island location (previously 'Island 5') not confirmed."
     }
   },
   {
     "name": "Deep Six",
-    "lat": 8.6000,
+    "lat": 8.6,
     "lon": 97.6347,
     "depth": 40,
-    "site_type": "boulder",
+    "site_type": "reef",
     "entry_type": "liveaboard",
     "difficulty": "Advanced",
     "validated": true,
@@ -140,25 +142,25 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "last_qa_date": "2026-07-05",
-      "qa_note": "Corrected location: sources place this site off the NORTH point of Island 7 (Koh Payu), not the west face. Name is a historical holdover from when Koh Payu was numbered Island 6."
+      "last_qa_date": "2026-10-30",
+      "qa_note": "Location north point of Koh Payu (Island 7 per operators; Island 6 per Wikipedia numbering)."
     }
   },
   {
     "name": "West of Six",
     "lat": 8.5911,
-    "lon": 97.6350,
+    "lon": 97.635,
     "depth": 30,
     "site_type": "reef",
     "entry_type": "liveaboard",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "similandivingtours.com,diving-thailand-phuket.com,khaolakexplorer.com",
+    "validation_source": "dive-the-world.com,similandivingtours.com,idcphuket.com,aussiediversphuket.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "last_qa_date": "2026-07-05",
-      "qa_note": "Corrected location: sources place Koh Payu (site of West of Eden / West of Six) as Island 7, not Island 6."
+      "last_qa_date": "2026-10-30",
+      "qa_note": "Appears to be West of Eden (dive-the-world.com uses 'West of Six'); match inferred from location."
     }
   },
   {
@@ -174,8 +176,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "last_qa_date": "2026-07-05",
-      "qa_note": "Depth corrected from 50m to 40m per multiple current operator sources describing the pinnacle base at ~40m."
+      "last_qa_date": "2026-10-30",
+      "qa_note": "Depth corrected from 50m to 40m per multiple current operator sources describing the pinnacle base at ~40m. Re-audit 2026-10-30: fewer than 3 domains substantively re-confirmed this site (aussiediversphuket.com,divehappy.com,en.wikipedia.org); validated flag left as-is, needs further sourcing."
     }
   },
   {
@@ -187,12 +189,12 @@
     "entry_type": "liveaboard",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "sunrise-divers.com,khaolakscubaadventures.com,divezone.net,bigbluedivingkhaolak.com",
+    "validation_source": "sunrise-divers.com,hobo-ya-similan.com,divezone.net,en.wikipedia.org",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "last_qa_date": "2026-07-05",
-      "qa_note": "See qa_note on twin-peaks entry — sources indicate this is the same dive site complex as Twin Peaks / The Dome, not a distinct location."
+      "last_qa_date": "2026-10-30",
+      "qa_note": "Probable duplicate of Twin Peaks / The Dome; flagged for maintainer review. Dataset depth 45 m not confirmed (sources: 30-35 m). Wikipedia: Ko Tachai island closed to tourists since 2016."
     }
   },
   {
@@ -204,12 +206,12 @@
     "entry_type": "liveaboard",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "idcphuket.com,similandivecenter.com,similandivingtours.com,rushkult.com",
+    "validation_source": "idcphuket.com,similandivecenter.com,similandivingtours.com,sunrise-divers.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "last_qa_date": "2026-07-05",
-      "qa_note": "Corrected location: eastern side / southern tip (Beacon Point) of Island 8, not vague 'south Similan area'. Site contains the wreck of a wooden liveaboard (Rareung-Chon / Atlantis X, sank Aug 2002); wreck access reportedly closed since 2011 per idcphuket.com."
+      "last_qa_date": "2026-10-30",
+      "qa_note": "Wreck Rareung-Chon/Atlantis X sank 2002; cause and depths conflict across sources. Site-closure status conflicts: idcphuket.com says closed since 2011, other operators list it as dived."
     }
   },
   {
@@ -217,7 +219,7 @@
     "lat": 8.6636,
     "lon": 97.6377,
     "depth": 25,
-    "site_type": "boulder",
+    "site_type": "reef",
     "entry_type": "liveaboard",
     "difficulty": "Beginner",
     "validated": true,
@@ -225,16 +227,16 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "last_qa_date": "2026-07-05",
-      "qa_note": "Corrected location: NW side of Island 8, outside Donald Duck Bay, not 'south Similan area'."
+      "last_qa_date": "2026-10-30",
+      "qa_note": "Corrected location: NW side of Island 8, outside Donald Duck Bay, not 'south Similan area'. Re-audit 2026-10-30: fewer than 3 domains substantively re-confirmed this site (idcphuket.com,similandivingtours.com); validated flag left as-is, needs further sourcing."
     }
   },
   {
     "name": "Fantasea Reef",
-    "lat": 8.6560,
+    "lat": 8.656,
     "lon": 97.6365,
     "depth": 40,
-    "site_type": "boulder",
+    "site_type": "reef",
     "entry_type": "liveaboard",
     "difficulty": "Intermediate",
     "validated": true,
@@ -242,8 +244,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "last_qa_date": "2026-07-05",
-      "qa_note": "Multiple sources report this site has been closed to divers since 2004 for post-tsunami coral regeneration; no source located confirms reopening. Status should be re-checked before publishing as an active itinerary stop."
+      "last_qa_date": "2026-10-30",
+      "qa_note": "Status unresolved: sunrise-divers.com says reopened after 2004 tsunami (2020 availability unclear); undated pages say closed. Earlier 'closed since 2004' claim corrected."
     }
   }
 ]

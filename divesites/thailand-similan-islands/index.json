@@ -55,7 +55,7 @@
     "difficulty": "Advanced",
     "maxDepth": 40,
     "entryType": "liveaboard",
-    "siteType": "boulder",
+    "siteType": "reef",
     "ref": "",
     "osmId": null
   },
@@ -91,7 +91,7 @@
     "difficulty": "Advanced",
     "maxDepth": 40,
     "entryType": "liveaboard",
-    "siteType": "boulder",
+    "siteType": "reef",
     "ref": "",
     "osmId": null
   },
@@ -151,7 +151,7 @@
     "difficulty": "Beginner",
     "maxDepth": 25,
     "entryType": "liveaboard",
-    "siteType": "boulder",
+    "siteType": "reef",
     "ref": "",
     "osmId": null
   },
@@ -163,7 +163,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 40,
     "entryType": "liveaboard",
-    "siteType": "boulder",
+    "siteType": "reef",
     "ref": "",
     "osmId": null
   }

@@ -5,7 +5,7 @@ lng: 97.6365
 difficulty: Intermediate
 maxDepth: 40
 entryType: liveaboard
-siteType: boulder
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,49 +13,24 @@ addedBy: osm_import
 
 ## Fantasea Reef
 
-Fantasea Reef is a granite boulder dive site off the west coast of Similan Island 8 (Koh Similan), Similan Islands National Park, Phang Nga Province, Thailand. Multiple sources report this site has been **closed to divers since 2004** as part of a post-tsunami coral regeneration policy, and no source consulted confirms it has since reopened.
+Fantasea Reef is a granite boulder dive site in the Similan Islands National Park, Phang Nga Province, Thailand. Sources disagree on which island it is on (one places it off the west of Island 8; Sunrise Divers lists it among Island 9 sites).
 
 ## Overview
 
-**Current status: reported closed since 2004; reopening unconfirmed.** Sources describing this site (divezone.net, thailandliveaboards.com) note it was closed following the 2004 Indian Ocean tsunami to allow coral regeneration, and its status as of the most recent reports available remains unclear rather than confirmed open. This is a significant change from how the site was previously described here as an actively-dived intermediate boulder site — divers and operators should verify current park access directly rather than rely on this entry alone.
-
-When described as active, the site features large granite boulders typical of the Similans' west-facing shores, with a good variety and density of fish and visibility typically in the 20–40 meter range (dive-the-world.com).
+**Access status conflict.** Sunrise Divers says the National Park closed Fantasea Reef for regeneration and that it was reopened after the 26 December 2004 tsunami, but adds that its 2020 availability was unclear. Other pages seen in search results (undated) describe it as closed for a long time, one since 1999. A previous version of this entry stated it had been closed since 2004 with no confirmed reopening; that is not supported and has been corrected. No current source was found, so access is unconfirmed. No depth, difficulty or species could be confirmed from the sources checked, and the dataset values are retained unverified.
 
 ## Site Information
 
-- **Location**: West coast of Similan Island 8, Similan Islands National Park, Phang Nga Province, Thailand
+- **Location**: Similan Islands National Park, Phang Nga Province, Thailand (island unconfirmed)
 - **Entry Type**: liveaboard
-- **Site Type**: Boulder
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 20–40 meters (per historical descriptions)
-- **Current**: Light to moderate
-- **Best Time**: November to May (site reported closed since 2004 — confirm current access before planning a visit)
+- **Current**: Not stated in the sources checked
 
 ## Marine Life
 
-Sources describe "great variety and density of fishes" generally at this site (dive-the-world.com) without naming specific species reliably attributed to Fantasea Reef. Rather than reproduce the previous detailed species list (clownfish, leopard sharks, Napoleon wrasse, etc.), which could not be corroborated for this specific site, this entry states plainly that no site-specific marine-life report was found beyond a general "high fish density" characterization.
-
-## Dive Profile
-
-Historical descriptions place the interesting diving on granite boulders sloping toward a sand and rubble bottom around 40 meters, with good visibility reported. No current, site-specific dive-profile report was located.
-
-## Entry and Exit
-
-Historically liveaboard access via zodiac. Given the reported multi-year closure, current entry/exit conditions cannot be confirmed from available sources.
-
-## Tips and Recommendations
-
-- Verify with your operator whether this site is currently open before including it in a trip plan — multiple sources report it closed since 2004 with no confirmed reopening
-- If reopened, expect a granite boulder dive with generally good visibility (20–40m per historical reports)
-
-## Safety Considerations
-
-No current, site-specific safety information was found given the reported closure. If the site has reopened, treat it as a standard intermediate-level granite boulder dive with the usual precautions (SMB, depth monitoring on the boulder slope).
-
-## Photography
-
-No current, site-specific photography guidance was found in available sources.
+No site-specific marine-life source was found in this QA pass; the Similan Islands' regional fauna applies, but no species are attributed to this site.
 
 ---
-*Sources: [Divezone](https://divezone.net/divesite/fantasea-reef), [Thailand Liveaboards](https://thailandliveaboards.com/thailand-dive-sites/similan-islands/fantasy-reef/), [Dive The World](https://www.dive-the-world.com/diving-sites-thailand-similan-islands.php). Last updated 2026-07-05.*
+*Sources: [Sunrise Divers](https://www.sunrise-divers.com/dive-sites/similan-islands/). Last updated 2026-10-30.*

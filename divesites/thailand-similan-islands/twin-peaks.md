@@ -13,50 +13,26 @@ addedBy: osm_import
 
 ## Twin Peaks
 
-Twin Peaks is the name used by some operators for the two-pinnacle formation at the Koh Tachai Pinnacle dive site, roughly 500 meters south of Koh Tachai island, Similan Islands National Park, Phang Nga Province, Thailand. Sources explicitly describe this name as interchangeable with "Koh Tachai Pinnacle" — one source refers to it directly as "Twin Peaks (Tachai Pinnacle)."
+Twin Peaks is the name Hobo-ya Similan uses for a submerged rocky reef about 500 m south of Koh Tachai, centred on a dome-shaped rock surrounded by smaller reefs; Divezone lists Ko Tachai as "also called Twin Peaks".
 
-**Data-quality note:** This destination's dataset lists "Twin Peaks," "The Dome," and "Koh Tachai Pinnacle" as three separate entries with distinct GPS coordinates a few hundred meters apart. Multiple independent operator sources indicate these are alternate names for the same physical site complex (two pinnacles plus a central dome-shaped boulder), not three distinct locations. This has been flagged for maintainer review rather than resolved by deleting entries in this pass. See the fuller write-up and full source list under Koh Tachai Pinnacle.
+**Data-quality note:** The dataset lists "Twin Peaks", "The Dome" and "Koh Tachai Pinnacle" as three entries with coordinates a few hundred meters apart. Sunrise Divers describes one site with a dome-topped main pinnacle plus a smaller second pinnacle; Hobo-ya Similan calls the same formation "Twin Peaks" (a dome-shaped rock ringed by smaller reefs); Divezone lists "Ko Tachai (also called Twin Peaks)" and a separate "Koh Tachai The Dome" entry without saying whether they are the same spot. The three entries very likely overlap and are flagged for maintainer review (possible merge), not deleted here. Wikipedia reports Ko Tachai island has been closed to tourists since 15 October 2016; operators still list the pinnacle dive, so confirm current access with your operator.
 
 ## Overview
 
-The formation's defining feature, per hobo-ya-similan.com, is "a main dome-shaped rock that looks like an upside down bowl" surrounded by a ring of rocky reef, with two adjacent pinnacle tops giving rise to the "Twin Peaks" name. Reported depths: maximum around 35 meters, average around 15 meters, with the site known for the strongest current of the northern liveaboard sites. Whale sharks, manta rays, giant and bluefin trevally, and great barracuda are reported here, including dramatic predation events where trevally attack baitfish schools.
+Hobo-ya Similan: maximum 35 m, average 15 m, the strongest current of the sites on its cruises; descent and ascent on a mooring line; when current runs, giant trevally and barracuda hunt fusiliers. Divezone rates it for advanced divers only.
 
 ## Site Information
 
-- **Location**: ~500m south of Koh Tachai island (same complex as The Dome / Koh Tachai Pinnacle), Phang Nga Province, Thailand
+- **Location**: About 500 m south of Koh Tachai, Phang Nga Province, Thailand
 - **Entry Type**: liveaboard
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 15–40 meters
-- **Current**: Strong — reported as the strongest current among the sites visited on typical northern liveaboard routes
-- **Best Time**: November to May
+- **Current**: Strong
 
 ## Marine Life
 
-See the fuller, consolidated marine-life account under Koh Tachai Pinnacle. Directly corroborated for this formation: whale sharks, manta rays, giant trevally, bluefin trevally, great barracuda, and dense fusilier schools, including visible predation events (hobo-ya-similan.com). Species previously listed here without site-specific corroboration (hawksbill turtles, Napoleon wrasse, pygmy seahorses on sea fans) have been removed rather than carried forward unverified.
-
-## Dive Profile
-
-Divers typically descend to the saddle between the pinnacles, orienting with the guide before working one formation and then the other. Strong current means reef hooks are commonly used to hold position and observe feeding activity without fighting the flow.
-
-## Entry and Exit
-
-Exclusively liveaboard; zodiac entry with descent on a mooring line if current is running at entry time.
-
-## Tips and Recommendations
-
-- This is reported as the strongest-current site on typical northern liveaboard routes — confirm your comfort level with your guide before entering
-- Reef hooks, secured to bare rubble, are commonly used here to observe fish activity without fighting current
-- Predation events (trevally attacking baitfish schools) are a highlight reported by at least one source — watch the open water around the pinnacles, not just the structure itself
-
-## Safety Considerations
-
-Given the reported strength of current here, every diver should be comfortable deploying an SMB and conducting a blue-water ascent if swept off the formation. Advanced certification with prior current-diving experience is recommended.
-
-## Photography
-
-Wide-angle setups suit the pinnacle architecture and schooling fish; fast shutter speeds help freeze the trevally predation events when they occur.
+Hobo-ya Similan: whale shark, manta ray, leopard shark, whitetip reef shark, giant and bluefin trevally, great barracuda, Napoleon fish, lunar fusilier, longfin batfish, Andaman sweetlips, emperor angelfish, fairy basslets, fire gobies, giant anglerfish. Divezone adds turtles, lionfish, pipefish and seahorses.
 
 ---
-*Sources: [Hobo-ya Similan](https://hobo-ya-similan.com/en/similan/divesite/twinpeaks.html), [Sunrise Divers](https://www.sunrise-divers.com/dive-sites/koh-tachai-pinnacle/), [Khao Lak Scuba Adventures](https://www.khaolakscubaadventures.com/divesite/koh-tachai-the-dome), [Divezone](https://divezone.net/divesite/ko-tachai). Last updated 2026-07-05.*
+*Sources: [Hobo-ya Similan](https://hobo-ya-similan.com/en/similan/divesite/twinpeaks.html), [Sunrise Divers](https://www.sunrise-divers.com/dive-sites/koh-tachai-pinnacle/), [Divezone](https://divezone.net/divesite/ko-tachai). Last updated 2026-10-30.*
