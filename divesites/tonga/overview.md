@@ -26,7 +26,7 @@ Tonga is a notable diving destination in the Pacific region with depths ranging 
 ### Marine Life & Environment
 
 - **Water Conditions**: Water temperatures range from 24-30°C (75-86°F) with visibility of 20-50 meters (65-160 feet). Currents are generally moderate to strong.
-- **Marine Biodiversity**: The waters support diverse marine ecosystems including manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish, butterflyfish, groupers.
+- **Marine Biodiversity**: Species lists are not given at destination level here; see individual site pages for source-confirmed sightings.
 - **Conservation**: Marine protected areas help preserve the reef ecosystems and regulate diving activities.
 
 ## Additional Information

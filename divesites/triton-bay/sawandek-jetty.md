@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Sawandek Jetty
 
-This entry needs manual review: the content previously published here (giant clams, resident whitetip sharks, coral restoration frames, jetty pilings) closely matches the real, well-documented "Sauwandarek Jetty" dive site near Mansuar Island in Raja Ampat — a different location roughly 300km+ from Triton Bay — and could not be confirmed as a genuine Triton Bay site.
+This entry needs manual review: the content previously published here (species, coral restoration frames, jetty pilings) closely matches the real, well-documented "Sauwandarek Jetty" dive site near Mansuar Island in Raja Ampat — a different location roughly 300km+ from Triton Bay — and could not be confirmed as a genuine Triton Bay site.
 
 ## Overview
 
-During this review, the underlying data's own "character" tag read "Mansuar jetty." Mansuar is an island in Raja Ampat, not part of Triton Bay or the Kaimana Regency, which strongly suggests this entry's description was copied or confused from Raja Ampat's well-known Sauwandarek Jetty rather than describing an actual Triton Bay dive site. The coordinates recorded here (-3.962, 134.0713) do fall inside Triton Bay's geographic bounds, so a same-named or similarly-named local village jetty may genuinely exist in the area — but no independent source was found confirming a Triton Bay dive site under the name "Sawandek Jetty" with the characteristics previously described. Every specific claim in the prior version of this page (giant clams, resident whitetip reef sharks, coral restoration frames, banded sea kraits, Spanish dancer night dives) matches published descriptions of the Raja Ampat site and has been removed rather than repeated here.
+During this review, the underlying data's own "character" tag read "Mansuar jetty." Mansuar is an island in Raja Ampat, not part of Triton Bay or the Kaimana Regency, which strongly suggests this entry's description was copied or confused from Raja Ampat's well-known Sauwandarek Jetty rather than describing an actual Triton Bay dive site. The coordinates recorded here (-3.962, 134.0713) do fall inside Triton Bay's geographic bounds, so a same-named or similarly-named local village jetty may genuinely exist in the area — but no independent source was found confirming a Triton Bay dive site under the name "Sawandek Jetty" with the characteristics previously described. Every specific claim in the prior version of this page matches published descriptions of the Raja Ampat site and has been removed rather than repeated here.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ During this review, the underlying data's own "character" tag read "Mansuar jett
 
 ## Marine Life
 
-No site-specific marine life could be confirmed for this Triton Bay entry. The species previously listed here (giant clams, whitetip reef sharks, hawksbill and green turtles, banded sea kraits, Spanish dancer nudibranchs) are documented for the different, well-known Sauwandarek Jetty in Raja Ampat and have been removed from this entry to avoid misattributing that site's marine life to Triton Bay.
+The destination's regional fauna applies in general terms, but no site-specific reports were found, so no species are named. The species previously listed here are documented for the different Sauwandarek Jetty in Raja Ampat and were removed to avoid misattribution.
 
 ## Dive Profile
 

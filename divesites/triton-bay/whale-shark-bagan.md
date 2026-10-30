@@ -13,51 +13,36 @@ addedBy: osm_import
 
 ## Whale Shark Bagan
 
-The Kaimana Bay whale shark bagan is where divers reliably encounter whale sharks feeding around traditional lift-net fishing platforms — part of a distinct, scientifically documented local population of roughly 95 identified individuals, most of them juvenile or sub-adult.
+The Kaimana whale shark bagan is a traditional lift-net fishing platform in open water where whale sharks feed on baitfish and where divers and snorkelers can be in the water with them.
 
 ## Overview
 
-This site centers on a bagan — a traditional Indonesian lift-net fishing platform — anchored in the open blue water of Kaimana Bay, outside the Triton Bay area proper, near Namatota. The bagan sits over deep water, far from the shallow reefs and coral gardens that characterize Triton Bay's other dive sites. Local fishermen have worked these platforms for generations, and whale sharks have learned to associate the bagans with easy meals of small baitfish escaping the nets. A scientific survey of the Kaimana Important Shark and Ray Area documents roughly 95 individually identified whale sharks in the region, with an average total length of about 4.6m (± 2m) and a majority (58%) classified as juvenile or sub-adult — so while this is a genuinely reliable and well-studied whale shark site, it should not be described as a place to routinely see full-grown adult sharks. Operators report a 60-70% sighting success rate, with the best chance in the early morning (roughly 6:30-9:00am) before the sharks disperse.
+A bagan is a lift-net fishing platform. The Kaimana Important Shark and Ray Area (ISRA) page says bagan fisheries operate only in Bitsyari Bay and that whale sharks mostly feed near the gear. Other accounts use different names for the bay, so the exact platform is not pinned down here. The Divers Alert Network describes fishers setting nets at night near Namatota Island, with whale sharks often following the catch the next morning, and says some sharks take fish from the nets while others wait for handfuls to be tossed to them. X-Ray Mag says divers may dive under the bagan for a fee with the village elder's permission and that liveaboards visit one to two times a week.
+
+Sources disagree on shark size. The ISRA reports an average total length of 460 +/- 200 cm with 58% juvenile or sub-adult, and 76% male. Divehappy reports one shark "at least 6 metres long"; the Divers Alert Network reports two sharks about 18 to 20 feet long; Bluewater Dive Travel reports two young males of roughly 15 and 20+ feet; X-Ray Mag describes sharks "from smaller juveniles to huge giants". Do not expect only adults, and do not expect only juveniles.
 
 ## Site Information
 
-- **Location**: Kaimana Bay, West Papua, Indonesia, near Namatota (outside Triton Bay proper)
+- **Location**: Kaimana area, West Papua, Indonesia, near Namatota Island
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-20 meters (reduced by baitfish clouds and plankton-rich water)
-- **Current**: Generally mild near the bagan
-- **Water Temperature**: 27-30°C (81-86°F)
-- **Best Time**: October to April; early morning (roughly 6:30-9:00am); new/dark moon phases are reported to improve baitfish density and sighting odds
+- **Best Time**: The ISRA reports whale sharks year-round, with 4 to 10 individuals on most days. Divehappy reports sharks tend to come in early morning, roughly 6:30 to 9:00, and that full-moon nights usually mean poor catches. Triton Bay Divers' co-owner estimates a 60 to 70% sighting success rate.
 
 ## Marine Life
 
-The draw is whale sharks (Rhincodon typus), documented at this bagan as a distinct local population of around 95 identified individuals, predominantly juvenile and sub-adult (average length approximately 4.6m). Multiple individuals may circle the platform simultaneously, feeding on baitfish escaping the nets. The open blue-water setting is pelagic in character; this is not a reef site, and reef-associated species found elsewhere in Triton Bay (such as wobbegong sharks) are not expected here.
+- Whale sharks (ISRA: 98 individuals photo-identified since 2011)
+- A shark with remoras attached (Divers Alert Network; X-Ray Mag photo caption)
+- Bottlenose dolphins (Bluewater Dive Travel)
 
 ## Dive Profile
 
-Snorkeling or shallow scuba diving around the bagan is the standard approach, with most encounters occurring in the top 10 meters where the sharks feed at and just below the surface. The water beneath the bagan is open ocean with no reef or bottom to explore at recreational depth. Descend slowly and avoid sudden movements. Sighting success is reported at 60-70%, and is weather- and fishing-activity-dependent — some encounters are aided by poor moonlight, which drives larger overnight catches at the nets.
-
-## Entry and Exit
-
-Access is by liveaboard vessel or day-boat from Kaimana. Entry is a gentle water entry from the tender, avoiding loud splashes. Exit via the dive ladder or tender on the guide's signal.
-
-## Tips and Recommendations
-
-- Time your visit for early morning (roughly 6:30-9:00am), when sighting odds are reported to be highest
-- Avoid touching the whale sharks — physical contact is discouraged by local operators and Indonesian law
-- Keep noise to a minimum during entry and in the water
-- A wide-angle or fisheye lens is useful for the close-range encounters
-- Be patient — sightings are not guaranteed on any given visit (60-70% success rate reported by local operators)
+Bluewater Dive Travel reports sharks circling at roughly 5 to 40 feet, and the Divers Alert Network describes them lingering beneath the bagan. Sources do not describe any bottom or reef structure.
 
 ## Safety Considerations
 
-Conditions near the bagan are generally calm with mild currents, but this is open blue water over significant depth — maintain awareness of your position relative to the boat and bagan. Keep a respectful distance from the whale sharks and never position yourself directly in front of a feeding shark's mouth. Always carry an SMB for surface signaling.
-
-## Photography
-
-The Kaimana Bay bagan is well suited to wide-angle and fisheye shots of whale sharks feeding near the surface, with the bagan structure often usable as a backlit silhouette element. Given that most individuals here are juvenile-to-sub-adult in size (average ~4.6m), plan compositions accordingly rather than expecting the largest adult-scale animals.
+This is open water, so keep track of the boat. Visibility is milky from plankton on some days (The Seven Seas). Sightings are not guaranteed.
 
 ---
-*Sources: [DiveHappy — Triton Bay Whale Sharks](https://divehappy.com/triton-bay-whale-sharks/), [Kaimana Important Shark and Ray Area survey](https://sharkrayareas.org/portfolio-item/kaimana-isra/), [ZuBlu — Scuba Diving in Triton Bay](https://www.zubludiving.com/destination/indonesia/west-papua/triton-bay), [Divers Alert Network — Triton Bay](https://dan.org/alert-diver/article/alert-diver-2022-q4-feature-dive-triton-bay-indonesia/). Last updated 2026-07-07.*
+*Sources: [Dive Happy - Triton Bay whale sharks](https://divehappy.com/triton-bay-whale-sharks/), [Kaimana Important Shark and Ray Area](https://sharkrayareas.org/portfolio-item/kaimana-isra/), [Divers Alert Network - Dive Triton Bay](https://dan.org/alert-diver/article/alert-diver-2022-q4-feature-dive-triton-bay-indonesia/), [Bluewater Dive Travel - Triton Bay and Banda Sea 2023 trip recap](https://www.bluewaterdivetravel.com/article/triton-and-banda-sea-trip-recap-2023), [X-Ray Mag - Indonesia's Triton Bay](https://xray-mag.com/content/indonesias-triton-bay-diving-west-papua), [The Seven Seas - Triton Bay](https://thesevenseas.net/?p=23158). Last updated 2026-10-30.*

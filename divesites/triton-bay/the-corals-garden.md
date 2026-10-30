@@ -33,7 +33,7 @@ Triton Bay, West Papua, Indonesia, is well documented in general terms for exten
 
 ## Marine Life
 
-No site-specific marine-life source was found for this location. Triton Bay's regional fauna is well documented to include soft corals, black coral bushes, crinoids, nudibranchs, and reef fish typical of the Coral Triangle, and a shallow reef site at these coordinates would plausibly host some of this, but no source confirms specific species (longnose hawkfish, flamingo shrimp, particular nudibranch genera, Napoleon wrasse) at this exact location. Those specifics have been removed rather than presented as verified.
+No site-specific marine-life source was found for this location. The destination's regional fauna applies in general terms, but no site-specific reports were found, so no species are named. Species lists in earlier versions of this page were removed because no source supports them.
 
 ## Dive Profile
 
@@ -57,4 +57,4 @@ As a shallow site, general risk should be lower than Triton Bay's deeper wall an
 No site-specific photography guidance could be confirmed. General Triton Bay soft-coral reef photography practice (wide-angle for the coral canopy, macro for smaller subjects) would be a reasonable starting point.
 
 ---
-*Description based on regional Triton Bay diving characteristics. No site-specific sources found for a dive site named "The Corals Garden." Last updated 2026-07-07.*
+*Description based on regional Triton Bay diving characteristics. No site-specific sources found for a dive site named "The Corals Garden." Last updated 2026-10-30.*
