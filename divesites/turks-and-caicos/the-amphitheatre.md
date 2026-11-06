@@ -17,7 +17,7 @@ The Amphitheatre is a wall dive site in Turks and Caicos, Caribbean.
 
 ## Overview
 
-The Amphitheatre is a Northwest Point wall dive centred on a large recess in the wall, undercut and covered in bright sponges with hanging whip corals. Large pillar coral formations sit under the boat at the mooring. Divers who swim north or south from the amphitheatre report an abundance of black coral along the adjoining wall.
+The Amphitheatre is a Northwest Point wall dive centred on a large recess in the wall, undercut and covered in bright sponges with hanging whip corals (Aqua TCI). Dive Provo describes the wall dropping vertically to an undercut, a sandy bottom at about 85ft (26m), large pillar coral under the boat, a large elephant ear sponge, black coral, and plate corals on a buttress in front of the wall.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ The Amphitheatre is a Northwest Point wall dive centred on a large recess in the
 
 ## Marine Life
 
-Horse-eye jacks are reported circling the amphitheatre in numbers, and keen-eyed divers can find neck crabs disguised among the gorgonian fans lining the recess. Re-audit note: the seahorses-in-black-coral and reef-sharks-patrolling-the-rim claims in the prior description could not be confirmed against sources for this update and have been removed; the confirmed feature is an abundance of black coral on the wall adjoining the amphitheatre, not a specific seahorse sighting record.
+Both Aqua TCI and Dive Provo report abundant horse-eye jacks circling the recess. Aqua TCI notes neck crabs can be found among the gorgonian fans.
 
 ---
-*Sources: [Aqua TCI - Dive Sites](https://www.aquatci.com/dive-sites/), [Dive Provo - Dive Site Map](https://diveprovo.com/dive-sites-provo/), [Dive With Mia - Providenciales](http://divewithmia.com/scuba-diving-locations/turks-and-caicos-islands/providenciales). Last updated 2026-07-07.*
+*Sources: [Aqua TCI - Dive Sites](https://www.aquatci.com/dive-sites/), [Dive Provo - Dive Site Map](https://diveprovo.com/dive-sites-provo/), [Dive With Mia - Providenciales](http://divewithmia.com/scuba-diving-locations/turks-and-caicos-islands/providenciales). Last updated 2026-11-06.*

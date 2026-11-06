@@ -17,7 +17,7 @@ West Caicos Wall is a wall dive site in Turks and Caicos, Caribbean.
 
 ## Overview
 
-West Caicos Wall is a roughly six-mile wall running along the western shoreline of uninhabited West Caicos, within the 981-acre West Caicos Marine National Park. The wall's shallowest points sit around 12m, with recreational dives typically reaching about 30m. One well-known section, "Driveway," has a sand area with scattered coral heads at around 40ft leading into a sand chute that drops through the reef to a ledge at 80-100ft, where the wall falls vertically; it's reputed to be one of the most diverse sites in the islands, with black coral, purple tube sponges, and good growth of plate and star corals along the ledge.
+West Caicos Wall covers the walls along the western shoreline of uninhabited West Caicos, within West Caicos Marine National Park (Visit TCI gives the park as 1,153 acres / 467 hectares, with over a dozen dive sites). Visit TCI describes walls dropping sharply from about 9-18m at the top; recreational dives typically reach about 30m. At the Driveway section, Dive Provo describes a sand area with coral heads leading into a sand chute to a ledge at 80-100ft (24-30m) where the wall falls vertically, with black coral, purple tube sponges, and barrel sponges. Aqua TCI also describes Elephant Ear Canyon, a dramatic wall.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ West Caicos Wall is a roughly six-mile wall running along the western shoreline 
 
 ## Marine Life
 
-Reef sharks are common along the West Caicos walls, and sea turtles, spotted eagle rays, snappers, and barracuda are also regularly reported. At Driveway specifically, groupers and black durgons are noted alongside the sharks. Re-audit note: horse-eye jacks, moray eels, lobsters, and hawksbill turtles from the prior description could not be independently confirmed for this update and have been generalized or removed.
+Dive Provo reports sharks, groupers, and black durgons at Driveway, with eagle rays across the West Caicos sites. Aqua TCI reports reef sharks at Elephant Ear Canyon, with seahorses, pipehorses, pipefish, and a shortnose batfish in its sand patch.
 
 ---
-*Sources: [Original Diving - Deep Water Diving in the Turks and Caicos](https://www.originaldiving.com/collections/deep-water-diving-in-the-turks-and-caicos), [Aqua TCI - Dive Sites](https://www.aquatci.com/dive-sites/), [The Dive Globe - West Caicos](https://www.thediveglobe.com/app/en/dive/west-caicos), [Visit TCI - West Caicos Marine National Park](https://www.visittci.com/west-caicos/west-caicos-marine-national-park). Last updated 2026-07-07.*
+*Sources: [Dive Provo - Dive Site Map](https://diveprovo.com/dive-sites-provo/), [Aqua TCI - Dive Sites](https://www.aquatci.com/dive-sites/), [Visit TCI - West Caicos Marine National Park](https://www.visittci.com/west-caicos/west-caicos-marine-national-park), [The Dive Globe - West Caicos](https://www.thediveglobe.com/app/en/dive/west-caicos). Last updated 2026-11-06.*

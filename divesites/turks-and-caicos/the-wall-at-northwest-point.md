@@ -17,7 +17,7 @@ The Wall at Northwest Point is a wall dive site in Turks and Caicos, Caribbean.
 
 ## Overview
 
-The Wall at Northwest Point anchors the Northwest Point Marine National Park, where the wall crest sits at just 10–12 metres and the face drops away into the abyss adorned with magnificent formations of gold and purple tube sponges, elephant ear sponges, and towering barrel sponges. Caribbean reef sharks are a near-constant presence along the wall, and horse-eye jacks — the signature fish of Northwest Point — often circle divers during the safety stop beneath the boat. The site combines easily with other named features at the point including The Amphitheatre, The Crack, and Coral Stairway, all offering varied topography within a single drift along the protected western coastline.
+The Wall at Northwest Point is part of Northwest Point Marine National Park. Aqua TCI reports the wall dropping from about 35ft (10m) to a ledge at 100-120ft (30-40m) before falling into much deeper water, with limestone swim-throughs, crevices, and overhanging monoliths and plate and brain corals. Dive Provo reports gold and purple tube sponges. The point also has named sites including the Amphitheatre and Shark Hotel.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ The Wall at Northwest Point anchors the Northwest Point Marine National Park, wh
 
 ## Marine Life
 
-Horse-eye jacks are described by multiple dive operators as the signature fish of Northwest Point and are reported circling divers here during the safety stop. Caribbean reef sharks are regularly reported along this stretch of wall. Sources confirm the gold and purple tube sponge formations as a defining feature of the site; sea turtles and eagle rays are commonly reported in the area but are not documented as guaranteed sightings at this specific mooring.
+Aqua TCI and Dive Provo both describe horse-eye jacks as the signature fish of Northwest Point. No further site-specific species reports were confirmed for this mooring.
 
 ---
-*Sources: [Aqua TCI - Dive Sites](https://www.aquatci.com/dive-sites/), [Times of the Islands - Wild, Wild Northwest](https://www.timespub.tc/2011/03/wild-wild-northwest/), [Visit TCI - Diving](https://www.visittci.com/things-to-do/diving). Last updated 2026-07-07.*
+*Sources: [Aqua TCI - Dive Sites](https://www.aquatci.com/dive-sites/), [Dive Provo - Dive Site Map](https://diveprovo.com/dive-sites-provo/), [Visit TCI - Diving](https://www.visittci.com/things-to-do/diving). Last updated 2026-11-06.*
