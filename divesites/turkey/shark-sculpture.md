@@ -17,13 +17,11 @@ Shark Sculpture is a reef dive site in Turkey, Europe.
 
 ## Overview
 
-Shark Sculpture sits at Güvercin Ada (Pigeon Island), about fifteen minutes by boat from Kaş. The sculpture itself — a roughly 2.6m (8ft) marble shark titled "The Shark" (2000) — was carved directly on the seabed at around 8 meters depth by Turkish sculptor Kemal Tufan, who worked underwater with only a hammer and chisel over roughly two weeks. It remains in place on the sea floor today.
-
-The wider site is a multi-level dive: shallow sections around the statue are alive with rabbitfish and bream, an old wooden wreck lies scattered at roughly 22 meters, and a second, sheet-metal wreck — sunk deliberately as an artificial reef — sits nearby at around 28 meters. Divers also encounter soldierfish, octopus, moray eels, nesting triggerfish, and gobies sharing burrows with their shrimp partners in the sandy bottom. Broken ancient amphorae are scattered across the site, adding an archaeological layer alongside the modern sculpture and wrecks.
+Shark Sculpture is the local name for the dive at Güvercin Ada (Pigeon Island) near Kaş. PADI and Nautilus Diving Kaş describe a white marble shark sculpture left over from past underwater art exhibitions, a calm site where the shallows suit beginners and snorkelers. Deeper, an old wooden wreck lies scattered at about 22 meters and a sheet-metal wreck, sunk deliberately as an artificial reef, sits at about 28 meters. A deep small reef near 28 meters has many broken amphorae. PADI lists a maximum depth of 30 meters; Nautilus Diving Kaş cites about 28 meters. Entry is by boat.
 
 ## Marine Life
 
-Confirmed at this specific site (not a generic regional list): rabbitfish, bream, soldierfish, octopus, moray eels, nesting triggerfish, striped groupers, and gobies with their shrimp commensals.
+Site-specific reports (PADI, Nautilus Diving Kaş): rabbitfish and bream in the shallows, striped groupers on the deep reef, and gobies sharing burrows with shrimp in the sand.
 
 ## Site Information
 
@@ -34,4 +32,4 @@ Confirmed at this specific site (not a generic regional list): rabbitfish, bream
 - **Maximum Depth**: 28 meters
 
 ---
-*Sources: [PADI - Pigeon Island dive site](https://www.padi.com/dive-site/turkey/guvercin-ada/), [Nautilus Diving Kaş - Dive Sites](https://www.nautilusdivingkas.com/dalis-noktalari?lang=en), [Turkey Homes - Top Diving Sites of Kaş](https://www.turkeyhomes.com/blog/post/top-diving-sites-of-kas), [Kemal Tufan - Sculptures](http://www.kemaltufan.com/main.asp?page=sculptures&lang=en). Last updated 2026-07-07.*
+*Sources: [PADI - Pigeon Island dive site](https://www.padi.com/dive-site/turkey/guvercin-ada/), [Nautilus Diving Kaş - Dive Sites](https://www.nautilusdivingkas.com/dalis-noktalari?lang=en). Only two site-specific sources were available for this re-audit. Last updated 2026-11-06.*
