@@ -90,7 +90,7 @@
     "lng": -72.2167,
     "difficulty": "Beginner",
     "maxDepth": 6,
-    "entryType": "boat",
+    "entryType": "shore",
     "siteType": "reef",
     "ref": "",
     "osmId": null

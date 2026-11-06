@@ -17,9 +17,7 @@ The Hole in the Wall is a narrow vertical crack at Northwest Point that drops di
 
 ## Overview
 
-The Hole in the Wall at Northwest Point Marine Park is a crack that divers can penetrate one at a time, entering at about 55ft (17m) and emerging on the open wall face around 90-95ft (27-29m). Space inside is limited to one diver at a time, but the passage delivers divers from the shallow reef directly to the edge of the wall.
-
-**Correction (2026-07-07):** This site's coordinates were previously recorded roughly 70km east near South/East Caicos, contradicting every source consulted, all of which place the Hole in the Wall within Northwest Point Marine Park, Providenciales. Coordinates have been corrected to sit within the Northwest Point cluster.
+The Hole in the Wall in Northwest Point Marine Park is a vertical crack that drops from about 55ft (17m) and exits onto the wall face at about 90-95ft (27-29m). Xtreme Spots and Dive Provo both note it fits only one diver at a time. Penetration of enclosed spaces requires appropriate training and equipment, and should be done only with a local guide.
 
 ## Site Information
 
@@ -31,7 +29,7 @@ The Hole in the Wall at Northwest Point Marine Park is a crack that divers can p
 
 ## Marine Life
 
-Inside the crack, sources describe brittle corals, lobsters, and schools of small reef fish lining the walls, along with extensive sheet coral formations. Re-audit note: the claim that the surrounding open wall hosts Caribbean reef sharks, eagle rays, and hawksbill turtles reflects general Northwest Point characteristics rather than confirmed sightings at this specific crack, and has been softened accordingly.
+Xtreme Spots reports schools of yellowtail and mahogany snapper along the wall; Dive Provo notes extensive sheet coral formations. Xtreme Spots rates the site for intermediate and advanced divers.
 
 ---
-*Sources: [Xtreme Spots - Hole in the Wall](https://www.xtremespots.com/water-sports/scuba-diving/hole-in-the-wall-providenciales-turks-and-caicos-islands/), [Aqua TCI - Dive Sites](https://www.aquatci.com/dive-sites/), [Visit TCI - Diving](https://www.visittci.com/things-to-do/diving). Last updated 2026-07-07.*
+*Sources: [Xtreme Spots - Hole in the Wall](https://www.xtremespots.com/water-sports/scuba-diving/hole-in-the-wall-providenciales-turks-and-caicos-islands/), [Aqua TCI - Dive Sites](https://www.aquatci.com/dive-sites/), [Dive Provo - Dive Site Map](https://diveprovo.com/dive-sites-provo/), [Visit TCI - Diving](https://www.visittci.com/things-to-do/diving). Last updated 2026-11-06.*

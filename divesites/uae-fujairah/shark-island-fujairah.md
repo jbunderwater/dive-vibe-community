@@ -17,7 +17,7 @@ Shark Island Fujairah is a reef dive site in UAE - Fujairah, Middle East.
 
 ## Overview
 
-Shark Island — officially Sira Khorfakkan — is a small rocky island a five-minute boat ride from Khor Fakkan, on the southeastern edge of Khor Fakkan Bay. It offers two contrasting underwater environments: an extensive coral garden with roughly 200 metres of hard corals on the bay side, and a dramatic granite boulder wall spanning about 250 metres on the more exposed face. Blacktip reef sharks — shy and not a threat to divers — are the site's namesake and are most reliably seen on the eastern side from November to April, alongside honeycomb moray eels, sea turtles, and shoals of cornetfish, trevally, mackerel, fusiliers, sergeant majors, and damselfish. Large table corals, some spanning up to two metres, are a highlight of the coral garden side.
+Shark Island (Sira Khorfakkan) lies on the southeastern edge of Khor Fakkan Bay. PADI and Nemo Diving Center describe two dive options: a bay side with hard coral over roughly 200 metres, and a wall side of large granite boulders (PADI gives a swim of about 250 metres), with table corals of at least two metres across. Operators report blacktip reef sharks (Nemo: best from November to April along the eastern side), honeycomb moray eels, large turtles, and shoals of cornetfish, trevally, mackerel, fusiliers, sergeant majors and damselfish.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Shark Island — officially Sira Khorfakkan — is a small rocky island a five-m
 
 ## Dive Notes
 
-The shallow depth range (roughly 5-14 metres) and generally calm conditions make Shark Island suitable for snorkelers and Discover Scuba Diving participants as well as certified divers. Divers typically split the dive between the bay-side coral garden and the granite wall on the exposed face.
+Depth figures differ: PADI lists 5-14 metres, while Nemo lists 15 and 12 metres on the same page; visibility is reported at 5-15 metres. Both sources describe the site as approachable for beginners and snorkellers. Nemo advises staying on the bay side if currents pick up along the wall.
 
 ---
-*Sources: [PADI - Shark Island dive site](https://www.padi.com/dive-site/united-arab-emirates/shark-island-2/), [Nemo Diving Center - Shark Island in Fujairah](https://nemodivingcenter.com/other-diving-sites/shark-island-in-fujairah/), [MOCCAE - Shark Island Ecotourism Area](https://moccae.gov.ae/en/knowledge/ecotourism/shark-island), [Gulf News - Boat trip to Shark Island](https://gulfnews.com/living-in-uae/ask-us/take-a-dh25-boat-trip-to-shark-island-in-khorfakkan-1.1732718134924), [Coral Creek Diving - Shark Island](https://coralcreekdiving.com/diving-fujairah/shark-island/). Last updated 2026-07-07.*
+*Sources: [PADI - Shark Island dive site](https://www.padi.com/dive-site/united-arab-emirates/shark-island-2/), [Nemo Diving Center - Shark Island in Fujairah](https://nemodivingcenter.com/other-diving-sites/shark-island-in-fujairah/), [Visit Sharjah - Diving in Khorfakkan](https://www.visitsharjah.com/en/activities/sports/diving-in-khorfakkan/). Last updated 2026-11-06.*

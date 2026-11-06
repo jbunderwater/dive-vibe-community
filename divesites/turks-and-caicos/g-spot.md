@@ -17,9 +17,9 @@ G-Spot is a wall dive west of French Cay, named for a bend in the wall that trac
 
 ## Overview
 
-G-Spot is the easternmost of three mooring buoys west of French Cay, roughly a 45-minute boat ride from Provo in good weather. The mooring sits in about 50ft (15m) of water but the wall drops fast, and if current or wind pushes the boat off the mooring the wall can exceed 100ft (30m) close by. The wall is smothered in huge deep-water gorgonians, massive elephant ear sponges, and vast barrel sponges.
+G-Spot is the easternmost of three mooring buoys west of French Cay, roughly a 45-minute boat ride from Providenciales. Wannadive reports the mooring in about 50ft (15m) with the wall dropping quickly to 100ft (30m) or more, average depth around 60ft (18m), a 1-2 knot current, and over 30m visibility; it describes the site as named for a G-shaped turn in the wall and rates it as suitable for CMAS*/Open Water divers, while its depth profile and distance lead us to list it as Advanced. Aqua TCI describes a small wall niche that creates eddies feeding a field of black coral cascading down the wall; Dive Provo describes a soft-coral plateau leading to a V-shaped sheer drop.
 
-**Correction (2026-07-07):** This site's coordinates were previously recorded at Northwest Point (21.8583, -72.3167), roughly 40km from its actual location. Three independent dive-site directories (Zentacle, Wannadive, The Scuba Directory) place G-Spot west of French Cay; coordinates have been corrected to 21.4917, -72.2214.
+Coordinates are approximately 21.4917, -72.2214 (Wannadive lists 21 29.504 N, 72 13.282 W).
 
 ## Site Information
 
@@ -31,7 +31,7 @@ G-Spot is the easternmost of three mooring buoys west of French Cay, roughly a 4
 
 ## Marine Life
 
-Reef sharks patrol the wall, and nurse sharks are commonly reported resting on coral beds around 50ft. Barracuda, yellowtail snappers, and turtles are also reported here. Re-audit note: golden tail moray eels and juvenile queen triggerfish from the prior description could not be confirmed against sources for this update and have been removed.
+Wannadive reports reef sharks along the wall, nurse sharks resting on coral beds around 50ft, and large red elephant-ear sponges. Aqua TCI reports a resident barracuda.
 
 ---
-*Sources: [Zentacle - G-Spot](https://www.zentacle.com/Beach/11305/g-spot), [Wannadive - G-spot](https://www.wannadive.net/spot/Central_America/Turks___Caicos/French_Cay/G-spot/index.html), [The Scuba Directory - G Spot](https://thescubadirectory.com/divesiteprofile/G-Spot--French-Cay-Turks-and-Caicos-Islands-Dive-Site). Last updated 2026-07-07.*
+*Sources: [Wannadive - G-spot](https://www.wannadive.net/spot/Central_America/Turks___Caicos/French_Cay/G-spot/index.html), [Aqua TCI - Dive Sites](https://www.aquatci.com/dive-sites/), [Dive Provo - Dive Site Map](https://diveprovo.com/dive-sites-provo/), [Zentacle - G-Spot](https://www.zentacle.com/Beach/11305/g-spot). Last updated 2026-11-06.*

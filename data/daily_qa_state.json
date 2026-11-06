@@ -2,12 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "turkey",
-    "turks-and-caicos",
-    "uae",
-    "uae-fujairah",
-    "us",
-    "us-virgin-islands",
     "ustica",
     "utila",
     "vancouver-island",
@@ -174,7 +168,13 @@
     "thailand-similan-islands",
     "tobago",
     "tonga",
-    "triton-bay"
+    "triton-bay",
+    "turkey",
+    "turks-and-caicos",
+    "uae",
+    "uae-fujairah",
+    "us",
+    "us-virgin-islands"
   ],
   "history": [
     {
@@ -3852,6 +3852,22 @@
         "notes": "thailand skipped: no osm_clean data or divesites directory"
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/178"
+    },
+    {
+      "date": "2026-11-06",
+      "slugs": [
+        "turkey",
+        "turks-and-caicos",
+        "uae",
+        "uae-fujairah",
+        "us",
+        "us-virgin-islands"
+      ],
+      "summary": {
+        "sites_re_audited": 26,
+        "note": "uae and us are group destinations with no site data (skipped); us-virgin-islands re-audited wrecks only"
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/179"
     }
   ]
 }

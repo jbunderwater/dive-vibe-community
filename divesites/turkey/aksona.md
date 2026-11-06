@@ -17,11 +17,11 @@ Aksona is a wall dive site in Turkey, Europe.
 
 ## Overview
 
-Aksona (also referred to as Aksona Point or Aksona Bay), named for the Bodrum sponge hunter Aksona Mehmet, sits roughly 50 minutes by boat beyond Karaada (Black Island). Three independent sources describe the same dive profile: the wall begins at just 3 meters, slopes through the 20s, and then drops as a rock wall to 30-35 meters — this listing's depth has been corrected from an unsupported 45m to 35m to match. The site is known for its archaeological character: a Phoenician ship's anchor rests at 13.5 meters atop a flat rock, with fragments of ancient pottery/amphorae scattered across the surrounding sandy seabed. Marine life reported at the site includes groupers, barracuda, octopus, moray eels, dentex, wrasse, thornback rays, sea stars, and colorful sponges on the wall. The surface here is often windy and choppy, but underwater visibility typically reaches 20-30 meters. Given the remote location, depth, and exposure, sources consistently recommend this site for advanced/experienced divers.
+Aksona (Aksona Point), named for the Bodrum sponge hunter Aksona Mehmet, lies roughly 50 minutes by boat beyond Karaada (Black Island). The dive starts at about 3 meters, slopes through the 20s, and drops as a rock wall to 30-35 meters. A Phoenician ship's anchor is reported at about 13.5 meters, placed on a flat rock, and a nearly complete amphora is reported on sand near the wall at about 30 meters. One operator recommends the site for advanced and open water divers; given the distance and depth, treat it as an advanced dive.
 
 ## Marine Life
 
-Confirmed at this specific site (not a generic regional list): groupers, barracuda, octopus, moray eels, dentex, wrasse, thornback rays, sea stars, and sponge growth on the wall.
+Site-specific reports: octopus, groupers (including white groupers), barracuda, moray eels and, occasionally, thornback rays (Seaworld Club); small fish, octopus, several sea star species and colorful sponges (The Scuba Tank).
 
 ## Site Information
 
@@ -32,4 +32,4 @@ Confirmed at this specific site (not a generic regional list): groupers, barracu
 - **Maximum Depth**: 35 meters
 
 ---
-*Sources: [Just Gotta Dive — Diving Turkey's Bodrum](https://www.justgottadive.com/dive_resources/travel_articles/diving-turkeys-bodrum-bubble-cave-pacoz-bay), [Seaworld Club Diving Center, via LiveJournal](https://extremesport.livejournal.com/43149.html), [The Scuba Tank — Scuba Diving in Bodrum, Turkey](https://www.thescubatank.com/scuba-diving-in-bodrum-turkey/). Last updated 2026-07-07.*
+*Sources: [The Scuba Tank — Scuba Diving in Bodrum, Turkey](https://www.thescubatank.com/scuba-diving-in-bodrum-turkey/), [Seaworld Club Diving Center, via LiveJournal](https://extremesport.livejournal.com/43149.html). Only two site-specific sources were available for this re-audit. Last updated 2026-11-06.*

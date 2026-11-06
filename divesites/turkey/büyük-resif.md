@@ -17,33 +17,17 @@ Büyük Resif (Big Reef) is a wall and reef dive site near Bodrum, Turkey.
 
 ## Overview
 
-Büyük Resif — Turkish for "Big Reef" — is one of the most celebrated dive sites in the Bodrum area of Turkey's Aegean coast. The reef is positioned approximately 20 minutes by boat from Bodrum city centre, between the Bodrum Peninsula and Karaada (Black Island), directly opposite St. Peter's Castle. The site is a prominent underwater pinnacle that rises from the seafloor to within 4 metres of the surface, with a maximum depth of 34 metres at the base.
-
-The reef presents contrasting characters on its two main faces: the Karaada-facing wall drops vertically from 7 metres to 34 metres — a true wall dive — while the Gümbet-facing side descends in terraces, offering a more gradual dive profile. The top of the reef at 4–7 metres is a productive zone with octopus, bream, and scorpionfish. The steep wall face is documented as one of the richest marine life sites in the Bodrum area and is described by local operators as particularly well suited for underwater photography.
-
-The reef is noted as a crossing point for Red Sea migrants — species that have expanded into the eastern Mediterranean through the Suez Canal — adding unpredictability to encounter opportunities alongside the resident population. Octopus, moray eels, groupers, barracuda, jacks, and spiny lobster inhabit the structure, and colourful sea slugs and sponges colonise the rock faces. Strong currents at this exposed site are common, and advanced buoyancy control is required on the wall.
+Büyük Resif ("Big Reef") lies between the Bodrum Peninsula and Karaada (Black Island), about 20 minutes by boat from Bodrum per The Divers' Club. It is an underwater hill, roughly circular, with a summit at about 5-7 meters (sources differ) and a maximum depth of 34 meters. The wall facing Black Island drops almost vertically from 7 to 34 meters. Happy Bubbles describes an easy descent along the anchor chain and a wall well suited to photography.
 
 ## Dive Profile
 
-- **Entry**: Boat; descent by anchor chain to reef top at 7 m
-- **Depth range**: 7–34 m (top at 4 m; wall face starts at 7 m)
-- **Wall face**: Vertical, 7–34 m, facing Karaada (Black Island)
-- **Terrace face**: Gradual slope facing Gümbet
-- **Conditions**: Strong currents possible; experienced divers required for wall sections
-- **Visibility**: Mediterranean average; typically 15–25 m in summer
-- **Best season**: April–October
+- **Entry**: Boat
+- **Depth range**: summit ~5-7 m, wall to 34 m
+- **Conditions**: The Divers' Club reports strong currents that can change the route; good buoyancy control and situational awareness are essential. It recommends the site for experienced divers.
 
 ## Marine Life
 
-- **Resident fish**: Octopus, moray eels, groupers (including large individuals), scorpionfish, sea bream, dentex, stingrays, damselfish, wrasse
-- **Pelagics and transients**: Barracuda, jacks (Caranx spp.), tuna, bonito, leerfish
-- **Red Sea migrants**: Lionfish confirmed at this site by The Divers' Club (a Lessepsian species that has spread into the eastern Mediterranean via the Suez Canal)
-- **Invertebrates**: Spiny lobster, crabs, sea slugs (nudibranchs), sponges
-- **Photography note**: Wall face described as "particularly well suited for photography" by Happy Bubbles Dive Center
-
-## Safety
-
-Strong currents are the primary hazard, and multiple dive-shop sources recommend this site for experienced/advanced divers specifically because of them. Advanced buoyancy control and awareness of current direction are essential on the wall. Book with an established Bodrum dive operator who monitors conditions. The exposed location means surface conditions can deteriorate with wind. Underwater scooters (DPVs) are commonly used to extend range to the neighboring Small Reef in the same dive.
+Site-specific reports: octopus, moray eels, groupers, barracuda, jacks, spiny lobster and colorful sea slugs (Happy Bubbles); additionally tuna, bonito, leerfish, dentex, stingrays, lionfish, crabs, tritons and nudibranchs (The Divers' Club).
 
 ## Site Information
 
@@ -53,9 +37,5 @@ Strong currents are the primary hazard, and multiple dive-shop sources recommend
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 34 meters
 
-## Additional Resources
-
-- **Last Updated**: 2026-07-07 (re-audited; difficulty corrected, lionfish sighting added, sources re-verified with no other factual changes needed)
-
 ---
-*Sources: [Happy Bubbles Dive Center — Big Reef](https://happybubbles.com/en/ds-big-reef/), [The Divers' Club — Big Reef](https://www.thediversclub.com.tr/?dive-sites=big-reef&lang=en), [SSI MyDiveGuide — Big Reef Bodrum](https://www.divessi.com/en/mydiveguide/divesite/big-reef-bodrum-resif-buyuk-karaada-mavi-yildiz-great-turkey-67809), [Just Gotta Dive — Diving Turkey's Bodrum](https://www.justgottadive.com/dive_resources/travel_articles/diving-turkeys-bodrum-bubble-cave-pacoz-bay). Last updated 2026-07-07.*
+*Sources: [Happy Bubbles Dive Center — Big Reef](https://happybubbles.com/en/ds-big-reef/), [The Divers' Club — Big Reef](https://www.thediversclub.com.tr/?dive-sites=big-reef&lang=en). Only two site-specific sources were available for this re-audit. Last updated 2026-11-06.*

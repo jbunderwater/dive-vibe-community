@@ -57,11 +57,11 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "dreamwrecks.com,dolphinshuttle.com,en.wikipedia.org",
+    "validation_source": "dreamwrecks.com,dolphinshuttle.com,en.wikipedia.org,stormypirates.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "last_qa_date": "2026-07-08",
+      "last_qa_date": "2026-11-06",
       "qa_note": "Depth updated from 21m to 27m (dreamwrecks.com and dolphinshuttle.com both cite ~90ft resting depth; one earlier source cited 70ft/21m - range noted in markdown). Ship identity corrected to USS LST-467 (WWII Landing Ship Tank, built 1942, later converted to civilian log hauler) per Wikipedia/navsource.org, not a purpose-built freighter or hopper dredge as previously described. Sinking date is disputed between sources (1979 per Navy disposal records vs. 1984 storm account per dive-tourism sites) - flagged as a conflict in the markdown rather than resolved."
     }
   },
@@ -90,11 +90,11 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "freedomtourtravel.com,virgin-islands-charter-yachts.com,dolphinshuttle.com",
+    "validation_source": "freedomtourtravel.com,virgin-islands-charter-yachts.com,dolphinshuttle.com,stormypirates.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "last_qa_date": "2026-07-08",
+      "last_qa_date": "2026-11-06",
       "qa_note": "Removed fabricated details: the wreck is NOT in the BVI's Sir Francis Drake Channel (it rests near Buck Island off St. Thomas, USVI) and there is no source for an intentional 1977 sinking date. Sources place the original sinking before 1979 (when the hulk was barged near Buck Island) and its breakup into pieces during Hurricane Hugo in 1989. Depth reported 12-18m across sources; JSON value kept at 14m (within range)."
     }
   },
@@ -123,11 +123,11 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "justgottadive.com,stormypirates.com,dolphinshuttle.com",
+    "validation_source": "justgottadive.com,stormypirates.com,dolphinshuttle.com,maritimequest.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "last_qa_date": "2026-07-08",
+      "last_qa_date": "2026-11-06",
       "qa_note": "Corrected from 'Grain Wreck (Suffolk Maid)'. The coordinates and 'Grain Wreck' nickname match the SS Grainton (a British collier that sank near St. Thomas in 1928), not the Suffolk Maid (a separate, unrelated wreck in Butler Bay, St. Croix). The previous markdown's '19th-century cargo vessel' description was unsourced and has been replaced with researched SS Grainton history. Depth updated from 23m to 33m and difficulty raised from Intermediate to Advanced to match the technical depth (>30m) confirmed by multiple sources."
     }
   },
@@ -208,14 +208,14 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "en.wikipedia.org,scubadiving.com,divernet.com",
+    "validation_source": "en.wikipedia.org,scubadiving.com,divernet.com,stormypirates.com",
     "tags": {
       "historic": "wreck",
       "name": "Rhone",
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-07-08",
+      "last_qa_date": "2026-11-06",
       "geographic_note": "This wreck lies off Salt Island in the British Virgin Islands, not within US Virgin Islands territory. Flagged for dataset-placement review; retained here because it is a frequently paired charter destination with USVI dive operators, but it does not belong to the us-virgin-islands destination geographically."
     }
   },

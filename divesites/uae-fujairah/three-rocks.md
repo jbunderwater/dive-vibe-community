@@ -17,7 +17,7 @@ Three Rocks is a pinnacle dive site in UAE - Fujairah, Middle East.
 
 ## Overview
 
-Three Rocks — also listed as Sharm Rocks or the Three Sisters, named after the nearby fishing village of Al Sharm — is a trio of coral-encrusted pinnacles roughly 20 minutes by boat from Khor Fakkan, spanning approximately 150 metres in length by 100 metres wide, with a fourth submerged rock a little further out for more adventurous exploration. Depths in the range of 5 to 14 metres make it one of the most accessible sites on this stretch of coast, suitable for Discover Scuba Diving participants as well as certified divers. Turtles, cuttlefish, and jawfish are regularly reported here, along with shoals of bannerfish, parrotfish, fusiliers, jacks, and snappers, and moray eels and stingrays are also seen around the pinnacles.
+Three Rocks (also listed as Sharm Rock, 3 Rocks Pinnacles and Three Sisters) is a group of three pinnacles about 150 metres long and 100 metres wide, with a fourth, more challenging rock further out. PADI reports depths of 5-13 metres; Nemo Diving Center lists 15 and 12 metres on the same page, with visibility of 5-15 metres. Operators report turtles, cuttlefish, jawfish, bannerfish, parrotfish, puffers, snappers, mackerel, fusiliers, jacks, lionfish, boxfish and moray eels, with stingrays on the sandy outskirts.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Three Rocks — also listed as Sharm Rocks or the Three Sisters, named after the
 
 ## Dive Notes
 
-Conditions here are normally calm, and the shallow depth range makes this a good option for an afternoon or night dive, or as a second dive of the day.
+Both sources describe calm, shallow conditions suited to beginners and Open Water divers, and PADI suggests it as a last or night dive. Nemo recommends the fourth rock and the cracks for experienced divers only.
 
 ---
-*Sources: [PADI - 3 Rocks (Sharm Rock) dive site](https://www.padi.com/dive-site/united-arab-emirates/3-rocks-sharm-rock/), [Coral Creek Diving - Sharm Rocks](https://coralcreekdiving.com/diving-fujairah/sharm-rocks/), [Nemo Diving Center - Sharm Rock in Fujairah](https://nemodivingcenter.com/other-diving-sites/sharm-rock-in-fujairah/), [Sandy Beach Dive Centre - Three Rocks](https://divesandybeach.com/fujairah-dive-sites/three-rocks/). Last updated 2026-07-07.*
+*Sources: [PADI - 3 Rocks (Sharm Rock) dive site](https://www.padi.com/dive-site/united-arab-emirates/3-rocks-sharm-rock/), [Nemo Diving Center - Sharm Rock in Fujairah](https://nemodivingcenter.com/other-diving-sites/sharm-rock-in-fujairah/). Last updated 2026-11-06.*

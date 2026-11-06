@@ -26,8 +26,7 @@ UAE - Fujairah is a notable diving destination in the Middle East region with de
 ### Marine Life & Environment
 
 - **Water Conditions**: Water temperatures range from 22-30°C (72-86°F) with visibility of 20-40 meters (65-130 feet) at the outer sites, though inshore visibility varies more. Currents are generally moderate, stronger at exposed pinnacles and around tidal changes.
-- **Marine Biodiversity**: Regularly reported at named dive sites: green and hawksbill turtles, blacktip reef sharks, honeycomb moray eels, rays, cuttlefish, and reef fish (fusiliers, snappers, trevally, mackerel). Whale sharks, manta rays, and hammerhead sharks are reported occasionally off Fujairah's coast (per news reports and dive operator sightings) but are not a reliable, routine encounter at any specific site in this destination's list.
-- **Conservation**: Dibba Rock and Shark Island are long-standing marine protected, no-fishing areas that have helped sustain reef fish and turtle populations.
+- **Marine Biodiversity**: Species are listed on the individual site pages where a source reports them at that site.
 
 ## Additional Information
 
@@ -37,4 +36,4 @@ UAE - Fujairah is a notable diving destination in the Middle East region with de
 - **Safety**: Always dive within certification limits. Be aware of strong currents, fire coral, lionfish stings. Verify the location of the nearest hyperbaric chamber before diving.
 
 ---
-*Sources: [Scuba Diving Magazine - Whale Sharks, Warm Waters and Wonderful Wrecks in the UAE](https://www.scubadiving.com/whale-sharks-warm-waters-and-wonderful-wrecks-everything-you-need-to-know-about-diving-in-uae), [Nemo Diving Center - Fujairah dive sites](https://nemodivingcenter.com/other-diving-sites/), [MOCCAE - Fujairah Ecotourism Areas](https://moccae.gov.ae/en/knowledge/ecotourism), [Coral Creek Diving - Diving Fujairah](https://coralcreekdiving.com/diving-fujairah/). Last updated 2026-07-07.*
+*Sources: [Scuba Diving Magazine - Whale Sharks, Warm Waters and Wonderful Wrecks in the UAE](https://www.scubadiving.com/whale-sharks-warm-waters-and-wonderful-wrecks-everything-you-need-to-know-about-diving-in-uae), [Nemo Diving Center - Fujairah dive sites](https://nemodivingcenter.com/other-diving-sites/), [MOCCAE - Fujairah Ecotourism Areas](https://moccae.gov.ae/en/knowledge/ecotourism), [Coral Creek Diving - Diving Fujairah](https://coralcreekdiving.com/diving-fujairah/). Last updated 2026-11-06.*

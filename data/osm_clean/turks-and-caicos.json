@@ -13,8 +13,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "aquatci.com,timespub.tc,visittci.com",
-      "last_qa_date": "2026-07-07"
+      "validation_source": "aquatci.com,diveprovo.com,visittci.com",
+      "last_qa_date": "2026-11-06"
     }
   },
   {
@@ -32,7 +32,7 @@
       "addedBy": "gap_fill",
       "validated": true,
       "validation_source": "aquatci.com,diveprovo.com,originaldiving.com",
-      "last_qa_date": "2026-07-07"
+      "last_qa_date": "2026-11-06"
     }
   },
   {
@@ -50,7 +50,7 @@
       "addedBy": "gap_fill",
       "validated": true,
       "validation_source": "xtremespots.com,originaldiving.com,timespub.tc",
-      "last_qa_date": "2026-07-07"
+      "last_qa_date": "2026-11-06"
     }
   },
   {
@@ -68,7 +68,7 @@
       "addedBy": "gap_fill",
       "validated": true,
       "validation_source": "aquatci.com,diveprovo.com,divewithmia.com",
-      "last_qa_date": "2026-07-07"
+      "last_qa_date": "2026-11-06"
     }
   },
   {
@@ -85,9 +85,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "zentacle.com,wannadive.net,thescubadirectory.com",
+      "validation_source": "wannadive.net,aquatci.com,diveprovo.com,zentacle.com",
       "validation_note": "Coordinates corrected 2026-07-07: three independent dive-site directories (Zentacle, Wannadive, The Scuba Directory) place G-Spot west of French Cay at approx. 21.4917,-72.2214, not at Northwest Point where earlier data had it.",
-      "last_qa_date": "2026-07-07"
+      "last_qa_date": "2026-11-06"
     }
   },
   {
@@ -106,7 +106,7 @@
       "validated": true,
       "validation_source": "atlasandboots.com,scubadiving.place,deepblu.com",
       "validation_note": "Re-audited 2026-07-07: this is NOT a wreck. Renamed from 'Chief Minister Wreck' to 'Chief Ministers' and reclassified reef/wall (Grand Turk wall access point with an eel garden), per Atlas & Boots, scubadiving.place, and Deepblu dive logs. Entry type corrected shore->boat; no source describes shore access. No shipwreck of this name exists in any source consulted.",
-      "last_qa_date": "2026-07-07"
+      "last_qa_date": "2026-11-06"
     }
   },
   {
@@ -123,9 +123,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": false,
-      "validation_note": "Re-audited 2026-07-07: could not confirm as an independently-documented wreck. The comprehensive Visit Turks and Caicos shipwrecks catalogue (visittci.com/nature-and-history/history/shipwrecks), which names 8 wrecks in the islands, does not list a 'Southwind'. Search results conflated it with the nearby 'W.E. Wreck'/'W.E. Freighter' (sunk 1988 off Turtle Cove, 90-165ft/27-50m) without independent confirmation. Removed the fabricated 1988/freighter narrative from the markdown pending a verified source. Left validated=false; do not restore the sinking-date claim without 2+ independent sources.",
+      "validation_note": "Re-audited 2026-11-06: visittci.com describes 'Southwind freighter' as scattered loose debris near the W.E. Freighter; no second source confirmed directly, no build/sinking data. Kept unvalidated; do not add history without 2+ sources.",
       "validation_source": "unresolved",
-      "last_qa_date": "2026-07-07"
+      "last_qa_date": "2026-11-06"
     }
   },
   {
@@ -136,14 +136,14 @@
     "osm_type": null,
     "depth": 6,
     "site_type": "reef",
-    "entry_type": "boat",
+    "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
       "validation_source": "visittci.com,coralgardensongracebay.com,islands.com",
-      "last_qa_date": "2026-07-07"
+      "last_qa_date": "2026-11-06"
     }
   },
   {
@@ -160,9 +160,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "xtremespots.com,aquatci.com,visittci.com",
+      "validation_source": "xtremespots.com,aquatci.com,diveprovo.com,visittci.com",
       "validation_note": "Coordinates corrected 2026-07-07: previous lat/lon (21.7167,-71.6167) placed this site roughly 70km east near South/East Caicos, contradicting every source, which places The Hole in the Wall within Northwest Point Marine Park, Providenciales. Moved into the Northwest Point cluster.",
-      "last_qa_date": "2026-07-07"
+      "last_qa_date": "2026-11-06"
     }
   },
   {
@@ -179,8 +179,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "originaldiving.com,aquatci.com,thediveglobe.com,visittci.com",
-      "last_qa_date": "2026-07-07"
+      "validation_source": "diveprovo.com,aquatci.com,visittci.com,thediveglobe.com",
+      "last_qa_date": "2026-11-06"
     }
   }
 ]
