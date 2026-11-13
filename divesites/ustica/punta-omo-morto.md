@@ -13,21 +13,19 @@ addedBy: osm_import
 
 ## Punta Omo Morto
 
-Punta Omo Morto is a wall dive site in Ustica, Europe.
+Punta Omo Morto is a wall dive on the eastern side of Ustica.
 
 ## Overview
 
-Punta Omo Morto sits beneath the lighthouse at the island's southeastern point, where squared blocks of pyroclastic rock slope down to approximately 25-31 metres and are decorated with colourful gorgonians. Confirmed marine life includes large conger eels and shrimps inside the cavern feature, with schools of amberjack regularly passing in the open water alongside the wall. The site sits at the boundary of Zones B and C of the Ustica Marine Protected Area. The lighthouse at this point is confirmed but its construction date has not been independently verified from available sources.
-
-**Correction (2026-07-08 re-audit):** Maximum depth corrected from 27m to 31m — Scuba Travel's site listing gives 31 metres directly, which matches the upper end of the range already stated in this description; the previous frontmatter figure of 27m was inconsistent with the body text.
+Enjoy Sicilia describes a dive along a colourful, steep rocky wall rated simple and suitable for beginners. Scubaportal describes a wall from the surface down to a sandy bottom at about 40 metres, with a cave at roughly 25-27 metres, suitable for all certification levels and for night dives. Scuba Travel gives a maximum depth of 31 metres, returning at 15-18 metres, and a cavern with a large conger eel in a hole and shrimps at the back. Depth therefore ranges between 31 and 40 metres depending on source; this entry keeps 31 m, the figure from Scuba Travel's profile. Species reported at this site: red and yellow gorgonians, moray eels, scorpionfish, nudibranchs, shrimp, crustaceans and molluscs, brown and golden groupers (Scubaportal, Enjoy Sicilia), and a large conger eel (Scuba Travel). Earlier text and the destination overview described an archaeological itinerary here; no source consulted supports that (the marked itineraries found are at Punta Gavazzi, Spalmatore and Punta Falconiera).
 
 ## Site Information
 
-- **Location**: Ustica, Europe
+- **Location**: Ustica, Europe (eastern side)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 31 meters
 
 ---
-*Sources: [PADI - Punta Omo Morto](https://www.padi.com/dive-site/italy/punta-omo-morto/), [SCUBA Travel - Ustica Dive Guide](https://www.scubatravel.co.uk/italy/usticadive.html), [Divernet - Ustica: Sicily's Diving Jewel](https://divernet.com/world-dives/europe/ustica-sicilys-diving-jewel/). Last updated 2026-07-08.*
+*Sources: [Scubaportal - Ustica (Barracuda Diving)](https://scubaportal.it/?p=2664), [SCUBA Travel - Ustica Dive Guide](https://www.scubatravel.co.uk/italy/usticadive.html), [Enjoy Sicilia - Diving Sites in Ustica](https://enjoysicilia.it/en/isola-di-ustica/ustica/siti-per-immersioni-ustica). Last updated 2026-11-13.*

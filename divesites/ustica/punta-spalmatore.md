@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Punta Spalmatore
 
-Punta Spalmatore is a reef dive site in Ustica, Europe.
+Punta Spalmatore is a point on the western side of Ustica near the Torre di Spalmatore.
 
 ## Overview
 
-Punta Spalmatore lies on the western side of Ustica, between the island's lighthouse and the Torre di Punta Spalmatore, where shallow black volcanic rock slopes give way to posidonia meadows and scattered reefs typical of Italy's first Marine Protected Area. The site sits in Zone A of the reserve — the strictest no-take zone — which has allowed populations of grouper, wrasse, and sea bream to recover to densities rarely seen elsewhere in the Mediterranean. Along with Cala Sidoti, this is consistently cited as one of Ustica's best snorkelling and shallow-dive spots. Calm conditions and a maximum depth of 12 metres make this one of Ustica's most accessible shore entries, ideal for photography or a relaxed first dive on the island.
+Sebastiano Tusa, writing for the Centro Studi Ustica, notes that Italy's first underwater archaeological itinerary was created in the Marine Reserve near the Tower of Spalmatore. Orca Diving Ustica places the Piramidi dive between Punta Spalmatore and Punta Cavazzi, in Zone B of the reserve. Beyond this, the re-audit on 2026-11-13 found no dive-operator or database page describing a dive at Punta Spalmatore itself, so the previously published claims (shore entry, 12 m maximum depth, strict no-take Zone A location, beginner suitability) are unconfirmed and have been removed. Entry type, depth and difficulty shown below are unverified placeholders. No site-specific marine-life reports were found; the regional fauna of the Ustica Marine Protected Area applies, but no species are attributed to this site.
 
 ## Site Information
 
-- **Location**: Ustica, Europe
+- **Location**: Ustica, Europe (western side)
 - **Entry Type**: Shore entry
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 
 ---
-*Sources: [Evasioni Blu Diving - Le Piramidi](https://www.evasionibludiving.com/eng/198-piramidi.asp), [PADI - Diving Ustica](https://www.padi.com/diving-in/italy/ustica/), [SCUBA Travel - Ustica Dive Guide](https://www.scubatravel.co.uk/italy/usticadive.html). Last updated 2026-07-08.*
+*Sources: [Tusa, Underwater Archaeology (Centro Studi Ustica, Lettera 57)](https://www.centrostudiustica.it/images/PDF/pdf-copertine-rivista-lettera/Lettera-N.-57-Luglio-2020/L57_Arch_ArchSubUstica_Ingl_Tusa.pdf); [Orca Diving Ustica - Piramidi](https://www.orcadivingustica.com/en/dive-sites/piramidi). No site-specific dive profile found. Last updated 2026-11-13.*

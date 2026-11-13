@@ -13,8 +13,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "aquatci.com,timespub.tc,visittci.com",
-      "last_qa_date": "2026-07-07"
+      "validation_source": "aquatci.com,diveprovo.com,visittci.com",
+      "last_qa_date": "2026-11-13"
     }
   },
   {
@@ -23,7 +23,7 @@
     "lon": -72.2333,
     "osm_id": null,
     "osm_type": null,
-    "depth": 24,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -31,8 +31,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "aquatci.com,diveprovo.com,originaldiving.com",
-      "last_qa_date": "2026-07-07"
+      "validation_source": "aquatci.com,diveprovo.com,dive-the-world.com",
+      "last_qa_date": "2026-11-13",
+      "validation_note": "Re-audited 2026-11-13: sources conflict on the shark species behind the name (Aqua TCI: nurse sharks breed here; Dive Provo and dive-the-world.com: reef sharks) and on depth (Dive Provo shelf at 80-100ft/24-30m; dive-the-world.com chimney from 80ft/24m to wall at 130ft/40m, max 150ft/46m). Max depth raised 24->30m to match the shelf depth."
     }
   },
   {
@@ -41,7 +42,7 @@
     "lon": -72.3,
     "osm_id": null,
     "osm_type": null,
-    "depth": 24,
+    "depth": 33,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -49,8 +50,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "xtremespots.com,originaldiving.com,timespub.tc",
-      "last_qa_date": "2026-07-07"
+      "validation_source": "xtremespots.com,dive-the-world.com,timespub.tc",
+      "last_qa_date": "2026-11-13",
+      "validation_note": "Re-audited 2026-11-13: previously listed 'reef sharks, oceanic triggerfish, spotted eagle rays' were not in any fetched source and were removed. Xtreme Spots reports avg 19.8m / max 33.5m (depth raised 24->33m); dive-the-world.com describes the black coral overhang at 70-90ft (21-27m). Times of the Islands (timespub.tc) only names Black Coral Forest as a Northwest Point Marine National Park site, so it is a weak third source. originaldiving.com returned HTTP 403 and could not be re-checked."
     }
   },
   {
@@ -67,8 +69,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "aquatci.com,diveprovo.com,divewithmia.com",
-      "last_qa_date": "2026-07-07"
+      "validation_source": "aquatci.com,diveprovo.com,dive-the-world.com",
+      "last_qa_date": "2026-11-13",
+      "validation_note": "Re-audited 2026-11-13. Dive Provo gives a sand bottom at 85ft (26m) below the undercut. divewithmia.com was not re-fetched and is dropped from validation_source."
     }
   },
   {
@@ -80,14 +83,14 @@
     "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "zentacle.com,wannadive.net,thescubadirectory.com",
-      "validation_note": "Coordinates corrected 2026-07-07: three independent dive-site directories (Zentacle, Wannadive, The Scuba Directory) place G-Spot west of French Cay at approx. 21.4917,-72.2214, not at Northwest Point where earlier data had it.",
-      "last_qa_date": "2026-07-07"
+      "validation_source": "zentacle.com,wannadive.net,aquatci.com,diveprovo.com,dive-the-world.com",
+      "validation_note": "Coordinates corrected 2026-07-07 (approx. 21.49,-72.22, west of French Cay). Re-audited 2026-11-13: Zentacle and Wannadive both reproduce the same March 2012 Dive Provo guide account, so they are NOT independent of each other; independent corroboration comes from aquatci.com, diveprovo.com and dive-the-world.com. Difficulty lowered Advanced->Intermediate: Zentacle lists Beginner (max 60ft) and Wannadive lists CMAS*/Open Water with medium current (1-2 kn) and max 30.5m; Intermediate chosen as a compromise given the 45-minute boat ride and wall dropping past 30m. thescubadirectory.com was not re-fetched and is dropped.",
+      "last_qa_date": "2026-11-13"
     }
   },
   {
@@ -104,9 +107,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "atlasandboots.com,scubadiving.place,deepblu.com",
-      "validation_note": "Re-audited 2026-07-07: this is NOT a wreck. Renamed from 'Chief Minister Wreck' to 'Chief Ministers' and reclassified reef/wall (Grand Turk wall access point with an eel garden), per Atlas & Boots, scubadiving.place, and Deepblu dive logs. Entry type corrected shore->boat; no source describes shore access. No shipwreck of this name exists in any source consulted.",
-      "last_qa_date": "2026-07-07"
+      "validation_source": "scubadiving.place,deepblu.com,atlasandboots.com,frommers.com",
+      "validation_note": "Re-audited 2026-11-13: this is NOT a wreck (Grand Turk wall site near Governor's Beach). Deepblu log records boat entry. scubadiving.place reports avg 26m, reviews 12-27m, ~1kn current, no entry type stated. Previously listed '75ft visibility', 'sandy bottom ~40ft', 'ledge ~70ft' and moray/stingray sightings could not be re-verified and were removed. Garden eels from Frommer's/scubadiving.com search results.",
+      "last_qa_date": "2026-11-13"
     }
   },
   {
@@ -123,9 +126,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": false,
-      "validation_note": "Re-audited 2026-07-07: could not confirm as an independently-documented wreck. The comprehensive Visit Turks and Caicos shipwrecks catalogue (visittci.com/nature-and-history/history/shipwrecks), which names 8 wrecks in the islands, does not list a 'Southwind'. Search results conflated it with the nearby 'W.E. Wreck'/'W.E. Freighter' (sunk 1988 off Turtle Cove, 90-165ft/27-50m) without independent confirmation. Removed the fabricated 1988/freighter narrative from the markdown pending a verified source. Left validated=false; do not restore the sinking-date claim without 2+ independent sources.",
+      "validation_note": "Re-audited 2026-11-13: correction to the 2026-07-07 note. The Visit TCI shipwrecks catalogue does not list it, but Visit TCI's wreck-diving page (visittci.com/nature-and-history/history/wreck-diving) does mention a 'Southwind freighter' wreck near the W.E. freighter that 'today consists only of some loose debris'. A 2009 DiveBuddy listing (seen only in search-result excerpts; page could not be fetched) reportedly describes a debris field in 60-80ft of water at the wall edge, which conflicts with the recorded 15m / shore / Beginner values. No vessel build date, length, tonnage or sinking cause found in any source. Left validated=false (only one fetched source).",
       "validation_source": "unresolved",
-      "last_qa_date": "2026-07-07"
+      "last_qa_date": "2026-11-13"
     }
   },
   {
@@ -136,14 +139,15 @@
     "osm_type": null,
     "depth": 6,
     "site_type": "reef",
-    "entry_type": "boat",
+    "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
       "validation_source": "visittci.com,coralgardensongracebay.com,islands.com",
-      "last_qa_date": "2026-07-07"
+      "last_qa_date": "2026-11-13",
+      "validation_note": "Re-audited 2026-11-13: entry_type corrected boat->shore (Visit TCI: shore access only, walk in from Lower Bight Road beach accesses; Islands.com: footpath from Grace Bay). Visit TCI describes it as a snorkeling site (scuba not mentioned); depth 15-20ft (4.5-6m) at outer reaches. Species list restored from Visit TCI, which names them for this reef."
     }
   },
   {
@@ -160,9 +164,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "xtremespots.com,aquatci.com,visittci.com",
-      "validation_note": "Coordinates corrected 2026-07-07: previous lat/lon (21.7167,-71.6167) placed this site roughly 70km east near South/East Caicos, contradicting every source, which places The Hole in the Wall within Northwest Point Marine Park, Providenciales. Moved into the Northwest Point cluster.",
-      "last_qa_date": "2026-07-07"
+      "validation_source": "xtremespots.com,diveprovo.com,dive-the-world.com",
+      "validation_note": "Coordinates corrected 2026-07-07 (moved to Northwest Point cluster). Re-audited 2026-11-13: hole drops from 55ft (17m) to wall face at 90-95ft (27-29m), one diver at a time (Xtreme Spots, Dive Provo, dive-the-world.com). aquatci.com and visittci.com did not cover this site and were dropped.",
+      "last_qa_date": "2026-11-13"
     }
   },
   {
@@ -179,8 +183,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "originaldiving.com,aquatci.com,thediveglobe.com,visittci.com",
-      "last_qa_date": "2026-07-07"
+      "validation_source": "aquatci.com,diveprovo.com,thediveglobe.com,visittci.com,dive-the-world.com",
+      "last_qa_date": "2026-11-13",
+      "validation_note": "Re-audited 2026-11-13: aggregate entry for the whole West Caicos wall. Park size corrected 981->1,153 acres (Visit TCI). Wall length conflicts (previous '6 miles' unsupported; dive-the-world.com says about 2 miles / ~12 sites). The Dive Globe lists max 35m, avg 20m and Intermediate difficulty; Advanced retained pending a second source. originaldiving.com returned HTTP 403."
     }
   }
 ]

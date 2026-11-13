@@ -13,15 +13,11 @@ addedBy: osm_import
 
 ## Southwind Wreck
 
-Southwind Wreck is a shallow wreck dive near Providenciales whose history could not be independently confirmed for this update.
+Southwind Wreck is a freighter wreck near Providenciales that sources describe as reduced to loose debris; little else is documented.
 
 ## Overview
 
-**Unresolved — 2026-07-07 re-audit.** The previous description stated that the Southwind was "a freighter that was found abandoned and deliberately sunk near Providenciales in 1988." That claim could not be confirmed by two independent sources during this re-audit and has been removed rather than repeated.
-
-Visit Turks and Caicos Islands publishes a dedicated shipwrecks catalogue naming eight wrecks across the archipelago (including the W.E. Freighter/"WE Wreck," intentionally sunk in 1988 off Turtle Cove in 90-165ft/27-50m of water) — but it does not list a wreck called "Southwind." Search results that appeared to describe a "Southwind" wreck were not traceable to a distinct, citable source and appeared to conflate this site with the nearby W.E. Freighter, which sits much deeper (27-50m) than this entry's recorded 15m depth. Given the conflicting and unverifiable information, no historical claims (ship type, sinking date, or cause) are made here.
-
-What can be said: this entry describes a shallow, shore-accessible wreck-type site near Providenciales suited to beginners. Divers considering this site should confirm current details directly with a local dive operator before booking, since the name and history in our data could not be verified against primary sources.
+Visit TCI's wreck-diving page refers to the 'Southwind freighter' wreck near the W.E. freighter off Turtle Cove and says it 'today consists only of some loose debris'. That page gives no depth, build date, length, tonnage or sinking cause, and Visit TCI's separate shipwrecks gallery of eight wrecks does not list it. A 2009 DiveBuddy listing, seen only as a search-result excerpt that could not be opened, reportedly places a debris field in 60-80ft (18-24m) of water leading to the edge of the wall; this conflicts with the 15m depth, shore entry and Beginner rating recorded in this database, none of which could be confirmed. No vessel history is stated because no second independent source was found. For context, Visit TCI says the nearby W.E. freighter was found abandoned and sunk on purpose in 1988 and lies at 90-165ft (30-50m), too deep for recreational dive operators. Confirm with a local operator before planning.
 
 ## Site Information
 
@@ -33,7 +29,7 @@ What can be said: this entry describes a shallow, shore-accessible wreck-type si
 
 ## Marine Life
 
-No site-specific marine life sources were found for this update. The destination's regional reef fauna (snappers, groupers, and small reef fish typical of colonized artificial structures in the Turks and Caicos) may apply, but no site-specific reports were confirmed.
+No site-specific marine life sources were found. The destination's regional fauna applies, but no site-specific reports exist for this site.
 
 ---
-*No site-specific sources could be confirmed for the wreck's identity or history. Sources consulted (which do not name "Southwind"): [Visit TCI - Wreck Diving](https://www.visittci.com/nature-and-history/history/wreck-diving), [Visit TCI - Shipwrecks Gallery](https://www.visittci.com/nature-and-history/history/shipwrecks). Marked unvalidated pending a verifiable source. Last updated 2026-07-07.*
+*Sources: [Visit TCI - Wreck Diving](https://www.visittci.com/nature-and-history/history/wreck-diving), [Visit TCI - Shipwrecks](https://www.visittci.com/nature-and-history/history/shipwrecks). Only one source mentions the Southwind; unvalidated pending a second independent source. Last updated 2026-11-13.*

@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## The Car Cemetery
 
-The Car Cemetery is a historic wreck dive in UAE - Fujairah, Middle East.
+The Car Cemetery is an artificial reef of sunken cars and trucks off Fujairah's east coast.
 
 ## Overview
 
-The Car Cemetery is an artificial reef created in 1988, when around 200 vehicles — cars and trucks — were deliberately submerged roughly four nautical miles from Khor Fakkan port to encourage new marine habitat, creating a sprawling underwater scrapyard popular with macro divers. Cyclone Gonu in 2007 reduced the number of recognisable vehicles to around 50, but the remaining chassis, tyres, and fenders are now blanketed in growth and colonised by honeycomb moray eels, blennies, stingrays, Omani clingfish, and seahorses that cling to sea fans or car parts — the site is also known for a wide range of the roughly 300 nudibranch species recorded in UAE waters, including red-ringed, purple-spotted dorids and chromodorids. Guide ropes connect the wrecks, making navigation between them straightforward.
+Nemo Diving Center reports that vehicles were sunk here in 1988 to promote biodiversity, and places the site about four nautical miles from Khor Fakkan port. Nemo gives an estimate of around 200 cars and trucks originally, reduced to about 50 by Cyclone Gonu in 2007. Many vehicles have sunk into the sand, leaving tyres, fenders, steering wheels and chassis parts. A Gulf News report after Gonu quoted a Divers Down operator saying the storm cleared sand off buried cars and improved the dive. An Undercurrent reviewer found the vehicles heavily deteriorated and hard to recognise. The vehicles were not documented in the sources consulted by make, model or provenance, so none is given here.
+
+Marine life reported at this site: nudibranchs, honeycomb moray eels, seahorses, blennies, stingrays and Omani clingfish (Nemo Diving Center); Nemo's wildlife page also lists snappers, barracuda, lionfish, trumpetfish, pufferfish, parrotfish and flounder. An Undercurrent review confirms nudibranchs and eels.
 
 ## Site Information
 
@@ -29,7 +31,7 @@ The Car Cemetery is an artificial reef created in 1988, when around 200 vehicles
 
 ## Dive Notes
 
-Depth across the site is generally 16-18 metres, and visibility can vary considerably. Divers should not attempt to enter the enclosed car bodies — they are unstable and not built for penetration — and should stay alert for loose fishing net entanglement hazards on some of the wrecks. Suitable for Open Water certified divers and above with good buoyancy control.
+Nemo reports wrecks at 16 to 18 m with visibility of about 10 m; Undercurrent's reviewer reported about 50 feet (roughly 15 m); Divecampus lists a similar "Car Cemetery 2" site to 20 m with 3 to 5 m visibility. Do not enter the enclosed car bodies, which are unstable, and watch for fishing nets and entanglement hazards on some vehicles.
 
 ---
-*Sources: [Nemo Diving Center - Car Cemetery Dive Site](https://nemodivingcenter.com/other-diving-sites/car-cemetery-in-fujairah/), [Nemo Diving Center - Wildlife Encounters at Car Cemetery](https://nemodivingcenter.com/blog/wildlife-encounters-at-car-cemetery-in-fujairah/), [Great Diving Sites - Car Cemetery](https://uae.greatestdivesites.com/uae_east_coast/car_cemetery), [Evendo - The Haunting Beauty of Sharjah's Car Cemetery](https://evendo.com/locations/united-arab-emirates/khor-fakkan/attraction/car-cemetery). Last updated 2026-07-07.*
+*Sources: [Nemo Diving Center - Car Cemetery](https://nemodivingcenter.com/other-diving-sites/car-cemetery-in-fujairah/), [Nemo Diving Center - Wildlife at Car Cemetery](https://nemodivingcenter.com/blog/wildlife-encounters-at-car-cemetery-in-fujairah/), [Gulf News - Cyclone Gonu: After The Storm](https://gulfnews.com/amp/story/uae%2Fcyclone-gonu-after-the-storm-1.465563), [Undercurrent - Divers Down Fujairah report](https://www.undercurrent.org/UCnow/dive_reviews/United_Arab_Emirates/DiversDownMiramarHotel_Fujairah_report_10555.html), [Divecampus - UAE dive sites](https://divecampus.com/blogs/the-diveblog/uae-dive-sites-our-top-picks). Last updated 2026-11-13.*

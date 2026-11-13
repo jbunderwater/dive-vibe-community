@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Sapphire Beach Reef
 
-Sapphire Beach Reef lies off one of St. Thomas's most sheltered east-end beaches, where a healthy rocky-coral reef borders a large seagrass meadow in shallow, calm water.
+Sapphire Beach Reef is a shallow shore site on St. Thomas's east end; no dive-specific source was found to confirm its details.
 
 ## Overview
 
-Sapphire Beach sits on St. Thomas's eastern side, a short drive from Charlotte Amalie and just minutes from the Red Hook ferry terminal. The bay contains two distinct underwater habitats: rocky reef systems along the edges, with the healthiest coral and most diverse fish life on the eastern side of the beach, and a large seagrass meadow across the middle of the bay. Entry is gradual and easy from the beach, and a PADI-affiliated dive operation based at the on-site Sapphire Beach Resort and Marina runs beach and boat dives from this location. This update did not find a dive-specific source giving a maximum depth for certified diving here beyond the shallow, near-shore character described by snorkeling and resort sources, so the previously recorded 5-meter figure has been retained as consistent with that shallow profile rather than independently re-verified.
+Sapphire Beach is on St. Thomas's east end. The Sapphire Beach Resort page seen in this review mentions a beach dive shop renting kayaks and snorkeling equipment but does not mention scuba diving, names no operator, and gives no depths. No dive-specific source gave a maximum depth, entry details, or site description, so the 5-meter depth is retained only as a previously recorded value and is unverified. This listing is not marked validated.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Sapphire Beach sits on St. Thomas's eastern side, a short drive from Charlotte A
 
 ## Marine Life
 
-Sources describe vibrant coral reef with tropical fish, sea turtles, and rays near shore, and snappers, wrasses, anemones, and hermit crabs among the reef and grass beds. An earlier version of this page specified hawksbill turtles by species; no source consulted for this update confirms the turtle species seen here, so the description has been generalized to "sea turtles."
+No site-specific marine life reports were found. The regional fauna of the Virgin Islands applies, but no species are attributed to this site.
 
 ---
-*Sources: [Sapphire Beach Resort & Marina](https://www.usvisapphire.com/activities), [Snorkel and Hike](https://snorkelandhike.com/sapphire-beach-st-thomas-snorkeling/), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g147407-d148073-Reviews-Sapphire_Beach-East_End_St_Thomas_U_S_Virgin_Islands.html). Last updated 2026-07-08.*
+*Sources: [Sapphire Beach Resort & Marina](https://www.usvisapphire.com/activities). Last updated 2026-11-13.*

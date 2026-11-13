@@ -13,37 +13,25 @@ addedBy: osm_import
 
 ## Airport Caves
 
-Airport Caves is a cavern and swim-through dive site on the south side of Utila, accessible to beginners and well-regarded for its distinctive U-shaped cave structure and the play of natural light through multiple openings.
+Airport Caves is a south side reef swim-through with a U-shaped cavern.
 
 ## Overview
 
-Airport Caves features a beautiful U-shaped open cavern system with multiple entrances that allow sunlight to stream in from several directions, illuminating the interior in shifting beams. The site is not a true overhead-environment cave dive — all penetrations remain within the cavern zone with natural light visible — making it suitable for divers of all certification levels including Open Water. The wall outside the caves drops to around 40 ft (12 m) before giving way to a sandy floor sloping to 70 ft (21 m). The cave entry itself sits at approximately 15 ft (4.5 m).
+[We Dive Utila](https://www.wediveutila.com/utila-dive-sites) describes a reef wall to about 40 ft (12 m), a sandy floor sloping to about 70 ft (21 m), and an open, U-shaped cave at about 15 ft (4.5 m). [Scuba Diver Life](https://scubadiverlife.com/the-best-dive-sites-in-utila/) lists caverns and swim-throughs on the south side. Boat dive. Cavern environments restrict direct access to the surface; dive within your training.
 
 ## Marine Life
 
-The cavern structure shelters a variety of small creatures. Documented species include seahorses, toadfish, southern stingrays, and spotted eagle rays in the surrounding area. Hundreds of glassy sweepers (silversides) gather inside the caves, creating dense schools that part as divers enter. The sandy floor outside supports benthic species, and the walls host sponges and encrusting corals.
+Reported by We Dive Utila: seahorses, toadfish, stingrays and spotted eagle rays. Scuba Diver Life reports glassy sweepers.
 
 ## Dive Profile
 
-- **Cave entrance depth**: ~15 ft (4.5 m)
-- **Wall base**: ~40 ft (12 m)
-- **Sand channel maximum**: ~70 ft (21 m)
-- **Site character**: Cavern with ambient light throughout — not a dark cave penetration
-- **Current**: Generally mild on the south side
+- **Cave**: ~15 ft (4.5 m)
+- **Wall**: to ~40 ft (12 m)
+- **Sand**: to ~70 ft (21 m)
 
-## Entry / Exit
+## Notes
 
-Boat dive from Utila town. The south side location means calm conditions for most of the year, making this a reliable all-weather alternative when north side sites are wind-affected.
-
-## Tips
-
-- No specialist cave training required — the cavern stays well-lit throughout.
-- A torch or video light enhances visibility of small critters in overhangs and crevices.
-- The site pairs well with a second dive on the nearby reef or wreck sites.
-
-## Photography
-
-An excellent macro site — toadfish and seahorses in the sand, silversides schooling in the cave mouth with light shafts overhead. Wide-angle divers can shoot the cave silhouette backlit by openings.
+Claims about all-weather reliability, certification level suitability, southern stingrays specifically and sponge/coral cover were removed as unconfirmed.
 
 ---
-*Sources: [We Dive Utila – Dive Sites](https://www.wediveutila.com/utila-dive-sites), [Scuba Diver Life – Best Dive Sites in Utila](https://scubadiverlife.com/the-best-dive-sites-in-utila/), [DiveScover – Airport Caves](https://divescover.com/dive-site/airport-caves/25202). Last updated 2026-07-08 (re-audited: cavern character, glassy sweepers/silversides, and seahorse/toadfish/stingray/eagle ray claims re-confirmed; no corrections needed).*
+*Sources: [We Dive Utila](https://www.wediveutila.com/utila-dive-sites), [Scuba Diver Life](https://scubadiverlife.com/the-best-dive-sites-in-utila/). Last updated 2026-11-13.*

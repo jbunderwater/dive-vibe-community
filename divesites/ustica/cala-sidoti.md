@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Cala Sidoti
 
-Cala Sidoti is a reef dive site in Ustica, Europe.
+Cala Sidoti is a small black-pebble cove on Ustica's western side, known mainly as a snorkelling spot.
 
 ## Overview
 
-Cala Sidoti is a dark-pebble cove on Ustica's western side, lying within Zone A of Italy's oldest Marine Protected Area (the integral reserve, where fishing has been prohibited since 1986 and bathing is restricted to Cala Sidoti and Cala Acquario). The shallow volcanic reef barely exceeds 10 metres, making it one of the island's best shore entries for snorkelers and newer divers, with crystal-clear water and permanent populations of grouper, wrasse, and damselfish that have grown habituated to divers over decades of protection. No site-specific marine life survey beyond this general reserve population was found from independent sources.
+Spiagge.it describes Cala Sidoti as a narrow cove of black pebbles on the western side of Ustica, near Punta Spalmatore, with shallow, very clear water, no facilities, and a rock that rises about 200 metres offshore. It lies in Zone A of the marine reserve, where swimming and snorkelling are permitted only inside the cove; collecting organisms and fishing are prohibited. The article does not mention scuba diving, and no operator or database source was found describing a dive here, so earlier claims about a 10 m reef, night diving and diver-habituated fish could not be confirmed. Anyone planning to dive should confirm with the reserve and a licensed operator whether scuba is permitted. Spiagge.it names sea tomatoes (Actinia), ornate wrasse, Posidonia meadows, molluscs and crustaceans for the cove. Depth and difficulty shown below are unverified placeholders.
 
 ## Site Information
 
-- **Location**: Ustica, Europe
+- **Location**: Ustica, Europe (western side)
 - **Entry Type**: Shore entry
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
 
 ---
-*Sources: [Mister Jump - Ustica](https://www.misterjump.it/en/ustica), [Evasioni Blu Diving - AMP Ustica](https://www.evasionibludiving.com/eng/245-amp-ustica.asp), [PADI - Diving Ustica](https://www.padi.com/diving-in/italy/ustica/). Last updated 2026-07-08.*
+*Sources: [Spiagge.it - Cala Sidoti](https://www.spiagge.it/magazine/cala-sidoti/). No dive-specific sources found. Last updated 2026-11-13.*

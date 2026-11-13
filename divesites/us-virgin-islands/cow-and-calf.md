@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Cow and Calf
 
-Cow and Calf Rocks are twin coral-covered rock outcroppings off St. Thomas's south coast, laced with swim-through tunnels, ledges, and small caves.
+Cow and Calf are two rocks off St. Thomas joined underwater by swim-through tunnels, archways, and caves.
 
 ## Overview
 
-Cow and Calf sit off the southeast coast of St. Thomas, where two rock formations break the surface — the larger "Cow" and the smaller "Calf" — connected underwater by a maze of swim-through tunnels, archways, and small caves. Depth tops out around 12 meters (40 feet), and visibility is typically excellent, which along with the shallow, low-current profile makes this a popular site for introductory dives and open-water certifications. According to dive-tourism sources, local lore holds that the rocks got their name from whalers who mistook the two outcroppings for a whale cow and calf — presented here as repeated local lore rather than a documented historical record. One notable swim-through, nicknamed the "champagne cork," can push divers up through a narrow chute on days with surge or wave action.
+Virgin Islands Charter Yachts describes twin rocks breaking the surface, connected by swim-through tunnels, archways, and caves, with ledges and canyons, in about 40 feet (12 meters) of water. PADI lists it as a boat-accessed reef dive in protected waters within a marine preserve, and Visit USVI rates it beginner to intermediate. The name is said to come from the rocks resembling a whale and her calf (Virgin Islands Charter Yachts). Visit USVI mentions a feature called the Champagne Cork that pops divers up into a staghorn coral reef.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Cow and Calf sit off the southeast coast of St. Thomas, where two rock formation
 
 ## Marine Life
 
-Sources describe an abundance of fish, turtles, lobsters, rays, and sharks at Cow and Calf without naming specific species tied to this exact site, so that general characterization is used here. An earlier version of this page named specific species (queen angelfish, parrotfish, blue tangs, blue chromis) that no source consulted for this update could confirm as sightings at this particular site; they have been removed rather than carried forward unverified.
+St. Thomas Scuba Diving (JJ Divers) lists soft and hard corals, schools of jacks and spadefish, and hawksbill turtles. Visit USVI lists nurse and reef sharks, sea turtles, stingrays, moray eels, and lobsters; PADI gives a general abundance of fish, turtles, lobsters, rays, and sharks.
 
 ---
-*Sources: [Virgin Islands Charter Yachts](https://www.virgin-islands-charter-yachts.com/US_Virgin_Islands/St_Thomas_Cow_and_Calf_Rocks_dive_site.html), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g147404-d149950-Reviews-Cow_and_Calf_Rocks-St_Thomas_U_S_Virgin_Islands.html), [PADI Dive Site - Cow Rock](https://www.padi.com/dive-site/united-states-virgin-islands/cow-rock/). Last updated 2026-07-08.*
+*Sources: [Virgin Islands Charter Yachts](https://www.virgin-islands-charter-yachts.com/US_Virgin_Islands/St_Thomas_Cow_and_Calf_Rocks_dive_site.html), [PADI Dive Site - Cow Rock](https://www.padi.com/dive-site/united-states-virgin-islands/cow-rock/), [St. Thomas Scuba Diving (JJ Divers)](https://www.stthomasscubadiving.com/st-thomas-diving/st-thomas-dive-sites/), [Visit USVI - St. Thomas Diving](https://www.visitusvi.com/experience/scuba-diving-st-thomas/). Last updated 2026-11-13.*

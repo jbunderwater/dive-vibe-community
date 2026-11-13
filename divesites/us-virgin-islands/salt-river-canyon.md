@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Salt River Canyon
 
-Salt River Canyon is a submerged canyon on St. Croix's north shore — the site where Columbus is said to have anchored in 1493 — split into an East Wall and West Wall by a chasm thousands of feet deep.
+Salt River Canyon is a boat-accessed wall system on St. Croix's north shore with an East Wall and a West Wall.
 
 ## Overview
 
-Salt River Canyon's East Wall (also called Barracuda Bank) has a mooring at about 12 meters (40 feet); from there the wall slopes down through sand chutes between hard-coral formations to around 24 meters (80 feet), where it drops off into open water. The West Wall — nicknamed "The Pinnacles" for rock formations believed to have been shaped by an ancient, above-ground waterfall — has a shallower mooring around 6 meters (20 feet) but plunges in stages to 60 meters, then 150 meters, and eventually thousands of feet down the canyon face. The Pinnacles' maze of swim-throughs, cuts, ledges, overhangs, and sand chutes is considered one of the more distinctive dive topographies in the Caribbean, and the West Wall is reportedly the most-requested boat dive on St. Croix.
+GoToStCroix describes the East Wall as moored at about 40 feet (12 meters), sloping to about 80 feet (24 meters) through sand chutes between hard-coral formations before dropping into deep water; Villa Margarita also gives a 40-foot mooring and calls it the fishiest dive on the north shore. The West Wall, also called The Pinnacles, is moored at about 20 feet (6 meters) and drops to about 200 feet, 500 feet, and thousands of feet; GoToStCroix and Villa Margarita both describe swim-throughs, cuts, ledges, overhangs, and sand chutes, and the former calls it the most requested boat dive on St. Croix. GoToStCroix notes surge and current near the corner where the wall turns into the canyon. Only two independent sources were found for this listing, so it is not marked validated.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Salt River Canyon's East Wall (also called Barracuda Bank) has a mooring at abou
 
 ## Marine Life
 
-The East Wall holds large schools of black durgon, yellowtail snapper, soldierfish, and striped grunt over its hard-coral formations, with blacktip reef sharks and large spotted eagle rays commonly seen where the wall drops into open water, plus moray eels, barracuda, angelfish, parrotfish, lobster, and conch. The West Wall's Pinnacles draw rays gliding among the rock formations, reef fish sheltering under ledges, and jacks, grouper, permit, barracuda, and occasional sharks in the deeper sections. This update did not find a site-specific source confirming hammerhead sharks here, so that claim from an earlier version has been removed.
+For the East Wall, GoToStCroix lists black durgon, yellowtail snapper, soldierfish, and striped grunts at 40-80 feet, with blacktip reef sharks and large spotted eagle rays deeper, plus moray eels, barracuda, angelfish, parrotfish, lobster, conch, and hammerhead sharks; Villa Margarita lists snapper, horse-eye jacks, striped grunts, groupers, parrotfish, angelfish, spotted eagle rays, and occasional reef sharks. For the West Wall, both sources list rays, creole wrasse, black durgon or squirrelfish, jacks, grouper, permit, barracuda, and sharks in deeper water.
 
 ---
-*Sources: [GoToStCroix - Salt River Canyon Sites](https://www.gotostcroix.com/st-croix-blog/dive-the-salt-river-canyon-sites/), [PADI - Salt River Outer West Wall](https://www.padi.com/dive-site/united-states-virgin-islands/salt-river-outer-west-wall/), [Scuba Diving Magazine - Walled In](https://www.scubadiving.com/walled). Last updated 2026-07-08.*
+*Sources: [GoToStCroix - Salt River Canyon Sites](https://www.gotostcroix.com/st-croix-blog/dive-the-salt-river-canyon-sites/), [GoToStCroix - West Wall](https://www.gotostcroix.com/st-croix-dive-sites/salt-river-canyon-west-wall-grouper-grotto/), [Villa Margarita](https://villamargarita.com/st-croix-dive-sites-us-virgin-islands/). Last updated 2026-11-13.*

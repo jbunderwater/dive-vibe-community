@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Coral World
 
-Coral World is a shallow fringing reef off Coki Beach on St. Thomas's northeast coast, run as a guided shore dive out of the adjacent Coral World Ocean Park.
+This shore dive off Coki Beach, next to Coral World Ocean Park on St. Thomas's east end, has beach entry onto two reefs.
 
 ## Overview
 
-The dive site sits next to Coki Beach and Coral World Ocean Park on St. Thomas's northeast side, near Smith Bay. Divers gear up at a station just a short walk from the water and enter directly from the sand into calm, typically clear conditions. A PADI-affiliated dive operation at Coki Beach runs guided reef tours of roughly 50-60 minutes; certified divers can reach a maximum depth of about 17 meters (55 feet), while introductory "discover scuba" dives for uncertified visitors stay closer to 12 meters (40 feet). An earlier version of this page listed the site's maximum depth as 6 meters, which understated the site; that figure has been corrected.
+St. Thomas Scuba Diving describes two reefs in 40 to 50 feet of water at Coki, with calm, clear conditions, beach entry with no surface swim, and suitability for beginners and night dives. PADI lists the site (as Coki Beach) with two reefs in front of the beach, shore entry starting a few feet from the water's edge, and a maximum depth listed as 20-55 feet, though another PADI listing gives 16 feet. A dive-operator listing seen in search results gives up to 60 feet on the east side. The 17 meter maximum here is therefore the upper end of a reported range of roughly 12 to 18 meters.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ The dive site sits next to Coki Beach and Coral World Ocean Park on St. Thomas's
 
 ## Marine Life
 
-Guided tours at this site report eels, rays, lobsters, turtles, and barracuda. No source consulted for this update named specific fish species (e.g., spotted drums, queen angelfish) as sightings at this exact site, so the more general species list above replaces the more specific — but unconfirmed — list from an earlier version of this page.
+PADI lists eels, stingrays, and octopus, with grouper, seahorse, goatfish, trumpetfish, angelfish, snapper, parrotfish, barracuda, and stonefish as common sightings at Coki Beach. Visit USVI only mentions reefs and tropical fish.
 
 ---
-*Sources: [Shore Excursions Group](https://www.shoreexcursionsgroup.com/tour/st-thomas-beach-dive/castcdcontkbc), [Caribba Connect](https://caribbaconnect.com/st-thomas-virgin-islands/tour-profile/148/coki-beach-scuba-dive-in-st-thomas/), [PADI - Diving in St. Thomas](https://www.padi.com/diving-in/st-thomas/). Last updated 2026-07-08.*
+*Sources: [St. Thomas Scuba Diving (JJ Divers)](https://www.stthomasscubadiving.com/st-thomas-diving/st-thomas-dive-sites/), [PADI Dive Site - Coki Beach](https://www.padi.com/dive-site/united-states-virgin-islands/coki-beach-2/), [Visit USVI - St. Thomas Diving](https://www.visitusvi.com/experience/scuba-diving-st-thomas/). Last updated 2026-11-13.*

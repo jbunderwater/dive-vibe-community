@@ -3,7 +3,7 @@ name: Black Forest
 lat: 21.85
 lng: -72.3
 difficulty: Intermediate
-maxDepth: 24
+maxDepth: 33
 entryType: boat
 siteType: wall
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Black Forest
 
-Black Forest is a wall dive site in Turks and Caicos, Caribbean.
+Black Forest, also listed as Black Coral Forest, is a Northwest Point wall dive known for black coral.
 
 ## Overview
 
-Black Forest — also listed by operators as Black Coral Forest — is a Northwest Point wall dive where the reef starts at 45ft (13.7m) and drops to a ledge around 200ft (61m) to the south. Average diving depth is about 65ft (19.8m) with a recreational maximum near 110ft (33.5m). The wall here is home to black corals and schools of fish, and is rated for intermediate to experienced divers, with visibility typically 32-98ft (10-30m) and mild currents.
+Xtreme Spots describes a wall reef starting at about 45ft (13.7m) and dropping to a ledge around 200ft (61m) to the south, with an average dive depth of about 65ft (19.8m), a maximum near 110ft (33.5m), visibility of 10-30m and currents described as not strong; it is recommended for intermediate and experienced divers. Dive the World instead describes an overhang at 70-90ft (21-27m) filled with black coral (pinnate and wire), with gorgonian fans and plate coral. Times of the Islands lists Black Coral Forest among the well-known dive sites of Northwest Point Marine National Park.
 
 ## Site Information
 
@@ -25,11 +25,11 @@ Black Forest — also listed by operators as Black Coral Forest — is a Northwe
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 24 meters
+- **Maximum Depth**: 33 meters
 
 ## Marine Life
 
-Sources confirm Caribbean reef sharks, oceanic triggerfish, and spotted eagle rays are regularly hosted at this site, alongside parrotfish, Caribbean sharpnose puffer, and queen triggerfish along the black-coral-draped wall. Re-audit note: sea turtles, groupers, moray eels, and crustaceans-in-coral-nooks from the prior description could not be confirmed against sources for this update and have been removed.
+Xtreme Spots lists schools of fish, parrotfish, Caribbean sharpnose puffer and queen triggerfish. Dive the World lists grunts, parrotfish, turtles, groupers and moray eels for the site. An earlier version of this page named reef sharks and eagle rays; no consulted source confirms those here, so they were removed.
 
 ---
-*Sources: [Xtreme Spots - Black Coral Forest](https://www.xtremespots.com/water-sports/scuba-diving/black-coral-forest-providenciales-turks-and-caicos-islands/), [Original Diving - Deep Water Diving in the Turks and Caicos](https://www.originaldiving.com/collections/deep-water-diving-in-the-turks-and-caicos), [Times of the Islands - Wild, Wild Northwest](https://www.timespub.tc/2011/03/wild-wild-northwest/). Last updated 2026-07-07.*
+*Sources: [Xtreme Spots - Black Coral Forest](https://www.xtremespots.com/water-sports/scuba-diving/black-coral-forest-providenciales-turks-and-caicos-islands/), [Dive the World - Turks and Caicos dive sites](https://www.dive-the-world.com/diving-sites-turks-and-caicos-islands.php), [Times of the Islands - Wild, Wild Northwest](https://www.timespub.tc/2011/03/wild-wild-northwest/). Last updated 2026-11-13.*

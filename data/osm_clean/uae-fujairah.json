@@ -6,15 +6,16 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 16,
-    "site_type": "wall",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "freestyledivers.me,chloebluescubadiving.com,moccae.gov.ae,nemodivingcenter.com,scubago.com",
-      "last_qa_date": "2026-07-07"
+      "validation_source": "nemodivingcenter.com,freestyledivers.me,thenationalnews.com,diveplannerpro.com,gulfnews.com,undercurrent.org",
+      "last_qa_date": "2026-11-13",
+      "note": "Type changed wall->reef: operator and listing sources describe a reef/coral slope around a small island; only thenationalnews.com describes a steep wall on part of the seaward side. Depth sources: 13m (undercurrent.org, 42ft), 14m (thenationalnews.com), 16m (freestyledivers.me, tide-dependent)."
     }
   },
   {
@@ -23,7 +24,7 @@
     "lon": 56.3583,
     "osm_id": null,
     "osm_type": null,
-    "depth": 12,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
@@ -31,14 +32,15 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "nemodivingcenter.com,sharkdiversuae.com,divesandy.com,bayut.com",
-      "last_qa_date": "2026-07-07"
+      "validation_source": "nemodivingcenter.com,sharkdiversuae.com,divesandy.com,diveplannerpro.com,padi.com",
+      "last_qa_date": "2026-11-13",
+      "note": "Depth sources: 5-8m dive range (divesandy.com), 5-15m (nemodivingcenter.com). Max depth set to upper reported value."
     }
   },
   {
     "name": "Shark Island Fujairah",
-    "lat": 25.5,
-    "lon": 56.3667,
+    "lat": 25.3521,
+    "lon": 56.3788,
     "osm_id": null,
     "osm_type": null,
     "depth": 14,
@@ -49,17 +51,18 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "padi.com,nemodivingcenter.com,moccae.gov.ae,gulfnews.com,coralcreekdiving.com",
-      "last_qa_date": "2026-07-07"
+      "validation_source": "nemodivingcenter.com,padi.com,diveplannerpro.com,gulfnews.com,visitsharjah.com",
+      "last_qa_date": "2026-11-13",
+      "note": "Coordinates corrected from 25.5,56.3667 (Al Aqah area) to Khor Fakkan Bay per padi.com (25.35207,56.37852) and visitsharjah.com (25.3511,56.3774). Depth sources: 14m (padi.com), 15m (nemodivingcenter.com)."
     }
   },
   {
     "name": "Martini Rock",
-    "lat": 25.6083,
-    "lon": 56.275,
+    "lat": 25.3355,
+    "lon": 56.3815,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
+    "depth": 19,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -67,8 +70,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "padi.com,moccae.gov.ae,coralcreekdiving.com,visitsharjah.com",
-      "last_qa_date": "2026-07-07"
+      "validation_source": "padi.com,diveplannerpro.com,visitsharjah.com",
+      "last_qa_date": "2026-11-13",
+      "note": "Coordinates corrected from 25.6083,56.275 (Dibba area) to Khor Fakkan per padi.com (25.33553,56.38145) and visitsharjah.com (25.3344,56.3814). Depth per padi.com 12-19m. Sources differ on structure: two pinnacles (padi.com) vs single large rock (diveplannerpro.com)."
     }
   },
   {
@@ -85,14 +89,15 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "nemodivingcenter.com,uae.greatestdivesites.com,evendo.com,sharjahmarine.ae",
-      "last_qa_date": "2026-07-07"
+      "validation_source": "nemodivingcenter.com,divecampus.com,gulfnews.com,undercurrent.org",
+      "last_qa_date": "2026-11-13",
+      "note": "Depth sources: ~15m/50ft (undercurrent.org), 16-18m (nemodivingcenter.com). Vehicle count sources differ; coordinates not independently verified (nemodivingcenter.com places it ~4 nautical miles from Khor Fakkan port)."
     }
   },
   {
     "name": "Inchcape 1",
-    "lat": 25.5833,
-    "lon": 56.2917,
+    "lat": 25.5101,
+    "lon": 56.3774,
     "osm_id": null,
     "osm_type": null,
     "depth": 32,
@@ -103,18 +108,18 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "nemodivingcenter.com,khaleejtimes.com,padi.com,coralcreekdiving.com",
-      "last_qa_date": "2026-07-07",
-      "note": "Sources report hull/seabed depth between 30m (nemodivingcenter.com, padi.com) and 32m (khaleejtimes.com)"
+      "validation_source": "nemodivingcenter.com,padi.com,gcaptain.com,khaleejtimes.com,thenationalnews.com",
+      "last_qa_date": "2026-11-13",
+      "note": "Coordinates corrected to padi.com value (25.51007,56.37737), off Al Aqah. Depth sources: 30m (nemodivingcenter.com, gcaptain.com), 31m (padi.com), 32m (khaleejtimes.com). Length sources: 20m (gcaptain.com, thenationalnews.com) vs 18m (padi.com)."
     }
   },
   {
     "name": "Inchcape 2",
-    "lat": 25.575,
-    "lon": 56.3,
+    "lat": 25.3384,
+    "lon": 56.3807,
     "osm_id": null,
     "osm_type": null,
-    "depth": 24,
+    "depth": 23,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -122,9 +127,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "nemodivingcenter.com,khaleejtimes.com,coralcreekdiving.com,divesandybeach.com",
-      "last_qa_date": "2026-07-07",
-      "note": "Sources report depth ranging from about 17m to 24m depending on section of wreck"
+      "validation_source": "nemodivingcenter.com,khaleejtimes.com,padi.com",
+      "last_qa_date": "2026-11-13",
+      "note": "Coordinates corrected to padi.com value (25.33838,56.38068), opposite Martini Wall. Depth sources: 17-23m (nemodivingcenter.com), ~22m (khaleejtimes.com), 18-21m (padi.com). Length and tonnage not found in any source."
     }
   },
   {
@@ -133,7 +138,7 @@
     "lon": 56.3333,
     "osm_id": null,
     "osm_type": null,
-    "depth": 14,
+    "depth": 15,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -141,8 +146,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "padi.com,coralcreekdiving.com,nemodivingcenter.com,divesandybeach.com",
-      "last_qa_date": "2026-07-07"
+      "validation_source": "nemodivingcenter.com,thenationalnews.com,diveplannerpro.com,divecampus.com",
+      "last_qa_date": "2026-11-13",
+      "note": "Depth sources: <=10m (diveplannerpro.com), 5-13m (thenationalnews.com), 12-15m (nemodivingcenter.com). Entry conflict: boat per most listings, diveplannerpro.com says reachable from the beach."
     }
   }
 ]

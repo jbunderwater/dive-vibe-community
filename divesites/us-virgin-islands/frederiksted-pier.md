@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Frederiksted Pier
 
-Frederiksted Pier is one of the Caribbean's premier macro and muck dive sites: a working pier on St. Croix's west coast where sponge-covered pilings rise from an open sandy bottom.
+Frederiksted Pier is a shore-accessible pier dive on St. Croix's west coast where the pilings, dolphins, and old concrete slabs host macro life.
 
 ## Overview
 
-The seabed around Frederiksted Pier is mostly open sand, so nearly all of the marine life congregates on the pier's pilings, which are encrusted with sponges and soft corals from the waterline down. Most of the dive takes place in 14 meters (45 feet) or less, though the pier extends out to roughly 27 meters (90 feet) at its far end for divers who want to go deeper. Entry and exit are an easy shore dive, and the site is accessible around the clock except when a cruise ship is docked. Because the surrounding bottom is sand rather than coral reef, this listing has been reclassified from "reef" to "muck/macro" to match how dive operators and guides actually describe it.
+Operators describe pilings and old dolphin structures covered in sponges, corals, hydroids and gorgonians, with sand and rubble between them. PADI reports most of the pier lies in 45 feet (14 meters) or less, with the far end dropping to roughly 90 feet (27 meters); GoToStCroix agrees on 90 feet at the far end and a roughly 25-foot average, and California Diver says divers rarely go deeper than 25 feet. California Diver gives the pier's length as 1,526 feet and PADI notes the original pier was destroyed by Hurricane Hugo in 1989, with concrete slabs from it now holding sponges. Entry is by giant stride off the pier or from the shore. GoToStCroix says the pier cannot be dived when a cruise ship or military vessel is docked, and PADI notes that the far end needs a surface swim back, so watch air and bottom time. The site is also dived at night (GoToStCroix, Villa Margarita). It is listed as a muck/macro site because the interest lies in small animals on structure and sand rather than coral reef.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ The seabed around Frederiksted Pier is mostly open sand, so nearly all of the ma
 
 ## Marine Life
 
-Seahorses clinging to the sponge-covered pilings are the site's signature sighting, along with scorpionfish, octopus dens, flounder buried in the sand, and heart urchins. This update did not find a site-specific source naming frogfish or flying gurnards at this exact site (both appeared in a prior version of this page), so they have been removed rather than carried forward unverified.
+Longsnout seahorses (California Diver, GoToStCroix, PADI, Villa Margarita) are a repeated sighting. GoToStCroix and PADI both list frogfish, octopus, scorpionfish, sea turtles, and trumpetfish or related species; PADI also lists flying gurnards, red-lipped batfish, peacock flounder, and burrowing heart urchins, and California Diver lists squat anemone shrimp, banded coral shrimp, spotted cleaner shrimp, and arrow crabs. GoToStCroix adds tarpon and eels at night.
 
 ---
-*Sources: [GoToStCroix - Frederiksted Pier](https://www.gotostcroix.com/st-croix-dive-sites/the-frederiksted-pier/), [California Diver Magazine](https://californiadiver.com/diving-st-croixs-frederiksted-pier-128/), [PADI Dive Site](https://www.padi.com/dive-site/united-states-virgin-islands/frederiksted-pier/). Last updated 2026-07-08.*
+*Sources: [GoToStCroix - Frederiksted Pier](https://www.gotostcroix.com/st-croix-dive-sites/the-frederiksted-pier/), [California Diver Magazine](https://californiadiver.com/diving-st-croixs-frederiksted-pier-128/), [PADI Dive Site](https://www.padi.com/dive-site/united-states-virgin-islands/frederiksted-pier/), [Villa Margarita](https://villamargarita.com/st-croix-dive-sites-us-virgin-islands/). Last updated 2026-11-13.*

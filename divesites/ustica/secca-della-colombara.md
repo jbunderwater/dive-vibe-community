@@ -13,25 +13,25 @@ addedBy: osm_import
 
 ## Secca della Colombara
 
-Secca della Colombara is a pinnacle dive site approximately 3 miles off Ustica's northeastern coast in the Tyrrhenian Sea.
+Secca della Colombara is a shoal and pinnacle dive site off Ustica's north coast in the Tyrrhenian Sea.
 
 ## Overview
 
-Secca della Colombara is what remains of one of the volcanic cones that formed Ustica, rising from 50 metres to a cap of just 3 metres. At the drop-off, a vertical wall of columnar basalt descends sharply to around 30 metres on the western side, where the wall meets an elongated platform extending to 15-20 metres on the north. The site regularly attracts large schools of Mediterranean barracuda (Sphyraena viridensis), amberjack, dusky groupers, snappers, and tuna.
+The Secca della Colombara is the remnant of a volcanic cone whose summit comes within about 3 metres of the surface, which makes it a navigational hazard (Centro Studi Ustica; Mister Jump; Viaggi per Sub). Sources describe its distance from the north coast differently: about one mile (Centro Studi Ustica), about 500 metres (Lustrica Diving). Listed depths vary: Mister Jump gives 5-40 m with walls to about 25-30 m and a plateau at 30 m, Viaggi per Sub says walls reach 42 m, Scuba Travel gives 43 m, and Orca Diving Ustica lists 0-30 m. Operators describe a steep, colourful wall with orange Astroides coral and gorgonians (Orca places red gorgonians at about 35 m).
 
-**Wreck of the ITA (re-verified 2026-07-08):** The shoal features the wreck of the motor vessel ITA, a Panamanian-flagged ship carrying a cargo of marble blocks and bound for Greece, which ran aground here on 21 February 2005 and broke into a bow and stern section — the bow toward the north side of the shoal, the stern further away to the southeast. The grounding also risked an environmental incident, since the ship's hold held roughly 20 tonnes of diesel fuel, inside what is Italy's first Marine Protected Area. The vessel name, flag, cargo, sinking cause, and date are each corroborated by the local news archive Ustica Sape together with two dive-operator sites (Evasioni Blu Diving, Lustrica Diving).
+Species reported at this specific site by several operators include Mediterranean barracuda, greater amberjack, groupers, dentex, moray and conger eels, and orange Astroides coral (Orca Diving Ustica, Mister Jump, Lustrica Diving, Scuba Travel, Scubaportal).
 
-Sources disagree on the depth of the wreck itself: Evasioni Blu Diving and Lustrica Diving place the sections at 24-26 metres, while other accounts (Scuba Travel, and search results attributed to Divernet) put it closer to 20 metres. One source describes the vessel as approximately 74 metres long; this figure could not be independently corroborated elsewhere, so it should be treated with caution rather than as fact. Marble cargo blocks lie scattered around both sections, and unicorn shrimps (Plesionika narval) have been documented inside the wreck.
+**The wreck of the ITA.** The shoal is the site of the motor ship ITA, described by the Centro Studi Ustica as a Turkish motor ship flying the Panamanian flag and carrying marble, which ran aground on the shoal on 21 February 2005. Mister Jump and Viaggi per Sub independently give the same date, the Panamanian flag, and a marble cargo (Viaggi per Sub: marble slabs). Sources agree it lies in two sections but disagree on details: Scuba Travel and Tribloo give a length of about 74 metres, while the other sources consulted give no length (a 350 m figure on Orca's page refers to the dive route, not the ship). Reported wreck depth varies: about 20 m (Scuba Travel, Tribloo), 24-26 m (Profondo Blu Diving), 24 m (Viaggi per Sub), about 27 m (Scubaportal), and about 30 m (Divernet). Orca Diving Ustica says the ship capsized and sank after striking the shoal, while the other sources describe a grounding followed by breakup; no source consulted gives a build date or tonnage, and no Wikipedia article on the wreck was found, so these are omitted. Profondo Blu Diving notes that it is not a proper wreck dive and cautions against swimming close to the structure.
 
-The combination of the volcanic pinnacle and the accessible wreck makes this one of the most varied dives in the Ustica area, though the open-water location and depth require advanced certification.
+Depth and open-water exposure mean the dive is better suited to experienced divers, although some operators rate it as open to all levels.
 
 ## Site Information
 
-- **Location**: Ustica, Europe (~3 miles northeast of the island)
+- **Location**: Ustica, Europe (north of the island)
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 
 ---
-*Sources: [Evasioni Blu Diving - Secca della Colombara](https://www.evasionibludiving.com/eng/200-secca-della-colombara.asp), [Lustrica Diving - Secca della Colombara](https://www.lustricadiving.it/dives/secca-della-colombara/?lang=en), [Ustica Sape - Nave ITA sulla secca della Colombara](https://www.usticasape.it/ustica-nave-ita-diretta-in-grecia-arenata-sulla-secca-della-colombara/), [SCUBA Travel - Ustica Dive Guide](https://www.scubatravel.co.uk/italy/usticadive.html). Last updated 2026-07-08.*
+*Sources: [Centro Studi Ustica - Lettera 58 (2020)](https://www.centrostudiustica.it/images/PDF/pdf-copertine-rivista-lettera/Lettera-N.-58-dicembre-2020/L58_NATU_EdenSub_Grancagnolo.pdf), [Mister Jump - Secca della Colombara](https://www.misterjump.it/immersioni-ustica/secca-della-colombara), [Viaggi per Sub - Secca della Colombara](https://www.viaggipersub.it/italia/secca-della-colombara-ustica/), [Profondo Blu Diving - Ustica Essentials](https://profondobludiving.com/content/ustica-essentials.html), [SCUBA Travel - Ustica Dive Guide](https://www.scubatravel.co.uk/italy/usticadive.html), [Tribloo - Secca della Columbara](https://www.tribloo.com/index.php/en/dive-sites/473/secca-della-columbara.html), [Orca Diving Ustica - Secca della Colombara](https://www.orcadivingustica.com/en/dive-sites/secca-della-colombara), [Divernet - Ustica: Sicily's Diving Jewel](https://divernet.com/world-dives/europe/ustica-sicilys-diving-jewel/), [Lustrica Diving - Secca della Colombara](https://www.lustricadiving.it/dives/secca-della-colombara/?lang=en), [Scubaportal - Ustica (Barracuda Diving)](https://scubaportal.it/?p=2664). Last updated 2026-11-13.*

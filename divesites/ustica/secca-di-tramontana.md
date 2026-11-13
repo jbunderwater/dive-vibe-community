@@ -32,4 +32,4 @@ Because the underlying facts cannot currently be verified, this entry has been u
 - **Maximum Depth**: 30 meters
 
 ---
-*No site-specific sources could be found or reconfirmed for this entry as of 2026-07-08. Previously cited sources (scubatravel.co.uk, divernet.com, misterjump.it) do not contain corroborating content on re-fetch. Flagged for further research or removal. Last updated 2026-07-08.*
+*No site-specific sources could be found or reconfirmed for this entry as of 2026-11-13 (re-checked Orca Diving Ustica, Mister Jump, Scubaportal, Scuba Travel, Profondo Blu Diving). Previously cited sources (scubatravel.co.uk, divernet.com, misterjump.it) do not contain corroborating content on re-fetch. Flagged for further research or removal. Last updated 2026-11-13.*

@@ -2,7 +2,7 @@
 name: Scoglio del Medico
 lat: 38.7
 lng: 13.2
-difficulty: Advanced
+difficulty: Intermediate
 maxDepth: 35
 entryType: boat
 siteType: cave
@@ -13,21 +13,21 @@ addedBy: osm_import
 
 ## Scoglio del Medico
 
-Scoglio del Medico (Doctor's Rock) is an offshore rock on Ustica's northwestern coast, widely considered the most celebrated dive site on the island.
+Scoglio del Medico (Doctor's Rock) is an offshore rock off Ustica's northwestern coast, described by Orca Diving Ustica as the gem of Ustica diving.
 
 ## Overview
 
-Rising from the open sea beyond the protected Marine Protected Area no-take zone, Scoglio del Medico offers a complex underwater landscape of caves, arches, canyons, and two deep cracks in the rocky platform. The principal feature is the Grotta della Balena (Whale Cave) on the southern side, named for its large whale-mouth-shaped entrance. The cave entrance sits at approximately 20 metres depth, with two openings on opposite sides — the smaller at 7-8 metres depth and a larger, more luminous entrance. Sources disagree on the cavern's total length: Evasioni Blu Diving describes it as approximately 40 metres, while Scuba Travel and Divernet describe it as closer to 70 metres. Inside, the vault and boulders are encrusted with yellow, orange, and pink sponges, and a striped grouper and hake are noted residents.
+The rock lies a few hundred metres offshore near the edge of the integral reserve (Mister Jump) and about 500 metres from shore (Scubaportal). It offers a classic outer route, a more demanding route through arches (Mister Jump places the arches at 30-45 m), canyons, vertical fissures, and cave dives. The best-known feature is the Grotta della Balena (Whale Cave), whose opening resembles a whale's mouth (Divernet). Orca Diving Ustica and Scuba Travel place a tunnel or cavern at about 20 metres and about 70 metres long; Scubaportal places a large cave at about 15 m; Mister Jump limits penetrations of La Balena to 26 m and gives no length. Orca also reports a small canyon about 60 metres long. Depth ranges differ: 0-30 m (Orca), to 30 m (Scuba Travel), 20-35 m (Mister Jump). Orca suggests less advanced divers stay in the area facing the island at no more than 30 metres. Cave and tunnel penetration requires appropriate training and equipment.
 
-The site operates within the recreational depth range of 10-35 metres. Confirmed marine life includes dusky groupers, striped groupers, amberjack, sea bream, barracuda, tuna (occasionally), hake, blue runner, spider crab, cowry shells, pencil sea urchin, nudibranchs, juvenile lobsters, scorpionfish, and blennies.
+Species reported at this site include brown, red and golden groupers, Mediterranean barracuda, greater amberjack, dentex, sea bream, banded seabream, the bryozoan Reteporella grimaldii (Orca), the yellow zoanthid Parazoanthus axinellae (Scuba Travel), and, per Divernet, scorpionfish, crabs, nudibranchs and a group of groupers inside a smaller cavern. Scubaportal reports cuttlefish in the cave. Sources: Orca Diving Ustica, Mister Jump, Scuba Travel, Divernet, Scubaportal, Centro Studi Ustica. An earlier 40 m cavern-length figure attributed to Evasioni Blu Diving could not be re-checked (page returned an access error) and was removed.
 
 ## Site Information
 
 - **Location**: Ustica, Europe (northwestern coast)
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Advanced
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
 
 ---
-*Sources: [Evasioni Blu Diving - Scoglio del Medico](https://www.evasionibludiving.com/eng/199-scoglio-del-medico.asp), [SCUBA Travel - Ustica Dive Guide](https://www.scubatravel.co.uk/italy/usticadive.html), [Divernet - Ustica: Sicily's Diving Jewel](https://divernet.com/world-dives/europe/ustica-sicilys-diving-jewel/). Last updated 2026-07-08.*
+*Sources: [Orca Diving Ustica - Scoglio del Medico](https://www.orcadivingustica.com/en/dive-sites/scoglio-del-medico), [SCUBA Travel - Ustica Dive Guide](https://www.scubatravel.co.uk/italy/usticadive.html), [Mister Jump - Scoglio del Medico](https://www.misterjump.it/immersioni-ustica/scoglio-del-medico), [Divernet - Ustica: Sicily's Diving Jewel](https://divernet.com/world-dives/europe/ustica-sicilys-diving-jewel/), [Scubaportal - Ustica (Barracuda Diving)](https://scubaportal.it/?p=2664), [Centro Studi Ustica - Lettera 58 (2020)](https://www.centrostudiustica.it/images/PDF/pdf-copertine-rivista-lettera/Lettera-N.-58-dicembre-2020/L58_NATU_EdenSub_Grancagnolo.pdf). Last updated 2026-11-13.*

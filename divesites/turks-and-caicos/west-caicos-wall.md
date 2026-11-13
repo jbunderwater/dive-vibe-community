@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## West Caicos Wall
 
-West Caicos Wall is a wall dive site in Turks and Caicos, Caribbean.
+West Caicos Wall covers the wall dives off uninhabited West Caicos, inside West Caicos Marine National Park.
 
 ## Overview
 
-West Caicos Wall is a roughly six-mile wall running along the western shoreline of uninhabited West Caicos, within the 981-acre West Caicos Marine National Park. The wall's shallowest points sit around 12m, with recreational dives typically reaching about 30m. One well-known section, "Driveway," has a sand area with scattered coral heads at around 40ft leading into a sand chute that drops through the reef to a ledge at 80-100ft, where the wall falls vertically; it's reputed to be one of the most diverse sites in the islands, with black coral, purple tube sponges, and good growth of plate and star corals along the ledge.
+Visit TCI describes a 1,153-acre (467 ha) marine national park off West Caicos's west coast with over a dozen dive sites; the drop-off begins at about 45ft (14m). Wall length is reported inconsistently: Dive the World says about 2 miles with roughly 12 sites, and no consulted source supports the earlier '6 mile' figure. Boat transit is reported at 45 minutes (Aqua TCI) to about an hour (Dive Provo, Visit TCI). The Dive Globe lists a 35m maximum, 20m average and Intermediate difficulty, whereas this database retains Advanced pending a second source. Reported features include coral arches, swim-throughs, black coral and purple tube sponges (Dive Provo). At Driveway, Aqua TCI describes a sand chute bisecting the top of the wall; at Dive the World, Highway to Heaven reaches 100ft (33m) and Gully's wall starts near 85ft (26m).
 
 ## Site Information
 
@@ -29,7 +29,7 @@ West Caicos Wall is a roughly six-mile wall running along the western shoreline 
 
 ## Marine Life
 
-Reef sharks are common along the West Caicos walls, and sea turtles, spotted eagle rays, snappers, and barracuda are also regularly reported. At Driveway specifically, groupers and black durgons are noted alongside the sharks. Re-audit note: horse-eye jacks, moray eels, lobsters, and hawksbill turtles from the prior description could not be independently confirmed for this update and have been generalized or removed.
+These are area-level reports for the West Caicos walls, not one mooring. Dive Provo lists sharks, groupers, stingrays, garden eels, barracuda and eagle rays depending on the site; Dive the World lists Caribbean reef sharks, eagle rays, garden eels, barracuda, jacks and turtles; The Dive Globe says shark encounters are very common. At Driveway specifically, Aqua TCI names yellow-headed jawfish, drums and nurse sharks.
 
 ---
-*Sources: [Original Diving - Deep Water Diving in the Turks and Caicos](https://www.originaldiving.com/collections/deep-water-diving-in-the-turks-and-caicos), [Aqua TCI - Dive Sites](https://www.aquatci.com/dive-sites/), [The Dive Globe - West Caicos](https://www.thediveglobe.com/app/en/dive/west-caicos), [Visit TCI - West Caicos Marine National Park](https://www.visittci.com/west-caicos/west-caicos-marine-national-park). Last updated 2026-07-07.*
+*Sources: [Aqua TCI - Dive Sites](https://www.aquatci.com/dive-sites/), [Dive Provo - Dive Site Map](https://diveprovo.com/dive-sites-provo/), [The Dive Globe - West Caicos](https://www.thediveglobe.com/app/en/dive/west-caicos), [Visit TCI - West Caicos Marine National Park](https://www.visittci.com/west-caicos/west-caicos-marine-national-park), [Dive the World - Turks and Caicos dive sites](https://www.dive-the-world.com/diving-sites-turks-and-caicos-islands.php). Last updated 2026-11-13.*

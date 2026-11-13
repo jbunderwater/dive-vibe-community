@@ -13,38 +13,26 @@ addedBy: osm_import
 
 ## Jack Neil Point
 
-Jack Neil Point (sometimes listed alongside Jack Neil Beach and the adjacent Madelene's site) is a south side reef dive celebrated for its exceptional hard and soft coral coverage, accessible depths, and rich variety of Caribbean reef species.
+Jack Neil Point (Madelene's) is a south side shallow reef with adjacent sand, good for macro life.
 
 ## Overview
 
-Jack Neil Point is one of the standout south side sites on Utila, combining long, shallow tongue-and-groove reef formations with sandy patches and crevices good for slow, macro-focused exploration. The reef drops to around 60 ft (18 m) before giving way to sandy areas extending deeper. The site is well-suited to beginner and Open Water divers who want to explore reef structure without contending with strong currents or depth, while also rewarding divers who take the time to look closely at the sand and crevices for camouflaged critters.
-
-The Madelene's section adjacent to Jack Neil features a large sandy area bordered by reefs, ideal for observing small benthic creatures.
+[We Dive Utila](https://www.wediveutila.com/utila-dive-sites) lists the site as "Jack Neil - Madelene's": a large sandy area between two reefs, with surrounding reefs dropping to about 60 ft (18 m). [Scuba Diver Life](https://scubadiverlife.com/the-best-dive-sites-in-utila/) describes a long, shallow south side reef dive over hard and soft coral. [DAN](https://dan.org/alert-diver/article/bay-islands-of-honduras/) describes a dusk muck dive on a sloping sandy bottom. Boat dive.
 
 ## Marine Life
 
-Documented species include hawksbill and green turtles, spotted eagle rays, and green moray eels on the reef proper, and smooth trunkfish puttering among sea fans on the shallow reef flat around 20 ft (6 m). Divers Alert Network's site report also documents sailfin blennies, garden eels, camouflaged spider crabs, bearded toadfish, and Caribbean reef squid performing courtship displays (curling arms and pulsating color changes) in the sandy sections. The sandy sections of Madelene's host seahorses, pipefish, pipe horses, flounders, and nudibranchs. Earlier drafts of this page listed Caesar grunts, Nassau grouper, spotted drum, pufferfish, and damselfish for this site; those were not confirmed by any source consulted during this audit and have been removed.
+- We Dive Utila: seahorses, pipefish, flounders, nudibranchs, headshield slugs, stingrays feeding in the sand.
+- DAN: sailfin blennies, pipefish, garden eels, burrowing mouse urchins, camouflaged spider crabs, a bearded toadfish, Caribbean reef squid courting.
+- Scuba Diver Life lists hawksbill and green turtles, eagle rays, moray eels, trunkfish and seahorses for the south side reef in its Jack Neil paragraph; it is not entirely clear that these apply to the site alone.
 
 ## Dive Profile
 
-- **Reef depth**: Shallow formations leading to reef walls at 40–60 ft (12–18 m)
-- **Sandy area**: Extends beyond 60 ft (18 m)
-- **Current**: Generally mild on the south side
-- **Visibility**: Typically good — south side is sheltered from north swells
+- **Reef**: shallow, dropping to ~60 ft (18 m)
+- **Sand**: slopes deeper beyond
 
-## Entry / Exit
+## Notes
 
-Boat dive from Utila town. The south side location means access is possible on most days, including when north side conditions are rough.
-
-## Tips
-
-- One of the best south side sites for beginner divers wanting to see large Caribbean species.
-- The Madelene's sandy area is excellent for slow, patient macro observation.
-- Can be combined with nearby south side sites in a two-tank morning trip.
-
-## Photography
-
-Excellent for both macro (seahorses, nudibranchs, spotted drums) and wide-angle (turtle encounters, moray eels, coral formations). Natural light is good in the shallower sections.
+Caesar grunts, Nassau grouper, spotted drum and damselfish, plus claims about current and beginner suitability beyond the source text, were not site-confirmed and are not stated.
 
 ---
-*Sources: [Scuba Diver Life – Best Dive Sites in Utila](https://scubadiverlife.com/the-best-dive-sites-in-utila/), [We Dive Utila – Dive Sites](https://www.wediveutila.com/utila-dive-sites), [DAN World – Bay Islands of Honduras](https://dan.org/alert-diver/article/bay-islands-of-honduras/). Last updated 2026-07-08 (re-audited: removed five species not confirmed by any source — Caesar grunts, Nassau grouper, spotted drum, pufferfish, damselfish — and added DAN-confirmed macro fauna specific to this site).*
+*Sources: [We Dive Utila](https://www.wediveutila.com/utila-dive-sites), [Scuba Diver Life](https://scubadiverlife.com/the-best-dive-sites-in-utila/), [DAN](https://dan.org/alert-diver/article/bay-islands-of-honduras/). Last updated 2026-11-13.*
