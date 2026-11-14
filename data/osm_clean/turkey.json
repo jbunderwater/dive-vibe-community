@@ -11,14 +11,14 @@
     "difficulty": "Beginner",
     "tags": {
       "artwork_type": "statue",
-      "description": "White marble shark sculpture (\"The Shark\", 2000) by sculptor Kemal Tufan at ~8m depth off Guvercin Ada (Pigeon Island), Kas. Site also has an old wooden wreck at ~22m and a sheet-metal artificial-reef wreck at ~28m, plus scattered ancient amphorae.",
+      "description": "Pigeon Island (Güvercin Ada), Kaş: white marble shark sculpture left from past underwater art exhibitions, an old partly scattered wooden wreck at ~22m, a sheet-metal wreck sunk as an artificial reef at ~28m, and a small ~28m reef with broken amphorae. PADI lists max depth 30m; Nautilus Diving Kaş gives no overall maximum. Sculptor, creation year and sculpture depth could not be verified and have been removed.",
       "is_in": "Turkey, Antalya, Kaş",
       "name": "Shark Sculpture",
       "sport": "scuba_diving",
       "tourism": "artwork",
       "validated": "true",
-      "validation_source": "padi.com,nautilusdivingkas.com,turkeyhomes.com,kemaltufan.com",
-      "last_qa_date": "2026-07-07"
+      "validation_source": "padi.com,nautilusdivingkas.com",
+      "last_qa_date": "2026-11-13"
     }
   },
   {
@@ -27,7 +27,7 @@
     "lon": 27.4325639,
     "osm_id": 10973665012,
     "osm_type": "node",
-    "depth": 36,
+    "depth": 34,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -38,9 +38,9 @@
       "wreck_type": "aircraft",
       "historic_period": "aircraft type dates to WWII; this airframe served with the Turkish Air Force before decommissioning and scuttling in 2008",
       "validated": "true",
-      "validation_source": "aquapro-turkey.com,thediversclub.com.tr,sualtigazetesi.com,zentacle.com",
-      "last_qa_date": "2026-07-07",
-      "description": "Ex-Turkish Air Force Douglas C-47A Dakota (~19.6m long, ~29m wingspan, twin Pratt & Whitney R-1830 engines), deliberately scuttled by BOSAD as an artificial reef at Karaada/Pacoz Cove near Bodrum on 1 July 2008 (one source states 2007). A 2010 storm broke the fuselage apart; engine/cockpit sections now sit at 16-23m while the detached fuselage/tail rest at 28-36m. NOT the Savoia-Marchetti SM.79 previously listed here - that was an unverified/incorrect identification and has been corrected."
+      "validation_source": "aquapro-turkey.com,thediversclub.com.tr,sualtigazetesi.com,zentacle.com,taucher.net,xray-mag.com,wikipedia.org",
+      "last_qa_date": "2026-11-13",
+      "description": "Ex-Turkish Air Force Douglas C-47A Dakota (~19.57m long, ~28.96m wingspan per Zentacle and taucher.net; ~19m/29m per Sualtı Gazetesi), deliberately scuttled by BOSAD as an artificial reef at Karaada/Pacoz Bay near Bodrum on 1 July 2008 (Sualtı Gazetesi, Zentacle, taucher.net, X-Ray Mag; The Divers' Club says 2007). Later broken up/shifted deeper (sources attribute this to a 2010 current, or to slippage in winter 2008/09). Reported depths conflict: 17-32m (Aquapro, X-Ray Mag), 25m (Zentacle), 25-30m (taucher.net), fuselage ~34m (Divers' Club, Sualtı Gazetesi). Not the Savoia-Marchetti SM.79 previously listed."
     }
   },
   {
@@ -58,9 +58,9 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "happybubbles.com,thediversclub.com.tr,divessi.com,justgottadive.com",
-      "last_qa_date": "2026-07-07",
-      "description": "Big Reef between Bodrum Peninsula and Karaada (Black Island), opposite St. Peter's Castle. Karaada-facing wall drops from ~7m to 34m; Gumbet-facing side descends in terraces. Strong currents; multiple dive-shop sources recommend advanced/experienced divers."
+      "validation_source": "happybubbles.com,thediversclub.com.tr,thescubatank.com",
+      "last_qa_date": "2026-11-13",
+      "description": "Big Reef, ~20 min by boat from Bodrum near Karaada (Black Island). Wall facing Karaada drops from ~7m to 34m (Happy Bubbles); The Divers' Club gives summit at 5m and max 34m; The Scuba Tank reports ~50m. Strong currents; dive-shop sources recommend experienced/advanced divers."
     }
   },
   {
@@ -78,9 +78,9 @@
       "scuba_diving:type": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "justgottadive.com,livejournal.com,thescubatank.com",
-      "last_qa_date": "2026-07-07",
-      "description": "Aksona Point/Bay, ~50 min by boat beyond Karaada near Bodrum, named for sponge hunter Aksona Mehmet. Dive starts at 3m, slopes through the 20s to a rock wall at 30-35m. Phoenician ship anchor at 13.5m on a flat rock plus scattered amphorae/pottery. Corrected depth from 45m (unsupported) to 35m per 3 independent sources."
+      "validation_source": "livejournal.com,thescubatank.com,justgottadive.com",
+      "last_qa_date": "2026-11-13",
+      "description": "Aksona Point beyond Karaada near Bodrum, ~50 min by boat, named for sponge hunter Aksona Mehmet. Starts at ~3m, slopes through the 20s to a rock wall at 30-35m. Single-guide report of a Phoenician ship anchor at ~13.5m and amphorae; another source mentions Ottoman ship wrecks nearby. Skill-level guidance varies between sources (intermediate-and-above to advanced)."
     }
   }
 ]

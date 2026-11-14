@@ -8,11 +8,12 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "nps.gov,gotostcroix.com,tripadvisor.com",
+    "validation_source": "nps.gov,gotostcroix.com,visitusvi.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "last_qa_date": "2026-07-08"
+      "last_qa_date": "2026-11-13",
+      "qa_note": "2026-11-13 re-audit: removed unsourced '4,554-acre' figure and 'first protected marine areas' claim; species stated as monument-wide."
     }
   },
   {
@@ -24,11 +25,12 @@
     "entry_type": "shore",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "gotostcroix.com,canebayscuba.com,villamargarita.com",
+    "validation_source": "gotostcroix.com,villamargarita.com,visitusvi.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "last_qa_date": "2026-07-08"
+      "last_qa_date": "2026-11-13",
+      "qa_note": "2026-11-13 re-audit: restored rare whale shark/hammerhead/manta mention per gotostcroix.com; removed moray eels/eagle rays not tied to site; noted trough depth conflict (3,200 vs 13,000 ft)."
     }
   },
   {
@@ -40,12 +42,12 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "gotostcroix.com,californiadiver.com,padi.com",
+    "validation_source": "gotostcroix.com,californiadiver.com,padi.com,villamargarita.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "last_qa_date": "2026-07-08",
-      "qa_note": "Reclassified reef -> muck: pier pilings over sandy bottom, macro/critter site per gotostcroix.com and californiadiver.com. Depth updated from 8m to 14m to reflect primary dive zone (45ft/14m); pier extends to ~27m (90ft) at far end."
+      "last_qa_date": "2026-11-13",
+      "qa_note": "2026-11-13 re-audit: restored frogfish and flying gurnard per gotostcroix.com/padi.com/villamargarita.com (earlier removal was wrong); added pier length and Hurricane Hugo damage per californiadiver.com/padi.com. Earlier note: Reclassified reef -> muck: pier pilings over sandy bottom, macro/critter site per gotostcroix.com and californiadiver.com. Depth updated from 8m to 14m to reflect primary dive zone (45ft/14m); pier extends to ~27m (90ft) at far end."
     }
   },
   {
@@ -57,12 +59,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "dreamwrecks.com,dolphinshuttle.com,en.wikipedia.org",
+    "validation_source": "en.wikipedia.org,dreamwrecks.com,dolphinshuttle.com,visitusvi.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "last_qa_date": "2026-07-08",
-      "qa_note": "Depth updated from 21m to 27m (dreamwrecks.com and dolphinshuttle.com both cite ~90ft resting depth; one earlier source cited 70ft/21m - range noted in markdown). Ship identity corrected to USS LST-467 (WWII Landing Ship Tank, built 1942, later converted to civilian log hauler) per Wikipedia/navsource.org, not a purpose-built freighter or hopper dredge as previously described. Sinking date is disputed between sources (1979 per Navy disposal records vs. 1984 storm account per dive-tourism sites) - flagged as a conflict in the markdown rather than resolved."
+      "last_qa_date": "2026-11-13",
+      "qa_note": "2026-11-13 re-audit: removed unsupported '1979 Navy disposal artificial reef' claim and 'five decks' claim. Wikipedia (USS LST-467, 328 ft) says wrecked by Tropical Storm Klaus 6 Nov 1984 in Krum Bay, then sank May 1985 when a patch failed under tow to Puerto Rico; dreamwrecks/visitusvi corroborate the failed tow patch, dolphinshuttle gives 1984 only. Length conflict (328/330/400 ft) and date conflict (1984 vs 1985) written into markdown. Added species from dreamwrecks/visitusvi/dolphinshuttle. Earlier note: Depth updated from 21m to 27m (dreamwrecks.com and dolphinshuttle.com both cite ~90ft resting depth; one earlier source cited 70ft/21m - range noted in markdown). Ship identity corrected to USS LST-467 (WWII Landing Ship Tank, built 1942, later converted to civilian log hauler) per Wikipedia/navsource.org, not a purpose-built freighter or hopper dredge as previously described. Sinking date is disputed between sources (1979 per Navy disposal records vs. 1984 storm account per dive-tourism sites) - flagged as a conflict in the markdown rather than resolved."
     }
   },
   {
@@ -74,11 +76,12 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "virgin-islands-charter-yachts.com,tripadvisor.com,padi.com",
+    "validation_source": "virgin-islands-charter-yachts.com,padi.com,stthomasscubadiving.com,visitusvi.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "last_qa_date": "2026-07-08"
+      "last_qa_date": "2026-11-13",
+      "qa_note": "2026-11-13 re-audit: replaced unsourced whaler lore with sourced name origin; added Champagne Cork and species from visitusvi.com/stthomasscubadiving.com."
     }
   },
   {
@@ -90,12 +93,12 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "freedomtourtravel.com,virgin-islands-charter-yachts.com,dolphinshuttle.com",
+    "validation_source": "virgin-islands-charter-yachts.com,dolphinshuttle.com,stormypirates.com,visitusvi.com,stevenbecker.substack.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "last_qa_date": "2026-07-08",
-      "qa_note": "Removed fabricated details: the wreck is NOT in the BVI's Sir Francis Drake Channel (it rests near Buck Island off St. Thomas, USVI) and there is no source for an intentional 1977 sinking date. Sources place the original sinking before 1979 (when the hulk was barged near Buck Island) and its breakup into pieces during Hurricane Hugo in 1989. Depth reported 12-18m across sources; JSON value kept at 14m (within range)."
+      "last_qa_date": "2026-11-13",
+      "qa_note": "2026-11-13 re-audit: removed unsourced 2005 plaque claim; 1979 move date demoted to single uncorroborated source; flagged conflict between 'sunk by divers' (virgin-islands-charter-yachts.com) and 'abandoned and sank in harbor'; piece count conflict (three/four/several); 190 ft length retained (visitusvi.com + blog). Restored sea turtles (dolphinshuttle.com, visitusvi.com). Earlier note: Removed fabricated details: the wreck is NOT in the BVI's Sir Francis Drake Channel (it rests near Buck Island off St. Thomas, USVI) and there is no source for an intentional 1977 sinking date. Sources place the original sinking before 1979 (when the hulk was barged near Buck Island) and its breakup into pieces during Hurricane Hugo in 1989. Depth reported 12-18m across sources; JSON value kept at 14m (within range)."
     }
   },
   {
@@ -106,12 +109,13 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
-    "validation_source": "gotostcroix.com,padi.com,scubadiving.com",
+    "validated": false,
+    "validation_source": "gotostcroix.com,villamargarita.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "last_qa_date": "2026-07-08"
+      "last_qa_date": "2026-11-13",
+      "qa_note": "2026-11-13 re-audit: only 2 independent domains found (gotostcroix.com, villamargarita.com), so validated reset to false. Restored hammerhead sharks on East Wall per gotostcroix.com (earlier removal was wrong)."
     }
   },
   {
@@ -123,12 +127,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "justgottadive.com,stormypirates.com,dolphinshuttle.com",
+    "validation_source": "stormypirates.com,dolphinshuttle.com,maritimequest.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "last_qa_date": "2026-07-08",
-      "qa_note": "Corrected from 'Grain Wreck (Suffolk Maid)'. The coordinates and 'Grain Wreck' nickname match the SS Grainton (a British collier that sank near St. Thomas in 1928), not the Suffolk Maid (a separate, unrelated wreck in Butler Bay, St. Croix). The previous markdown's '19th-century cargo vessel' description was unsourced and has been replaced with researched SS Grainton history. Depth updated from 23m to 33m and difficulty raised from Intermediate to Advanced to match the technical depth (>30m) confirmed by multiple sources."
+      "last_qa_date": "2026-11-13",
+      "qa_note": "2026-11-13 re-audit: removed unverified 30 Jan 1928 'Dry Rock' grounding date and the Suffolk Maid specifics. Maritimequest gives 31 May 1928 wreck date; build year/builder/tonnage (1911, Ropner, 6,042 GRT) only in one source so omitted; engine count conflict (three vs one) noted. Species reduced to those named by dolphinshuttle.com. Earlier note: Corrected from 'Grain Wreck (Suffolk Maid)'. The coordinates and 'Grain Wreck' nickname match the SS Grainton (a British collier that sank near St. Thomas in 1928), not the Suffolk Maid (a separate, unrelated wreck in Butler Bay, St. Croix). The previous markdown's '19th-century cargo vessel' description was unsourced and has been replaced with researched SS Grainton history. Depth updated from 23m to 33m and difficulty raised from Intermediate to Advanced to match the technical depth (>30m) confirmed by multiple sources."
     }
   },
   {
@@ -140,12 +144,12 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "shoreexcursionsgroup.com,caribbaconnect.com,padi.com",
+    "validation_source": "stthomasscubadiving.com,padi.com,visitusvi.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "last_qa_date": "2026-07-08",
-      "qa_note": "Depth updated from 6m to 17m (55ft) to reflect the certified-diver maximum at this Coki Beach reef; the previous 6m figure understated the site."
+      "last_qa_date": "2026-11-13",
+      "qa_note": "2026-11-13 re-audit: removed unverified operator/tour-duration details; depth reported ~12-18 m across sources, 17 m kept as upper bound. Earlier note: Depth updated from 6m to 17m (55ft) to reflect the certified-diver maximum at this Coki Beach reef; the previous 6m figure understated the site."
     }
   },
   {
@@ -156,12 +160,13 @@
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
-    "validation_source": "gotostcroix.com,scubadiving.com,padi.com",
+    "validated": false,
+    "validation_source": "villamargarita.com,gotostcroix.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "last_qa_date": "2026-07-08"
+      "last_qa_date": "2026-11-13",
+      "qa_note": "2026-11-13 re-audit: identity conflict. gotostcroix.com treats 'The Pinnacles' as the Salt River West Wall; only villamargarita.com lists a separate 'The Pinnacle' seamount (summit 90 ft). Prior markdown described West Wall swim-throughs under this name; removed. validated reset to false."
     }
   },
   {
@@ -173,12 +178,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "divechamp.com,stthomasscubadiving.com,aadivers.com",
+    "validation_source": "divechamp.com,stthomasscubadiving.com,visitusvi.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "last_qa_date": "2026-07-08",
-      "qa_note": "Reclassified reef -> pinnacle per divechamp.com ('French Cap Pinnacle') and other St. Thomas operator sites. Depth updated from 23m to 30m (100ft) to match the primary pinnacle dive; a shallower secondary dive to ~18m (60ft) exists on the island's northwest side."
+      "last_qa_date": "2026-11-13",
+      "qa_note": "2026-11-13 re-audit: removed 'swim-through with cathedral ceiling you can surface into' detail and lobster/hogfish/permit; restored species per visitusvi.com/stthomasscubadiving.com. Depth reported 23-30 m (divechamp page self-flagged unverified); difficulty conflict (intermediate vs advanced) noted. Earlier note: Reclassified reef -> pinnacle per divechamp.com ('French Cap Pinnacle') and other St. Thomas operator sites. Depth updated from 23m to 30m (100ft) to match the primary pinnacle dive; a shallower secondary dive to ~18m (60ft) exists on the island's northwest side."
     }
   },
   {
@@ -189,12 +194,13 @@
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "usvisapphire.com,snorkelandhike.com,tripadvisor.com",
+    "validated": false,
+    "validation_source": "usvisapphire.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "last_qa_date": "2026-07-08"
+      "last_qa_date": "2026-11-13",
+      "qa_note": "2026-11-13 re-audit: no dive-specific source found; validated reset to false. Removed unverified PADI-operator and species claims. Depth 5 m unverified."
     }
   },
   {
@@ -208,15 +214,16 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "en.wikipedia.org,scubadiving.com,divernet.com",
+    "validation_source": "en.wikipedia.org,divernet.com,stormypirates.com",
     "tags": {
       "historic": "wreck",
       "name": "Rhone",
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-07-08",
-      "geographic_note": "This wreck lies off Salt Island in the British Virgin Islands, not within US Virgin Islands territory. Flagged for dataset-placement review; retained here because it is a frequently paired charter destination with USVI dive operators, but it does not belong to the us-virgin-islands destination geographically."
+      "last_qa_date": "2026-11-13",
+      "geographic_note": "This wreck lies off Salt Island in the British Virgin Islands, not within US Virgin Islands territory. Flagged for dataset-placement review; retained here because it is a frequently paired charter destination with USVI dive operators, but it does not belong to the us-virgin-islands destination geographically.",
+      "qa_note": "2026-11-13 re-audit: removed unsourced claims (portholes/propeller recognizable, boilers rupture detail); casualty-count conflict and depth conflict (bow 24-27 m, stern 6-11 m) flagged in markdown. Still geographically BVI, flagged for placement review."
     }
   },
   {
@@ -229,14 +236,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "virgin-islands-charter-yachts.com,caribdiveguide.com,stjohnlinks.com",
+    "validated": false,
+    "validation_source": "virgin-islands-charter-yachts.com,visitusvi.com",
     "tags": {
       "name": "Eagle Shoal",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-07-08"
+      "last_qa_date": "2026-11-13",
+      "qa_note": "2026-11-13 re-audit: only 2 independent domains fetched, so validated reset to false. Removed species not found in sources (black durgon, porkfish, silversides, spotted drums, queen/French angelfish)."
     }
   }
 ]

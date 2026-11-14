@@ -13,21 +13,21 @@ addedBy: osm_import
 
 ## Punta dell'Arpa
 
-Punta dell'Arpa is a wall dive site in Ustica, Europe.
+Punta dell'Arpa is a wall and rockfall dive at the southern end of Ustica.
 
 ## Overview
 
-Punta dell'Arpa (Tip of the Harp) is located at the southernmost point of Ustica, identifiable on the surface by the "scoglio del cornutone" rocky outcrop. Several large volcanic rock formations rise from a sandy base (Orca Diving Ustica's own site description counts four; the entry previously described just two — this has been corrected to avoid asserting a precise count neither source fully agrees on), their walls colonized by red gorgonian forests. The dive route follows passages and tunnels formed by boulder-collapse volcanic rock, reaching the gorgonian forest at depth. Arches covered with orange madrepore (Astroides calycularis) are a feature of the shallower approach. Confirmed marine life includes red and brown groupers, lobsters, forkbeards, black moray eels, nudibranchs, amberjacks, jacks, and seasonal young barracuda.
+Orca Diving Ustica describes the dive as a path through tunnels and gullies culminating in a red gorgonian forest at the southernmost end of the island. Mister Jump describes a dive that is partly rockfall, partly wall: volcanic rock debris, two pinnacles detached from the coast, a passing arch, and a near-vertical wall reaching sand at about 30-35 m, with seabed of Posidonia meadows, bryozoans and calcareous algae. Enjoy Sicilia likewise describes huge submerged lava rocks with red gorgonians and Posidonia. Reported maximum depth varies: about 34 m (Divernet), about 35 m (Scubaportal), 15-40 m (Mister Jump). Scubaportal recommends advanced certification; Enjoy Sicilia rates it medium difficulty for experienced divers; Divernet notes an operator uses it for deep-speciality training because it is relatively sheltered. Sources disagree on the number of rock formations, so the count is not stated here.
 
-Sources report maximum depths between 34 and 42 metres for this site, depending on source.
+Species reported at this site: red gorgonians (Paramuricea clavata), groupers, banded seabream, sharpsnout seabream, damselfish, greater amberjack, barracuda, the cardinalfish Apogon imberbis, Anthias anthias, false coral, and nudibranchs (Mister Jump, Enjoy Sicilia, Divernet, Scubaportal).
 
 ## Site Information
 
-- **Location**: Ustica, Europe
+- **Location**: Ustica, Europe (southern end)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 
 ---
-*Sources: [Orca Diving Ustica - Punta dell'Arpa](https://www.orcadivingustica.com/en/dive-sites/punta-dellarpa), [Tribloo - Punta dell'Arpa](https://www.tribloo.com/en/dive-sites/613/punta-dellarpa.html), [Divernet - Ustica: Sicily's Diving Jewel](https://divernet.com/world-dives/europe/ustica-sicilys-diving-jewel/). Last updated 2026-07-08.*
+*Sources: [Orca Diving Ustica - Dive sites](https://www.orcadivingustica.com/en/dive-sites), [Mister Jump - Punta dell Arpa](https://www.misterjump.it/immersioni-ustica/punta-dell-arpa), [Scubaportal - Ustica (Barracuda Diving)](https://scubaportal.it/?p=2664), [Divernet - Ustica: Sicily's Diving Jewel](https://divernet.com/world-dives/europe/ustica-sicilys-diving-jewel/), [Enjoy Sicilia - Diving Sites in Ustica](https://enjoysicilia.it/en/isola-di-ustica/ustica/siti-per-immersioni-ustica). Last updated 2026-11-13.*

@@ -1,9 +1,9 @@
 ---
 name: Inchcape 2
-lat: 25.575
-lng: 56.3
+lat: 25.3384
+lng: 56.3807
 difficulty: Intermediate
-maxDepth: 24
+maxDepth: 23
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,13 +13,13 @@ addedBy: osm_import
 
 ## Inchcape 2
 
-Inchcape 2 is a historic wreck dive in UAE - Fujairah, Middle East.
+Inchcape 2 is a former supply vessel sunk in 2002 as an artificial reef, opposite the Martini Wall off Khor Fakkan.
 
 ## Overview
 
-Inchcape 2 was, like her sister wreck, built in the USA by Halter Marine and shipped to Dubai (around 1974) for crew-and-supply duty in the region before Inchcape Shipping Services donated her for a second artificial-reef project — the first, Inchcape 1, having proven a success. She was sunk in April 2002 opposite Martini Rock, in shallower water than Inchcape 1 to make her accessible to more divers. Sources put her depth at roughly 17 to 24 metres, with some giving a narrower range around 20-22 metres depending on the section of hull. Cyclone Gonu in 2007 tore away the wheelhouse — locally the wreck is sometimes nicknamed "Car Cemetery 2," distinct from the separate vehicle-dump site called The Car Cemetery. Bright yellow, pink, and purple corals now cover the hull, and the site is known for a striking variety of nudibranchs, with one dive operator reporting at least 20 species recorded here. Divers report shoaling fusiliers, chromis, pufferfish, boxfish, scorpionfish, moray eels, crabs, and rays around the wreck.
+PADI describes Inchcape 2 as a surface supply ship donated by Inchcape Shipping Services and sunk in 2002, resting upright on a sand seabed opposite the Martini Wall. Nemo Diving Center and Khaleej Times also give 2002 as the year. Cyclone Gonu tore off her wheelhouse in 2007 (Nemo Diving Center, PADI). Her original name, length and tonnage were not found in any source consulted and are not given; Nemo Diving Center also reports earlier postings and a shipping date that are single-source and omitted here. Khaleej Times says the site is about a 25-minute boat trip from Al Aqah.
 
-Exact original ship name, tonnage, and length figures were not found in available sources and are omitted rather than guessed.
+Marine life reported at this site: at least 20 nudibranch species, shoaling fusiliers and large pufferfish (Nemo Diving Center, PADI); and small boxfish, chromis, scorpionfish, moray eels, crabs, rays (Nemo, Khaleej Times), plus parrotfish and barracuda (Khaleej Times).
 
 ## Site Information
 
@@ -27,11 +27,11 @@ Exact original ship name, tonnage, and length figures were not found in availabl
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 24 meters
+- **Maximum Depth**: 23 meters
 
 ## Dive Notes
 
-The wreck permits swim-throughs from end to end for divers with appropriate training, but some internal fittings have loosened with age, so care is required — this is not a "safe" penetration and proper wreck-diving training and equipment are recommended.
+Depth is reported as 17 to 23 m (Nemo Diving Center), about 22 m (Khaleej Times) and 18 to 21 m (PADI). PADI says divers can penetrate the wreck to about 20 m and that it is used for wreck diving courses; penetration requires proper wreck-diving training and equipment and is not risk-free. Nemo reports visibility of about 8 to 10 m.
 
 ---
-*Sources: [Nemo Diving Center - Exploring Inchcape wrecks in Fujairah](https://nemodivingcenter.com/blog/exploring-inchcape-wrecks-in-fujairah/), [Khaleej Times - Why UAE deliberately sank 3 ships](https://www.khaleejtimes.com/uae/environment/sunken-uae-vessels-marine-ecosystems-dive-artificial-reef), [Coral Creek Diving - Inchcape 1](https://coralcreekdiving.com/diving-fujairah/inchcape-1/), [Sandy Beach Dive Centre - Fujairah Dive Sites](https://divesandybeach.com/fujairah-dive-sites/). Last updated 2026-07-07.*
+*Sources: [Nemo Diving Center - Exploring Inchcape wrecks in Fujairah](https://nemodivingcenter.com/blog/exploring-inchcape-wrecks-in-fujairah/), [Khaleej Times - Why UAE deliberately sank 3 ships](https://www.khaleejtimes.com/uae/environment/sunken-uae-vessels-marine-ecosystems-dive-artificial-reef), [PADI - Inchcape 2](https://travel.padi.com/dive-site/united-arab-emirates/inchcape-2/). Last updated 2026-11-13.*

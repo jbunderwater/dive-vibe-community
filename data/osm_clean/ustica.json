@@ -3,7 +3,7 @@
     "name": "Grotta della Pastizza",
     "lat": 38.71,
     "lon": 13.17,
-    "depth": 19,
+    "depth": 20,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -11,9 +11,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "orcadivingustica.com,enjoysicilia.it,misterjump.it",
-      "description": "Articulated cave complex near the harbour named for the pyramid-shaped 'Pastizzu' rock at its entrance; two emerged chambers above sea level, one containing a statue of the island's patron saint (San Bartolomeo); day marine life includes pipefish, spider crabs, brown groupers, amberjacks, slipper lobsters; night dives reveal conger and moray eels, cuttlefish, octopus, sea hares, and the night anemone Alicia mirabilis. Sources report maximum depth between 19-22m.",
-      "last_qa_date": "2026-07-08"
+      "validation_source": "orcadivingustica.com,misterjump.it,divernet.com,scubaportal.it,enjoysicilia.it",
+      "description": "Semi-submerged cave complex a few minutes by boat from the harbour, just past the Grotta Azzurra, named for an emerged rock called 'Pastizza'; two chambers above sea level, a statue of San Bartolomeo in one; outer wall and Academia cave complex (max 12m). Maximum depth about 20m (Mister Jump 15-22m; Divernet ~25m wall). Open to all certification levels; popular night dive. Site-confirmed species: pipefish, spider crab, brown grouper, amberjack, conger and moray eels, octopus, cuttlefish, sea hares, nudibranchs, Alicia mirabilis.",
+      "last_qa_date": "2026-11-13"
     }
   },
   {
@@ -28,9 +28,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "evasionibludiving.com,lustricadiving.it,usticasape.it,scubatravel.co.uk",
-      "description": "Remnant volcanic cone ~3 miles off NE coast; cap at 3m, vertical columnar basalt wall to ~30m on the west side meeting a platform at 15-20m to the north. Wreck of the Panamanian-flagged motor vessel ITA, carrying marble block cargo, ran aground here on 21 February 2005, breaking into a bow and stern section (bow north, stern southeast) with 20 tonnes of diesel fuel aboard, raising an environmental concern inside Italy's first MPA. Sources report the wreck sections resting between 20-26m depth (evasionibludiving/lustricadiving cite 24-26m; scubatravel/divernet cite ~20m); one source describes the vessel as roughly 74m long, unconfirmed elsewhere. Large barracuda schools, amberjack, dusky groupers, snappers, tuna.",
-      "last_qa_date": "2026-07-08"
+      "validation_source": "centrostudiustica.it,misterjump.it,viaggipersub.it,profondobludiving.com,scubatravel.co.uk,tribloo.com,orcadivingustica.com,scubaportal.it",
+      "description": "Shoal and remnant of a volcanic cone off Ustica's north coast; summit about 3m, walls dropping to roughly 25-42m depending on source, with a plateau near 30m. The motor ship ITA (Panamanian flag, marble cargo) ran aground here on 21 February 2005 and lies in two pieces; sources report the wreck at 20m, 24-26m, ~27m or ~30m, and the ship at 74m long (two dive guides; one site lists 350m, which refers to the dive route). Distance from coast reported as ~500m to ~1 mile. Site-confirmed species: barracuda, amberjack, groupers, dentex, moray, Astroides orange coral. Secondary wreck; one operator says it is not a true wreck dive.",
+      "last_qa_date": "2026-11-13"
     }
   },
   {
@@ -40,14 +40,14 @@
     "depth": 35,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "evasionibludiving.com,scubatravel.co.uk,divernet.com",
-      "description": "NW coast offshore rock beyond the MPA no-take zone; complex of caves, arches, canyons; Grotta della Balena (Whale Cave) on the southern side with whale-mouth entrance ~20m, two openings on opposite sides (smaller at 7-8m). Sources disagree on cavern length (~40m per Evasioni Blu Diving vs ~70m per Scuba Travel/Divernet). Dusky and striped groupers, amberjack, barracuda, hake, sea bream, spider crab, nudibranchs.",
-      "last_qa_date": "2026-07-08"
+      "validation_source": "orcadivingustica.com,scubatravel.co.uk,misterjump.it,scubaportal.it,divernet.com,centrostudiustica.it",
+      "description": "Offshore rock a few hundred metres off the NW coast, near the integral reserve; caves, arches, canyons and vertical fissures. Orca and Scuba Travel describe a ~70m tunnel/cavern at ~20m (Grotta della Balena, whale-mouth opening); Mister Jump limits cave penetrations to 26m and gives no length. Listed depths 0-30m (Orca), to 30m (Scuba Travel), 20-35m (Mister Jump). Difficulty rated medium-low by Mister Jump and open to all levels by Scubaportal; set to Intermediate because arch routes reach 30-45m. Site-confirmed species: brown/red/golden groupers, barracuda, amberjack, dentex, sea bream, Reteporella grimaldii bryozoan, Parazoanthus axinellae.",
+      "last_qa_date": "2026-11-13"
     }
   },
   {
@@ -62,9 +62,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "orcadivingustica.com,tribloo.com,divernet.com",
-      "description": "Southernmost point of Ustica, marked on the surface by the 'scoglio del cornutone' outcrop; several large volcanic rock formations (sources vary between two and four) rise from a sandy base, walls colonized by red gorgonians; passages and tunnels lead to the gorgonian forest at depth; arches with orange madrepore (Astroides calycularis) near the surface. Sources report maximum depth between 34-42m. Lobsters, barracuda, brown and red groupers, forkbeard, black moray eels, nudibranchs.",
-      "last_qa_date": "2026-07-08"
+      "validation_source": "misterjump.it,scubaportal.it,divernet.com,enjoysicilia.it,orcadivingustica.com",
+      "description": "Southernmost end of Ustica; volcanic rockfall, two pinnacles detached from the coast, a passing arch and a steep wall with passages, ending in a red gorgonian (Paramuricea clavata) forest; Posidonia meadows nearby. Depths reported: ~34m (Divernet), ~35m (Scubaportal), 15-40m (Mister Jump). Advanced certification recommended (Scubaportal); rated medium difficulty (Enjoy Sicilia). Site-confirmed species: red gorgonians, groupers, banded and sharpsnout seabream, damselfish, greater amberjack, barracuda, Apogon imberbis, Anthias anthias, nudibranchs.",
+      "last_qa_date": "2026-11-13"
     }
   },
   {
@@ -78,10 +78,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": "true",
-      "validation_source": "enjoysicilia.it,padi.com,scubatravel.co.uk",
-      "description": "Blue Grotto near harbour; large room ~30m diameter with two branches leading into further sections and rooms; connects via a partially submerged tunnel to the adjoining Grotta di San Francesco; light rays penetrating the cave create characteristic blue colour effects. No site-specific species list found from independent sources; suitable for all certification levels and courses.",
-      "last_qa_date": "2026-07-08"
+      "validated": "false",
+      "validation_source": "unconfirmed",
+      "description": "UNRESOLVED (re-audit 2026-11-13): site-specific dive details could not be confirmed. Previously cited sources (padi.com, scubatravel.co.uk) do not mention this site on re-fetch; enjoysicilia.it dive-site list does not cover it. Only independent confirmation: Tusa (Centro Studi Ustica, Lettera 57) names the Grotta Azzurra and adjacent San Francesco Vecchio as Copper Age sites. Earlier claims (30m-diameter room, connection to Grotta di San Francesco, all-levels courses) are unverified. depth/difficulty left as placeholders.",
+      "last_qa_date": "2026-11-13"
     }
   },
   {
@@ -96,9 +96,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "visitsicily.info,enjoysicilia.it,wearepalermo.com",
-      "description": "Underwater archaeological itinerary near Punta Gavazzi lighthouse, following a route between 10-24m depth; stone and lead anchors and amphora fragments from the Roman to Byzantine periods lie on the volcanic lava rock seabed (a precise 3rd-century-BC-to-4th-century-AD dating claimed by one earlier source could not be re-confirmed and has been removed). Access via buoy north of the point or the Caletta Gavazzi platform; open to certified divers and snorkellers in shallower areas. Black lava volcanic seabed.",
-      "last_qa_date": "2026-07-08"
+      "validation_source": "visitsicily.info,misterjump.it,profondobludiving.com",
+      "description": "Marked underwater archaeological itinerary off Punta Gavazzi; route at 10-24m (VisitSicily); Mister Jump lists 12-20m. Anchors and amphorae (Roman and Byzantine per VisitSicily; Roman and pre-Roman amphorae, probably from a wreck, per Mister Jump); start at buoy north of the point or via the Caletta Gavazzi platform; Open Water certification. Profondo Blu notes the itinerary has been neglected. No site-specific marine life reported. Earlier precise dating and 'black lava seabed' claims not confirmed and removed.",
+      "last_qa_date": "2026-11-13"
     }
   },
   {
@@ -112,10 +112,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": "true",
-      "validation_source": "evasionibludiving.com,padi.com,scubatravel.co.uk",
-      "description": "Western tip of Ustica between the lighthouse and the Torre di Punta Spalmatore; Zone A boundary (strict no-take zone); shallow black volcanic rock slopes giving way to posidonia meadows; one of the island's best-known snorkelling/shallow-dive spots alongside Cala Sidoti; groupers, wrasse, sea bream; excellent shore entry for photography and first dives.",
-      "last_qa_date": "2026-07-08"
+      "validated": "false",
+      "validation_source": "unconfirmed",
+      "description": "UNRESOLVED (re-audit 2026-11-13): no source describing a dive profile at 'Punta Spalmatore' itself could be fetched. Confirmed context only: the island's first underwater archaeological itinerary (anchors of several periods) is near the Torre di Spalmatore in the Marine Reserve (Tusa, Centro Studi Ustica; also reported by search results from University of Palermo material); Orca Diving Ustica places the Piramidi dive between Punta Spalmatore and Punta Cavazzi in Zone B. Earlier claims (shore entry, 12m, Zone A, groupers/wrasse/sea bream, beginner suitability) could not be confirmed; cited evasioni/padi/scubatravel pages do not support them. depth/difficulty/entry are placeholders.",
+      "last_qa_date": "2026-11-13"
     }
   },
   {
@@ -130,9 +130,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "padi.com,scubatravel.co.uk,divernet.com",
-      "description": "Pyroclastic rock wall beneath a lighthouse at the island's southeastern point; squared blocks slope to approximately 25-31m, decorated with gorgonians from ~20m; large conger eels and shrimps documented in a cavern feature; schools of amberjack pass in open water. Sits at the boundary of Zones B/C of the MPA. Depth corrected from 27m to 31m to match sourced maximum (Scuba Travel).",
-      "last_qa_date": "2026-07-08"
+      "validation_source": "scubaportal.it,scubatravel.co.uk,enjoysicilia.it",
+      "description": "Steep, colourful rock wall on Ustica's east side (Falconiera / Omo Morto area). Scubaportal: wall from the surface to a sandy bottom at ~40m, cave at ~25-27m, all certification levels, red and yellow gorgonians, moray eels, scorpionfish, nudibranchs, shrimp, brown and golden groupers; Scuba Travel: 31m, large conger in a cavern with shrimps at the back; Enjoy Sicilia: simple wall, crustaceans, molluscs, nudibranchs. Depth reported 31-40m. No source found for an archaeological route here (earlier overview claim removed); amberjack schools, squared pyroclastic blocks and zone placement claims unconfirmed and removed.",
+      "last_qa_date": "2026-11-13"
     }
   },
   {
@@ -146,10 +146,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": "true",
-      "validation_source": "misterjump.it,evasionibludiving.com,padi.com",
-      "description": "Dark-pebble cove on Ustica's western side within Zone A (integral reserve) of the MPA, where bathing is restricted to Cala Sidoti and Cala Acquario; shallow volcanic reef to 10m; one of the island's best-known accessible shore/snorkel spots; groupers, wrasse, damselfish habituated to divers; good night dive site. No site-specific marine life survey found beyond the general reserve population.",
-      "last_qa_date": "2026-07-08"
+      "validated": "false",
+      "validation_source": "unconfirmed",
+      "description": "UNRESOLVED (re-audit 2026-11-13): only one source fetched with site detail (spiagge.it): narrow black-pebble cove on the western side, in reserve Zone A where bathing/snorkelling is allowed only inside the cove; does not mention scuba diving. Earlier 'shallow reef to 10m', 'good night dive site' and 'groupers habituated to divers' claims unconfirmed; scuba diving legality in Zone A not established. Species named by spiagge.it for the cove: sea tomatoes (Actinia), ornate wrasse, Posidonia, molluscs, crustaceans. depth/difficulty placeholders.",
+      "last_qa_date": "2026-11-13"
     }
   },
   {
@@ -165,8 +165,8 @@
       "addedBy": "fill_new_destinations",
       "validated": "false",
       "validation_source": "unconfirmed",
-      "description": "RE-AUDIT FINDING (2026-07-08): the previously published profile of this site (60m cap, wall to 80m+, 110m ledge requiring DPV/technical certification) could NOT be corroborated. Checked the full dive-site listings of 6 Ustica operators/guides directly (orcadivingustica.com's 15-site list, misterjump.it's 12-site list, scubatravel.co.uk's 8-site list, orcasub.it's 9-site list, profondobludiving.com, lustricadiving.it) plus targeted Italian- and English-language searches — none list a 'Secca di Tramontana' dive site, and none corroborate the depth figures. 'Tramontana' is a real place name (a district on Ustica's north coast, near the Faraglioni prehistoric village and the Sentiero di Tramontana hiking trail) which may be the origin of the name, but no dive site by this name was found. The coordinates given (38.735, 13.16) sit ~500-600m from Secca della Colombara (38.73, 13.155), raising the possibility this is an unconfirmed duplicate/misattribution of that site rather than a distinct location. Previously cited sources (scubatravel.co.uk, divernet.com, misterjump.it) do not contain this content on re-fetch. Un-validated pending a source that can independently confirm this site exists and describe it accurately. depth/site_type/difficulty fields left unchanged as placeholders only — do not treat as confirmed.",
-      "last_qa_date": "2026-07-08"
+      "description": "RE-AUDIT FINDING (2026-07-08, re-confirmed 2026-11-13: Orca's 15-site list, Mister Jump's 12-site list, Scubaportal, Scuba Travel, Profondo Blu and Lustrica again list no site of this name): the previously published profile of this site (60m cap, wall to 80m+, 110m ledge requiring DPV/technical certification) could NOT be corroborated. Checked the full dive-site listings of 6 Ustica operators/guides directly (orcadivingustica.com's 15-site list, misterjump.it's 12-site list, scubatravel.co.uk's 8-site list, orcasub.it's 9-site list, profondobludiving.com, lustricadiving.it) plus targeted Italian- and English-language searches — none list a 'Secca di Tramontana' dive site, and none corroborate the depth figures. 'Tramontana' is a real place name (a district on Ustica's north coast, near the Faraglioni prehistoric village and the Sentiero di Tramontana hiking trail) which may be the origin of the name, but no dive site by this name was found. The coordinates given (38.735, 13.16) sit ~500-600m from Secca della Colombara (38.73, 13.155), raising the possibility this is an unconfirmed duplicate/misattribution of that site rather than a distinct location. Previously cited sources (scubatravel.co.uk, divernet.com, misterjump.it) do not contain this content on re-fetch. Un-validated pending a source that can independently confirm this site exists and describe it accurately. depth/site_type/difficulty fields left unchanged as placeholders only — do not treat as confirmed.",
+      "last_qa_date": "2026-11-13"
     },
     "depth_max": 110
   },
@@ -176,7 +176,7 @@
     "lon": 13.152312,
     "osm_id": 2137060566,
     "osm_type": "node",
-    "depth": 40,
+    "depth": 45,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -189,9 +189,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "evasionibludiving.com,profondobludiving.com,xray-mag.com",
-      "description": "Pyramid-shaped volcanic boulders on W coast near Punta Spalmatore; top at 5-10m; several vertical chimneys lead to the Grotta dei Cirri cave, entered via a descent to approximately 28m, with panoramic openings on two sides. Plesionika narval (unicorn) shrimps, dusky groupers, lobsters, meagre, brown hake.",
-      "last_qa_date": "2026-07-08"
+      "validation_source": "orcadivingustica.com,scubaportal.it,misterjump.it,scubatravel.co.uk",
+      "description": "Dive between Punta Spalmatore and Punta Cavazzi (Zone B); two submerged mountains/pinnacles, steep canyon with walls of yellow cluster anemone and orange coral, large cave at ~35m with fan mussels and fanworms on sand, second smaller cave. Depth 0-46m (Orca), ~15-45m (Scubaportal); Deep Diver certification required (Orca), advanced certification (Scubaportal). Mister Jump lists the dive as 'Piramidi / Grotta dei Cirri'. Site-confirmed species: groupers, Mediterranean red sea star, blue spiny starfish, pencil sea urchin, mantis shrimp, encrusting sponges. Earlier claims (top at 5-10m, unicorn shrimps, meagre, brown hake) not found in any source and removed.",
+      "last_qa_date": "2026-11-13"
     }
   },
   {
@@ -211,9 +211,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "orcadivingustica.com,usticasape.it,padi.com",
-      "description": "Southern Ustica site named for a small stone ruin (originally a military post, later the home of 'zza Lisa') above the bay; a canyon begins inside the bay at ~3m and extends to 18m; west side has three large rock formations and a sloping wall with tunnels between 13-26m; amphora fragments ('spatheia') from a late-Roman farm found at ~9m in a submerged cave, and more pottery shards at ~30m among lava rocks. Depth corrected from 20m to 30m to match sourced maximum. Slipper lobsters, pencil sea urchins, mullet, nudibranchs, brown groupers, moray eels, octopus.",
-      "last_qa_date": "2026-07-08"
+      "validation_source": "orcadivingustica.com,misterjump.it,scubaportal.it,scubatravel.co.uk",
+      "description": "Small cove on Ustica's south side (~10 min by boat, Orca); canyon from ~3m inside the bay to over 18m, tunnels at 13-26m, west-side cave of 'zza Lisa, sloping wall with a cave; ruin at the top of the bay was a military post, later home of 'zza Lisa. Depths reported: 0-30m (Orca), 15-30m (Mister Jump), ~40m sandy bottom (Scubaportal), swim-through at 27m (Scuba Travel). Site-confirmed species: slipper lobster, moray eel, brown grouper, banded seabream, Astroides calycularis, Petrosia sponge, nudibranchs. Earlier amphora/late-Roman farm claims not found in any source and removed.",
+      "last_qa_date": "2026-11-13"
     }
   },
   {
@@ -233,9 +233,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "orcadivingustica.com,profondobludiving.com,scubatravel.co.uk",
-      "description": "Punta Galera cave; entrance arch at ~40m (just under 2m high, ~6m wide) on a sandy seabed; main chamber with a vault ~10m high and diameter of 30m+; narrows to a corridor exiting at ~24m. Sources disagree on total route length (~130m per Scuba Travel vs ~320m per Orca Diving Ustica). Walls covered in thousands of Plesionika narval (unicorn shrimps). Nudibranchs (Facelina coronata, Peltodoris atromaculata), Pinna nobilis, conger eels, lobsters, forkbeard.",
-      "last_qa_date": "2026-07-08"
+      "validation_source": "orcadivingustica.com,scubatravel.co.uk,misterjump.it,scubaportal.it,profondobludiving.com",
+      "description": "Punta Galera cave; entrance ~40m (41m Scuba Travel) on sand, just under 2m high and ~6m wide (Orca); chamber vault ~10m high (Scuba Travel: 8m) and 30m+ diameter; exit at ~24m (Orca), 18m (Scuba Travel), 26-28m (Mister Jump, Profondo Blu), 27m (Scubaportal). Sources disagree on route length: ~100m (Scubaportal), ~130m (Scuba Travel), ~320m (Orca); Mister Jump gives none. Requires cave/advanced certification. Site-confirmed species: Plesionika narval shrimps, nudibranchs (Facelina coronata, Peltodoris atromaculata), Pinna nobilis, conger eels, lobsters.",
+      "last_qa_date": "2026-11-13"
     }
   }
 ]

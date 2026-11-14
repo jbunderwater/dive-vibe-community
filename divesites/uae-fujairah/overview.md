@@ -8,33 +8,26 @@ Arabian Sea coral reefs and warm-water diving in the Gulf of Oman.
 
 ## Description
 
-UAE - Fujairah is a notable diving destination in the Middle East region with depths ranging from 5 to 30 meters. Water temperatures average 22-30°C (72-86°F), with visibility typically reaching 20-40 meters (65-130 feet). Year-round diving is possible, with the best conditions during September to May.
+The Fujairah and Khor Fakkan stretch of the UAE's east coast, on the Gulf of Oman, has dive sites reported at roughly 5 to 32 m: shallow rock-and-coral islands, pinnacles, a field of sunken vehicles and two deliberately sunk support vessels.
 
 ### Diving Opportunities
 
-- **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
-- **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
+- **Island and pinnacle reefs**: Dibba Rock, Snoopy Island, Shark Island, Martini Rock and Three Rocks (Sharm Rock).
+- **Artificial reefs and wrecks**: The Car Cemetery, Inchcape 1 and Inchcape 2.
 
-### Accessibility
+### Conditions
 
-- **Getting There**: UAE - Fujairah is accessible via international and regional flights to nearby airports. Check with airlines for current routes and connections.
-- **Dive Operators**: Professional dive operators offer equipment rental, guided dives, certification courses, and boat trips to offshore sites.
-- **Accommodation**: Options range from dedicated dive resorts to budget-friendly guesthouses, with many properties located near popular dive sites.
-- **Transportation**: Local transportation and dive operator transfers are the primary means of reaching dive sites.
-- **Facilities**: Dive sites vary in available amenities; operator-run sites typically provide comprehensive facilities while remote sites may have limited infrastructure.
+- **Water and visibility**: Site listings report 22 degrees C in winter to about 32 degrees C in summer and visibility mostly 5 to 15 m (some sites up to 20 m). Plankton blooms from roughly June to September can reduce visibility (Nemo Diving Center). Listings suggest October to May as the best season.
+- **Currents**: Currents are generally mild but can strengthen at tidal changes (DivePlannerPro, Freestyle Divers).
+- **Storm history**: Cyclone Gonu in 2007 damaged coral at Dibba Rock and Snoopy Island and changed the Inchcape wrecks and Car Cemetery (Gulf News, Nemo Diving Center).
 
-### Marine Life & Environment
+### Marine Life
 
-- **Water Conditions**: Water temperatures range from 22-30°C (72-86°F) with visibility of 20-40 meters (65-130 feet) at the outer sites, though inshore visibility varies more. Currents are generally moderate, stronger at exposed pinnacles and around tidal changes.
-- **Marine Biodiversity**: Regularly reported at named dive sites: green and hawksbill turtles, blacktip reef sharks, honeycomb moray eels, rays, cuttlefish, and reef fish (fusiliers, snappers, trevally, mackerel). Whale sharks, manta rays, and hammerhead sharks are reported occasionally off Fujairah's coast (per news reports and dive operator sightings) but are not a reliable, routine encounter at any specific site in this destination's list.
-- **Conservation**: Dibba Rock and Shark Island are long-standing marine protected, no-fishing areas that have helped sustain reef fish and turtle populations.
+Fujairah's regional fauna applies, but this overview does not list species; site-specific reports are given on each site page.
 
-## Additional Information
+### Safety
 
-- **Best Time to Visit**: September to May. Diving is possible year-round.
-- **Currency**: UAE Dirham (AED)
-- **Language**: Arabic, English
-- **Safety**: Always dive within certification limits. Be aware of strong currents, fire coral, lionfish stings. Verify the location of the nearest hyperbaric chamber before diving.
+Dive within your certification limits and check current and tide conditions with a local operator. Wreck penetration requires proper training and equipment. Verify the location of the nearest hyperbaric chamber before diving.
 
 ---
-*Sources: [Scuba Diving Magazine - Whale Sharks, Warm Waters and Wonderful Wrecks in the UAE](https://www.scubadiving.com/whale-sharks-warm-waters-and-wonderful-wrecks-everything-you-need-to-know-about-diving-in-uae), [Nemo Diving Center - Fujairah dive sites](https://nemodivingcenter.com/other-diving-sites/), [MOCCAE - Fujairah Ecotourism Areas](https://moccae.gov.ae/en/knowledge/ecotourism), [Coral Creek Diving - Diving Fujairah](https://coralcreekdiving.com/diving-fujairah/). Last updated 2026-07-07.*
+*Sources: [Nemo Diving Center - Fujairah dive sites](https://nemodivingcenter.com/other-diving-sites/), [DivePlannerPro](https://diveplannerpro.com/spots/ae/united-arab-emirates/united-arab-emirates-dibba-island), [Freestyle Divers](https://freestyledivers.me/uae-dive-sites/dibba-rock/), [Gulf News - Cyclone Gonu: After The Storm](https://gulfnews.com/amp/story/uae%2Fcyclone-gonu-after-the-storm-1.465563). Last updated 2026-11-13.*

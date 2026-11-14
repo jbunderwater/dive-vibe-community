@@ -3,7 +3,7 @@ name: Three Rocks
 lat: 25.55
 lng: 56.3333
 difficulty: Beginner
-maxDepth: 14
+maxDepth: 15
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Three Rocks
 
-Three Rocks is a pinnacle dive site in UAE - Fujairah, Middle East.
+Three Rocks, also called Sharm Rock or the Three Sisters, is a group of rock pinnacles off the fishing village of Al Sharm.
 
 ## Overview
 
-Three Rocks — also listed as Sharm Rocks or the Three Sisters, named after the nearby fishing village of Al Sharm — is a trio of coral-encrusted pinnacles roughly 20 minutes by boat from Khor Fakkan, spanning approximately 150 metres in length by 100 metres wide, with a fourth submerged rock a little further out for more adventurous exploration. Depths in the range of 5 to 14 metres make it one of the most accessible sites on this stretch of coast, suitable for Discover Scuba Diving participants as well as certified divers. Turtles, cuttlefish, and jawfish are regularly reported here, along with shoals of bannerfish, parrotfish, fusiliers, jacks, and snappers, and moray eels and stingrays are also seen around the pinnacles.
+The National describes three large pinnacles close together with a crack along the top, with the tips showing at high tide and a small fourth peak that may appear at low tide. Nemo Diving Center describes three small pinnacles breaking the surface, with sheltered channels and swim-throughs, soft corals on the rocks, a crack about 150 m long and 100 m wide, and a fourth, more challenging outcrop visited mainly by advanced divers. Nemo places the site about 15 minutes south of Meridian Fujairah; DivePlannerPro says it can be reached from the beach, so entry details vary by source.
+
+Marine life reported at this site: snappers, fusiliers, shoaling jacks, bannerfish, lionfish, boxfish, jawfish and moray eels (Nemo Diving Center); parrotfish, pufferfish, cuttlefish and turtles (The National, Divecampus, DivePlannerPro); and turtles and stingrays on the sandy outskirts, with occasional whale sharks in warmer months (Nemo Diving Center).
 
 ## Site Information
 
@@ -25,11 +27,11 @@ Three Rocks — also listed as Sharm Rocks or the Three Sisters, named after the
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 14 meters
+- **Maximum Depth**: 15 meters
 
 ## Dive Notes
 
-Conditions here are normally calm, and the shallow depth range makes this a good option for an afternoon or night dive, or as a second dive of the day.
+Depth is reported inconsistently: up to 10 m (DivePlannerPro), 5 to 13 m (The National), and 12 to 15 m (Nemo Diving Center); the maximum shown is the upper value. Visibility is 5 to 15 m per Nemo. Conditions are usually calm, but current strength should be checked before circling the pinnacles. Divers visiting the fourth rock should have appropriate experience and follow their guide.
 
 ---
-*Sources: [PADI - 3 Rocks (Sharm Rock) dive site](https://www.padi.com/dive-site/united-arab-emirates/3-rocks-sharm-rock/), [Coral Creek Diving - Sharm Rocks](https://coralcreekdiving.com/diving-fujairah/sharm-rocks/), [Nemo Diving Center - Sharm Rock in Fujairah](https://nemodivingcenter.com/other-diving-sites/sharm-rock-in-fujairah/), [Sandy Beach Dive Centre - Three Rocks](https://divesandybeach.com/fujairah-dive-sites/three-rocks/). Last updated 2026-07-07.*
+*Sources: [Nemo Diving Center - Sharm Rock in Fujairah](https://nemodivingcenter.com/other-diving-sites/sharm-rock-in-fujairah/), [The National - 6 of the UAE's best scuba diving sites](https://www.thenationalnews.com/lifestyle/travel/6-of-the-uae-s-best-scuba-diving-sites-from-a-dubai-shipwreck-to-a-fujairah-marine-reserve-1.1071703), [DivePlannerPro - 3 Rocks (Sharm Rock)](https://diveplannerpro.com/es/spots/ae/united-arab-emirates/united-arab-emirates-3-rocks-sharm-rock), [Divecampus - UAE dive sites](https://divecampus.com/blogs/the-diveblog/uae-dive-sites-our-top-picks). Last updated 2026-11-13.*

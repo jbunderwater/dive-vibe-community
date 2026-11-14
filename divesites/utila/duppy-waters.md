@@ -13,36 +13,25 @@ addedBy: osm_import
 
 ## Duppy Waters
 
-Duppy Waters is a north side wall dive at the eastern end of Turtle Harbour, named after "duppy," the Caribbean Creole word for "ghost" — a reference to the way sunlight plays across the water and reef here, giving it an ethereal, ghostly appearance.
+Duppy Waters is a north side wall dive with a sand channel and barrel sponges.
 
 ## Overview
 
-Duppy Waters features a reef top at 20–25 ft (6–8 m) with a sand channel running to 60 ft (18 m) and the wall dropping beyond 140 ft (43 m). The site marks the eastern boundary of Turtle Harbour and is paired with CJ's Drop Off at the western end for back-to-back north side dives on morning boat trips. The wall is decorated with oversized barrel sponges and the reef top offers a productive coral garden, with eagle rays, stingrays, and the occasional foraging octopus reported on the sloping coral garden. Morning light on this north-facing wall provides excellent visibility into the blue during the descent.
+[We Dive Utila](https://www.wediveutila.com/utila-dive-sites) describes a reef top at 20-25 ft (6-8 m), a sand channel to about 60 ft (18 m) and a wall dropping past 140 ft (43 m). [Scuba Diver Life](https://scubadiverlife.com/the-best-dive-sites-in-utila/) lists it as a north side wall dive and mentions giant sponges. Boat dive.
 
 ## Marine Life
 
-Large barrel sponges are a defining feature of the deeper wall sections. Grouper, snapper, and turtles are regularly sighted on the reef top and upper wall. Colorful juvenile fish are abundant in the coral garden. Eagle rays patrol the wall face, and the sandy channel supports benthic species. The surrounding waters are part of the northern exposure where pelagics including barracuda and jacks appear with currents.
+Reported by We Dive Utila: large barrel sponges, big groupers, snapper, turtles and colourful juvenile fish on the reef top. Previously listed eagle rays, octopus, barracuda and jacks were removed as unconfirmed.
 
 ## Dive Profile
 
-- **Reef top**: 20–25 ft (6–8 m)
-- **Sand channel**: to 60 ft (18 m)
-- **Wall**: drops past 140 ft (43 m)
-- **Current**: Present — typically aids buoyancy and brings cleaner water
+- **Reef top**: 20-25 ft (6-8 m)
+- **Sand channel**: to ~60 ft (18 m)
+- **Wall**: past 140 ft (43 m)
 
-## Entry / Exit
+## Notes
 
-Boat dive, north side of Utila. Typically run as a morning dive alongside CJ's Drop Off.
-
-## Tips
-
-- Often paired with CJ's Drop Off in the same morning trip — plan dive profiles accordingly.
-- Watch the sloping coral garden on the reef top for eagle rays and foraging octopus.
-- The reef top at 20–25 ft makes an ideal safety stop with plenty of life to observe.
-
-## Photography
-
-Wide-angle on the barrel sponges against the deep blue wall background. The shallow reef top at 20 ft also offers good macro opportunities among juvenile reef fish.
+Earlier statements about Turtle Harbour, pairing with CJ's Drop Off and the origin of the name were removed because none of the fetched sources confirm them.
 
 ---
-*Sources: [We Dive Utila – Dive Sites](https://www.wediveutila.com/utila-dive-sites), [Scuba Diver Life – Best Dive Sites in Utila](https://scubadiverlife.com/the-best-dive-sites-in-utila/), [Scuba Diving – 10 Things We Love About Utila](https://www.scubadiving.com/10-things-we-love-about-utila), [ZuBlu – Scuba Diving in Utila](https://www.zubludiving.com/destination/honduras/bay-islands/utila). Last updated 2026-07-08 (re-audited: corrected the site's name-origin story — sources describe "duppy" as referring to a daytime sunlight effect on the water, not night-time bioluminescence as previously written; removed unsupported night-dive claim).*
+*Sources: [We Dive Utila](https://www.wediveutila.com/utila-dive-sites), [Scuba Diver Life](https://scubadiverlife.com/the-best-dive-sites-in-utila/). Last updated 2026-11-13.*

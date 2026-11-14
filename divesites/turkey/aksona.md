@@ -13,15 +13,17 @@ addedBy: osm_import
 
 ## Aksona
 
-Aksona is a wall dive site in Turkey, Europe.
+Aksona is a wall dive site beyond Karaada near Bodrum, Turkey.
 
 ## Overview
 
-Aksona (also referred to as Aksona Point or Aksona Bay), named for the Bodrum sponge hunter Aksona Mehmet, sits roughly 50 minutes by boat beyond Karaada (Black Island). Three independent sources describe the same dive profile: the wall begins at just 3 meters, slopes through the 20s, and then drops as a rock wall to 30-35 meters — this listing's depth has been corrected from an unsupported 45m to 35m to match. The site is known for its archaeological character: a Phoenician ship's anchor rests at 13.5 meters atop a flat rock, with fragments of ancient pottery/amphorae scattered across the surrounding sandy seabed. Marine life reported at the site includes groupers, barracuda, octopus, moray eels, dentex, wrasse, thornback rays, sea stars, and colorful sponges on the wall. The surface here is often windy and choppy, but underwater visibility typically reaches 20-30 meters. Given the remote location, depth, and exposure, sources consistently recommend this site for advanced/experienced divers.
+Aksona (Aksona Point) is reached by a boat ride of about 50 minutes from Bodrum, beyond Karaada (Black Island), and is named for the Bodrum sponge hunter Aksona Mehmet. The dive profile reported by a Bodrum operator (Seaworld Club, via LiveJournal) starts at about 3 m over sea grass and rock, slopes through the 20s, and drops along a rock wall to 30-35 m. The same account reports an old Phoenician ship's anchor at about 13.5 m on a flat rock and a nearly complete amphora on the sand near the wall at about 30 m. The Phoenician attribution comes from this travel-guide lineage only and is not confirmed by an archaeological source; The Scuba Tank instead mentions wrecks of an Ottoman ship in the area, so the archaeological claims should be treated as unverified.
+
+Skill-level guidance varies between sources (from intermediate-and-above to advanced only); with the 30-35 m wall and remote location it is listed here as Advanced. The Scuba Tank does not state a depth for the site.
 
 ## Marine Life
 
-Confirmed at this specific site (not a generic regional list): groupers, barracuda, octopus, moray eels, dentex, wrasse, thornback rays, sea stars, and sponge growth on the wall.
+Reported at this site: octopus, groupers (including white groupers), barracuda and moray eels, with thornback rays seen occasionally (Seaworld Club); small fish, octopus, several sea stars and colourful sponges (The Scuba Tank).
 
 ## Site Information
 
@@ -32,4 +34,4 @@ Confirmed at this specific site (not a generic regional list): groupers, barracu
 - **Maximum Depth**: 35 meters
 
 ---
-*Sources: [Just Gotta Dive — Diving Turkey's Bodrum](https://www.justgottadive.com/dive_resources/travel_articles/diving-turkeys-bodrum-bubble-cave-pacoz-bay), [Seaworld Club Diving Center, via LiveJournal](https://extremesport.livejournal.com/43149.html), [The Scuba Tank — Scuba Diving in Bodrum, Turkey](https://www.thescubatank.com/scuba-diving-in-bodrum-turkey/). Last updated 2026-07-07.*
+*Sources: [Seaworld Club Diving Center, via LiveJournal](https://extremesport.livejournal.com/43149.html), [The Scuba Tank - Scuba Diving in Bodrum](https://www.thescubatank.com/scuba-diving-in-bodrum-turkey/), [Just Gotta Dive - Diving Turkey's Bodrum](https://www.justgottadive.com/node/1852) (seen via search summary only; page blocked direct fetch). Several accounts appear to share one text lineage, so independence is limited. Last updated 2026-11-13.*

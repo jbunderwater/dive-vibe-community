@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## The Wall at Northwest Point
 
-The Wall at Northwest Point is a wall dive site in Turks and Caicos, Caribbean.
+The Wall at Northwest Point is a boat-accessed limestone wall dive in Northwest Point Marine National Park, Providenciales.
 
 ## Overview
 
-The Wall at Northwest Point anchors the Northwest Point Marine National Park, where the wall crest sits at just 10–12 metres and the face drops away into the abyss adorned with magnificent formations of gold and purple tube sponges, elephant ear sponges, and towering barrel sponges. Caribbean reef sharks are a near-constant presence along the wall, and horse-eye jacks — the signature fish of Northwest Point — often circle divers during the safety stop beneath the boat. The site combines easily with other named features at the point including The Amphitheatre, The Crack, and Coral Stairway, all offering varied topography within a single drift along the protected western coastline.
+Aqua TCI describes the Northwest Point wall as dropping from about 35ft (10m) directly to a ledge at roughly 100-120ft (30-40m), after which it falls away to over 6,000ft (2,000m). The limestone face has swim-throughs, crevices and large monoliths, with plate and brain corals. Dive Provo describes the Northwest Point walls as beginning at about 35ft and known for gold and purple tube sponges. Named sites along the same wall include Shark Hotel, The Amphitheatre and Black Coral Forest (see their own pages).
 
 ## Site Information
 
@@ -29,7 +29,7 @@ The Wall at Northwest Point anchors the Northwest Point Marine National Park, wh
 
 ## Marine Life
 
-Horse-eye jacks are described by multiple dive operators as the signature fish of Northwest Point and are reported circling divers here during the safety stop. Caribbean reef sharks are regularly reported along this stretch of wall. Sources confirm the gold and purple tube sponge formations as a defining feature of the site; sea turtles and eagle rays are commonly reported in the area but are not documented as guaranteed sightings at this specific mooring.
+Dive Provo calls horse-eye jacks the signature fish of Northwest Point (an area-level report, not specific to one mooring), and Aqua TCI mentions schooling fish along the wall. No source consulted names other species for this specific stretch of wall; the destination's regional fauna applies but no further site-specific reports were found.
 
 ---
-*Sources: [Aqua TCI - Dive Sites](https://www.aquatci.com/dive-sites/), [Times of the Islands - Wild, Wild Northwest](https://www.timespub.tc/2011/03/wild-wild-northwest/), [Visit TCI - Diving](https://www.visittci.com/things-to-do/diving). Last updated 2026-07-07.*
+*Sources: [Aqua TCI - Dive Sites](https://www.aquatci.com/dive-sites/), [Dive Provo - Dive Site Map](https://diveprovo.com/dive-sites-provo/), [Visit TCI - Diving](https://www.visittci.com/things-to-do/diving) (confirms Northwest Point National Park as a boat-access dive area). Last updated 2026-11-13.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Eagle Shoal
 
-Eagle Shoal is a remote reef formation on St. John's east end, between Ram Head and Leduck Island, known for its arches, tunnels, and a sunlit chamber called "The Cathedral."
+Eagle Shoal is a coral mound off St. John's east end exposed to open ocean, best known for a chamber called The Cathedral.
 
 ## Overview
 
-Eagle Shoal is a coral mound rising from deep water to within a few feet of the surface, exposed to the open ocean on all sides. Its centerpiece, "The Cathedral," is a large open chamber with multiple entryways where sunlight streams in dramatically; the chamber is popular enough for underwater weddings. The site is riddled with arches, tunnels, and coral caves and channels beyond the Cathedral itself. Because of its remote, exposed location, it is recommended for experienced divers rather than beginners.
+Virgin Islands Charter Yachts and Visit USVI both describe a remote site on St. John's east end, about 50 feet (15 meters) deep, exposed to the open ocean on all sides, with The Cathedral, a large open chamber with several entrances where sunlight enters, used for underwater weddings. Virgin Islands Charter Yachts rates it beginner to advanced and says the mound rises to within a couple of feet of the surface, with caves and channels; Visit USVI recommends experienced divers. Other listings seen in search results gave depths from 20 to 80 feet. Only two independent sources were fetched, so it is not marked validated.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Eagle Shoal is a coral mound rising from deep water to within a few feet of the 
 
 ## Marine Life
 
-Inside the Cathedral, divers report schools of black durgon, porkfish, and silversides, along with spotted drums and queen and French angelfish. The coral caves and channels hold copper sweepers and small baitfish. Because Eagle Shoal is exposed to open ocean on all sides, sharks and manta rays are occasionally seen passing by. An earlier version of this page named Nassau grouper, lobster, moray eels, and hawksbill turtles; no source consulted for this update confirms those species at this specific site, so they have been removed rather than carried forward unverified.
+Virgin Islands Charter Yachts reports copper sweepers and small baitfish with jacks hunting among them. Visit USVI lists copper sweepers, jacks, and queen triggerfish. Both say sharks and manta rays are sometimes seen passing by.
 
 ---
-*Sources: [Virgin Islands Charter Yachts](https://www.virgin-islands-charter-yachts.com/US_Virgin_Islands/St_John_Eagle_Shoal_dive_site.html), [CaribDiveGuide](http://www.caribdiveguide.com/Eagle_Shoal.html), [St. John Links](https://stjohnlinks.com/scuba-diving/). Last updated 2026-07-08.*
+*Sources: [Virgin Islands Charter Yachts](https://www.virgin-islands-charter-yachts.com/US_Virgin_Islands/St_John_Eagle_Shoal_dive_site.html), [Visit USVI - St. John Scuba Diving](https://www.visitusvi.com/st-john/st-john-scuba-diving/). Last updated 2026-11-13.*

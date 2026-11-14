@@ -13,13 +13,11 @@ addedBy: osm_import
 
 ## Punta Gavazzi
 
-Punta Gavazzi is a reef dive site in Ustica, Europe.
+Punta Gavazzi is an underwater archaeological itinerary off the lighthouse point on Ustica's coast.
 
 ## Overview
 
-Punta Gavazzi is an archaeological dive site off Ustica's southeastern coast, featuring a signposted underwater trail. Stone and lead anchors and amphora fragments spanning the Roman to Byzantine periods lie on the volcanic lava rock seabed along a route between 10 and 24 metres depth. A lighthouse stands above the dive site on the headland. The site's archaeological character reflects Ustica's position along ancient Sicilian Channel trading routes, and it is one of the few places in Italy where underwater archaeological finds are preserved and displayed in situ. Access is via a buoy north of the point or the platform at Caletta Gavazzi; certified divers can explore the deeper route while snorkellers can view artefacts closer to the surface.
-
-**Correction (2026-07-08 re-audit):** A previous version of this description dated the anchors to "the 3rd century BC to 4th century AD" and credited archaeologist Sebastiano Tusa with creating the trail. Neither claim could be reconfirmed against current sources — which describe the finds only as "Roman and Byzantine" without giving specific centuries, and do not name a creator — so both details have been removed rather than repeated unverified.
+VisitSicily describes a marked itinerary at 10-24 metres depth where numerous anchors tell of vessels that sheltered in the cove, along with Roman and Byzantine artefacts. Divers can start from a buoy north of Punta Gavazzi or directly from the platform at Caletta Gavazzi; the route is rated easy and open to certified Open Water divers, and shallower sections can be viewed by snorkellers. Mister Jump lists a depth of 12-20 m, notes that ships often could not free their anchors, and mentions Roman and pre-Roman amphorae that are probably the remains of a shipwreck. Profondo Blu Diving mentions ancient anchors found in the 1990s and says the itinerary has been neglected, so current condition and signage should be checked with a local operator. The sources give no specific dating, and the earlier precise date range once published here could not be re-confirmed. No site-specific marine-life reports were found; the regional fauna of the Ustica Marine Protected Area applies, but no species are attributed to this site.
 
 ## Site Information
 
@@ -30,4 +28,4 @@ Punta Gavazzi is an archaeological dive site off Ustica's southeastern coast, fe
 - **Maximum Depth**: 24 meters
 
 ---
-*Sources: [Visit Sicily - Ustica Itinerario di Punta Gavazzi](https://www.visitsicily.info/en/itinerario/ustica-itinerary-of-punta-gavazzi/), [We Are Palermo - Things to Do Ustica](https://wearepalermo.com/news/things-to-do-ustica/), [EnjoyScilia - Ustica](https://www.enjoysicilia.it/en/isola-di-ustica/). Last updated 2026-07-08.*
+*Sources: [VisitSicily - Itinerary of Punta Gavazzi](https://www.visitsicily.info/en/itinerario/ustica-itinerary-of-punta-gavazzi/), [Mister Jump - Punta Gavazzi](https://www.misterjump.it/immersioni-ustica/punta-gavazzi), [Profondo Blu Diving - Ustica Essentials](https://profondobludiving.com/content/ustica-essentials.html). Last updated 2026-11-13.*

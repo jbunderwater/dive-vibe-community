@@ -2,14 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "turkey",
-    "turks-and-caicos",
-    "uae",
-    "uae-fujairah",
-    "us",
-    "us-virgin-islands",
-    "ustica",
-    "utila",
     "vancouver-island",
     "vanuatu",
     "west-pacific",
@@ -174,7 +166,15 @@
     "thailand-similan-islands",
     "tobago",
     "tonga",
-    "triton-bay"
+    "triton-bay",
+    "turkey",
+    "turks-and-caicos",
+    "uae",
+    "uae-fujairah",
+    "us",
+    "us-virgin-islands",
+    "ustica",
+    "utila"
   ],
   "history": [
     {
@@ -3852,6 +3852,101 @@
         "notes": "thailand skipped: no osm_clean data or divesites directory"
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/178"
+    },
+    {
+      "date": "2026-11-13",
+      "slugs": [
+        "turkey",
+        "turks-and-caicos",
+        "uae",
+        "uae-fujairah",
+        "us",
+        "us-virgin-islands",
+        "ustica",
+        "utila"
+      ],
+      "notes": "uae and us are isGroup=true parent slugs with no own data files -- skipped per prior-cycle precedent; ustica and utila were pulled forward to keep six real destinations. Every site in all six destinations was already validated from a prior pass (or, for 3 USVI/T&C/Ustica sites, previously unvalidated), so today was a full re-audit cycle rather than fresh validation. Most notable corrections: uae-fujairah had three sites plotted 25-30 km from their real position (Martini Rock, Shark Island, Inchcape 2) now corrected against PADI and Visit Sharjah; us-virgin-islands' WIT Shoal II, Grain Wreck, Cartanser and Rhone pages had unsourced wreck narratives replaced with cross-checked ones and four sites downgraded to unvalidated; ustica downgraded three sites whose cited sources did not describe them; utila and turkey removed fabricated wreck details (deliberate-sinking stories, a plaque, a sculptor attribution). Perplexity MCP was unavailable this session so all research used WebSearch/WebFetch; several aggregator domains returned 403/404/503 and were dropped from citations.",
+      "summary": {
+        "sites_total": 61,
+        "sites_validated_today": 0,
+        "sites_re_audited": 61,
+        "hallucinations_removed": "~149 (approx., per agent reports)",
+        "marine_life_stripped": "~72 (approx., per agent reports)",
+        "wreck_conflicts_flagged": 19,
+        "sites_unresolved": 22,
+        "by_destination": {
+          "turkey": {
+            "sites_total": 4,
+            "sites_validated_today": 0,
+            "sites_re_audited": 4,
+            "hallucinations_removed": 25,
+            "marine_life_stripped": 5,
+            "wreck_conflicts_flagged": 5,
+            "sites_unresolved": 2,
+            "notes": "All 4 sites were already validated; full re-audit plus overview.md rewrite. Removed an unsupported sculptor attribution, date, size and depth for the Kas Shark Sculpture after the cited pages could no longer be reached, stripped regional species lists that had been attributed to the wrong sites (the Big Reef list had been pasted onto the C-47 wreck page), and dropped unsourced visibility, season, cost and water-temperature figures. The Ucak Batigi C-47 wreck page now records its documented history (scuttled by BOSAD, most sources give 1 July 2008, one gives 2007) and writes out five source conflicts on length (19-20 m), depth (17-36 m across sources), breakup cause, and penetration advice; no serial, build date or tonnage is stated because no source gives them. Buyuk Resif's reef-top depth and a 50 m figure are now presented as a sourced range and a stale divessi.com citation was replaced with a verified operator page. Shark Sculpture (2 verifiable domains) and Aksona (3 domains but overlapping text lineage, one returning 403) are flagged in their footers as short of the three-independent-source bar."
+          },
+          "turks-and-caicos": {
+            "sites_total": 10,
+            "sites_validated_today": 0,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 12,
+            "marine_life_stripped": 15,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 1,
+            "notes": "All 9 validated sites re-audited against current operator and tourism sources; Southwind Wreck re-checked but stays unvalidated. Removed species lists no source supports at Black Forest, G-Spot, Northwest Point Wall and Hole in the Wall, an unsupported 6-mile wall figure at West Caicos (park size corrected to Visit TCI's figure), and Chief Ministers visibility and profile numbers that could not be re-verified; a few earlier species removals were reversed where Visit TCI, Islands.com or Dive the World do document them at that site. Coral Gardens Grace Bay is now correctly shore-entry and snorkeling-oriented. Where sources disagree the pages now say so: shark species behind the Shark Hotel name, depth ranges at Black Forest (raised to 33 m) and Shark Hotel (raised to 30 m), and the West Caicos wall length. G-Spot's difficulty was relaxed to Intermediate. Southwind Wreck has only one fetchable source and its 15 m shore-entry data conflicts with a 60-80 ft debris-field report, so the page states only what is documented; no build date, length, tonnage or sinking cause was found. Three unverifiable domains (thescubadirectory.com, divewithmia.com, originaldiving.com) were dropped from citations and overview.md's water temperature, visibility and season figures were corrected."
+          },
+          "uae-fujairah": {
+            "sites_total": 8,
+            "sites_validated_today": 0,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 30,
+            "marine_life_stripped": 4,
+            "wreck_conflicts_flagged": 3,
+            "sites_unresolved": 4,
+            "notes": "All 8 sites re-audited and kept validated with 3+ fetched domains each; every validation_source was rewritten to list only sources actually reached, dropping seven domains that could not be fetched. Several sites had coordinates 25-30 km from their real location (Martini Rock, Shark Island and Inchcape 2 were plotted near Dibba or Al Aqah instead of Khor Fakkan Bay) and are now corrected against PADI and Visit Sharjah, all within destination bounds. Roughly 30 unsupported claims were removed, including an unconfirmed Inchcape 1 sinking date and builder, an Inchcape 2 nickname and shipping date, assorted boat-time, visibility, temperature and marine-protected-area assertions, and species lists at Martini Rock, Dibba Rock, Inchcape 1 and Snoopy Island. Wreck pages now flag conflicts rather than pick: Inchcape 1 length 18-20 m, depth 30-32 m, donor identity and former-name spelling; Inchcape 2 depth 17-23 m with length, tonnage and original name omitted as unsourced; Car Cemetery vehicle count (about 200 originally versus about 50 now) and unverified position. Dibba Rock reclassified from wall to reef and four site depths aligned with sources. Car Cemetery, Three Rocks, Martini Rock and Inchcape 1 carry open-conflict notes (position, entry method, structure, tonnage/builder)."
+          },
+          "us-virgin-islands": {
+            "sites_total": 14,
+            "sites_validated_today": 0,
+            "sites_re_audited": 14,
+            "hallucinations_removed": 22,
+            "marine_life_stripped": 30,
+            "wreck_conflicts_flagged": 7,
+            "sites_unresolved": 4,
+            "notes": "All 14 sites were re-audited; 10 re-confirmed against 3+ independent domains and 4 (Salt River Canyon, The Pinnacle St. Croix, Eagle Shoal, Sapphire Beach Reef) downgraded to unvalidated after falling short of three sources or having their identity in doubt. Wreck narratives were replaced with cross-checked ones: WIT Shoal II now follows the Wikipedia record for USS LST-467 with the 1984 versus 1985 sinking date and 328-400 ft length disagreement stated openly, the Grain Wreck page drops an unsourced January 1928 grounding date (Maritimequest gives 31 May 1928) and single-sourced build and tonnage figures, and the Cartanser and Rhone pages record where sources differ on how the ship sank, piece count, depths and casualty figures. Roughly 22 unsupported claims were removed, including a fabricated whaler origin story at Cow and Calf, a French Cap swim-through that never appeared in the cited source, a Buck Island acreage figure, and overview operator, chamber, temperature and visibility assertions. Species lists were limited to site-tied reports on 8 pages and the destination-wide list removed, while several species a prior pass had cut (hammerheads at Salt River East Wall, frogfish and flying gurnards at Frederiksted Pier, black triggerfish and turtles at French Cap) were restored where operators document them. Rhone is noted as lying in British Virgin Islands waters; its record is kept with a placement note for a separate dataset decision."
+          },
+          "ustica": {
+            "sites_total": 13,
+            "sites_validated_today": 0,
+            "sites_re_audited": 13,
+            "hallucinations_removed": 20,
+            "marine_life_stripped": 7,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 4,
+            "notes": "All 13 sites re-audited against current operator sites, a regional dive guide, a tourism-board page and local archive material; 9 re-confirmed with 3-8 fetched domains each. Descriptions that could not be traced to a source were removed, including invented species lists (unicorn shrimps, meagre and hake at Le Piramidi; tuna and snappers at Colombara; amberjack schools at Punta Omo Morto), an unsupported amphora and late-Roman farm claim at Sutta za Lisa, a black-lava seabed claim at Punta Gavazzi, the overview's claim that Punta Omo Morto has an archaeological route, and three source citations (Ustica Sape, Divernet, padi.com) that did not contain the content attributed to them. The ITA wreck at Secca della Colombara now rests on three independent sources for its name, Panamanian flag, marble cargo and grounding on 21 February 2005, with its depth (20-30 m across sources), length, sinking mode and distance from shore written as conflicts; no build date or tonnage was found and no Wikipedia article exists. Scoglio del Medico's difficulty was lowered to Intermediate to match operator ratings, and two depths were aligned with sources. Grotta Azzurra, Punta Spalmatore and Cala Sidoti were downgraded to unvalidated because their previously cited sources did not describe them and no dive-specific source could be found; Secca di Tramontana remains unvalidated and is possibly a duplicate of Colombara."
+          },
+          "utila": {
+            "sites_total": 12,
+            "sites_validated_today": 0,
+            "sites_re_audited": 12,
+            "hallucinations_removed": 40,
+            "marine_life_stripped": 11,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 7,
+            "notes": "All 12 sites were already validated and were re-audited; 5 (The Maze, CJ's Drop Off, Jack Neil Point, Ted's Point, Halliburton Wreck) were re-confirmed against 3+ freshly fetched domains. Wreck histories were tightened: Ted's Point no longer says its sailboat was deliberately sunk (the only source discussing it says the cause is unknown), Ron's Wreck lost an unsupported tugboat story, and Halliburton now documents source conflicts on sinking year (1998 versus 2001), length (about 30 m versus one estimate of about 45 m) and depth (30-35 m) while dropping an unverified plaque, engine-room penetration and nitrox claims; build date, tonnage and original name are omitted as unsourced. Species lists were limited to those reported at each site on 11 pages, with two species restored where We Dive Utila confirms them, and Pretty Bush, Ron's Wreck and the overview now carry a no-site-specific-reports statement. Overview temperature, visibility, season and whale-shark-capital claims were removed. Seven sites (Black Hills, Duppy Waters, Stingray Point, Airport Caves, Pretty Bush, Lighthouse Reef, Ron's Wreck) could only be re-confirmed against 1-2 domains this session because several aggregator pages returned 403/404/503; their prior validation tags were left unchanged and each carries a qa_note. Pretty Bush's Beginner rating is flagged as doubtful for a wall descending past 30 m."
+          },
+          "uae": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory) -- skipped, consistent with prior-cycle precedent for group slugs; its child uae-fujairah was covered directly today"
+          },
+          "us": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory) -- skipped, consistent with prior-cycle precedent for group slugs; ustica and utila were pulled forward from later in the queue to keep the day's real-destination count at 6"
+          }
+        }
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/180",
+      "errors": []
     }
   ]
 }

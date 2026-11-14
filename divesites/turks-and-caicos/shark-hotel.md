@@ -3,7 +3,7 @@ name: Shark Hotel
 lat: 21.8333
 lng: -72.2333
 difficulty: Intermediate
-maxDepth: 24
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Shark Hotel
 
-Shark Hotel is a wall dive site in Turks and Caicos, Caribbean.
+Shark Hotel is a Northwest Point wall dive with a swim-through, a stand of pillar coral and a shelf on the wall.
 
 ## Overview
 
-Shark Hotel at Northwest Point takes its name from the reef sharks reliably seen here. The wall begins at around 45ft (14m) at the mooring and drops straight down to 80-100ft (24-30m), where a plateau juts out to form a shelf before the face continues into deeper water. Close to the mooring is a large stand of pillar coral, among the most impressive reported anywhere in the Turks and Caicos, with schools of grunts, snappers, and goatfish working the coral heads at the top of the wall.
+Sources agree on a sheer wall with a swim-through and a large pillar coral stand near the mooring, but differ on depths. Dive Provo reports the wall starting at about 45ft (14m) and dropping to 80-100ft (24-30m), where a plateau forms a shelf, and calls the pillar coral among the largest in the Turks and Caicos. Dive the World describes a chimney swim-through from about 80ft (24m) to the wall at about 130ft (40m), with a maximum of 150ft (46m). Divers should plan within their training and certification limits given the reported depths. Sources also disagree on the origin of the name: Aqua TCI says nurse sharks breed here, while Dive Provo and Dive the World report reef sharks.
 
 ## Site Information
 
@@ -25,11 +25,11 @@ Shark Hotel at Northwest Point takes its name from the reef sharks reliably seen
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 24 meters
+- **Maximum Depth**: 30 meters
 
 ## Marine Life
 
-Reef sharks are reliably reported patrolling the wall here — the source of the site's name. The large stand of pillar coral near the mooring supports dense schools of grunts, snappers, and goatfish at the top of the wall. Re-audit note: no source consulted for this update confirms lemon sharks, hawksbill turtles, or moray eels at this specific site; those unverified claims from the prior description have been removed.
+Reported at this site: grunts, snappers and goatfish around the coral (Dive Provo, Dive the World); blue chromis and hunting mackerel (Aqua TCI). Sharks are reported by all three sources, but the species conflicts: nurse sharks (Aqua TCI), small reef sharks (Dive Provo), Caribbean reef sharks (Dive the World).
 
 ---
-*Sources: [Aqua TCI - Dive Sites](https://www.aquatci.com/dive-sites/), [Dive Provo - Dive Site Map](https://diveprovo.com/dive-sites-provo/), [Original Diving - Deep Water Diving in the Turks and Caicos](https://www.originaldiving.com/collections/deep-water-diving-in-the-turks-and-caicos). Last updated 2026-07-07.*
+*Sources: [Aqua TCI - Dive Sites](https://www.aquatci.com/dive-sites/), [Dive Provo - Dive Site Map](https://diveprovo.com/dive-sites-provo/), [Dive the World - Turks and Caicos dive sites](https://www.dive-the-world.com/diving-sites-turks-and-caicos-islands.php). Last updated 2026-11-13.*

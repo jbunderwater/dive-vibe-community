@@ -1,7 +1,7 @@
 ---
 name: Inchcape 1
-lat: 25.5833
-lng: 56.2917
+lat: 25.5101
+lng: 56.3774
 difficulty: Advanced
 maxDepth: 32
 entryType: boat
@@ -13,13 +13,13 @@ addedBy: osm_import
 
 ## Inchcape 1
 
-Inchcape 1 is a historic wreck dive in UAE - Fujairah, Middle East.
+Inchcape 1 is a small support vessel deliberately sunk in 2001 off Al Aqah, Fujairah, to create an artificial reef.
 
 ## Overview
 
-Inchcape 1 was originally built in the USA by Halter Marine under the name Gray Swift 2, and shipped to the UAE (Ras Al Khaimah, then Dubai) around 1971-1972, where she spent nearly three decades transporting crew and supplies for Inchcape Shipping Services before being decommissioned and renamed Inchcape 1. She was deliberately sunk off Al Aqah on 12 December 2001 to create an artificial reef. Sources report the wreck resting between roughly 30 and 32 metres of water, sitting upright and now smothered in candy-coloured pink and purple Dendronephthya soft corals — the growth is thick enough in places that divers have to look closely to see the original metal. Two resident honeycomb moray eels known locally as "Fred and Wilma" occupy the wheel area, seahorses are regularly seen, and frogfish have been reported in summer. Trevally and jacks patrol above the wreck around a resident school of yellow snappers. Cyclone Gonu in 2007 tore off the wheelhouse and shifted the wreck by roughly 50 metres.
+Inchcape 1 was a crew and supply vessel for the oil industry that was donated and sunk as a dive site in 2001 (Nemo Diving Center, PADI, gCaptain). Nemo Diving Center and PADI both give her earlier name as Gray Swift 2 (PADI spells it "Grey Swift 2") and say she was US-built, with PADI giving the early 1970s and Nemo saying she was shipped to Dubai around 1971 or 1972. Her length is reported as 20 m (gCaptain, The National) or 18 m (PADI); tonnage and builder were not confirmed by two sources and are omitted. The donor is reported as Inchcape Shipping Services (gCaptain, The National), while PADI's listing says the wreck was donated to the dive operator Divers Down; the exact sinking day is given by only one source and is omitted. She sits upright on a sandy bottom, and Cyclone Gonu in 2007 tore off most of the wheelhouse (Nemo Diving Center, PADI).
 
-Exact build/keel-laying dates and the vessel's dimensions and tonnage are not consistently documented in available sources, so they are omitted here rather than guessed.
+Marine life reported at this site: pink and purple Dendronephthya soft corals, yellow snappers, jacks, barracuda, moray eels and seahorses (Nemo Diving Center); two honeycomb moray eels known as Fred and Wilma (PADI; Fred is also named by gCaptain); and rays, pufferfish, lionfish and scorpionfish (Nemo Diving Center, gCaptain).
 
 ## Site Information
 
@@ -31,7 +31,7 @@ Exact build/keel-laying dates and the vessel's dimensions and tonnage are not co
 
 ## Dive Notes
 
-The wreck sits deep enough (30-32 metres) that bottom time is limited to roughly 20 minutes on a single tank, and it is recommended for certified advanced divers with good buoyancy control; the site is also used for technical training (rebreather and sidemount) and as a night dive.
+Depth is reported as 30 m (Nemo Diving Center, gCaptain, PADI listing), 31 m maximum (PADI) and about 32 m (Khaleej Times). PADI says it is usually the first dive of the day for advanced divers and is also used for night dives. Nemo reports visibility of about 10 m. Any penetration requires proper wreck training and equipment; this site is not a casual swim-through.
 
 ---
-*Sources: [Nemo Diving Center - Exploring Inchcape wrecks in Fujairah](https://nemodivingcenter.com/blog/exploring-inchcape-wrecks-in-fujairah/), [Khaleej Times - Why UAE deliberately sank 3 ships](https://www.khaleejtimes.com/uae/environment/sunken-uae-vessels-marine-ecosystems-dive-artificial-reef), [PADI - Inchcape 1 dive site](https://www.padi.com/dive-site/united-arab-emirates/inchcape-1/), [Coral Creek Diving - Inchcape 1](https://coralcreekdiving.com/diving-fujairah/inchcape-1/). Last updated 2026-07-07.*
+*Sources: [Nemo Diving Center - Exploring Inchcape wrecks in Fujairah](https://nemodivingcenter.com/blog/exploring-inchcape-wrecks-in-fujairah/), [PADI - Inchcape 1](https://www.padi.com/dive-site/united-arab-emirates/inchcape-1/), [PADI - Inchcape 1 (second listing)](https://www.padi.com/dive-site/united-arab-emirates/inchcape-1-2/), [gCaptain - Inchcape launch boat lives on as UAE's top dive spot](https://gcaptain.com/inchcape-launch-boat-lives-on-as-uaes-top-dive-spot/), [Khaleej Times - Why UAE deliberately sank 3 ships](https://www.khaleejtimes.com/uae/environment/sunken-uae-vessels-marine-ecosystems-dive-artificial-reef), [The National - 6 of the UAE's best scuba diving sites](https://www.thenationalnews.com/lifestyle/travel/6-of-the-uae-s-best-scuba-diving-sites-from-a-dubai-shipwreck-to-a-fujairah-marine-reserve-1.1071703). Last updated 2026-11-13.*

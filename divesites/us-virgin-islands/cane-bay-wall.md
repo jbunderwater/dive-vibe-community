@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Cane Bay Wall
 
-Cane Bay Wall is St. Croix's signature dive: a shore-accessible coral wall that drops from around 12 meters into the Virgin Islands Trough.
+Cane Bay Wall is a shore-accessible coral wall on St. Croix's north shore that drops into very deep water.
 
 ## Overview
 
-Cane Bay Wall begins roughly 100 yards off Cane Bay Beach on St. Croix's north shore, where the reef slopes down to about 12 meters (40 feet) before the wall falls away into open water thousands of feet deep. Shore access to a wall dive of this scale is unusual in the Caribbean, and the site is consistently rated among the region's best. Coral gardens with sea fans and hard and soft corals line the top of the drop-off, and the site hosts a coral restoration nursery run by The Nature Conservancy — divers may see the tree-shaped outplanting structures used to grow elkhorn and staghorn coral fragments for reef restoration.
+GoToStCroix and Visit USVI both place the mooring buoy about 100 yards offshore from Cane Bay Beach. GoToStCroix reports the buoy at 26 feet and the wall dropping away from about 40 feet (12 meters); Villa Margarita likewise says the reef slopes to about 40 feet before plunging. Sources disagree on how deep the water becomes: GoToStCroix says over 3,200 feet, while Villa Margarita and Visit USVI give figures above 13,000 feet, which the compiler could not reconcile. The listed 40 m maximum depth is a diving-practical figure rather than the bottom of the wall. GoToStCroix describes shore entry from the sandy area by the boat ramp to the white mooring buoy, then a descent through sand chutes to the wall, with some surge and swell expected. A Nature Conservancy coral restoration garden with tree-shaped structures growing elkhorn and staghorn coral sits at the site (GoToStCroix). Wall depths exceed recreational limits quickly, so monitor depth carefully.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Cane Bay Wall begins roughly 100 yards off Cane Bay Beach on St. Croix's north s
 
 ## Marine Life
 
-Confirmed sightings at Cane Bay include reef sharks, southern stingrays, sea turtles, moray eels, spotted eagle rays, barracuda, and schools of triggerfish, parrotfish, angelfish, trumpetfish, and blue tangs over the coral gardens, plus flamingo tongue snails, banded coral shrimp, nudibranchs, and octopus on close inspection of the reef. No source consulted for this update confirmed whale shark sightings at Cane Bay specifically — that claim from an earlier version of this page has been removed as unsupported.
+GoToStCroix lists reef sharks, stingrays, sea turtles, barracuda, triggerfish, parrotfish, angelfish, trumpetfish, and blue tang, with flamingo tongue snails, banded shrimp, nudibranchs, and octopus in shallower areas; humpback whales may be seen or heard in March and April, and manta rays, hammerhead sharks, or whale sharks are described as rare visitors. Visit USVI gives a similar list of reef sharks, stingrays, turtles, barracuda, parrotfish, angelfish, and trumpetfish.
 
 ---
-*Sources: [GoToStCroix - Cane Bay Wall](https://www.gotostcroix.com/st-croix-dive-sites/cane-bay-wall-dropoff/), [Cane Bay Dive Shop](https://canebayscuba.com/dive-tours/), [Villa Margarita - St. Croix Dive Sites](https://villamargarita.com/st-croix-dive-sites-us-virgin-islands/). Last updated 2026-07-08.*
+*Sources: [GoToStCroix - Cane Bay Wall](https://www.gotostcroix.com/st-croix-dive-sites/cane-bay-wall-dropoff/), [Villa Margarita - St. Croix Dive Sites](https://villamargarita.com/st-croix-dive-sites-us-virgin-islands/), [Visit USVI - St. Croix Coral Reefs](https://www.visitusvi.com/experience/explore-cool-coral-reefs/), [Cane Bay Dive Shop](https://canebayscuba.com/dive-tours/). Last updated 2026-11-13.*

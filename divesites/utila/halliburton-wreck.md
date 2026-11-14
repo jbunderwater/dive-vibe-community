@@ -13,40 +13,34 @@ addedBy: osm_import
 
 ## Halliburton Wreck
 
-The Halliburton is the largest wreck dive around Utila — an approximately 100 ft (30 m) cargo ship intentionally sunk in May 1998 to create an artificial reef, now sitting perfectly upright on the sandy bottom in 100 ft (30 m) of water.
+The Halliburton is a cargo ship wreck near the Utila harbour mouth, deliberately sunk as a dive site.
 
 ## Overview
 
-The Halliburton was a cargo vessel — according to one source, used to run supplies between oil platforms — that was deliberately sunk in May 1998 to provide Utila with a dedicated wreck dive site; multiple independent sources agree on the vessel's cargo-ship identity, its approximately 30 m (100 ft) length, and the 1998 sinking date. Its build date and tonnage are not documented in any source consulted and are not stated here. The vessel lies upright on the seafloor at 100 ft (30 m), with the main deck at approximately 85 ft (26 m) and the bridge top reachable at around 65 ft (20 m). The hull rises in a near-vertical wall of steel encrusted with coral and sponges, and several sections of the wreck — including the cargo hold, wheelhouse, and engine room — are accessible for penetration dives. The wheelhouse reportedly contains a plaque reading "Jesus Was A Pirate" and dive memorabilia left by visiting professionals. Nitrox is recommended to extend bottom time at this depth. The site suits Advanced divers and is used for wreck specialty training by local operators.
+Sources describe a cargo ship about 100 ft (30 m) long, purposely sunk and resting upright on sand. [We Dive Utila](https://www.wediveutila.com/utila-dive-sites) places it at the mouth of Utila harbour, deepest point about 100 ft (30 m), main deck about 85 ft (26 m) and top of the bridge about 65 ft (20 m), and says it is the largest wreck on Utila with enterable areas. [Divemaster Austin](https://divemasteraustin.com/dive-sites/the-haliburton) says it was a cargo vessel used to run supplies between oil platforms (single source, unconfirmed elsewhere). Boat dive.
 
-Visibility in Utila regularly exceeds 100 ft (30 m), making the full profile of this wreck viewable from mid-water on descent.
+## Wreck history and source conflicts
+
+- **Sinking date**: May 1998 per [Divemaster Austin](https://divemasteraustin.com/dive-sites/the-haliburton) and [Utila Dive Center](https://utiladivecenter.wordpress.com/2011/07/20/the-halliburton-wreck/); 1998 per We Dive Utila and [Scuba Diver Life](https://scubadiverlife.com/dive-site-halliburton-wreck-utila-honduras/). [AlertDiver](https://alertdiver.eu/en_US/blog/exploring-the-wrecks-of-utila-honduras/) says "scuttled in 2001". Sources disagree; 1998 is reported by most.
+- **Length**: about 100 ft (30 m) per Utila Dive Center, Divemaster Austin and We Dive Utila; a sailing log ([Geoff Schultz](https://geoffschultz.org/Log_Page.php?subjectid=Utila:_Dive_Sites)) estimates about 150 ft. Sources report lengths between roughly 30 and 45 m.
+- **Depth**: 30 m (100 ft) per most sources, about 34 m (110 ft) per Divemaster Austin and 35 m per AlertDiver.
+- **Cause**: deliberately scuttled as a dive attraction; no source gives a reason beyond that.
+- **Build date, tonnage, original name**: not documented in any source found; omitted.
 
 ## Marine Life
 
-The wreck has become an established artificial reef ecosystem over more than 25 years. Documented residents include large green moray eels, fire worms, nudibranchs, sea slugs, small shrimp, and crabs in the crevices. Schools of snapper and blue runners circle the structure, and fusiliers pass through. Tiger groupers have been reported guarding the wheelhouse. Spotted eagle rays visit the surrounding sand.
+Reported at this site: green moray eels (We Dive Utila, Scuba Diver Life, Utila Dive Center), fire worms and sea slugs (We Dive Utila), snapper, fusiliers, blue runners, spotted eagle ray and dog snapper (Scuba Diver Life), rainbow runner, yellowtail snapper and large clams (Utila Dive Center), and large snappers and groupers inside the pilot house (Geoff Schultz). Divemaster Austin's author also reports turtles, nurse sharks, queen angelfish and barracuda.
 
 ## Dive Profile
 
-- **Maximum depth**: 100 ft (30 m) — seafloor
+- **Bottom**: ~100-110 ft (30-34 m)
 - **Main deck**: ~85 ft (26 m)
 - **Bridge top**: ~65 ft (20 m)
-- **Hull top**: accessible mid-water
-- **Penetration**: cargo hold, wheelhouse, engine room — accessible but requires proper training
-- **Nitrox**: strongly recommended for extended bottom time
-
-## Entry / Exit
-
-Boat dive from Utila town. The wreck is moored and accessed by descent line.
-
-## Tips
-
-- Advanced certification minimum; Wreck Diver specialty training is offered here by local operators.
-- Penetration of the cargo hold and interior requires proper wreck diving training and equipment (lights, line).
-- Nitrox extends bottom time at 85–100 ft significantly.
+- **Moorings**: stern ~65 ft, bow ~80 ft (Geoff Schultz)
 
 ## Safety
 
-Wreck penetration carries overhead environment risks. All penetration dives should be conducted only by divers with proper training and working dive lights. Do not enter without a certified guide on first visits.
+Scuba Diver Life describes penetrations through the cargo hold, decks and wheelhouse. Any penetration requires proper wreck training, equipment and lights; it should never be assumed safe. Nitrox is not addressed by the sources and earlier claims about it, a plaque and an engine room penetration were removed.
 
 ---
-*Sources: [Scuba Diver Life – Halliburton Wreck, Utila](https://scubadiverlife.com/dive-site-halliburton-wreck-utila-honduras/), [Utila Dive Center – The Halliburton Wreck](https://utiladivecenter.wordpress.com/2011/07/20/the-halliburton-wreck/), [Divemaster Austin – Haliburton Wreck Dive Guide](https://divemasteraustin.com/dive-sites/the-haliburton), [We Dive Utila – Dive Sites](https://www.wediveutila.com/utila-dive-sites). Last updated 2026-07-08 (re-audited: cross-checked vessel identity, length, and sinking date against 4 independent dive-specific sources — no Wikipedia entry exists for this wreck; all sources agree, no conflicts found; tonnage and build date remain unverified and are not stated).*
+*Sources: [We Dive Utila](https://www.wediveutila.com/utila-dive-sites), [Scuba Diver Life](https://scubadiverlife.com/dive-site-halliburton-wreck-utila-honduras/), [Utila Dive Center](https://utiladivecenter.wordpress.com/2011/07/20/the-halliburton-wreck/), [Divemaster Austin](https://divemasteraustin.com/dive-sites/the-haliburton), [AlertDiver](https://alertdiver.eu/en_US/blog/exploring-the-wrecks-of-utila-honduras/), [Geoff Schultz](https://geoffschultz.org/Log_Page.php?subjectid=Utila:_Dive_Sites). Last updated 2026-11-13.*

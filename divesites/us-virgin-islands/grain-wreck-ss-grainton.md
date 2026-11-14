@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Grain Wreck (SS Grainton)
 
-The "Grain Wreck" off St. Thomas is the SS Grainton, a British cargo steamer that ran aground and sank in 1928 — a different vessel from the Suffolk Maid, which this listing was previously (and incorrectly) merged with.
+The 'Grain Wreck' off St. Thomas is the SS Grainton, a British cargo steamer lost in 1928 and now lying in about 33 meters.
 
 ## Overview
 
-This QA pass found that the previous entry for this site, "Grain Wreck (Suffolk Maid)," conflated two separate wrecks. The Suffolk Maid is a 144-foot North Sea trawler scuttled in December 1985 in Butler Bay off St. Croix's west end — a different location from this site's recorded coordinates. The name "Grain Wreck" and the coordinates recorded here instead match the SS Grainton, a British collier and cargo steamer built in 1911 at Stockton-on-Tees and reported by multiple sources as just over 415 feet long. While hauling a cargo of grain from Vancouver to Hamburg, she grounded on Dry Rock near Little Saba, close to St. Thomas, on January 30, 1928, and sank the following day while under tow. She now rests near St. Thomas at a reported depth of around 33-34 meters (108-110 feet), a technical, advanced-diver site where her boilers and triple-expansion steam engine remain largely intact and recognizable. The earlier "19th-century cargo vessel" description on this page had no source support and has been replaced entirely with this researched history; the site has also been reclassified from Intermediate to Advanced to match its true depth.
+Stormy Pirates, Dolphin Water Taxi, and a ship-history database (Maritimequest) agree the Grainton was a roughly 415-416 foot British steamer lost in 1928 while bound from Vancouver to Hamburg (the first two sources give the route), and that she ended up on the seabed off St. Thomas after sinking while under tow. Stormy Pirates and Dolphin Water Taxi say she first struck rocks off Little Saba or Saba Island; Maritimequest gives the wreck date as 31 May 1928 and the site as about 6 miles southwest of Charlotte Amalie. Maritimequest lists a Grainton built by Ropner at Stockton-on-Tees in 1911 as this ship, but no second source confirms the build year, builder, or tonnage, so they are not stated here. The depth is given as about 110 feet (33 meters) by Stormy Pirates and Dolphin Water Taxi. Stormy Pirates reports the steam engine machinery as intact, though it counts three engines while Maritimequest lists a single triple-expansion engine, so the count is unresolved. Depth puts it beyond typical recreational limits, so it suits advanced divers only. This listing was previously conflated with the Suffolk Maid; that is a separate wreck.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ This QA pass found that the previous entry for this site, "Grain Wreck (Suffolk 
 
 ## Marine Life
 
-Sources describe lush coral and sponge growth over the hull, with groupers, snapper, moray eels, barracuda, sharks, and eagle rays reported around the wreck, plus crustaceans and invertebrates sheltering in the structure. An earlier version of this page named goatfish and French grunts specifically; no source consulted for this update confirms those species here, so they have been removed rather than carried forward unverified.
+Dolphin Water Taxi reports sharks, barracuda, an occasional goliath grouper, and many stingrays around the wreck. No other source consulted named species at this site.
 
 ---
-*Sources: [Just Gotta Dive - Fabulous Wreck Diving in St. Thomas](http://www.justgottadive.com/dive_resources/travel_articles/fabulous-wreck-diving-awaits-st-thomas-seven-popular-dives), [Stormy Pirates - Shipwrecks of the Virgin Islands](https://stormypirates.com/blog/shipwrecks-of-the-virgin-islands/), [Dolphin Water Taxi](https://dolphinshuttle.com/blog/2023/04/04/the-best-wreck-diving-in-the-virgin-islands/). Last updated 2026-07-08.*
+*Sources: [Stormy Pirates](https://stormypirates.com/blog/shipwrecks-of-the-virgin-islands/), [Dolphin Water Taxi](https://dolphinshuttle.com/blog/2023/04/04/the-best-wreck-diving-in-the-virgin-islands/), [Maritimequest - Grainton (1911)](https://maritimequest.com/freighters/02_pages/g/grainton_1911_data.htm). Last updated 2026-11-13.*

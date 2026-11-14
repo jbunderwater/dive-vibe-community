@@ -13,36 +13,21 @@ addedBy: osm_import
 
 ## Sutta zà Lisa
 
-Sutta zà Lisa is a wall dive site within the Ustica Marine Protected Area, Sicily, Italy.
+Sutta zà Lisa is a wall, tunnel and canyon dive in a small cove on the southern side of Ustica.
 
 ## Overview
 
-Sutta zà Lisa — "under 'zza Lisa" in Sicilian dialect — is a dive site within the Riserva Naturale Marina di Ustica (Ustica Marine Protected Area), Italy's first officially designated marine reserve, established in 1986. The name comes from a small stone ruin visible on the headland above the bay, originally a military lookout post and later the home of a woman locally remembered as "zza Lisa."
+Orca Diving Ustica describes a small cove about a 10-minute boat ride from the harbour with three main areas: a canyon on the east side with passages, the cave of 'zza Lisa on the west side, and a sloping wall beyond it with tunnels and a cave. The canyon begins inside the bay at about 3 m and extends past 18 m; Orca puts the tunnels between 13 and 26 m. At the top of the bay stands a small stone ruin that Orca says was originally a military post and later the home of 'zza Lisa, from whom the bay takes its name. Depth reports vary: 0-30 m (Orca), 15-30 m (Mister Jump, which puts the wall's base at about 18 m), a sandy bottom at about 40 m (Scubaportal), and a swim-through at 27 m (Scuba Travel). An amphora claim published earlier on this page was not found in any source and has been removed.
 
-**Re-verified 2026-07-08 — topography substantially expanded from prior description.** Orca Diving Ustica's own site page (not previously consulted) describes a canyon that begins inside the bay at around 3 metres and extends toward open water to roughly 18 metres. The west side of the site has three large rock formations, including the "cave of 'zza Lisa'" with a wide opening, and a sloping wall riddled with tunnels between 13 and 26 metres, some of them quite articulated. The overall site is reported to run about 300 metres.
-
-Amphora fragments (a type known as "spatheia") are documented at around 9 metres inside a submerged cave — refuse discarded by a late-Roman farm on the clifftop above — with further pottery shards settled into the lava rock at around 30 metres. This gives the site both marine-life and archaeological interest, consistent with the broader pattern of Roman-era wreckage found around Ustica's coastline.
-
-## Dive Profile
-
-- **Entry**: Boat
-- **Depth range**: ~3–30 m (bay canyon to deepest tunnels); maximum depth corrected to 30m to match sourced figures
-- **Topography**: Canyon, three rock formations, sloping wall with tunnels (13–26m)
-- **Conditions**: Typically calm in the Tyrrhenian; some current possible
-- **Best season**: May–October
-
-## Marine Life
-
-**Confirmed at this site** (Orca Diving Ustica, Ustica Sape): slipper lobsters, pencil sea urchins (notable here at shallower depths than their typical >40m range), grey mullet, nudibranchs and dotted sea slugs, seabream, brown groupers, moray eels, orange madrepore corals, octopus. Amberjacks and barracuda are reported in the area but are general reserve species rather than confirmed specifically at this site.
+Species reported at this site: slipper lobster, moray eel, brown grouper, banded seabream, sea bream, mullet, nudibranchs, orange Astroides coral, the sponge Petrosia and white gorgonian Eunicella singularis (Orca Diving Ustica, Mister Jump, Scuba Travel, Scubaportal).
 
 ## Site Information
 
-- **Location**: Ustica Marine Protected Area, Province of Palermo, Sicily, Italy
+- **Location**: Ustica, Europe (southern side)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Protected Status**: Riserva Naturale Marina di Ustica (established 1986, Italy's first marine reserve)
 
 ---
-*Sources: [Orca Diving Ustica — Sutta a Za' Lisa](https://www.orcadivingustica.com/en/dive-sites/sutta-a-za-lisa), [Ustica Sape — pesca subacquea con anfore, polpo e cernia](https://www.usticasape.it/ustica-pesca-subacquea-con-anfore-polpo-e-cernia/), [PADI — Diving in Ustica](https://www.padi.com/diving-in/italy/ustica/). Last updated 2026-07-08.*
+*Sources: [Orca Diving Ustica - Sutta a Za Lisa](https://www.orcadivingustica.com/en/dive-sites/sutta-a-za-lisa), [Mister Jump - Sutta a Za Lisa](https://www.misterjump.it/immersioni-ustica/sutta-a-za-lisa), [Scubaportal - Ustica (Barracuda Diving)](https://scubaportal.it/?p=2664), [SCUBA Travel - Ustica Dive Guide](https://www.scubatravel.co.uk/italy/usticadive.html). Last updated 2026-11-13.*

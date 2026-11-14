@@ -16,7 +16,8 @@
       "source": "survey",
       "sport": "scuba_diving",
       "validated": "true",
-      "last_qa_date": "2026-07-08"
+      "last_qa_date": "2026-11-13",
+      "qa_note": "2026-11-13: lionfish (cave) restored per wediveutila; nudibranch/seahorse and neighbouring-site claims removed"
     }
   },
   {
@@ -33,8 +34,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "last_qa_date": "2026-07-08",
-      "qa_note": "site_type corrected from invalid 'seamount' to 'pinnacle'; removed unconfirmed manta ray / whale shark claims"
+      "last_qa_date": "2026-11-13",
+      "qa_note": "only 2 domains verified 2026-11-13; unconfirmed side/morning claims removed"
     }
   },
   {
@@ -51,8 +52,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "last_qa_date": "2026-07-08",
-      "qa_note": "corrected name-origin claim from unconfirmed night-bioluminescence story to sourced daytime sunlight explanation"
+      "last_qa_date": "2026-11-13",
+      "qa_note": "only 2 domains verified 2026-11-13; unsupported species and pairing claims removed"
     }
   },
   {
@@ -69,7 +70,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "last_qa_date": "2026-07-08"
+      "last_qa_date": "2026-11-13",
+      "qa_note": "2026-11-13: wrasse/damselfish and Turtle Harbour claims removed"
     }
   },
   {
@@ -86,8 +88,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "last_qa_date": "2026-07-08",
-      "qa_note": "wreck facts (cargo ship, ~30m/100ft length, sunk May 1998) cross-checked across 4 independent dive-specific sources; no Wikipedia entry exists; tonnage/build date not found in any source and remain omitted"
+      "last_qa_date": "2026-11-13",
+      "qa_note": "2026-11-13: sinking-year conflict flagged (1998 vs 2001 alertdiver); length conflict (30m vs ~150ft geoffschultz); removed tiger grouper, nudibranch, plaque, engine-room penetration claims"
     }
   },
   {
@@ -104,7 +106,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "last_qa_date": "2026-07-08"
+      "last_qa_date": "2026-11-13",
+      "qa_note": "only 2 domains verified 2026-11-13; depth conflict (zentacle 49.9ft vs wediveutila 130ft channel); generic fish list removed"
     }
   },
   {
@@ -121,14 +124,14 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "last_qa_date": "2026-07-08",
-      "qa_note": "removed unconfirmed species (Caesar grunts, Nassau grouper, spotted drum, pufferfish, damselfish); added DAN-confirmed macro fauna"
+      "last_qa_date": "2026-11-13",
+      "qa_note": "2026-11-13: re-audited against wediveutila, scubadiverlife, dan.org"
     }
   },
   {
     "name": "Ron's Wreck",
-    "lat": 16.0830,
-    "lon": -86.8960,
+    "lat": 16.083,
+    "lon": -86.896,
     "depth": 18,
     "site_type": "wreck",
     "entry_type": "boat",
@@ -139,8 +142,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "last_qa_date": "2026-07-08",
-      "qa_note": "removed fabricated vessel-length claim (18m was the site depth, not the vessel's length, and no source gives an actual length); sources conflict on whether the vessel was a tugboat or a fishing/shrimp boat -- conflict noted in description; removed unconfirmed grouper/snapper"
+      "last_qa_date": "2026-11-13",
+      "qa_note": "only 1 domain verified 2026-11-13; unsupported tugboat claim and all species removed; history undocumented"
     }
   },
   {
@@ -157,7 +160,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "last_qa_date": "2026-07-08"
+      "last_qa_date": "2026-11-13",
+      "qa_note": "only 2 domains verified 2026-11-13; unconfirmed claims removed"
     }
   },
   {
@@ -174,7 +178,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "last_qa_date": "2026-07-08"
+      "last_qa_date": "2026-11-13",
+      "qa_note": "only 2 domains verified 2026-11-13; unsupported macro species removed; Beginner rating vs wall to 100ft+ needs review"
     }
   },
   {
@@ -191,7 +196,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "last_qa_date": "2026-07-08"
+      "last_qa_date": "2026-11-13",
+      "qa_note": "only 1 domain verified 2026-11-13; unsupported species removed"
     }
   },
   {
@@ -208,7 +214,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "last_qa_date": "2026-07-08"
+      "last_qa_date": "2026-11-13",
+      "qa_note": "2026-11-13: groupers restored (wediveutila); unsupported 'deliberately sunk' claim removed (geoffschultz says cause unknown)"
     }
   }
 ]
