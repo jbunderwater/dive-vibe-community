@@ -13,31 +13,30 @@ addedBy: osm_import
 
 ## Star of Russia Wreck
 
-The Star of Russia is a 19th-century iron sailing ship — built at the same Belfast shipyard that later built the Titanic — now resting upright in Port Vila Harbour, Efate, making it one of Vanuatu's more historically significant wreck dives.
+The Star of Russia is an iron sailing ship built by Harland & Wolff in Belfast in 1874, now lying upright in Port Vila Harbour, Efate, in about 34-35 m of water.
 
 ## Overview
 
-The Star of Russia was built in 1874 by Harland & Wolff of Belfast (the yard that would build the Titanic roughly forty years later) as a three-masted, iron-hulled sailing ship. Sources give her length as approximately 83–84 meters with a gross tonnage around 1,981 tons; she originally carried jute from India to Europe and later carried cargo and migrants on runs to Australia. Around 1926 she was purchased by Burns Philp & Co. and brought to Port Vila, where she was stripped down and used as a floating warehouse. She came under US Navy control during WWII (around 1942). She is reported to have sunk around 1953, but the exact date and cause of her sinking are not recorded in the sources found — rather than guess, that detail is left as unknown.
+Wikipedia (Star Line), The Yard database and McFadyen agree on a 1874 Harland & Wolff build (Yard No. 88, launched 12 December 1874) for J.P. Corry & Co., at 1,981 gross tons. Length is reported differently: 262 ft (80 m) between perpendiculars (Wikipedia, The Yard), almost 83 m (McFadyen) and 90 m (Big Blue Vanuatu).
 
-The wreck now sits upright on a sandy bottom in Port Vila Harbour, roughly 100 meters southwest of Iririki Island, at a depth of approximately 34–35 meters. Her wooden decking has largely rotted away, but the steel hull and structural joists remain substantially intact, and divers can access several internal levels.
+McFadyen records later owners including Alaska Packers Association (from 1901, when she was cut down to a barque) and Burns Philp (1926). In July 1942 she was described as a copra hulk in Port Vila Harbour. Her loss is uncertain: Wikipedia gives 1953 or 1959 and says she was possibly sunk under the name La Perouse; McFadyen says possibly 1953 and gives no cause. The cause of sinking is not documented in the sources found.
 
 ## What to Expect
 
-The wreck is dived as a straightforward descent to the hull, with the anchor equipment, three masts, crow's-nest remains, and wheel machinery among the recognizable features. Because the ship's teak decking has deteriorated, safe swim-throughs into parts of the hull are possible. Large schools of batfish are a signature sighting here, gathering around descending divers.
+The steel hull sits upright on sand; McFadyen gives the deck at 26-28 m, a mast rising to about 17 m, and sand at about 37 m. Zentacle lists the anchor windlass, bollard, deadeyes and rigging, three masts, crow's nest remains and wheel machinery, and notes the teak decking has rotted away. Penetration of any wreck requires proper training and equipment.
 
-Local sources disagree on how demanding this dive is: one dive-site directory rates it Intermediate, while another local operator describes it as an Advanced dive. Given the maximum depth of 34–35 meters — beyond typical recreational no-decompression comfort zones — this listing follows the more conservative Advanced rating and flags the discrepancy here rather than picking one source over the other.
+Difficulty ratings conflict: McFadyen calls it suitable for novices as a build-up to the Coolidge (visibility usually about 7 m, up to 15 m), Zentacle rates it Intermediate, and Big Blue Vanuatu suggests experienced divers because of the depth. This page treats 34-35 m as an advanced-depth dive.
 
 ## Practical Information
 
-- **Depth Range**: approximately 34–35 meters
-- **Visibility**: Not consistently documented across sources
-- **Currents**: Not consistently documented across sources
-- **Entry**: Boat dive from Port Vila operators, close to Iririki Island
-- **Best For**: Divers comfortable at depths approaching 35 meters; a historically rich alternative to Efate's reef diving
+- **Depth Range**: about 26-37 meters (deck to sand); wreck in roughly 35 m
+- **Visibility**: usually about 7 m, up to 15 m (McFadyen)
+- **Entry**: Boat dive; a mooring is attached to the bow (Zentacle)
+- **Best For**: Experienced divers interested in a 19th-century sailing ship
 
 ## Marine Life Highlights
 
-Large schools of batfish are specifically reported at this wreck. Beyond that, sources describe general tropical reef fish without naming further species specific to this site, so the earlier list of barracuda, trevally, lionfish, and others has been removed as unconfirmed.
+Big Blue Vanuatu reports schools of fish inside the wreck, batfish outside near the mooring line, and crocodilefish on the flat beams.
 
 ---
-*Sources: [Dive Pacific NZ - The Star of Russia](https://www.divepacific.co.nz/post/the-star-of-russia), [Big Blue Vanuatu - Dive Sites](https://bigbluevanuatu.com/sites/), [Zentacle - Star of Russia](https://www.zentacle.com/Beach/2584/star-of-russia). Last updated 2026-07-08.*
+*Sources: [Wikipedia - Star Line](https://en.wikipedia.org/wiki/Star_Line_(shipping_company)), [The Yard - Star of Russia](https://theyard.info/ships/ships.asp?entryid=88), [Michael McFadyen's Scuba Diving Web Site](https://michaelmcfadyenscuba.info/viewpage.php?page_id=46), [Big Blue Vanuatu](https://bigbluevanuatu.com/sites/), [Zentacle - Star of Russia](https://www.zentacle.com/Beach/2584/star-of-russia). Last updated 2026-11-20.*

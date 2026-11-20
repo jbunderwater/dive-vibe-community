@@ -8,17 +8,16 @@ Famous SS President Coolidge wreck dive and vibrant coral reefs.
 
 ## Description
 
-Vanuatu is a Pacific archipelago nation of 83 islands stretching across 1,300 kilometers of the southwest Pacific, and its diving reputation rests on two pillars: the SS President Coolidge wreck at Espiritu Santo, and the extraordinarily rich coral reef systems of Efate, Santo, and the outer islands. The Coolidge — a 200-meter luxury liner turned troopship, sunk in 1942 by American mines — is widely regarded as the world's most accessible large wreck dive, reachable directly from shore. Nearby Million Dollar Point, where the US military dumped millions of dollars of equipment at war's end, creates an extraordinary artificial reef of jeeps, bulldozers, trucks, and artillery. Beyond these headline sites, Vanuatu's reefs are lush and largely undisturbed, with excellent visibility and a warm, nutrient-rich current system supporting high biodiversity.
+Vanuatu is a Pacific archipelago nation of 83 islands stretching across 1,300 kilometers of the southwest Pacific, and its diving reputation rests on two pillars: the SS President Coolidge wreck at Espiritu Santo, and the extraordinarily rich coral reef systems of Efate, Santo, and the outer islands. The Coolidge — a 200-meter luxury liner turned troopship, sunk in 1942 by American mines — is widely regarded as the world's most accessible large wreck dive, reachable directly from shore. Nearby Million Dollar Point, where the US military dumped millions of dollars of equipment at war's end, creates an extraordinary artificial reef of jeeps, bulldozers, and trucks. Beyond these headline sites, Vanuatu's reefs are lush and largely undisturbed, with excellent visibility and a warm, nutrient-rich current system supporting high biodiversity.
 
 Vanuatu suits divers of all levels. The shallow reefs around Hideaway Island near Port Vila are ideal for beginners. The Coolidge is dived daily by intermediates on its upper sections, while its deepest penetration zones and the stern area are reserved for advanced and tech divers. Water temperatures average 26–29°C with visibility ranging from 20–40 meters on the reef sites and 15–30 meters on the wrecks.
 
 ### Diving Opportunities
 
-- **Wreck Diving**: The SS President Coolidge is the centerpiece — wreck diving (primarily shore entry, with boat access also used) at depths of 21–73 meters with multiple penetration levels. USS Tucker, near the Coolidge off Espiritu Santo, and Henri Bonneaud and SS Tui Tuate off Bokissa Island/Segond Channel add further Santo wrecks. Efate/Port Vila has its own wrecks, including the Konanda and the historic 1874 sailing ship Star of Russia.
-- **Artificial Reef Diving**: Million Dollar Point is a unique WWII equipment dump forming a spectacular artificial reef on a gentle slope to 40 meters.
+- **Wreck Diving**: The SS President Coolidge is the centerpiece — wreck diving (primarily shore entry, with boat access also used) at depths of 21–73 meters with multiple penetration levels. USS Tucker, near the Coolidge off Espiritu Santo, and Henri Bonneaud and SS Tui Tuate off Bokissa Island/Segond Channel add further Santo wrecks. Efate/Port Vila has its own wrecks, including the Konanda and the 1874 sailing ship Star of Russia.
+- **Artificial Reef Diving**: Million Dollar Point is a unique WWII equipment dump forming a shore-accessible artificial reef; sources report equipment at roughly 15-35 meters.
 - **Reef Diving**: Espiritu Santo's north coast reefs and the reefs around Port Vila (Efate) offer healthy hard coral gardens, soft coral walls, and strong fish density.
 - **Cave Diving**: Cathedral Cave near Port Vila offers dramatic cavern formations with excellent light play.
-- **Night Diving**: The Coolidge and the reefs around Santo deliver exceptional night dives, with crabs, octopus, and nudibranchs emerging after dark.
 
 ### Accessibility
 
@@ -30,7 +29,7 @@ Vanuatu suits divers of all levels. The shallow reefs around Hideaway Island nea
 ### Marine Life & Environment
 
 - **Water Conditions**: Temperatures 25–29°C (77–84°F) year-round, slightly cooler in June–August. Visibility typically 20–40 meters on reefs, 15–30 meters on the Coolidge. Currents generally mild to moderate; some outer reef sites can experience strong current.
-- **Marine Biodiversity**: The reefs support grey reef sharks, whitetip reef sharks, sea turtles, barracuda, dogtooth tuna, napoleon wrasse, and abundant reef fish including lionfish, clownfish (several anemone species), and nudibranchs. Dugongs are occasionally sighted around northern Santo.
+- **Marine Biodiversity**: Species lists are given on the individual site pages only where a source confirms sightings at that site.
 - **Wreck Life**: The Coolidge is carpeted in soft corals and sponges after more than eighty years underwater. "The Lady and the Unicorn" — a porcelain relief panel, not a mosaic — is the wreck's most famous single artifact.
 - **Conservation**: Vanuatu's reefs benefit from low population density and limited industrial fishing pressure. Several marine protected areas operate around Espiritu Santo and the outer islands.
 

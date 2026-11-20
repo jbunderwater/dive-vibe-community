@@ -7,7 +7,7 @@
     "osm_type": "node",
     "depth": 73,
     "site_type": "wreck",
-    "entry_type": "both",
+    "entry_type": "shore",
     "difficulty": "Advanced",
     "tags": {
       "name": "SS President Coolidge",
@@ -16,8 +16,8 @@
       "scuba_diving:type": "wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "wikipedia.org,diveplanit.com,aoreadventures.com,padi.com",
-      "last_qa_date": "2026-07-08"
+      "validation_source": "en.wikipedia.org,pacificwrecks.com,aoreadventures.com,diveplanit.com",
+      "last_qa_date": "2026-11-20"
     }
   },
   {
@@ -26,7 +26,7 @@
     "lon": 167.2452199,
     "osm_id": 1874302192,
     "osm_type": "node",
-    "depth": 40,
+    "depth": 35,
     "site_type": "wreck",
     "entry_type": "shore",
     "difficulty": "Intermediate",
@@ -40,8 +40,8 @@
       "wikidata": "Q1343406",
       "wikipedia": "de:Million Dollar Point",
       "validated": "true",
-      "validation_source": "wikipedia.org,southpacificwwiimuseum.com,aoreadventures.com,wearethemighty.com",
-      "last_qa_date": "2026-07-08"
+      "validation_source": "en.wikipedia.org,michaelmcfadyenscuba.info,diveplanit.com,aoreadventures.com,wearethemighty.com",
+      "last_qa_date": "2026-11-20"
     }
   },
   {
@@ -56,8 +56,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "wikipedia.org,destroyerhistory.org,evolutionunderwater.com,pacificwrecks.com",
-      "last_qa_date": "2026-07-08"
+      "validation_source": "en.wikipedia.org,destroyerhistory.org,evolutionunderwater.com,pacificwrecks.com,diveplanit.com",
+      "last_qa_date": "2026-11-20"
     }
   },
   {
@@ -72,8 +72,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "zentacle.com,diveplanit.com,aoreadventures.com",
-      "last_qa_date": "2026-07-08"
+      "validation_source": "diveplanit.com,zentacle.com,lonelyplanet.com,diveplannerpro.com",
+      "last_qa_date": "2026-11-20"
     }
   },
   {
@@ -88,8 +88,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "divepacific.co.nz,bigbluevanuatu.com,zentacle.com",
-      "last_qa_date": "2026-07-08"
+      "validation_source": "en.wikipedia.org,theyard.info,michaelmcfadyenscuba.info,bigbluevanuatu.com,zentacle.com",
+      "last_qa_date": "2026-11-20"
     }
   },
   {
@@ -104,8 +104,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "bigbluevanuatu.com,vanuatu.travel,michaelmcfadyenscuba.info",
-      "last_qa_date": "2026-07-08"
+      "validation_source": "bigbluevanuatu.com,vanuatu.travel,divebuddy.com",
+      "last_qa_date": "2026-11-20"
     }
   },
   {
@@ -120,8 +120,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "abyss.com.au,enezgreen.com,vanuatu.travel",
-      "last_qa_date": "2026-07-08"
+      "validation_source": "abyss.com.au,enezgreen.com,diveadventures.com.au",
+      "last_qa_date": "2026-11-20"
     }
   },
   {
@@ -136,8 +136,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "thehavannah.com,travel-news-photos-stories.com,tripadvisor.com",
-      "last_qa_date": "2026-07-08"
+      "validation_source": "michaelmcfadyenscuba.info,travel-news-photos-stories.com,thehavannah.com",
+      "last_qa_date": "2026-11-20"
     }
   },
   {
@@ -152,8 +152,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "vanuatu.travel,tripadvisor.com,divescover.com",
-      "last_qa_date": "2026-07-08"
+      "validation_source": "vanuatu.travel,zentacle.com,diveadventures.com.au",
+      "last_qa_date": "2026-11-20"
     }
   },
   {
@@ -168,8 +168,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "michaelmcfadyenscuba.info,wannadive.net,bigbluevanuatu.com",
-      "last_qa_date": "2026-07-08"
+      "validation_source": "michaelmcfadyenscuba.info,bigbluevanuatu.com,wannadive.net",
+      "last_qa_date": "2026-11-20"
     }
   },
   {
@@ -180,16 +180,13 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Hat Island East",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "validated": "true",
-      "validation_source": "michaelmcfadyenscuba.info,travel-news-photos-stories.com,critterspotter.com",
-      "last_qa_date": "2026-07-08"
+      "validated": "false",
+      "last_qa_date": "2026-11-20"
     }
   },
   {
@@ -197,38 +194,34 @@
     "lat": -17.73,
     "lon": 168.28,
     "depth": 25,
-    "site_type": "drift",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Honeybone Drift",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "validation_source": "michaelmcfadyenscuba.info,divinginvanuatu.wordpress.com",
-      "last_qa_date": "2026-07-08"
+      "validation_source": "zentacle.com,divebuddy.com,divinginvanuatu.wordpress.com",
+      "last_qa_date": "2026-11-20",
+      "validated": "true"
     }
   },
   {
     "name": "Pango Reef",
     "lat": -17.77,
     "lon": 168.3,
-    "depth": 20,
+    "depth": 23,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Pango Reef",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "validated": "true",
-      "validation_source": "zentacle.com,wannadive.net,michaelmcfadyenscuba.info",
-      "last_qa_date": "2026-07-08"
+      "validated": "false",
+      "last_qa_date": "2026-11-20"
     }
   },
   {
@@ -239,8 +232,6 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Henri Bonneaud",
       "sport": "scuba_diving",
@@ -248,7 +239,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,de.wikipedia.org,aoredise.com",
-      "last_qa_date": "2026-07-08"
+      "last_qa_date": "2026-11-20"
     }
   },
   {
@@ -259,16 +250,14 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "SS Tui Tuate",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
-      "validation_source": "michaelmcfadyenscuba.info,shipstamps.co.uk,en.wikipedia.org",
-      "last_qa_date": "2026-07-08"
+      "validation_source": "michaelmcfadyenscuba.info,shipstamps.co.uk,emuseum.aberdeencity.gov.uk,en.wikipedia.org",
+      "last_qa_date": "2026-11-20"
     }
   }
 ]

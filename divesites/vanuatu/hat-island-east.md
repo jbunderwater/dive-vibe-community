@@ -11,15 +11,11 @@ osmId: null
 addedBy: osm_import
 ---
 
-# Hat Island East
-
-A coral reef on the eastern side of Eretoka (Hat Island) in Port Havannah, part of a harbour known for its colourful corals, abundant fish life, and — across the wider Hat Island dive area — some of the largest gorgonian sea fans in Vanuatu.
-
 ## Overview
 
-Hat Island East lies on the sheltered eastern side of Eretoka, the small cone-shaped island in Port Havannah that early sailors nicknamed "Hat Island" for its distinctive profile. Havannah Harbour operators run trips out to Hat Island by boat, describing the corals here as consistently colourful and the fish life abundant. Reports of the wider Hat Island dive area also describe a "staggering assortment" of large gorgonian sea fans, a feature this eastern-side site shares.
+Hat Island (also spelled Eretoka or Eradaka) lies in Port Havannah, northern Efate. Operators such as Tranquility Island Resort and the Golden Wing day cruise dive in the Hat Island area. Sources describe individual sites there, including the Taj Mahal cave and wall dive (about 18 m), the Gorgonian Fan Circuit (5-30 m) and an Acropora reef and drop-off (5-20 m) (The Havannah), and Hat Island South West, with three coral bommies and a wall, depths of 4-40 m and a strong current (McFadyen).
 
-Depths here reach a maximum of approximately 36 metres, which puts the deeper sections of this dive in advanced-diver territory, even though the shallower shelf areas are more moderate.
+No source found describes a dive site specifically named Hat Island East, so the depth, difficulty and exposure of this listing are not confirmed by site-specific reports.
 
 ## Site Information
 
@@ -31,15 +27,7 @@ Depths here reach a maximum of approximately 36 metres, which puts the deeper se
 
 ## Marine Life
 
-The area is known for large gorgonian sea fans and generally colourful coral cover with abundant fish life. Beyond these general characteristics, no source confirms specific fish species sightings at this particular site (as opposed to other named sites within the broader Hat Island dive area, such as "Taj Mahal" or "Grotto of Clams"), so a detailed species list is not included here.
-
-## Entry and Exit
-
-Access is by boat from Havannah Harbour operators. The site is on the sheltered eastern lee of the island, so surface conditions are typically calm.
-
-## Safety Considerations
-
-The maximum depth of 36 meters limits bottom time on air and places this dive in advanced-diver territory. Plan gas management carefully and allow adequate reserves for ascent and a safety stop.
+No site-specific marine-life reports were found for this site. For the wider Hat Island area, Traveloscopy reports abundant gorgonian fans.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [Traveloscopy Travelblog](https://www.travel-news-photos-stories.com/2023/02/scuba-diving-vanuatu.html), [Critter Spotter](https://www.critterspotter.com/). Last updated 2026-07-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site - Hat Island South West](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=44), [The Havannah Vanuatu](https://thehavannah.com/?p=490), [Traveloscopy Travelblog](https://www.travel-news-photos-stories.com/2023/02/scuba-diving-vanuatu.html). No site-specific source found for this exact site. Last updated 2026-11-20.*
