@@ -34,7 +34,7 @@ X-Ray Mag describes large holes in the hull, an intact helicopter hangar and cov
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 32 meters (sources report 32-33.5 m)
+- **Maximum Depth**: 32 meters
 - **Best Time**: No site-specific season was found
 
 ## Marine Life

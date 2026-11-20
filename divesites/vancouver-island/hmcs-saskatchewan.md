@@ -29,7 +29,7 @@ Reported depths vary by source and tide. ScubaBC, X-Ray Mag and Divers Alert Net
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters (sources report 24-40 m depending on tide and structure)
+- **Maximum Depth**: 40 meters
 - **Current**: Described as mild to slight by Divers Alert Network and X-Ray Mag
 - **Best Time**: Nanaimo Dive Outfitters reports visibility is usually best September through March, with spring and summer clarity reduced by algae blooms and herring spawn
 

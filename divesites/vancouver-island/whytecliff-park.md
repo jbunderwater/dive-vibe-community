@@ -13,64 +13,51 @@ addedBy: osm_import
 
 ## Whytecliff Park
 
-Whytecliff Park is one of the premier dive sites near Vancouver, accommodating divers of a range of skill levels within one location. Located on the western tip of West Vancouver just south of Horseshoe Bay, it features an inner cove used for certification training, while more experienced divers venture to deeper walls and a sandy bay bottom toward the Queen Charlotte Channel. Whytecliff Park Marine Protected Area is a designated conservation zone.
+Whytecliff Park is a shore-entry dive in West Vancouver, near Horseshoe Bay, with a sheltered cove used for training and a wall and deeper water for experienced divers. It was designated Canada's first saltwater Marine Protected Area in 1993.
 
 ## Overview
 
-Whytecliff Park features different depth zones for different experience levels. The inner cove and ridge area offers shallow diving (roughly 5-12 meters) used for certification training. From there, a sloping rocky wall off Whyte Islet drops to about 15 meters, and the sandy bottom at the center of the bay reaches roughly 30 meters — more experienced divers push out toward Queen Charlotte Channel to depths beyond typical recreational limits. As a cold-water BC site with a real range of depths and current, this destination is rated Intermediate overall even though its inner cove remains suitable for supervised beginner and certification dives.
+Vancouver Scuba Diving School describes the main site as split by a rocky ridge visible at low tide. East of the ridge are shallow rock formations, remnants of an old marina and a boat marker, with the ridge and marker area at about 5-12 m. West of the ridge is a sloping wall with sandy ledges at varying depths that go well beyond recreational limits; this is the main area for certified dives. Whyte Islet, on the east side of the park, has a sloping rocky wall to about 15 m and can be circumnavigated in about 40 minutes. DAN describes the cove as having a sandy bottom at 15-40 ft with kelp and boulders, plumose anemone fields starting around 60 ft and cloud sponge clusters at about 85 ft.
+
+Depth figures vary by source: Zentacle lists a maximum of about 20 m but also quotes reviewers describing a sandy bottom near 100 ft (30 m) in the middle of the bay, and a reviewer who found the wall dropping past 400 ft beyond the point. This page uses 30 m as the practical maximum.
+
+The park is protected: Britishcolumbia.com and the Georgia Straight both report the 1993 designation, and Britishcolumbia.com notes that collecting marine life is prohibited and the park holds upwards of 200 marine species.
 
 ## Site Information
 
-- **Location**: West Vancouver, western tip, 15 minutes from Lions Gate Bridge
+- **Location**: Whytecliff Park, West Vancouver (Howe Sound, near Horseshoe Bay)
 - **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-20 meters
-- **Current**: Variable, can be strong (more in outer areas); thick plankton cloud common in summer
-- **Best Time**: Year-round (summer warmest)
+- **Current**: Vancouver Scuba Diving School reports surface currents can be very strong, and Zentacle reviewers report water pushing around the bay on an incoming tide
+- **Best Time**: Zentacle reviewers report fall and winter visibility of about 30-40 ft, with poor summer visibility; Vancouver Scuba Diving School notes a thick plankton cloud in summer
 
 ## Marine Life
 
-Sources (Vancouver Scuba Diving School, PADI, Zentacle) describe an anemone garden, rockfish, lingcod, kelp greenling, urchins, sea stars, brittle stars, crabs, sea cucumbers, tunicates, and Red Irish Lords in the shallower areas, with chimney/boot/cloud sponges, nudibranchs, and occasional octopus, wolf eel, grunt sculpin, and cabezon reported at deeper points. Resident harbour seals are regular visitors and sometimes join divers.
+Vancouver Scuba Diving School lists an anemone garden, rockfish, lingcod, kelp greenling, urchins, sea stars, brittle stars, crabs, sea cucumbers, tunicates, nudibranchs and red Irish lords on shallower dives, and chimney, boot and cloud sponges, lingcod, nudibranchs, octopus, wolf eel, grunt sculpin and cabezon on deeper dives, plus resident seals and ratfish. Zentacle reviewers report sea stars, nudibranchs, plumose and tube anemones, cloud sponges, rockfish, lingcod, kelp greenlings, flounder, decorated shrimp, an octopus and harbour seals. DAN adds feather stars, blood stars, orange sea pens, Puget Sound king crabs, copper and yellowtail rockfish, sailfin sculpins, midshipman and giant Pacific octopus.
 
 ## Dive Profile
 
-Certification classes and easier dives use the inner cove (5-12 meters). From there, dives progress to the ridge and plumose anemone forest (roughly 12-20 meters), then to the Whyte Islet wall (to about 15 meters) or the sandy bay bottom toward the center (to about 30 meters). Divers pushing toward Queen Charlotte Channel can go beyond typical recreational limits, so depth discipline matters here more than the "beginner site" reputation suggests.
+Training dives use the shallow cove and ridge. Experienced divers go to the plumose anemone area on the wall (Zentacle reviewers place it at 45-60 fsw), the Whyte Islet wall (to about 15 m) or the deeper cloud sponge zone. Operators note that technical divers favour the deep wall along the outer edge of the cove (X-Ray Mag).
 
 ## Entry and Exit
 
-Shore entry requires careful navigation through the park's rocky area. Divers descend from the cove area to the underwater terrain. Entry becomes easier with experience and local knowledge. Exit at the same location. The park has ample parking, concession stand, and change facilities making logistics straightforward.
+Shore entry only. Vancouver Scuba Diving School describes the main beach access as a short steep drop from the staging area, and Divers Alert Network notes a garden cart helps move gear from the lot to the beach. Zentacle reviewers describe a rock stairway or ramp and advise checking tide tables and diving at slack. The park has parking, a concession stand and a change facility (Vancouver Scuba Diving School); showers are closed in winter (Zentacle).
 
 ## Tips and Recommendations
 
-- Excellent beginner site — most accessible quality North Shore dive
-- Ideal for certification training in protected inner cove
-- Park facilities (parking, changing rooms, showers) are excellent
-- Multiple dive plans prevent repetitive visits
-- Bring underwater camera — excellent photography opportunities
-- Local guide recommended for first visits to navigate optimal entry point
-- Good visibility compared to other North Shore locations
-- Cold water (8-12°C) requires proper thermal protection
+- Arrive early on weekends; Zentacle reviewers report dive classes crowd the cove and water above about 50 fsw can be churned up.
+- Water temperature is reported at about 4-10 C (Zentacle) and 6 C (Georgia Straight), so a drysuit is recommended.
+- Check tides for the return swim.
 
 ## Safety Considerations
 
-This site spans a wide range of conditions, from the training-friendly inner cove to deeper walls and open-bay depths beyond 30 meters:
-- Inner cove (5-12m) suitable for newly certified divers under supervision
-- Outer walls and the sandy bay bottom require Intermediate certification and depth awareness
-- Cold water (8-12°C) essential
-- Thermal protection required (7mm+ wetsuit or drysuit)
-- Designated Marine Protected Area — respect conservation status
-- Always dive with buddy
-- Currents possible, especially in outer areas
-- Use SMB for ascents
-- Entry/exit can involve surge — time entry carefully
+The shallow cove suits supervised training, but the outer wall and bay bottom reach about 30 m or deeper and carry cold-water and current considerations, so the site is rated Intermediate overall. Use a surface marker buoy and watch depth on the wall.
 
 ## Photography
 
-Excellent opportunities for all skill levels. Beginner photographers can capture the wall structures and marine life. Advanced photographers can pursue macro subjects in wall crevices and anemone fields. The MPA status means healthy, thriving ecosystems with excellent photographic subjects.
-
-- **Validation Source**: Re-audited 2026-07-08 against Vancouver Scuba Diving School, PADI, and Zentacle
+Vancouver Scuba Diving School and Zentacle describe anemone gardens, sponges and nudibranchs as the main subjects.
 
 ---
-*Sources: [Vancouver Scuba Diving School — Whytecliff Park](https://www.vancouverscubadivingschool.ca/whytecliff-park/), [PADI — Whytecliff Park dive site](https://www.padi.com/dive-site/canada/whytecliff-park/), [Zentacle — Whytecliff Park](https://www.zentacle.com/Beach/1519/whytecliff-park). Last updated 2026-07-08.*
+*Sources: [Vancouver Scuba Diving School: Whytecliff Park](https://www.vancouverscubadivingschool.ca/whytecliff-park/), [Zentacle: Whytecliff Park](https://www.zentacle.com/Beach/1519/whytecliff-park), [Divers Alert Network: Howe Sound](https://dan.org/alert-diver/article/howe-sound/), [Georgia Straight: Whytecliff Marine Park](https://www.straight.com/node/33968), [BritishColumbia.com: Whytecliff Park](https://britishcolumbia.com/?p=2816), [X-Ray Mag: Diving Coastal British Columbia](https://xray-mag.com/content/diving-coastal-british-columbia). Last updated 2026-11-20.*

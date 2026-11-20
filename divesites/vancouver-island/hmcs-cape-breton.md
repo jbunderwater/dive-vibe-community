@@ -34,7 +34,7 @@ Nanaimo Dive Outfitters reports that in 2001 the ARSBC cut access openings, remo
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 44 meters (sources report 40-44 m on the seabed)
+- **Maximum Depth**: 44 meters
 - **Current**: Scuba Diver Life describes a steady pull of current; Nanaimo Dive Outfitters gives no current figures and notes that captains know the mooring and the best routes
 - **Best Time**: No site-specific season was found; Nanaimo Dive Outfitters notes that charters mostly run on weekends
 

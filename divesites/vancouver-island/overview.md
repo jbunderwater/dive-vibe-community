@@ -4,37 +4,36 @@ addedBy: osm_import
 
 ## Vancouver Island
 
-Premier cold-water diving with wolf eels, giant Pacific octopus, and colorful anemones.
+Cold-water diving around Vancouver Island and the nearby British Columbia coast: current-swept passes, walls, shore dives, and artificial-reef wrecks sunk by the Artificial Reef Society of British Columbia.
 
 ## Description
 
-Vancouver Island is a notable diving destination in the North America region with depths ranging from 5 to 30 meters. Water temperatures average 7-24°C (45-75°F), with visibility typically reaching 5-25 meters (15-80 feet). The diving season runs June to October, with the best conditions during June to October.
+The sites in this destination range from the Strait of Juan de Fuca and Victoria in the south, through Nanaimo and the Sunshine Coast, to God's Pocket near Port Hardy in the north. The list also includes several Howe Sound sites on the mainland side (Whytecliff Park, Porteau Cove, Kelvin Grove and the wreck of HMCS Annapolis).
 
 ### Diving Opportunities
 
-- **Wreck Diving**: Historic shipwrecks preserved in the region's waters
-- **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
+- **Wreck Diving**: HMCS Saskatchewan and HMCS Cape Breton, sunk off Snake Island near Nanaimo, and HMCS Annapolis in Halkett Bay are artificial-reef wrecks sunk by the Artificial Reef Society of British Columbia.
+- **Wall Diving**: Browning Wall and God's Pocket in the north, Madrona Point (Nanoose Bay), Tuwanek, Whytecliff Park and Kelvin Grove.
+- **Current Diving**: Dodd Narrows, Race Rocks and Sechelt Rapids (Skookumchuck) are dived around slack water with experienced operators.
+- **Shore Diving**: Ogden Point, Whytecliff Park, Porteau Cove, Kelvin Grove, Tuwanek and Madrona Point are accessible from shore.
 
 ### Accessibility
 
-- **Getting There**: Vancouver Island is accessible via international and regional flights to nearby airports. Check with airlines for current routes and connections.
-- **Dive Operators**: Professional dive operators offer equipment rental, guided dives, certification courses, and boat trips to offshore sites.
-- **Accommodation**: Options range from dedicated dive resorts to budget-friendly guesthouses, with many properties located near popular dive sites.
-- **Transportation**: Local transportation and dive operator transfers are the primary means of reaching dive sites.
-- **Facilities**: Dive sites vary in available amenities; operator-run sites typically provide comprehensive facilities while remote sites may have limited infrastructure.
+- **Boat sites**: God's Pocket, Race Rocks, the Snake Island wrecks, Dodd Narrows, Sechelt Rapids and HMCS Annapolis are dived from boats. Local operators and charter details are given on each site page.
+- **Facilities**: Facilities vary widely by site and are described on the individual pages. God's Pocket Marine Provincial Park has no facilities (BC Parks).
 
-### Marine Life & Environment
+### Conditions
 
-- **Water Conditions**: Water temperatures range from 7-24°C (45-75°F) with visibility of 5-25 meters (15-80 feet). Currents are generally variable, can be strong.
-- **Marine Biodiversity**: The waters support diverse marine ecosystems including sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks, giant kelp, sea urchins.
-- **Conservation**: Local conservation efforts help protect marine habitats and ensure sustainable diving practices.
+- **Water temperature**: God's Pocket Resort reports 7-9 C at God's Pocket, and Visitor in Victoria gives 8-12 C around Victoria. A drysuit or thick wetsuit is expected.
+- **Tides and current**: Tidal currents are strong at many sites (up to about 9 knots at Dodd Narrows and 16 knots or more at Sechelt Rapids), and dives there are timed to slack water.
+- **Visibility and season**: Visibility varies by site and season. Reports in the site pages note spring and fall as best at God's Pocket and Race Rocks, and fall and winter as clearest at several southern and Howe Sound sites.
+- **Marine life**: Species are described on each site page where a source reports them at that site; no regional species list is given here.
 
 ## Additional Information
 
-- **Best Time to Visit**: June to October. Outside the main season, conditions may be less favorable.
 - **Currency**: Canadian Dollar (CAD)
 - **Language**: English, French
-- **Safety**: Always dive within certification limits. Be aware of cold water, surge, limited visibility. Verify the location of the nearest hyperbaric chamber before diving.
+- **Safety**: Dive within your certification and training. Cold water, tidal current and boat traffic apply at many sites. Verify the location of the nearest hyperbaric chamber before diving.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/), [Vancouver Island Dive Sites](http://www.vancouver-island-dive-sites.com/), [Scuba Diving Magazine - BC Top 10](https://www.scubadiving.com/travel/canada/british-columbias-top-10-dives), [Pacific Pro Dive Shore Maps](https://pacificprodive.com/pages/dive-maps), [Vancouver Island North Diving](https://vancouverislandnorth.ca/activity-type/things-to-do/sports-activities/diving/). Last updated 2026-04-04.*
+*Sources: [BC Parks: God's Pocket Marine Park](https://bcparks.ca/gods-pocket-marine-park/), [God's Pocket Resort: Diving](https://www.godspocket.com/diving/), [Visitor in Victoria: Diving](https://visitorinvictoria.ca/?p=2355), [Wikipedia: Artificial Reef Society of British Columbia](https://en.wikipedia.org/wiki/Artificial_Reef_Society_of_British_Columbia), [X-Ray Mag: Diving Coastal British Columbia](https://xray-mag.com/content/diving-coastal-british-columbia). Last updated 2026-11-20.*
