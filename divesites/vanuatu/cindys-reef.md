@@ -13,28 +13,24 @@ addedBy: osm_import
 
 ## Cindy's Reef
 
-Cindy's Reef sits at the eastern tip of Aore Island, a 20-minute boat ride across the bay from Luganville, and is one of the few Espiritu Santo dive sites that isn't the SS President Coolidge — a relaxed, colourful reef dive that gives divers a break from wreck diving during a Santo trip.
+Cindy's Reef is a reef at the east end of Aore Island, across the bay from the Coolidge wreck, about 20 minutes by boat from Luganville.
 
 ## Overview
 
-The site takes its name from a visiting American diver named Cindy, who — according to the story told by local operators — had booked ten dives in Santo before realising there weren't ten different dive sites to visit. She and a local dive guide went looking for something new and found this reef, which has carried her name ever since.
+Diveplanit reports the reef runs from about 5 m at the top to 30 m at the bottom, with most time spent around 20 m; another listing gives 8-35 m, and Zentacle lists a maximum of only 12 m, so depth figures vary by source. Some parts have current and the site can be dived as a slow drift. Divers describe a large bommie of "potato head" coral among colourful coral gardens before the reef drops off into deeper water.
 
-Cindy's Reef is a gently sloping reef running from about 5 metres down to a drop-off edge around 30 metres. It's dived as a relaxed, mostly gentle drift, with the most colourful coral bommies concentrated in the mid-depths and the more interesting big-animal encounters near the drop-off edge. Visibility is typically good, and the site suits a wide range of experience levels — beginners can stay shallow over the bommies, while more experienced divers can work the edge of the drop-off.
-
-## What to Expect
-
-The reef is covered in colourful hard and soft corals, with several clownfish colonies tucked into anemones across the bommies. Green sea turtles and blue-spotted stingrays are regularly seen here, and divers who are lucky occasionally encounter a dugong in the area. Near the drop-off, keep an eye on the blue for passing pelagics. The site also rewards macro-focused divers — small reef critters are common among the coral heads — alongside the bigger animal sightings.
+Difficulty is rated Beginner by Zentacle, "easy" by Lonely Planet and Intermediate by DivePlannerPro. Diveplanit relays a story from Dave Cross of the Beachfront Resort: a visiting American diver named Cindy, who had booked ten dives, realised Santo had fewer than ten distinct sites, and she and Dave found this reef, which took her name. This is anecdotal and comes from a single operator account.
 
 ## Practical Information
 
-- **Depth Range**: 5–30 meters
-- **Currents**: Mild, with current in places; typically dived as a slow drift
+- **Depth Range**: reported 5-30 meters (other listings 8-35 m)
+- **Currents**: Some current in parts; can be dived as a slow drift
 - **Entry**: Boat dive, about 20 minutes from Luganville
-- **Best For**: Beginners looking for an easy drift; also enjoyable for experienced divers working the drop-off edge
+- **Best For**: Relaxed reef diving as a break from wreck diving
 
 ## Marine Life Highlights
 
-Clownfish and anemones, green sea turtles, blue-spotted stingrays, colourful hard and soft corals. Dugong sightings are occasionally reported but not guaranteed.
+Diveplanit reports clownfish colonies, turtles and larger animals near the drop-off edge; Zentacle reports turtles and sharks often spotted; Lonely Planet highlights anemonefish.
 
 ---
-*Sources: [Diveplanit](https://www.diveplanit.com/dive-site/cindys-reef/), [Zentacle](https://www.zentacle.com/Beach/3261/cindys-reef), [Aore Adventures](https://aoreadventures.com/diving/reefs/cindys-reef-vanuatu/). Last updated 2026-07-08.*
+*Sources: [Diveplanit - Cindy's Reef](https://www.diveplanit.com/dive-site/cindys-reef/), [Zentacle - Cindy's Reef](https://www.zentacle.com/Beach/3261/cindys-reef), [Lonely Planet - Vanuatu snorkel and scuba guide](https://www.lonelyplanet.com/articles/guide-to-vanuatu-snorkel-scuba), [DivePlannerPro - Cindy's Reef](https://diveplannerpro.com/spots/vu/espiritu-santo-island/cindy-s-reef-espiritu-santo-island-vu). Last updated 2026-11-20.*

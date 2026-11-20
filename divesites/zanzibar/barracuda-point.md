@@ -13,47 +13,37 @@ addedBy: osm_import
 
 ## Barracuda Point
 
-Barracuda Point is an outer-reef dive on Zanzibar's southeastern coast, near Paje/Jambiani — not at Nungwi as this entry previously described. Its coordinates place it well south of the Nungwi tip, in the same stretch of coast as Cement Wall, Sau Inn Garden, and Napoleon Wall.
+Barracuda Point is an outer-reef coral garden dive off Paje and Jambiani on Zanzibar's southeast coast.
 
 ## Overview
 
-The one confirmed source for this site, Paje-based operator Buccaneer Diving, describes Barracuda Point as a vast coral garden with mounds and overhangs sheltering shellfish and reef fish, in the 10-20 meter range typical of the operator's outer-reef sites accessed through gaps ("mlango") in the barrier reef. This is a substantially different picture from the previous write-up, which placed the site at Nungwi and described current-driven barracuda "tornados" of hundreds of fish, giant trevally hunts, and patrolling spinner dolphins — none of which appear in the one source located for this specific site. Those claims have been removed rather than carried forward unverified.
+Buccaneer Diving lists Barracuda Point at 10-20 m as an outer-reef drift dive: a vast coral garden with mounds and overhangs, where the dive drops onto a bed and follows a slope to about 20 m. It is one of the operator's outer-reef sites reached through a gap in the barrier reef.
 
 ## Site Information
 
-- **Location**: South East Zanzibar (Paje/Jambiani area), Tanzania — corrected from a previous "Nungwi" location claim
+- **Location**: South East Zanzibar (Paje/Jambiani area), Tanzania
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: Not confirmed for this specific site
-- **Current**: Not confirmed for this specific site; the South East outer reef generally sees tidal current
-- **Best Time**: October to April (northeast monsoon, South East Zanzibar)
+- **Current**: Dived as a drift (Buccaneer Diving)
 
 ## Marine Life
 
-The confirmed source describes a coral garden with mounds and overhangs sheltering "a variety of shellfish and some of our shyer reef fish," without naming specific fish species or confirming barracuda aggregations at this site. Given the name, barracuda sightings are plausible, but no source confirms them specifically here, so they are not stated as a guaranteed feature.
+Buccaneer Diving reports shellfish and shyer reef fish sheltering in the overhangs. No other species are reported for this site.
 
 ## Dive Profile
 
-Not confirmed in detail by available sources. Given the coral-garden-with-overhangs topography reported, expect a reef dive working through mounds and overhang structures rather than a wall or drift profile.
+Drift dive dropping onto a bed and following a slope to about 20 m (Buccaneer Diving).
 
 ## Entry and Exit
 
-Boat access from Paje/Jambiani-area operators, reached through a reef-gap ("mlango") typical of South East Zanzibar outer-reef sites.
-
-## Tips and Recommendations
-
-- Book this site through a Paje or Jambiani-based operator, not a Nungwi-based one — the two areas are roughly 50km apart on different coasts of the island
-- Ask your operator directly what marine life they've been seeing recently at this specific site, since published detail is limited
+Boat dive via the barrier-reef gap, 5-20 minutes by boat per Buccaneer Diving.
 
 ## Safety Considerations
 
-Standard outer-reef precautions apply: confirm current conditions with the boat crew before entry, and deploy an SMB before ascending given the offshore reef-gap access route.
-
-## Photography
-
-Not confirmed by available sources.
+Drift dive on the outer reef; deploy a surface marker buoy before ascending and follow the guide's briefing.
 
 ---
-*Sources: [Buccaneer Diving - Dive Zanzibar](https://www.buccaneerdiving.com/pages/dive-zanzibar/). Only one independent source was found for this specific site; treat depth, conditions, and marine life details as provisional until confirmed by additional sources. Last updated 2026-07-08.*
+*Sources: [Buccaneer Diving - Dive Zanzibar](https://www.buccaneerdiving.com/pages/dive-zanzibar/). Last updated 2026-11-20.*

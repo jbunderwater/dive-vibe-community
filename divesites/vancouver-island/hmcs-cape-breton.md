@@ -1,7 +1,7 @@
 ---
 name: HMCS Cape Breton
-lat: 49.2667
-lng: -123.25
+lat: 49.2147
+lng: -123.8845
 difficulty: Advanced
 maxDepth: 44
 entryType: boat
@@ -13,11 +13,20 @@ addedBy: osm_import
 
 ## HMCS Cape Breton
 
-The HMCS Cape Breton is the largest artificial reef in the Pacific Northwest, a 441-foot (134 m) Beachy Head-class repair ship sunk on October 20, 2001 off Snake Island near Nanaimo. Intentionally prepared with "Swiss cheese" cutaways for safe penetration, this is one of the world's premier wreck dive destinations featuring exceptional marine life colonization and dramatic exploration opportunities.
+HMCS Cape Breton is a former Royal Navy repair ship, later a Royal Canadian Navy maintenance vessel, sunk as an artificial reef off Snake Island near Nanaimo on 20 October 2001. Nanaimo Dive Outfitters calls her the largest artificial reef in the Pacific Northwest.
 
 ## Overview
 
-HMCS Cape Breton was originally launched in 1944 as HMS Flamborough Head, a Beachy Head-class fleet repair ship built for the Royal Navy, and later served as a maintenance and workshop vessel with the Royal Canadian Navy before being retired in 1964. She was intentionally scuttled on October 20, 2001 to create an artificial reef. The ship sits upright with her keel at approximately 44 meters (145 ft) depth, her main deck at 30 meters (100 ft), and her crow's nest reaching as shallow as 12 meters (40 ft). The wreck has been extensively colonized with marine life and provides an incredible artificial reef experience.
+The ship was laid down on 5 July 1944 and launched on 7 October 1944 as HMS Flamborough Head. She was renamed Cape Breton for Canadian service and paid off into reserve on 10 February 1964. The ARSBC scuttled her on 20 October 2001, and she is the sixth project on the Artificial Reef Society of British Columbia's list. She lies upright and is dived from boats out of Nanaimo, near HMCS Saskatchewan (Nanaimo Dive Outfitters describes her as about 100 m off the Saskatchewan's bow).
+
+Sources differ on several details:
+
+- **Length**: 134.6 m (441 ft) on Wikipedia, about 134 m (440 ft) at Nanaimo Dive Outfitters, 442 ft in Scuba Diver Life, 440 ft in DAN, and about 400 ft in one X-Ray Mag article.
+- **Class**: Wikipedia lists her as Cape-class in its infobox and as one of the Beachy Head-class repair ships built for the Royal Navy in its text; DAN calls her Cape-class and Scuba Diver Life calls her a Victory-class ship.
+- **Displacement**: Wikipedia gives 8,580 long tons in its infobox and 8,550 long tons standard (11,270 fully loaded) in its text.
+- **Depth**: Wikipedia gives 145 ft (44 m) on the seabed, ScubaBC and X-Ray Mag give about 140 ft (43 m), DAN gives about 130 ft (40 m), and Nanaimo Dive Outfitters gives 30-40 m depending on tide and route. Wikipedia and DAN put the main deck at about 100-110 ft (30-34 m), and Wikipedia puts the crow's nest at about 40 ft (12 m).
+
+Nanaimo Dive Outfitters reports that in 2001 the ARSBC cut access openings, removed hazardous materials and created internal pathways.
 
 ## Site Information
 
@@ -26,52 +35,35 @@ HMCS Cape Breton was originally launched in 1944 as HMS Flamborough Head, a Beac
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 44 meters
-- **Typical Visibility**: 5-15 meters
-- **Current**: Variable, generally manageable
-- **Best Time**: Summer and early fall
+- **Current**: Scuba Diver Life describes a steady pull of current; Nanaimo Dive Outfitters gives no current figures and notes that captains know the mooring and the best routes
+- **Best Time**: No site-specific season was found; Nanaimo Dive Outfitters notes that charters mostly run on weekends
 
 ## Marine Life
 
-Sources specific to the Cape Breton (Nanaimo Dive Outfitters, ScubaBC) confirm rockfish, lingcod, perch, nudibranchs, feather stars, and plumose anemones on the wreck. Earlier drafts of this page also listed octopus, wolf eels, and cabezon here; no source found during this review confirms those species specifically at the Cape Breton (as opposed to the nearby Saskatchewan or other BC wrecks), so they have been removed pending better documentation. The wreck structure provides exceptional habitat, creating one of British Columbia's most productive artificial reefs.
+Nanaimo Dive Outfitters reports plumose anemones, rockfish, lingcod, perch, nudibranchs and feather stars on the wreck. ScubaBC describes many species of rockfish and invertebrates, and DAN notes a lingcod resting on the ship. No other species were found in reports for this specific wreck.
 
 ## Dive Profile
 
-Dives typically begin with a controlled descent to the wreck. The deck lies at approximately 30 meters (100 ft), with the crow's nest accessible from 12 meters, making upper-wreck exterior exploration achievable for advanced divers. The engine room is popular for penetration divers with advanced training. Most recreational dives focus on exterior exploration and the numerous "Swiss cheese" cutaway sections designed for safe, non-disorienting access. Bottom time of 25-30 minutes is typical. Plan ascent with adequate reserve for safety stop at 5 meters.
+Nanaimo Dive Outfitters describes easy-to-follow exterior lines, swim-throughs along the upper-deck metalwork and skylight access for wreck-certified divers, and recommends recent dives in the 28-35 m range, Advanced Open Water or equivalent, and nitrox. Charters leave from Brechin Boat Launch in Nanaimo, with a 15-20 minute ride. ScubaBC identifies the engine room as a popular penetration destination for divers with wreck training, and DAN notes that interior penetration requires wreck training.
 
 ## Entry and Exit
 
-Access is by dive boat from Nanaimo operators. Entry is typically via giant stride or back roll. Descent is controlled directly to the wreck. Exit procedures follow dive briefing with SMB deployment during ascent for boat pickup.
+Access is by charter boat. A trip report describes the ascent line as hard to find and a long surface swim back to the boat after using a surface marker buoy, so follow the skipper's briefing and carry a surface marker.
 
 ## Tips and Recommendations
 
-- Book with Nanaimo-based operators experienced with Cape Breton dives
-- Bring high-intensity torches for wreck interior exploration
-- Maintain excellent buoyancy to protect delicate silt layers
-- Wreck penetration requires advanced training and equipment
-- The intentional "Swiss cheese" design eliminates traditional wreck hazards
-- Exterior exploration provides incredible photography without penetration
-- Expect cold water (8-12°C); proper thermal protection essential
-- Macro photography of heavily colonized surfaces is exceptional
+- Book with an operator that knows the mooring line and current conditions.
+- Expect silt, soft growth and tight upper-deck passages if going inside (Nanaimo Dive Outfitters).
+- Carry a primary light and a backup.
+- Visibility in a trip report was about 3 m at best; plan for variable conditions.
 
 ## Safety Considerations
 
-This is an advanced-only site. Requirements:
-- Advanced Open Water certification minimum
-- Cold-water diving experience (8-12°C)
-- Excellent buoyancy control
-- Wreck penetration requires specialized training and equipment (if attempting)
-- Thermal protection essential (7mm+ wetsuit or drysuit)
-- Proper air management discipline
-- Always dive with experienced buddy
-- Use SMB for controlled ascents
-
-The Cape Breton's intentional design with cutaways makes penetration safer than wild wrecks, but respect is essential. The engine room is popular but requires proper training.
+This is an advanced site because of depth, cold water and current. Wreck penetration is never risk-free: interior diving requires wreck-diving training, appropriate lights, a guideline and conservative gas planning. Exterior dives remain an option for divers without penetration training. Use a surface marker buoy and dive within your training.
 
 ## Photography
 
-The wreck provides dramatic wide-angle subjects with natural light filtering through portholes and openings. Torches illuminate interior details and bring out colors of anemones and other life. Macro opportunities abound on the heavily colonized hull surfaces. The scale of the wreck creates impressive depth perspectives.
-
-- **Validation Source**: Re-audited 2026-07-08 against Wikipedia, Nanaimo Dive Outfitters, and Scuba Diver Life
+Nanaimo Dive Outfitters and trip reports describe plumose anemones and encrusting life on the exterior as the main subjects.
 
 ---
-*Sources: [Wikipedia — HMCS Cape Breton (ARE 100)](https://en.wikipedia.org/wiki/HMCS_Cape_Breton_(ARE_100)), [Nanaimo Dive Outfitters — HMCS Cape Breton](https://www.nanaimodiveoutfitters.ca/dive-sites/hmcs-cape-breton/), [Scuba Diver Life — Nanaimo Wreck Diving](https://scubadiverlife.com/nanaimo-wreck-diving/). Last updated 2026-07-08.*
+*Sources: [Wikipedia: HMCS Cape Breton (ARE 100)](https://en.wikipedia.org/wiki/HMCS_Cape_Breton_(ARE_100)), [Wikipedia: Artificial Reef Society of British Columbia](https://en.wikipedia.org/wiki/Artificial_Reef_Society_of_British_Columbia), [Nanaimo Dive Outfitters](https://www.nanaimodiveoutfitters.ca/dive-sites/hmcs-cape-breton/), [ScubaBC](https://www.scubabc.ca/wreck-diving-on-vancouver-island/), [Scuba Diver Life](https://scubadiverlife.com/nanaimo-wreck-diving/), [X-Ray Mag](https://old.xray-mag.com/content/british-columbias-wreck-trek), [Divers Alert Network](https://dan.org/alert-diver/article/nanaimo/). Last updated 2026-11-20.*

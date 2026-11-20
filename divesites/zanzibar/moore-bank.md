@@ -13,26 +13,25 @@ addedBy: osm_import
 
 ## Moore Bank
 
-Moore Bank is mapped as a reef feature in the Kizimkazi/Menai Bay area southwest of Zanzibar Island. No corroborating source was found for it despite an extensive search of dive-shop listings, forums, and nautical chart resources.
+Moore Bank is a mapped reef feature in the Kizimkazi/Menai Bay area southwest of Zanzibar Island.
 
 ## Overview
 
-Coordinates place this site in the Kizimkazi/Menai Bay Conservation Area, an area that is well documented in general for dolphin encounters, coral gardens, and (per some operators) reef sharks and manta rays. However, no source specifically named "Moore Bank" was located across dive-shop pages, ScubaBoard-style forum searches, general dive guides, or nautical chart listings for the area. The previous write-up's detailed description of this site as an offshore seamount with whale shark season, bigeye trevally schools, and specific depth zonation was not supported by any source found and has been removed in full rather than partially retained.
+No dive-operator, forum or database source was found describing a dive site under this name. Its coordinates place it in the Kizimkazi/Menai Bay area.
 
 ## Site Information
 
-- **Location**: Kizimkazi/Menai Bay area, Southwest Zanzibar Island, Tanzania (based on coordinates only)
+- **Location**: Kizimkazi/Menai Bay area, Southwest Zanzibar Island, Tanzania (from coordinates)
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: Not confirmed for this specific site
 - **Current**: Not confirmed for this specific site
-- **Best Time**: Not confirmed for this specific site
 
 ## Marine Life
 
-No site-specific marine-life reports were found for this exact site name. The wider Kizimkazi/Menai Bay Conservation Area is documented for dolphins, coral gardens, and occasional reef sharks and rays, but attributing specific species to this unconfirmed site would not be supported by available sources.
+No site-specific marine-life reports were found for this site. The regional fauna of the area applies, but no species are attributed to this location.
 
 ## Dive Profile
 
@@ -40,19 +39,11 @@ Not confirmed by available sources.
 
 ## Entry and Exit
 
-Boat access from Kizimkazi-area or Zanzibar Town operators, based on the site's general location.
-
-## Tips and Recommendations
-
-- Confirm directly with a Kizimkazi-based dive operator (such as DiveTime Zanzibar) whether "Moore Bank" is a name they recognize before relying on this entry for trip planning
+Boat dive.
 
 ## Safety Considerations
 
-Not confirmed by available sources; apply standard offshore-reef precautions, including group cohesion and SMB deployment, until site-specific conditions are confirmed.
-
-## Photography
-
-Not confirmed by available sources.
+Details of this site are unconfirmed; follow the guide's briefing.
 
 ---
-*No site-specific source was found despite an extensive search. Description limited to what can be inferred from coordinates and the general Kizimkazi/Menai Bay area. Last updated 2026-07-08.*
+*Description based on location and regional diving characteristics. No site-specific sources found. Last updated 2026-11-20.*
