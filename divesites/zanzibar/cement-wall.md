@@ -11,13 +11,13 @@ osmId: 10224583148
 addedBy: osm_import
 ---
 
-## Cement Wall
+## Cement wall
 
-Cement Wall is an outer-reef wall dive on Zanzibar's southeastern coast near Paje/Jambiani, with a tiered profile from a shallow coral garden down to deeper wall sections. This is one of the few sites in this destination confirmed by three independent sources.
+Cement Wall is an outer-reef drift dive off Paje and Jambiani on Zanzibar's southeast coast, diveable across a coral garden or along a wall.
 
 ## Overview
 
-PADI's own dive-site database describes Cement Wall as a "first floor at 6m depth, coral garden until 17m, and deeper drops and walls," reaching a maximum depth of about 40 meters, and notes the site is "not challenging" with generally good visibility even in imperfect sea conditions. Buccaneer Diving, a local operator, gives a similar but slightly different range of 12-35 meters. A separate detail worth flagging: several Zanzibar tourism and dive-blog sites (repeated near-identically across at least two of the domains checked here) describe the name as coming from a ship that lost a cargo of cement here in the 1930s, leaving three large anchors on the seabed, one in front of a small cave. PADI's own site page — an independent, non-marketing database entry — makes no mention of this story at all and describes a natural coral wall and garden instead. Given that conflict, and that the "1930s ship" story could not be corroborated by a source independent of the tourism-blog lineage it circulates in, it is presented here as local lore rather than verified history, consistent with this database's policy on unconfirmed wreck/historical claims.
+Buccaneer Diving, a Paje-based operator, lists Cement Wall at 12-35 m on the outer reef, reached through a gap in the barrier reef (mlango) and dived as a drift. The operator says the dive suits all levels, since divers can stay on the garden or follow the wall. The operator and Climb Kilimanjaro Guide both say the name comes from a ship that lost a cargo of cement here in the 1930s, and that three large anchors remain on the seabed, one in front of a small cave. No vessel name, dimensions or other details for this story were found, and the two accounts may share an origin, so it should be read as the operator's account rather than confirmed history.
 
 ## Site Information
 
@@ -26,34 +26,24 @@ PADI's own dive-site database describes Cement Wall as a "first floor at 6m dept
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: Good, according to PADI, "even with not optimal sea conditions"
-- **Current**: Not precisely quantified by sources; PADI notes seasickness precautions for wave-sensitive divers on the boat ride out
-- **Best Time**: October to April (northeast monsoon, South East Zanzibar)
+- **Typical Visibility**: Not confirmed for this specific site
+- **Current**: Dived as a drift (Buccaneer Diving)
 
 ## Marine Life
 
-PADI's page mentions reef life in general plus "big groupers," sea turtles, and dolphins, and lists sharks and whales as reported sightings (frequency not specified). Buccaneer Diving separately mentions ribbon eels, sharks, Napoleon wrasse, and turtles. Between the two sources, groupers, turtles, and sharks are the best-corroborated sightings; other species mentioned by only one source should be treated as possible rather than reliable.
+Buccaneer Diving reports vivid corals and ribbon eels at this site. Climb Kilimanjaro Guide lists sharks, Napoleon wrasse and turtles for the site.
 
 ## Dive Profile
 
-Per PADI: a tiered dive starting on the 6m coral garden "first floor," continuing to 17m, then dropping into deeper wall sections toward the ~40m maximum. This matches a typical wall-dive profile of working from shallow garden into the wall face and back.
+Buccaneer Diving describes the choice of diving across the garden or along the wall, as a drift dive within the 12-35 m range.
 
 ## Entry and Exit
 
-Boat access from Paje/Jambiani-area operators, roughly 15 minutes by boat via a barrier-reef gap ("mlango") per operator descriptions of the wider South East Zanzibar site cluster.
-
-## Tips and Recommendations
-
-- Ask your operator whether they still find the reported anchors near the small cave — but treat the "1930s cement ship" backstory as local lore rather than a confirmed historical fact, since it is not corroborated by PADI's independent database entry
-- Given the tiered profile, plan a dive that starts shallow on the coral garden and works down to the wall rather than descending straight to maximum depth
+Boat dive; Buccaneer Diving describes its outer-reef sites as 5-20 minutes by boat from the mlango, which is about 15 minutes by boat from its Paje base.
 
 ## Safety Considerations
 
-Standard wall-dive depth discipline applies given the reported ~40m maximum: agree on a turnaround depth before descending and monitor NDL closely as a second dive. PADI's note about seasickness on the boat approach suggests the site can involve a choppier surface transit than sheltered lagoon sites.
-
-## Photography
-
-Not confirmed in detail by available sources. A wall-and-garden site like this typically suits both wide-angle (garden, wall face) and macro (crevice life) setups.
+At up to 35 m, agree a turnaround depth with the guide, monitor no-decompression limits and deploy a surface marker buoy before ascending from a drift dive.
 
 ---
-*Sources: [PADI - Cement Wall dive site](https://www.padi.com/dive-site/tanzania/cement-wall/), [Buccaneer Diving - Dive Zanzibar](https://www.buccaneerdiving.com/pages/dive-zanzibar/), [Climb Kilimanjaro Guide - Diving in Zanzibar](https://www.climbkilimanjaroguide.com/diving-zanzibar/). Last updated 2026-07-08.*
+*Sources: [Buccaneer Diving - Dive Zanzibar](https://www.buccaneerdiving.com/pages/dive-zanzibar/), [Climb Kilimanjaro Guide](https://www.climbkilimanjaroguide.com/diving-zanzibar/). Last updated 2026-11-20.*
