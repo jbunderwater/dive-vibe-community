@@ -13,9 +13,9 @@
       "name": "Little Wall",
       "sport": "scuba_diving",
       "validated": false,
-      "validation_source": "scubafishzanzibar.com,travelstart.co.za",
-      "validation_note": "Coordinates place this site immediately adjacent to Mnemba Island's Big Wall. Dive-shop sources describe a companion 'Small Wall' at Mnemba reaching 30-40m, but no source uses the literal name 'Little Wall', so the identification is not confirmed. Fewer than 3 independent sources found for this exact site name; not marked validated.",
-      "last_qa_date": "2026-07-08"
+      "validation_source": "scubafishzanzibar.com",
+      "validation_note": "No source uses the literal name 'Little Wall'. Scubafish Zanzibar describes a companion 'Small Wall' at Mnemba (3-40m) but identification is unconfirmed; fewer than 3 sources; not validated.",
+      "last_qa_date": "2026-11-20"
     }
   },
   {
@@ -32,9 +32,9 @@
       "name": "Big Wall",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "padi.com,tgidiving.com,buscabuceo.com,climbkilimanjaroguide.com,divessi.com",
-      "validation_note": "Confirmed by 5 independent sources as a deep advanced wall east of Mnemba Island. Reported maximum depth varies by source (55m-70m technical range; zentacle.com is an outlier reporting 25m/intermediate and was not used). depth field set to 40m as the recreational-limit figure; the wall continues well beyond that per every corroborating source.",
-      "last_qa_date": "2026-07-08"
+      "validation_source": "tgidiving.com,buscabuceo.com,climbkilimanjaroguide.com,divessi.com,scubafishzanzibar.com,diveplannerpro.com",
+      "validation_note": "Confirmed by six independent dive-operator and dive-database sources as an advanced current-exposed wall east of Mnemba Island. Reported maximum depth varies by source (40m listed with 60-70m maximum; 50m; 55m; 70m). depth field retained at 40m as a recreational-limit reference. PADI's site page returned 403 during the 2026-11-20 re-audit and was not used.",
+      "last_qa_date": "2026-11-20"
     }
   },
   {
@@ -55,8 +55,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "buccaneerdiving.com",
-      "validation_note": "Coordinates and the one confirmed source place this site in South East Zanzibar (Paje/Jambiani), not Nungwi as the prior markdown claimed -- that location error has been corrected. Only 1 independent source found describing the site itself; not marked validated.",
-      "last_qa_date": "2026-07-08"
+      "validation_note": "Only 1 operator source (buccaneerdiving.com); not validated.",
+      "last_qa_date": "2026-11-20"
     }
   },
   {
@@ -77,8 +77,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "buccaneerdiving.com",
-      "validation_note": "Only 1 independent source found (6-22m range); not marked validated.",
-      "last_qa_date": "2026-07-08"
+      "validation_note": "Only 1 operator source (6-22m lagoon range); not validated.",
+      "last_qa_date": "2026-11-20"
     }
   },
   {
@@ -99,8 +99,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "buccaneerdiving.com,scubadiverlife.com",
-      "validation_note": "2 independent sources found (still short of the 3-domain bar). Species corrected: sources describe blue-spotted stingrays (Indo-Pacific), not the Caribbean/Atlantic southern stingray species named in the prior write-up.",
-      "last_qa_date": "2026-07-08"
+      "validation_note": "2 sources found (buccaneerdiving.com, scubadiverlife.com); short of the 3-domain bar; not validated.",
+      "last_qa_date": "2026-11-20"
     }
   },
   {
@@ -120,8 +120,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "buccaneerdiving.com",
-      "validation_note": "Only 1 independent source found; not marked validated.",
-      "last_qa_date": "2026-07-08"
+      "validation_note": "Only 1 operator source; not validated.",
+      "last_qa_date": "2026-11-20"
     }
   },
   {
@@ -140,10 +140,10 @@
       "scuba_diving:divespot": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "padi.com,buccaneerdiving.com,climbkilimanjaroguide.com",
-      "validation_note": "3 independent sources confirm the site and general depth profile (6-40m tiered wall/garden). A '1930s cement-cargo ship / anchors' origin story repeats across tourism blogs but PADI's own dive-site database entry does not mention it and describes only a natural coral wall -- treated as unverified local lore in the markdown, not stated as fact.",
-      "last_qa_date": "2026-07-08"
+      "validated": false,
+      "validation_source": "buccaneerdiving.com,climbkilimanjaroguide.com",
+      "validation_note": "Re-audited 2026-11-20. Only 2 verifiable sources (buccaneerdiving.com, climbkilimanjaroguide.com); the previously listed padi.com page returned 403 and could not be re-verified, so validated reset to false. The 1930s cement-cargo ship story appears only in these two sources and may share an origin; no vessel name found.",
+      "last_qa_date": "2026-11-20"
     }
   },
   {
@@ -164,8 +164,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "buccaneerdiving.com",
-      "validation_note": "Only 1 independent source found (two pages on the same operator domain); not marked validated.",
-      "last_qa_date": "2026-07-08"
+      "validation_note": "Only 1 operator domain (two pages); not validated.",
+      "last_qa_date": "2026-11-20"
     }
   },
   {
@@ -185,8 +185,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "buccaneerdiving.com,scubadiverlife.com",
-      "validation_note": "2 independent sources found (still short of the 3-domain bar). Listed by operators as one of three 'Powoni' sites (North/Hill/South).",
-      "last_qa_date": "2026-07-08"
+      "validation_note": "Operator lists Powoni North/Hill/South as a group; Scuba Diver Life covers the Powoni area without site-level detail; not validated.",
+      "last_qa_date": "2026-11-20"
     }
   },
   {
@@ -207,8 +207,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "buccaneerdiving.com",
-      "validation_note": "Only 1 independent source found. That source reports a much wider depth range (12-75m, shallow coral heads transitioning to a deep drop-off) than the previous 18m entry; depth corrected upward but not marked validated.",
-      "last_qa_date": "2026-07-08"
+      "validation_note": "Only 1 operator source (12-75m); not validated.",
+      "last_qa_date": "2026-11-20"
     }
   },
   {
@@ -228,8 +228,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "",
-      "validation_note": "No source found under this name. Coordinates are ~150m from 'Little Wall' and within the same Mnemba Island reef system -- possible near-duplicate from overlapping scraper passes; flagged for dedup review rather than merged/removed here.",
-      "last_qa_date": "2026-07-08"
+      "validation_note": "No source found under this name; located within the Mnemba reef system close to Little Wall/Big Wall; not validated.",
+      "last_qa_date": "2026-11-20"
     }
   },
   {
@@ -249,8 +249,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "",
-      "validation_note": "No source found under this name. Located within the Mnemba Island reef system alongside Memba 1/Little Wall/Big Wall.",
-      "last_qa_date": "2026-07-08"
+      "validation_note": "No source found under this name; located within the Mnemba reef system close to Little Wall/Big Wall; not validated.",
+      "last_qa_date": "2026-11-20"
     }
   },
   {
@@ -270,9 +270,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": false,
-      "validation_source": "buccaneerdiving.com,zanzibardive.com",
-      "validation_note": "2 independent sources found (still short of the 3-domain bar), consistently reporting a 12-35m drop-off named for a resident Napoleon wrasse.",
-      "last_qa_date": "2026-07-08"
+      "validation_source": "buccaneerdiving.com",
+      "validation_note": "Only 1 operator domain (two pages); previously listed zanzibardive.com could not be verified and was removed; not validated.",
+      "last_qa_date": "2026-11-20"
     }
   },
   {
@@ -292,8 +292,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "",
-      "validation_note": "No corroborating source found (dive shop listings, forums, or nautical charts) despite extensive search. Located in the Kizimkazi/Menai Bay area based on coordinates. Content trimmed to avoid unsupported claims.",
-      "last_qa_date": "2026-07-08"
+      "validation_note": "No source found for this site name; not validated.",
+      "last_qa_date": "2026-11-20"
     }
   },
   {
@@ -313,8 +313,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "divehorizonszanzibar.com",
-      "validation_note": "1 independent source found ('Pungume Reef', 10-30m, drift diving for experienced divers, rays and seasonal whale sharks). Pungume Island itself is well documented by general tourism sources but not as a scuba site specifically. Difficulty raised from Intermediate to Advanced per the one dive-specific source.",
-      "last_qa_date": "2026-07-08"
+      "validation_note": "1 operator source seen only in search-result text; page-level verification failed; not validated.",
+      "last_qa_date": "2026-11-20"
     }
   }
 ]

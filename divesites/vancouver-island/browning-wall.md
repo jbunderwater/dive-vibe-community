@@ -13,56 +13,52 @@ addedBy: osm_import
 
 ## Browning Wall
 
-One of the finest wall dives in North America, Browning Wall is located in God's Pocket Marine Provincial Park off the northern tip of Vancouver Island. This dramatic vertical wall features dense invertebrate life in a palette of brilliant colors created by soft corals, sponges, and anemones.
+Browning Wall is a steep, invertebrate-covered rock wall in the God's Pocket area near Port Hardy, at the northern end of Vancouver Island. It is dived from a boat in a tidal pass, around slack water.
 
 ## Overview
 
-Browning Wall in God's Pocket is a world-class cold-water wall dive that showcases the temperate marine ecosystem. Recreational dives are typically planned to a maximum of about 40 meters, with the best viewing between 30-40 meters. Sources differ on how much further the wall itself continues: an older site description (seaotter.com) and Scuba Diving Magazine both describe the wall face extending to roughly 180-250 feet (55-76 meters), well beyond recreational limits — so treat the site as a wall that keeps going into technical-diving depths, not a 40-meter dive with a hard bottom. The wall's exceptional biodiversity is fueled by strong tidal currents that upwell nutrient-rich deep water, creating optimal conditions for colorful invertebrate communities. God's Pocket Resort, the main local operator, requires a minimum of 100 total dives (50+ cold-water/drysuit) before diving here.
+Divers Alert Network describes Browning Wall as a steep rock face with invertebrate growth starting just below the surface and fully established from about 30 ft (9 m) down; seaweed does not grow on the vertical face. Advanced Diver Magazine describes it as a vertical wall covered with life and notes it is often listed among the best dive sites in the world,.
+
+None of the sources reviewed gives a maximum depth for the wall. Dive Magazine and God's Pocket Resort also give no depth for the wall, and the 40 m figure in this site's data is the nominal recreational limit rather than a measured wall depth. A DAN article about nearby Browning Pass says the wall at Seven Tree Island can be followed well beyond sport-diving depths, but that is a different site.
+
+Local operator God's Pocket Resort describes strong tidal flow through Browning Pass, with exposed sites dived at slack in 45-60 minute dives and some sites dived as drifts. It requires divers to have 100 logged dives, including 50 cold-water drysuit dives. The resort's dive page names Seven Tree, Fantasy Island, Hoodi Nudi Bay, Ruth's Rocks and Buttertart rather than Browning Wall, and says site locations are shared on the boat.
 
 ## Site Information
 
-- **Location**: God's Pocket Marine Provincial Park, 20km northwest of Port Hardy
+- **Location**: God's Pocket Marine Provincial Park area, near Port Hardy, northern Vancouver Island
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
+- **Current**: Strong tidal currents; dives are timed to slack water
+- **Best Time**: God's Pocket Resort runs mid-March to May and mid-August to October; DAN describes spring and fall as the main seasons, with winter too stormy and summer plankton blooms reducing visibility
 
 ## Marine Life
 
-This site is densely populated with marine life. Confirmed residents (God's Pocket Resort, Scuba Diving Magazine) include giant Pacific octopus, the nudibranch *Dirona albolineata*, glove sponges (*Neoesperiopsis digitata*), metridium anemones, and orange/red soft corals, sculpins and additional nudibranch species. Earlier drafts of this page also listed lingcod, cabezon and wolf eels; those weren't confirmed for Browning Wall specifically in this review, so they're presented here only as commonly-seen BC reef species rather than confirmed sightings at this exact site.
+Divers Alert Network reports pinkish-red soft corals, sulfur-yellow sponges and white anemones covering the wall, with decorated crabs, nudibranchs, small sculpins and juvenile wolf-eels. Advanced Diver Magazine reports anemones, starfish, crustaceans, nudibranchs and an octopus.
 
 ## Dive Profile
 
-Dives are timed to slack tide and typically begin with a controlled descent along the wall. Most of the colorful invertebrate life is between 20-40 meters. Plan a bottom time of 20-25 minutes to allow adequate time for your safety stop. The interplay of color and the sheer face make this a favorite for photography.
+DAN states that sites here are best dived in the short windows when tidal currents slow, stop or reverse. God's Pocket Resort uses "lines off" times set around slack, which shift daily.
+
+## Entry and Exit
+
+Dives are made from a boat. God's Pocket Resort is on Hurst Island, about 10 nautical miles from Port Hardy by its description, and BC Parks says the park is reached by boat or floatplane from Port Hardy. Follow the skipper's briefing for pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local operators (God's Pocket Resort, charter companies)
-- Dives MUST be timed to slack tide — strong currents make other times unsafe
-- Early morning light provides excellent photography
-- Bring high-quality dive lights for close-up photography of invertebrates
-- Expect cold water (8-12°C) — proper thermal protection essential
-- Check seasonal visibility forecasts; spring/fall offer best conditions
-- File a dive plan with your operator
+- Book through a local operator; God's Pocket Resort is the main lodge-based operator.
+- Carry a dive computer and surface marker buoy (God's Pocket Resort requires both).
+- Bring a camera and a light; DAN and Advanced Diver Magazine both describe a wall with dense colour.
+- Water temperature is reported at 7-9 C by God's Pocket Resort and 44-54 F (about 7-12 C) by DAN, so a drysuit is expected.
 
 ## Safety Considerations
 
-This is an advanced-only site requiring the following:
-- Advanced Open Water certification minimum
-- Strong understanding of cold-water diving and current management
-- Excellent buoyancy control essential
-- Always dive with an experienced buddy
-- Use SMB/safety sausage for controlled ascents
-- Carry appropriate signaling devices
-- Be prepared to abort if conditions deteriorate
-
-Strong tidal currents are the defining feature — dives outside slack tide windows are not advised. Cold water (8-12°C) requires proper thermal protection.
+Strong tidal currents are the defining feature, and diving outside slack water is not advised by the sources reviewed. Experience requirements set by the main operator are 100 logged dives including 50 cold-water drysuit dives. Dive within your training and carry a surface marker buoy.
 
 ## Photography
 
-Wall dives offer exceptional wide-angle opportunities with the interplay of color and shadow along the face creating dramatic compositions. The dense invertebrate life provides countless macro subjects in wall crevices and overhangs. Bring underwater lights to illuminate the vibrant reds, oranges, and yellows of soft corals.
-
-- **Validation Source**: Re-audited 2026-07-08 against God's Pocket Resort, Scuba Diving Magazine, and seaotter.com
+DAN and Advanced Diver Magazine describe a colourful wall; wide-angle and macro subjects include soft corals, sponges, anemones and nudibranchs.
 
 ---
-*Sources: [God's Pocket Resort — Diving](https://www.godspocket.com/diving/), [Scuba Diving Magazine — Deep in God's Pocket](https://www.scubadiving.com/travel/canada/deep-gods-pocket), [seaotter.com — Browning Wall](http://www.seaotter.com/marine/html/browning.html). Last updated 2026-07-08. Note: the prior validation_source domain godspocketresort.com no longer resolves; the operator's current domain is godspocket.com.*
+*Sources: [Divers Alert Network: Nestled in God's Pocket](https://dan.org/alert-diver/article/nestled-in-gods-pocket/), [Advanced Diver Magazine: God's Pocket](https://www.advanceddivermagazine.com/articles/godspocket/godspocket.html), [God's Pocket Resort: Diving](https://www.godspocket.com/diving/), [BC Parks: God's Pocket Marine Park](https://bcparks.ca/gods-pocket-marine-park/), [Dive Magazine: Diving in God's Pocket](https://divemagazine.com/scuba-diving-travel/americas-caribbean/gods-pocket-vancouver-island-canada), [Divers Alert Network: Diving Wild in Browning Pass](https://dan.org/alert-diver/article/diving-wild-in-browning-pass-british-columbia/). Last updated 2026-11-20.*

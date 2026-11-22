@@ -13,28 +13,24 @@ addedBy: osm_import
 
 ## Hideaway Island Reef
 
-Hideaway Island sits inside one of Vanuatu's only marine sanctuaries — a 2.5-hectare protected reserve in Mele Bay, about 10 kilometers from Port Vila — and is the most accessible reef dive in Vanuatu, reachable by a short shuttle from the mainland and then straight off the beach.
+Hideaway Island sits in Mele Bay, about 10 km from Port Vila on Efate, and includes a 2.5-hectare marine sanctuary. Divers and snorkellers reach the house reef from the island.
 
 ## Overview
 
-The reef fringing Hideaway Island stays shallow throughout, making it a snorkel-and-beginner-dive site more than a deep dive. The marine sanctuary status means the reef and its fish are well-protected and used to divers and snorkelers, and the sheltered bay position generally keeps conditions calm. Both scuba diving and snorkeling are offered directly from the island, with round-the-clock shuttle service running from the mainland.
+Enezgreen describes a 2.5-hectare marine sanctuary on an island a few hundred metres off Efate, reached by a shuttle that runs around the clock. Dive Adventures describes the resort as 3 to 4 minutes by ferry from the mainland, with snorkellers and divers wading in at 2 to 4 m to feed tame fish. Abyss notes access rules, guides and procedures are set by the resort and dive team.
 
-The island's best-known feature is its underwater post office — the only one of its kind in the world — sitting at 3 metres depth, about 50 metres offshore. Visitors buy waterproof postcards, drop them in the submerged mailbox, and they're genuinely collected and delivered once a day.
-
-## What to Expect
-
-Expect a shallow, colourful reef with a good showing of "tame" fish accustomed to snorkelers and divers. Sea turtles, clownfish, and groupers have been reported around the island. The site is well suited to beginners, first-time divers, and snorkelers, and the calm, sheltered water and reliable visibility make it a good confidence-building dive.
+The island's underwater post office sits in about 3 m of water roughly 50 m offshore. Abyss says it opened in 2003; Enezgreen says mail is collected once a day.
 
 ## Practical Information
 
-- **Depth Range**: Up to 10 meters; underwater post office sits at 3 meters
-- **Currents**: Generally very mild; sheltered bay position
-- **Entry**: Shore entry from the island (short shuttle transfer from mainland Port Vila)
-- **Best For**: Beginners, snorkelers, first-time divers; visiting the underwater post office
+- **Depth Range**: shallow house reef; post office at about 3 meters. A maximum depth for the house reef is not given in the sources found.
+- **Currents**: Not documented
+- **Entry**: Shore entry from the island after a short ferry or shuttle
+- **Best For**: Beginners, snorkellers and first-time divers
 
 ## Marine Life Highlights
 
-Sea turtles, clownfish, and groupers have been reported in the sanctuary. Broader species lists advertised for the wider Hideaway Island dive area (such as nurse sharks or eagle rays) refer to separate, deeper sites nearby (e.g. Mystery Wall) rather than this shallow shore reef, so they are not included here.
+Abyss names sweetlips, surgeonfish and moray eels on the house reef, and cleaner shrimp, crabs and nudibranchs on night dives.
 
 ---
-*Sources: [Abyss Scuba Diving](https://www.abyss.com.au/blog/travel/scuba-diving-at-hideaway-island-resort-and-marine-sanctuary-in-vanuatu), [EnezGreen](https://www.enezgreen.com/en/marine-reserve-hideaway-island-mele-port-vila/), [Vanuatu Tourism Office](https://www.vanuatu.travel/en/dive-into-a-different-world-in-vanuatu). Last updated 2026-07-08.*
+*Sources: [Abyss Scuba Diving](https://www.abyss.com.au/blog/travel/scuba-diving-at-hideaway-island-resort-and-marine-sanctuary-in-vanuatu), [Enezgreen](https://www.enezgreen.com/en/marine-reserve-hideaway-island-mele-port-vila/), [Dive Adventures](https://diveadventures.com.au/?p=21767). Last updated 2026-11-20.*

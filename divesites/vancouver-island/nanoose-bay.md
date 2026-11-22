@@ -13,63 +13,49 @@ addedBy: osm_import
 
 ## Nanoose Bay
 
-Nanoose Bay, located 26 kilometers north of Nanaimo and 15 kilometers south of Parksville, is a well-regarded shore dive location on central Vancouver Island. Madrona Point is considered one of the finest dive sites on the island, offering three named walls at different depths with good shore access.
+Madrona Point in Nanoose Bay, on Vancouver Island's east coast between Nanaimo and Parksville, is a shore dive with three named walls of increasing depth. Operators describe it as one of the central island's best shore dives and note regular sea lion visits.
 
 ## Overview
 
-Nanoose Bay features multiple dive sites with the crown jewel being Madrona Point. Sources (ScubaBC, Parksville Qualicum Beach Tourism, Element Escapes) consistently describe three named walls here: the Small Wall (~15m/50ft), the Mid Wall (~19m/65ft), and the Main/Big Wall (~30m/100ft) for more experienced divers. The site is known for California sea lions that gather near a former log dump in fall and winter.
+Element Escapes describes three walls: the Small Wall at about 15 m (50 ft), the Mid Wall at about 19 m (65 ft) and the Big Wall dropping to about 30 m (100 ft), plus "The Maze", rocky formations between the shore and the big wall. ScubaBC gives the Big Wall's maximum as 95 ft (29 m), rates it Advanced Open Water and recommends nitrox; Parksville Qualicum Beach Tourism gives about 90 ft for the Main Wall and a maximum of 60 ft for the Small Wall, Mid Wall and Maze. Pacific Pro Dive describes the main wall as 60 ft plus.
+
+ScubaBC describes the Big Wall entry as a short walk from the car to the right-hand point, then a surface swim of about 100 m on a compass bearing of roughly 0 degrees toward a white marker buoy, with the "maze" rocks on the left leading to the wall start. It warns that in poor visibility divers can miss the wall and end up on sand at 90+ ft.
 
 ## Site Information
 
-- **Location**: Nanoose Bay, 26km N of Nanaimo / 15km S of Parksville, BC
+- **Location**: Madrona Point, Nanoose Bay, between Nanaimo and Parksville, British Columbia
 - **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-20 meters
-- **Current**: Generally manageable
-- **Best Time**: Fall/winter for sea lions; summer and early fall for general diving
+- **Current**: Mild to medium; Element Escapes recommends small tidal exchanges or slack tide, and ScubaBC notes current can affect the surface swim
+- **Best Time**: Sea lions are reported in fall and winter (ScubaBC, Parksville Qualicum Beach Tourism)
 
 ## Marine Life
 
-ScubaBC and Pacific Pro Dive's shore-diving map both confirm giant Pacific octopus and wolf eels at Madrona Point, and California sea lions (occasionally joined by 1,000+ lb Steller sea lions) are a well-documented seasonal draw near the old log dump.
+ScubaBC lists giant Pacific octopus (in cracks and crevices), wolf eels including mated pairs and juveniles, lingcod, rockfish, sunflower stars, nudibranchs, cabezon, Pacific spiny dogfish (usually summer) and schools of baitfish. Element Escapes lists octopus, wolf eels (juveniles in the Maze), rockfish and sea lions, and Pacific Pro Dive lists giant Pacific octopus and wolf eels. California and Steller sea lions gather near a nearby log dump (Parksville Qualicum Beach Tourism); ScubaBC reports sea lion "buzzing" is not uncommon in fall and winter.
 
 ## Dive Profile
 
-Divers typically choose among the Small Wall, Mid Wall, and Main Wall depending on experience and air consumption goals. The Small and Mid Walls (15-19m) offer accessible reef topography and are commonly used by less experienced divers under guidance; the Main Wall (to 30m) is reserved for more experienced divers. Sea lion encounters are most likely in fall and winter near the log dump. Bottom time of 40-50 minutes is typical at the shallower walls.
+Divers choose among the Small Wall, Mid Wall, Maze and Big Wall. Element Escapes describes the Big Wall as aimed at experienced divers. Parksville Qualicum Beach Tourism describes the Small Wall, Mid Wall and Maze as good dives with a maximum depth of 60 ft and the Main Wall as advanced at about 90 ft.
 
 ## Entry and Exit
 
-Shore entry is straightforward with good access and clear water entry point. Descend gradually to reach the wall structures. Return to entry point for exit. The accessible bay conditions make entry/exit manageable.
+Shore entry. ScubaBC notes room for 2-3 cars at the end of the road and no washrooms on site; Element Escapes says parking is very limited with no washrooms or garbage receptacle. Pacific Pro Dive reports entry is very slippery at low tide, and Element Escapes notes wind and weather can make entries and the surface swim to the big wall difficult.
 
 ## Tips and Recommendations
 
-- One of the best shore dive locations on central Vancouver Island
-- Multiple wall options allow dives for all skill levels
-- Sea lion encounters are frequent — enjoy the interaction but maintain distance
-- Cold water (8-12°C) requires proper thermal protection
-- Bring quality camera for sea lion photography
-- Multiple wall options prevent repetitive diving
-- Good visibility for the central island region
-- Check local conditions; the Vancouver Island east coast can experience surge
+- Do not block driveways at the end of the road (ScubaBC).
+- Pack out all garbage (Element Escapes).
+- Parksville Qualicum Beach Tourism advises keeping hands to yourself around sea lions and notes that sea lions show aggression by swimming vertically and blowing bubbles.
 
 ## Safety Considerations
 
-This site spans a range of difficulty across its three named walls:
-- Small and Mid Walls (~15-19m) accessible to less experienced divers under guidance
-- Main Wall (to ~30m) requires more experience and depth discipline
-- Cold-water diving (8-12°C)
-- Thermal protection essential (7mm+ wetsuit or drysuit)
-- Always dive with a buddy
-- Sea lions are intelligent and curious but never approach if they seem uncomfortable
-- Use SMB for ascents
-- Watch depth carefully on wall dives
+The Small and Mid Walls are shallower, while the Big Wall reaches about 29-30 m in cold water with a surface swim to reach it, so the site is rated Intermediate overall. Use a compass, watch depth and carry a surface marker buoy.
 
 ## Photography
 
-Exceptional opportunities for sea lion and marine life photography. Wide-angle shots of walls and sea lion interactions create memorable images. Macro subjects on wall crevices and invertebrates provide detail. Early morning provides optimal light.
-
-- **Validation Source**: Re-audited 2026-07-08 against ScubaBC, Parksville Qualicum Beach Tourism, and Pacific Pro Dive
+Octopus, wolf eels and sea lions are the subjects described by ScubaBC and Parksville Qualicum Beach Tourism.
 
 ---
-*Sources: [ScubaBC — Madrona Point Scuba Diving Site](https://www.scubabc.ca/madrona-point-nanoose/), [Parksville Qualicum Beach Tourism — Madrona Point Dive Site](https://www.visitparksvillequalicumbeach.com/blog/madrona-point-dive-site-at-nanoose-bay/), [Pacific Pro Dive — Shore Diving Maps](https://pacificprodive.com/pages/dive-maps). Last updated 2026-07-08.*
+*Sources: [ScubaBC: Madrona Point](https://www.scubabc.ca/madrona-point-nanoose/), [Parksville Qualicum Beach Tourism: Madrona Point](https://www.visitparksvillequalicumbeach.com/blog/madrona-point-dive-site-at-nanoose-bay/), [Element Escapes: Madrona Point](https://elementescapes.ca/dive-sites/madrona-point/), [Pacific Pro Dive: Shore Diving Maps](https://pacificprodive.com/pages/dive-maps). Last updated 2026-11-20.*

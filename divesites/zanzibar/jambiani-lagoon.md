@@ -13,47 +13,37 @@ addedBy: osm_import
 
 ## Jambiani Lagoon
 
-Jambiani Lagoon is a shallow reef site within the protected lagoon behind the barrier reef on Zanzibar's southeastern coast, home to seahorses and macro life over sandy and seagrass ground.
+Jambiani Lagoon is a lagoon dive over sand and seagrass off Jambiani, known for seahorses.
 
 ## Overview
 
-The one confirmed source, Buccaneer Diving (a Paje/Jambiani-based operator), describes this site as home to seahorses typically found over the sandy and seagrass areas, with the dive continuing to the far side of the eastern reef where frogfish, leaf fish, and harlequin shrimp are often spotted. The site sits within the barrier reef, giving it calmer, more protected conditions than the exposed outer reef. This is a narrower, more specific picture than the previous write-up, which added unsourced claims about resident sea turtles and nocturnal octopus and nudibranch activity; those have been removed.
+Buccaneer Diving describes Jambiani Lagoon as the home of its seahorses, usually found over sand and seagrass, continuing to the far side of the eastern reef. The operator gives a 6-22 m range for its lagoon sites overall.
 
 ## Site Information
 
-- **Location**: Lagoon, South East Zanzibar (Paje/Jambiani area), Tanzania
+- **Location**: South East Zanzibar (Paje/Jambiani area), Tanzania
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
 - **Typical Visibility**: Not confirmed for this specific site
-- **Current**: Very light — protected lagoon position
-- **Best Time**: October to April (northeast monsoon, South East Zanzibar)
+- **Current**: Sheltered lagoon position; not otherwise confirmed
 
 ## Marine Life
 
-Per Buccaneer Diving: seahorses (over sandy/seagrass ground), plus frogfish, leaf fish, and harlequin shrimp on the far side of the eastern reef. No other species are confirmed for this specific site by available sources.
+Buccaneer Diving lists seahorses, frogfish, leaf fish and harlequin shrimp for this site.
 
 ## Dive Profile
 
-The dive moves from the sandy/seagrass seahorse ground toward the far side of the eastern reef for the macro subjects listed above, per the confirmed source. No further depth-by-depth detail is available.
+Sand and seagrass areas, then the far side of the eastern reef (Buccaneer Diving).
 
 ## Entry and Exit
 
-Boat access from Paje/Jambiani-area operators.
-
-## Tips and Recommendations
-
-- Move slowly and search seagrass patches carefully for seahorses — they are easy to miss without a guide pointing them out
-- This is a macro-focused site; a guide experienced in finding harlequin shrimp and leaf fish adds significant value
+Boat dive, within the reef about 15 minutes from Buccaneer Diving's Paje base.
 
 ## Safety Considerations
 
-No site-specific hazards beyond standard shallow-reef precautions were found in available sources.
-
-## Photography
-
-Not confirmed by available sources. Given the macro species list (seahorses, harlequin shrimp, leaf fish), a macro lens is a reasonable choice.
+No site-specific hazards were found in available sources.
 
 ---
-*Sources: [Buccaneer Diving - Dive Zanzibar](https://www.buccaneerdiving.com/pages/dive-zanzibar/). Only one independent source was found for this specific site. Last updated 2026-07-08.*
+*Sources: [Buccaneer Diving - Dive Zanzibar](https://www.buccaneerdiving.com/pages/dive-zanzibar/). Last updated 2026-11-20.*

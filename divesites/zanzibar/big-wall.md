@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Big Wall
 
-Big Wall (sometimes called Giant Wall) is a genuine drop-off east of Mnemba Island, off Zanzibar's northeastern tip. It is one of the few sites in this database confirmed by multiple independent operator and database sources, and every one of them places it firmly in advanced, deep-water territory rather than the intermediate 20-meter site previously described here.
+Big Wall is a deep vertical wall dive east of Mnemba Island, rated for advanced divers because of its depth and current.
 
 ## Overview
 
-Five independent sources — PADI's own dive-site database, TGI Diving (a Nungwi-based operator), Buscabuceo, Divessi, and Climb Kilimanjaro Guide — agree that Big Wall is a vertical wall beginning around 14-18 meters and continuing well past recreational depth limits. Reported maximum depths vary (55m, 70m, and 82ft/25m have each appeared in different write-ups; PADI and TGI Diving both independently cite 14-70m), which is worth flagging rather than picking a single number. What is consistent across sources is the character of the site: a sheer wall with overhangs and small caves, strong current, and open-water pelagic encounters rather than a coral-garden dive. The 40-meter figure recorded here represents a sensible recreational-limit turnaround point; the wall itself continues considerably deeper per every source that gives a number.
+Operators and dive databases describe Big Wall (also listed as "The Big Wall (North)") as a vertical wall on the east side of Mnemba Atoll, with ledges, overhangs and small caves, dived as a drift along the wall. Reported depths differ between sources: the wall is described as dropping from about 18 m to 55 m (Buscabuceo, Climb Kilimanjaro Guide), as 14-70 m (TGI Diving, Climb Kilimanjaro Guide's Mnemba overview), as extending to 70 m (DiveSSI), as up to 50 m (DivePlannerPro), and as 12-40 m listed with a 60-70 m maximum (Scubafish Zanzibar). The 40 m figure recorded here is a recreational-limit reference, not the wall's maximum. Scubafish Zanzibar requires a Deep Dive Specialty or equivalent for this dive, and DivePlannerPro states it is not suitable for training.
 
 ## Site Information
 
@@ -26,35 +26,24 @@ Five independent sources — PADI's own dive-site database, TGI Diving (a Nungwi
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: Reported around 30 meters
-- **Current**: Strong, a defining feature of the dive
-- **Best Time**: October to March (northeast monsoon)
+- **Typical Visibility**: About 30 meters (Buscabuceo)
+- **Current**: Reported from none to very strong depending on the day (Scubafish Zanzibar); strong currents per TGI Diving and DiveSSI
 
 ## Marine Life
 
-Sources consistently report large pelagic species along the wall: tuna, Napoleon wrasse, barracuda, groupers, and rays, with occasional white-tip reef sharks and, per TGI Diving, hammerhead sharks. Moray eels and lobster occupy the wall's overhangs and small caves. The site does not carry heavy coral cover, so sightings skew toward open-water and current-associated fish rather than reef life.
+Sources describing this specific site report: tuna, rainbow runners, barracuda, Napoleon wrasse and groupers (Buscabuceo, DiveSSI, Climb Kilimanjaro Guide, Scubafish Zanzibar); moray eels, dolphin fish, lobsters, green turtles, rays, unicornfish, batfish and hammerhead sharks (TGI Diving); and sponges, coral and nudibranchs (DiveSSI). Individual species vary between sources and between dives, so treat the list as reported sightings rather than guarantees.
 
 ## Dive Profile
 
-This is a deep drift/wall dive: divers descend to the wall face and work along it in the current, watching the blue water off the wall for pelagics, before ascending well within no-decompression limits. Given the strong current and open-water depth, this is not a dive for recently certified divers regardless of how the boat plans the profile.
+A drift dive along the wall face in current, with open blue water off the wall. Sources describe a free descent to roughly 30-35 m (Scubafish Zanzibar) and a wall that continues well beyond recreational limits, so the turnaround depth should be agreed with the guide before descending.
 
 ## Entry and Exit
 
-Boat access from Nungwi-area operators serving the Mnemba Island reef system. Live-boat pickup is typical given the current.
-
-## Tips and Recommendations
-
-- This is an advanced, current-exposed deep dive — go with an operator experienced in Mnemba's outer wall sites, not a general Nungwi reef trip
-- Because reported maximum depths differ across sources (55-70m), agree on a hard turnaround depth with your guide before descending rather than assuming a specific number
-- A reef hook can help hold position in current without damaging the wall
+Boat dive, reached from Nungwi (Buscabuceo, TGI Diving) and other Mnemba-area operators.
 
 ## Safety Considerations
 
-Depth and current are both significant here. Sources agree the wall continues well past recreational limits, so passive over-descent is a real risk in clear water with no obvious bottom reference — set and enforce a computer depth alarm. Carry a reef hook and deploy an SMB before ascending; current can carry divers away from the wall and the boat.
-
-## Photography
-
-Wide-angle or fisheye lenses suit the wall-and-blue-water compositions most divers come here for; pelagic subjects (tuna, Napoleon wrasse, sharks) are typically shot from mid-water looking along the wall face rather than close to the reef itself.
+Depth and current are both significant. With no visible bottom, it is easy to descend past planned depth, so use a depth alarm and agree a hard turnaround depth. Deploy a surface marker buoy before ascending.
 
 ---
-*Sources: [PADI - Big Wall dive site](https://www.padi.com/dive-site/tanzania/big-wall/), [TGI Diving - Zanzibar Nungwi dive sites](https://www.tgidiving.com/en/indian-ocean/zanzibar-nungwi/dive-sites/), [Buscabuceo](https://www.buscabuceo.com/en/dive/1643/big-wall-nungwi-zanzibar), [Divessi](https://www.divessi.com/en/blog/best-diving-zanzibar-9025.html), [Climb Kilimanjaro Guide](https://www.climbkilimanjaroguide.com/diving-zanzibar/). Last updated 2026-07-08.*
+*Sources: [TGI Diving](https://www.tgidiving.com/en/indian-ocean/zanzibar-nungwi/dive-sites/), [Buscabuceo](https://www.buscabuceo.com/en/dive/1643/big-wall-nungwi-zanzibar), [Climb Kilimanjaro Guide](https://www.climbkilimanjaroguide.com/diving-zanzibar/), [DiveSSI](https://www.divessi.com/en/blog/best-diving-zanzibar-9025.html), [Scubafish Zanzibar](https://www.scubafishzanzibar.com/dive-in-zanzibar/dive-sites-zanzibar/), [DivePlannerPro](https://diveplannerpro.com/fr/spots/tz/tanzania/tanzania-big-wall). Last updated 2026-11-20.*

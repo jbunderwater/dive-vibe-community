@@ -13,66 +13,51 @@ addedBy: osm_import
 
 ## Sechelt Rapids (Skookumchuck)
 
-Sechelt Rapids, known locally as Skookumchuck Narrows, is North America's fastest tidal rapids and one of the world's most extreme diving sites. This is an expert-level dive reserved for only the most experienced current divers who have trained specifically for extreme tidal diving. The site is considered the scuba-diving equivalent of climbing Mount Everest.
+Sechelt Rapids, in Skookumchuck Narrows at the entrance to Sechelt Inlet on the Sunshine Coast, is a tidal rapids dived by boat during the short windows around slack water. Dive articles describe it as a contender for the title of the world's fastest tidal rapids.
 
 ## Overview
 
-Skookumchuck Narrows is a strait forming the entrance of Sechelt Inlet on British Columbia's Sunshine Coast. All tidal flow from Sechelt Inlet, Salmon Inlet, and Narrows Inlet must pass through this narrow channel, creating the fastest tidal rapids in North America. Current speeds reach 16-17.7 knots, with water level differences exceeding 2 meters. Dives occur only during rare slack tide windows when daylight and navigable conditions align — happening just a handful of times annually.
+Wikipedia reports current speeds that can exceed 16 knots, with peaks up to 17.68 knots, and notes that all tidal flow for Sechelt, Salmon and Narrows Inlets must pass through the rapids. Divernet describes the water surging at 16 knots, with only the Nakwakto Rapids further up the British Columbia coast as a rival for the world's fastest title. X-Ray Mag reports 14-16 knots, and an operator quoted by X-Ray Mag gives 16 knots on the ebb and 16.5 on the flood. The title is therefore contested rather than settled.
+
+At slack, Divernet and Scubaverse report currents of about 4-5 knots, with divers entering from a boat during the "few precious minutes" of slack and drifting along the wall holding rock. The same articles describe about 20 minutes of gentler water before the current picks up. Reports on how often diveable slack occurs differ: Divernet and Scubaverse say April 2023 offered "a mere handful" of suitable days for the first time in four years, while an X-Ray Mag article reports skilled divers going about two to four times a month year-round, with bottom times of 20-45 minutes. DAN says diving is only safe on favourable slack tides, which occur on a limited number of days each year, and advises checking current tables for Sechelt Rapids (#4200).
+
+No source reviewed gives a maximum depth for the dive; Divernet and Scubaverse call the channel "narrow and shallow" without a figure, and DAN gives about 70 ft (21 m) for one named wall (Observation Wall, west side). The 20 m figure in this site's data is nominal.
 
 ## Site Information
 
-- **Location**: Sechelt Inlet entrance, Sunshine Coast, British Columbia
+- **Location**: Skookumchuck Narrows, entrance to Sechelt Inlet, Sunshine Coast, British Columbia
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-20 meters (emerald-green water during slack)
-- **Current**: 16-17.68 knots (North America's fastest tidal rapids)
-- **Best Time**: Rare slack tide windows only (a handful per year during daylight)
+- **Current**: 14-17.68 knots at peak; about 4-5 knots at slack (Divernet, Scubaverse)
+- **Best Time**: Slack-water windows only; frequency reported inconsistently (see above)
 
 ## Marine Life
 
-Divernet.com and Scubaverse describe a current-swept wall covered in colorful sea anemones and sponges. Beyond that, a broader species inventory is not well documented — dive reports focus overwhelmingly on the current itself rather than cataloguing marine life, likely because diveable slack windows are so rare. Typical cold-water BC species may be present during slack tides, but this page does not attribute specific species beyond anemones and sponges, since no site-specific source confirms them.
+Divernet and Scubaverse report painted anemones, metridiums, bright red and pink anemones, neon orange encrusting sponges, purple ochre sea stars, nudibranchs, Puget Sound king crabs and green sea urchins. X-Ray Mag reports ochre stars, painted anemones and kelp greenlings, and DAN reports copper rockfish, kelp greenlings, red Irish lords, violet ochre stars, anemones, sponges and sea urchins on Observation Wall, and painted anemones, fist-sized barnacles, blood stars, king crabs and bottom-hugging fish at Greenlight in Whirlpool Alley.
 
 ## Dive Profile
 
-Dives are timed to occur during the rare slack tide windows when the current slows enough to dive safely. Finding dates when daylight pierces emerald-green water coinciding with navigable conditions is critical — windows may occur just a handful of times annually in four-year cycles. Experienced eyes scan continuously for tell-tale signs of slack tide as tidal ripples slow and current releases. Divers enter the water in the few precious minutes when observation of the rapids' full glory is possible. Most dives last 20-30 minutes before current acceleration forces exit.
+Divernet describes entering from a boat at slack, descending and drifting with the current, gripping rock to hold position, with the dive ending in a calm cove with green sea urchins. DAN says the dive must be made from a live boat and names Observation Wall (west side) and Greenlight at Whirlpool Alley (east side) as sites. X-Ray Mag names the Glory Hole, a crater-shaped gap in the rapids, and reports more than half a dozen sites in the zone.
 
 ## Entry and Exit
 
-Dives are conducted exclusively via specialized boat operators in rare slack tide windows. Entry is via giant stride or back roll during the narrow slack window. Careful coordination with boat crew is essential. Exit must occur before current speeds exceed safe limits.
+Boat dives only, during slack. Operators named in the sources include Porpoise Bay Charters (Divernet, Scubaverse, DAN). Follow the operator's briefing, and exit before current returns.
 
 ## Tips and Recommendations
 
-- Contact specialized Sunshine Coast operators experienced with Skookumchuck dives
-- Confirm slack tide timing months in advance; windows are rare and highly specific
-- Expect to miss trips due to weather or unsuitable tide-daylight alignment
-- Bring high-intensity underwater lights for depth in emerald-tinted water
-- Carry redundant signaling systems and emergency ascent equipment
-- Prepare for extreme psychological challenge; current sound and power are palpable
-- This dive often requires international travel commitment and patience
+- Book months ahead with an operator experienced in the narrows and expect schedule changes.
+- Check current tables for Sechelt Rapids (DAN).
+- BC Parks advises knowing the tides and crossing the narrows only at slack; whirlpools and standing waves form at peak flow.
 
 ## Safety Considerations
 
-This is the most challenging recreational diving site in North America. Requirements:
-- Extreme current diving specialization (200+ current dives minimum)
-- Advanced technical diving certification
-- Recent (within 6 months) extreme current dive experience
-- Demonstrated comfort with rapid current transitions
-- Expert buoyancy and finning technique
-- Cold-water expertise (8-12°C)
-- Proper thermal protection (dry suit essential)
-- Redundant air and signaling systems
-- Only with partners certified for extreme current diving
-- Only with operators specialized in Skookumchuck
-
-Current speeds of 16-17.7 knots make this among the world's most dangerous diving sites. The rare slack tide windows are the only moments this site is diveable. Attempting this site outside slack tide or without proper training results in certain drowning. This site demands respect and complete commitment to safety protocol.
+This is an advanced current dive. Divernet and DAN both stress diving only at slack with local operators who know the tides. Slack can run late, so DAN advises arriving early and staying late, and divers should not be in the water when the current returns. Carry a surface marker buoy and dive within your training.
 
 ## Photography
 
-The emerald-green water visible during rare slack tide windows is a photographer's dream. Natural light creates otherworldly conditions. Bring appropriate lighting for depth and color.
-
-- **Validation Source**: Re-audited 2026-07-08 against Divernet, Scubaverse, and Wikipedia
+Divernet and Scubaverse describe an algal bloom producing dark green water at depth, with colourful anemones and sponges on the wall.
 
 ---
-*Sources: [Divernet — The Skook: Diving the World's Fastest Tidal Rapids](https://divernet.com/world-dives/north-central-america/the-skook-diving-the-worlds-fastest-tidal-rapids/), [Scubaverse — Diving into the World's Fastest Tidal Rapids](https://scubaverse.com/diving-into-the-worlds-fastest-tidal-rapids/), [Wikipedia — Skookumchuck Narrows](https://en.wikipedia.org/wiki/Skookumchuck_Narrows). Last updated 2026-07-08.*
+*Sources: [Divernet: The Skook](https://divernet.com/world-dives/north-central-america/the-skook-diving-the-worlds-fastest-tidal-rapids/), [Scubaverse: Diving into the World's Fastest Tidal Rapids](https://scubaverse.com/diving-into-the-worlds-fastest-tidal-rapids/), [Wikipedia: Skookumchuck Narrows](https://en.wikipedia.org/wiki/Skookumchuck_Narrows), [Divers Alert Network: Diving on Sunshine](https://dan.org/alert-diver/article/diving-on-sunshine/), [X-Ray Mag: Skookumchuck, Challenging the Rapids](https://old.xray-mag.com/node/5735), [X-Ray Mag: British Columbia's Sunshine Coast](https://old.xray-mag.com/content/british-columbias-sunshine-coast), [BC Parks: Skookumchuck Narrows](https://bcparks.ca/skookumchuck-narrows-park/). Last updated 2026-11-20.*

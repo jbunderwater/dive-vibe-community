@@ -13,61 +13,52 @@ addedBy: osm_import
 
 ## Porteau Cove
 
-Porteau Cove Provincial Park is a popular diving destination featuring several artificial reef structures and multiple wrecks. Located about 38 kilometers north of Vancouver in Howe Sound, the site offers a range of depths within the park boundary, with a further wreck outside the boundary for more experienced divers.
+Porteau Cove Provincial Park, on Howe Sound along the Sea-to-Sky Highway, is a shore-entry dive site with sunk vessels and constructed artificial reef structures, marked by buoys, in shallow water.
 
 ## Overview
 
-Porteau Cove is one of the most accessible dive sites in the Vancouver area, with several deliberately placed wrecks and artificial reef structures inside the park's marked diving area. Depths in the main park area range from about 6 to 18 meters. Multiple marker buoys identify the structures. The site is operated as a provincial park with facilities including parking, showers, and day-use areas.
+Divers Alert Network describes the park's reef as purpose-sunk ships, a tire reef, concrete blocks and columns and steel H-beams, in 25-50 ft of water with stairs giving easy shore access. Waymarking lists basic dives at 20-60 ft. The Waymarking entry and a ScubaBoard dive report name the following structures:
+
+- **Granthall**: a steel-hulled tugboat about 28 m (92 ft) long. Waymarking reports it was built in Montreal in 1928 for the Canadian Pacific Railway, had its superstructure removed in 1967 and served as a herring packer, and was scuttled as an artificial reef in 1992. ScubaBoard and DAN agree on the length and on the vessel being a steel tug; ScubaBoard also gives the 1992 sinking and a depth of about 45 fsw.
+- **Centennial III**: a steel dredge tender (DAN gives 36 ft; Waymarking calls it a rusty crane barge of about 30 ft / 11 m), lying near a cement sailboat hull of about 40 ft (15 m).
+- **Nakaya**: a wooden-hulled minesweeper of about 40 m (ScubaBoard), lying at the northern edge of the dive area. Sources differ on the sinking year: Waymarking gives 1985 and ScubaBoard says the late 1980s. They also differ on depth: Waymarking reports about 90 ft (33 m) and ScubaBoard reports the bow sloping to about 92 fsw (28 m). ScubaBoard describes the hull as deteriorating.
+- A tire and concrete reef system, and a "Jungle Gym" of steel girders west of the Granthall (ScubaBoard).
 
 ## Site Information
 
-- **Location**: Howe Sound, 38km north of Vancouver on Highway 99
+- **Location**: Howe Sound, along Highway 99 north of Vancouver
 - **Entry Type**: Shore entry
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-15 meters (seasonal dependent)
-- **Current**: Generally manageable
-- **Best Time**: Spring through fall (March-November)
+- **Current**: ScubaBoard reported minimal current on one dive; DAN advises postponing when winds reach 15 knots or more, especially from the west or north
+- **Best Time**: A May 2009 dive report found visibility highly variable, with silt and fresh water from the Squamish River limiting the first 30 ft on one dive
 
 ## Marine Life
 
-A ScubaBoard dive report and the Artificial Reef Society of BC's site guide describe rockfish, anemones, flounder, brittle stars, decorator crabs, and nudibranchs on the reef structures, with lion's mane jellyfish seasonally common in the plumose anemones.
+ScubaBoard reports rockfish, anemones, flounder, brittle stars, decorator crabs, hydroids, nudibranchs and two large lion's mane jellyfish in plumose anemones. Waymarking lists lingcod, starfish, nudibranchs, octopus, rockfish, perch, orange and white plumose anemones, shrimp, grunt sculpins, kelp greenlings, crabs and sea cucumbers. X-Ray Mag lists lingcod, wolf eels, rockfish and orange and white swimming anemones. DAN reports lingcod (up to about 75 lb), tunicates, bryozoans, crinoids, gobies, rockfish and plumose anemones up to 3 ft tall, and says wolf eels are rumoured to live there.
 
 ## Dive Profile
 
-Dives in the main park area explore several deliberately sunk structures at 6-18 meters: the Granthall, a 28-meter steel-hulled tugboat (superstructure removed before sinking) resting around 14 meters; Centennial III, a steel dredge tender — not a sailboat, as an earlier draft of this page stated; a separate ferrocement sailboat hull; and the "Leaning Tower" concrete pillars. Each structure is marked by buoys. Dives typically last 40-50 minutes. More experienced divers can explore the Nakaya, a WWII-era wooden minesweeper lying outside the official park boundary at roughly 20-30 meters (65-100 feet) in an advanced state of decay — it has been removed from the park's official dive maps and should only be attempted by advanced, wreck-experienced divers.
+Structures are marked by buoys and lie at about 6-18 m inside the park. The Nakaya lies deeper, at the northern edge of the dive area, and a ScubaBoard report describes poor visibility on it.
 
 ## Entry and Exit
 
-Entry is from the shore via steps leading to the water from the main parking area. Water entry is straightforward and protected. Return to the same location for exit. The park facilities make this ideal for training and recreational dives.
+Entry is from shore by stairs (DAN). Return to the same point to exit.
 
 ## Tips and Recommendations
 
-- Excellent beginner site with calm, protected conditions
-- Bring dive torches to explore wreck interiors and look in crevices
-- Marker buoys clearly identify dive sites
-- The site is excellent for certification training
-- Shallow depths allow longer bottom times (air conservation)
-- Outdoor shower and bathrooms available (March-November)
-- Best underwater viewing during slack tides
-- Avoid the Nakaya (minesweeper) unless trained for deep wreck diving
+- Check wind forecasts; DAN advises postponing at 15 knots or more.
+- Water temperature in the May 2009 report was about 45 F (7 C).
+- Carry a light for looking into structures and crevices.
 
 ## Safety Considerations
 
-This site has an accessible core area but is rated Intermediate given cold water and current BC-diving norms:
-- Shallow structures (6-18m) suitable for newly certified divers under supervision
-- The Nakaya minesweeper (20-30m, outside the park boundary) is advanced only — hull is decaying and unsafe for penetration
-- Cold water (8-12°C) requires proper thermal protection
-- Always dive with a buddy
-- Use SMB for ascents (practice safety procedures)
-- Check provincial park conditions and closures
+The shallow structures are suitable for supervised training and newer divers, while the Nakaya is deeper, in an advanced state of deterioration, and lies away from the main structures. Do not enter the Nakaya without wreck training and appropriate equipment. Cold water and variable visibility apply throughout, so the site is rated Intermediate.
 
 ## Photography
 
-Shallow depths and good visibility make this excellent for beginner photography. The artificial structures and wrecks provide diverse subjects. Wide-angle opportunities with the structures and macro subjects on encrusted surfaces.
-
-- **Validation Source**: Re-audited 2026-07-08 against Just Gotta Dive, Artificial Reef Society of BC, and a ScubaBoard dive report
+Plumose anemones on the structures, nudibranchs and crabs are the subjects reported by ScubaBoard, DAN and Waymarking.
 
 ---
-*Sources: [Just Gotta Dive — Diving Porteau Cove Provincial Park](https://www.justgottadive.com/dive_resources/travel_articles/diving-porteau-cove-provincial-park-reefs-wrecks-and-more), [Artificial Reef Society of BC — Wrecks and Reefs of Porteau Cove (PDF)](https://artificialreefsocietybc.ca/uploads/6/9/3/9/69390363/porteau_wrecks_and_reefs_2013.pdf), [ScubaBoard — Porteau Cove, BC Dive Report](https://scubaboard.com/community/threads/porteau-cove-bc-dive-report.286796/). Last updated 2026-07-08.*
+*Sources: [ScubaBoard: Porteau Cove, BC Dive Report](https://scubaboard.com/community/threads/porteau-cove-bc-dive-report.286796/), [Waymarking: Porteau Cove](https://waymarking.com/waymarks/wmEVGE_Porteau_Cove_BC_Canada), [Divers Alert Network: Howe Sound](https://dan.org/alert-diver/article/howe-sound/), [X-Ray Mag: Diving Coastal British Columbia](https://xray-mag.com/content/diving-coastal-british-columbia). Last updated 2026-11-20.*

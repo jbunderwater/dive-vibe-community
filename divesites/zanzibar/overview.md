@@ -4,38 +4,25 @@ addedBy: osm_import
 
 ## Zanzibar
 
-Coral reefs, green turtles, and seasonal whale shark encounters off Tanzania's coast.
+Reef, wall and lagoon diving off the Zanzibar archipelago, Tanzania.
 
 ## Description
 
-Zanzibar is a notable diving destination in the Africa region, offering dive sites ranging from shallow 8-meter lagoon reefs to a 40-meter advanced wall dive near Mnemba Island. Water temperatures average 26-29°C, with visibility typically reaching 10-30 meters depending on site and season. Year-round diving is possible, with the best conditions during October to March (northeast monsoon).
+Zanzibar's dive sites include sheltered lagoon dives on the southeast coast near Paje and Jambiani, outer-reef drift dives reached through a gap in the barrier reef, and deep walls around Mnemba Island in the northeast. PADI's Zanzibar listing counts 28 dive sites, of which 26 are tagged reef, 7 wall and 6 drift (sites can carry more than one tag).
 
-### Diving Opportunities
+### Regions
 
-- **Boat Diving**: Boat-accessible sites reached through local dive operators
-- **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
-- **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
+- **South East (Paje, Jambiani, Bwejuu, Dongwe)**: Calm lagoon dives, with outer-reef drift dives reached through the mlango (Yellow Zebra Safaris, Buccaneer Diving).
+- **Mnemba Atoll (northeast)**: A protected marine area with sites from shallow coral gardens to deep walls such as Big Wall.
+- **South coast (Kizimkazi)**: Mostly wall dives, with strong currents at times (Yellow Zebra Safaris).
 
-### Accessibility
+### Marine Life
 
-- **Getting There**: Zanzibar is accessible via international and regional flights to nearby airports. Check with airlines for current routes and connections.
-- **Dive Operators**: Professional dive operators offer equipment rental, guided dives, certification courses, and boat trips to offshore sites.
-- **Accommodation**: Options range from dedicated dive resorts to budget-friendly guesthouses, with many properties located near popular dive sites.
-- **Transportation**: Local transportation and dive operator transfers are the primary means of reaching dive sites.
-- **Facilities**: Dive sites vary in available amenities; operator-run sites typically provide comprehensive facilities while remote sites may have limited infrastructure.
+Species are reported per site on the individual site pages where sources exist. No destination-wide species list is given here.
 
-### Marine Life & Environment
+### Dive Operators
 
-- **Water Conditions**: Water temperatures range from 20-29°C (68-84°F) with visibility of 10-30 meters (30-100 feet). Currents are generally moderate to strong.
-- **Marine Biodiversity**: The waters support diverse marine ecosystems including whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally, kingfish, hard corals.
-- **Conservation**: Local conservation efforts help protect marine habitats and ensure sustainable diving practices.
-
-## Additional Information
-
-- **Best Time to Visit**: October to March (East Africa), varies by location. Diving is possible year-round.
-- **Currency**: Tanzanian Shilling (TZS)
-- **Language**: Swahili, English
-- **Safety**: Always dive within certification limits. Be aware of strong currents, jellyfish, remote locations. Verify the location of the nearest hyperbaric chamber before diving.
+Dive operators at Paje, Jambiani, Nungwi, Kizimkazi and elsewhere run boat dives to the sites; check current conditions and certification requirements directly with the operator.
 
 ---
-*This is a destination-level regional summary, not a site-specific report; individual dive site pages carry their own sourcing. Sources: [PADI - Diving in Zanzibar](https://www.padi.com/diving-in/zanzibar/), [Diving in Zanzibar - Nungwi Dive Center](https://www.divinginzanzibar.com/dive-sites-map/), [Buccaneer Diving](https://www.buccaneerdiving.com/pages/dive-zanzibar/). Last updated 2026-07-08.*
+*Sources: [PADI Travel - Zanzibar dive sites](https://travel.padi.com/dive-sites/zanzibar), [Yellow Zebra Safaris](https://yellowzebrasafaris.com/inspiration/safari-insights/best-diving-sites-in-zanzibar/), [Buccaneer Diving](https://www.buccaneerdiving.com/pages/dive-zanzibar/). Last updated 2026-11-20.*

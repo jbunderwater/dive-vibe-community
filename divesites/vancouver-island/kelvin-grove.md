@@ -1,9 +1,9 @@
 ---
 name: Kelvin Grove
-lat: 49.35
-lng: -123.2667
+lat: 49.4496
+lng: -123.2395
 difficulty: Intermediate
-maxDepth: 27
+maxDepth: 40
 entryType: shore
 siteType: wall
 ref: null
@@ -13,64 +13,49 @@ addedBy: osm_import
 
 ## Kelvin Grove
 
-Kelvin Grove is a beautiful wall dive site in Howe Sound, located in Lions Bay 10 kilometers north of Horseshoe Bay on Vancouver Island. The site features a protected bay for beginners and sheer walls for experienced divers, with a rocky reef structure suitable for certification training. The site is famous for its abundance of giant Pacific octopus.
+Kelvin Grove is a shore dive from a small park in Lions Bay, on the east side of Howe Sound north of Horseshoe Bay. PADI describes a protected bay with a sheer wall around the corner to the right, and the site is known for giant Pacific octopus.
 
 ## Overview
 
-Kelvin Grove offers diverse diving options within one location. A protected bay features rocky reef structures suitable for open water certification training and beginner dives. A short swim across the cove leads to dramatic sheer walls dropping beyond 40 feet. Two separate walls feature sandy ledges at recreational depths. The site is known for its resident giant Pacific octopus population visible in wall crevices.
+PADI Travel describes the site as a local favourite in Howe Sound with a protected bay and a sheer wall, with a maximum depth of 131 ft (40 m); DivePlanner Pro also gives 40 m. JustGottaDive describes two walls dropping away beyond 130 ft. Depth reports therefore range from recreational depths of 24-30 m to beyond 40 m. PADI describes large boot sponges lining the wall and cloud sponges at 80+ ft (24+ m), and says crevices serve as octopus dens.
+
+Access rules may change. PADI says divers can drop off equipment at the end of the cul-de-sac by the park gate but must move vehicles to the parking lot, with paid parking enforced. Check current rules before going and be quiet around nearby residents.
 
 ## Site Information
 
-- **Location**: Lions Bay, 10km N of Horseshoe Bay, Howe Sound, BC
+- **Location**: Kelvin Grove Park, Lions Bay, Howe Sound, British Columbia
 - **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 27 meters
-- **Typical Visibility**: 10-15 meters
-- **Current**: Generally manageable
-- **Best Time**: Summer and early fall
+- **Maximum Depth**: 40 meters
+- **Current**: DivePlanner Pro describes the wall as current-fed; no current figures were found
+- **Best Time**: JustGottaDive reports winter visibility up to about 60 ft and summer visibility often 10-15 ft at best
 
 ## Marine Life
 
-Fraser Valley Scuba Club and Zentacle both describe giant Pacific octopus dens (marked by piles of discarded crab shells) in the wall crevices, along with wolf eels, crabs, lingcod, flatfish, rockfish, sea pens, greenlings, sea stars, nudibranchs, jellyfish, tubesnouts, sea cucumbers, tubeworms, plumose anemones, prawns, cloud sponges (80ft+/24m+), boot sponges, and occasional seals.
+PADI reports octopus commonly seen in crevices, decorated warbonnets in smaller cracks, large boot sponges and cloud sponges at 80+ ft. DivePlanner Pro lists giant Pacific octopus, wolf eels in dens, lingcod, rockfish and cloud sponges. DAN lists purple sea stars, orange and white sea cucumbers, shiner perch, red Irish lords, lemon, frosted and clown nudibranchs, kelp greenlings, buffalo and grunt sculpins, red brotula, tiger rockfish and decorated warbonnets and gunnels.
 
 ## Dive Profile
 
-The protected bay features rocky reef structure suitable for open water certification training, descending to about 12 meters. For more advanced diving, a short swim northwest across the cove leads to wall dives with sandy ledges around 24-28 meters (recreational max about 27m/90ft). Sources note the wall itself continues beyond 40m/130ft for technical divers — well past recreational limits. Bottom time of 30-40 minutes typical for intermediate dives. Octopus encounters are common, with dens often marked by piles of discarded crab shells.
+PADI describes a protected bay, with a sheer wall around the corner to the right. JustGottaDive describes two walls that drop away beyond 130 ft.
 
 ## Entry and Exit
 
-Entry is from the shore at the end of a 100-meter sloping trail. The staging area includes bathroom and picnic table. Return to entry point for exit. The residential neighborhood proximity requires respectful behavior and quiet approach/exit.
+Shore entry from the park. PADI says the walk to the water is slightly longer than at Whytecliff, with similar entry. Residents live nearby, so PADI asks divers to keep voices down, especially after dark, and to change modestly.
 
 ## Tips and Recommendations
 
-- Excellent site for varied skill levels within one location
-- Look carefully in wall crevices for giant octopus — common here
-- Bring macro camera for octopus and nudibranch photography
-- Cold water (8-12°C) requires proper thermal protection
-- Bay area excellent for certification training
-- Respect residential privacy — minimize noise at parking/staging area
-- Multiple dive options prevent repetitive visiting
-- Good visibility compared to other Howe Sound locations
+- Check current parking and access rules before going.
+- PADI suggests a drysuit, hood, gloves, torch and dive computer.
+- Move slowly below about 100 ft (30 m), as DAN advises.
 
 ## Safety Considerations
 
-This is an intermediate site with important considerations:
-- Bay area (12m) suitable for training and beginner dives
-- Wall dives (24-28m) require Intermediate certification
-- Cold water (8-12°C) essential
-- Thermal protection required (7mm+ wetsuit or drysuit)
-- Always dive with a buddy
-- Watch depth carefully on wall dives (easy to exceed 40ft)
-- Use SMB for ascents
-- Residential area — maintain quiet entry/exit
-- Limited parking (5 visitor spaces)
+The wall continues well below recreational limits. Watch depth carefully, dive with a buddy and use a surface marker buoy. Cold water applies year-round.
 
 ## Photography
 
-Exceptional opportunities for octopus photography in wall crevices. Macro subjects on sponges and nudibranchs provide detail work. Wide-angle wall perspectives create dramatic compositions. The kelp forest and resident octopus are signature subjects.
-
-- **Validation Source**: Re-audited 2026-07-08 against Fraser Valley Scuba Club, Zentacle, and Cold Ocean Diver
+Octopus dens, boot and cloud sponges and nudibranchs are the subjects described by PADI and DAN.
 
 ---
-*Sources: [Fraser Valley Scuba Club — Kelvin Grove](http://www.fvscuba.org/kelvin-grove.html), [Zentacle — Kelvin Grove](https://www.zentacle.com/Beach/446/kelvin-grove), [Cold Ocean Diver — Dive at Kelvin Grove](https://coldoceandiver.ca/kelvin-grove). Last updated 2026-07-08.*
+*Sources: [PADI Travel: Kelvin Grove](https://travel.padi.com/dive-site/canada/kelvin-grove/), [DivePlanner Pro: Kelvin Grove](https://diveplannerpro.com/spots/ca/canada/canada-kelvin-grove), [Divers Alert Network: Howe Sound](https://dan.org/alert-diver/article/howe-sound/), [JustGottaDive: Kelvin Grove](https://www.justgottadive.com/node/7311). Last updated 2026-11-20.*
