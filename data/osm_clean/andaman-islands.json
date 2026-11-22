@@ -185,5 +185,100 @@
       "last_qa_date": "2026-07-10",
       "note": "Re-audited 2026-07-10. Protected site near North Sentinel Island; diving prohibited. Added South China Morning Post as a 4th independent source, which resolves the crew-count discrepancy: SCMP confirms 31 total crew (21 of them Hong Kong nationals) and 16,000-ton Panamanian-registered cargo vessel, matching NZ Herald's 31 figure. The UPI archive headline's 'twenty-eight sailors' remains an outlier not matching the other three sources - noted as such rather than resolved. 2 August 1981 grounding date, ONGC helicopter rescue, Captain Liu Chunglong, and 1991 Mohamed Brothers salvage attempt all still confirmed by at least 2 sources. Wikipedia's North Sentinel Island article confirms Sentinelese scavenged iron from the wreck but (this pass) does not itself specify 'arrowheads' - that detail traces to the previously-cited geosat.space, which is not used as a citation here; keeping the description to what the 3-4 current sources support (iron scavenging, not the specific end-use of the metal)."
     }
+  },
+  {
+    "name": "Aquarium",
+    "lat": 11.9924,
+    "lon": 93.0018,
+    "depth": 16,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "diveratlas.com",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "diveratlas",
+      "validated": "true",
+      "validation_source": "https://www.diveratlas.com/sites/aquarium",
+      "last_qa_date": "2026-10-27",
+      "geo_note": "Surface approximation on the southeast fringing reef of Havelock."
+    }
+  },
+  {
+    "name": "Nemo Reef",
+    "lat": 12.0169,
+    "lon": 92.9888,
+    "depth": 16,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "diveratlas.com",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "diveratlas",
+      "validated": "true",
+      "validation_source": "https://www.diveratlas.com/sites/nemo-reef",
+      "last_qa_date": "2026-10-27",
+      "geo_note": "Shore entry off Beach No. 2. Surface approximation of the inner reef."
+    }
+  },
+  {
+    "name": "Turtle Beach",
+    "lat": 12.0412,
+    "lon": 93.0126,
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "diveratlas.com",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "diveratlas",
+      "validated": "true",
+      "validation_source": "https://www.diveratlas.com/sites/turtle-beach",
+      "last_qa_date": "2026-10-27",
+      "geo_note": "Surface approximation on the eastern shallow reef of Havelock."
+    }
+  },
+  {
+    "name": "Pilot Reef",
+    "lat": 12.0515,
+    "lon": 92.9912,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "diveratlas.com",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "diveratlas",
+      "validated": "true",
+      "validation_source": "https://www.diveratlas.com/sites/pilot-reef",
+      "last_qa_date": "2026-10-27",
+      "geo_note": "Surface approximation near the channel entrance north-west of Havelock."
+    }
+  },
+  {
+    "name": "Mac Point",
+    "lat": 12.0286,
+    "lon": 93.0041,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "diveratlas.com",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "diveratlas",
+      "validated": "true",
+      "validation_source": "https://www.diveratlas.com/sites/mac-point",
+      "last_qa_date": "2026-10-27",
+      "geo_note": "Surface approximation on a shallow seagrass/reef edge east of Havelock."
+    }
   }
 ]

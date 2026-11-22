@@ -106,5 +106,65 @@
     "siteType": "wreck",
     "ref": "",
     "osmId": 120523928
+  },
+  {
+    "name": "Aquarium",
+    "filename": "aquarium.md",
+    "lat": 11.9924,
+    "lng": 93.0018,
+    "difficulty": "Beginner",
+    "maxDepth": 16,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Nemo Reef",
+    "filename": "nemo-reef.md",
+    "lat": 12.0169,
+    "lng": 92.9888,
+    "difficulty": "Beginner",
+    "maxDepth": 16,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Turtle Beach",
+    "filename": "turtle-beach.md",
+    "lat": 12.0412,
+    "lng": 93.0126,
+    "difficulty": "Beginner",
+    "maxDepth": 10,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Pilot Reef",
+    "filename": "pilot-reef.md",
+    "lat": 12.0515,
+    "lng": 92.9912,
+    "difficulty": "Beginner",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Mac Point",
+    "filename": "mac-point.md",
+    "lat": 12.0286,
+    "lng": 93.0041,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
   }
 ]
