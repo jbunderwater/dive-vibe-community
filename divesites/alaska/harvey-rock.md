@@ -17,7 +17,7 @@ Harvey Rock is an OSM/NOAA-charted submerged rock in the Ketchikan approaches �
 
 ## Overview
 
-Harvey Rock lies in the Ketchikan approaches, Southeast Alaska, at approximately 54.21°N, 133.04°W, near the charted features Testlatlints Rock and Douglas Rock. It is documented in OpenStreetMap as a `natural=reef` feature. A search of Ketchikan-area dive shops, ScubaBoard, and regional dive-site databases during this QA pass found no operator listing, forum thread, or diver log naming Harvey Rock specifically. A prior version of this description claimed giant Pacific octopus were "reliably present" here and that harbor seals had "been reported visiting divers"; neither claim could be traced to any source and both have been removed.
+Harvey Rock lies in the Ketchikan approaches, Southeast Alaska, at approximately 54.21°N, 133.04°W, near the charted features Testlatlints Rock and Douglas Rock. It is documented in OpenStreetMap as a `natural=reef` feature. A search of Ketchikan-area dive shops, ScubaBoard, and regional dive-site databases during this QA pass found no operator listing, forum thread, or diver log naming Harvey Rock specifically.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Harvey Rock lies in the Ketchikan approaches, Southeast Alaska, at approximately
 
 ## Marine Life
 
-No site-specific marine life reports have been found for Harvey Rock. Southeast Alaska's Inside Passage generally supports lingcod, rockfish, anemones, sponges, and colonial tunicates as regional fauna, but no source confirms these species at this specific rock.
+No site-specific marine life reports were found for this reef. The destination's regional cold-water fauna applies in general, but no species are named here because no source confirms sightings at this specific site.
 
 ## Entry and Exit
 
@@ -43,4 +43,4 @@ No established dive operator access is documented for this site. Any dive here w
 Treat this as an unconfirmed site. If attempted, standard Southeast Alaska precautions apply — dry suit, independently verified slack-tide timing, and a conservative, self-sufficient dive plan.
 
 ---
-*Description based on OSM/NOAA chart data and general Southeast Alaska regional characteristics. No site-specific sources found. Last updated 2026-07-10.*
+*Description based on OSM/NOAA chart data and general Southeast Alaska regional characteristics. No site-specific sources found. Last updated 2026-11-27.*

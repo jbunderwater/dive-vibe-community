@@ -13,19 +13,17 @@ addedBy: osm_import
 
 ## Swan Lake Wooden Barge
 
-The Swan Lake Wooden Barge is an OSM-documented wooden wreck in the waters near Sand Point on the Alaska Peninsula, resting at approximately 14 meters depth.
+The Swan Lake Wooden Barge is an OSM-documented wooden wreck near Cold Bay on the Alaska Peninsula, resting at approximately 14 meters depth.
 
 ## Overview
 
-The Swan Lake Wooden Barge is an OSM-tagged wreck (historic=wreck, seamark:type=wreck) at approximately 55.25°N, 162.71°W. This location is in the waters near Sand Point, Alaska, in the Shumagin Islands area of the southwestern Alaska Peninsula. No vessel-specific history, identity, or recreational dive site documentation was found for this location in available maritime records, the Alaska Shipwrecks database, or dive operator sources during this QA pass.
+The Swan Lake Wooden Barge is an OSM-tagged wreck (historic=wreck, seamark:type=wreck) at approximately 55.25°N, 162.71°W. The coordinates place it near Cold Bay on the southwestern Alaska Peninsula. No vessel-specific history, identity, or dive documentation was found for this location. Alaska Shipwrecks lists a wooden barge, A P S Co No 10 (42 gross tons, 60.1 feet, built 1944 in Seattle), that burned at Sand Point on November 1, 1964 at about 55°20'N, 160°30'W; that position is roughly 140 km east of this entry and nearer Sand Point, so it is not assumed to be the same vessel.
 
-The Alaska Shipwrecks database does document a wooden barge designated APS CO NO 10 (a 42-ton, 60-foot wooden barge that burned November 1, 1964 at Sand Point), which may or may not correspond to this site. Without confirmed cross-reference data, no specific vessel identity can be attributed.
-
-The Sand Point area sits at the edge of the Bering Sea and Pacific Ocean approaches on the Alaska Peninsula, with cold, productive waters influenced by the Bering Sea. The region is remote, with limited transportation and no established dive infrastructure. Any dive at this location requires logistical self-sufficiency.
+The area sits at the edge of the Bering Sea and Pacific Ocean approaches on the Alaska Peninsula, with cold, productive waters influenced by the Bering Sea. The region is remote, with limited transportation and no established dive infrastructure. Any dive at this location requires logistical self-sufficiency.
 
 ## Site Information
 
-- **Location**: Near Sand Point, Shumagin Islands area, Alaska Peninsula
+- **Location**: Near Cold Bay, Alaska Peninsula
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
@@ -37,7 +35,7 @@ The Sand Point area sits at the edge of the Bering Sea and Pacific Ocean approac
 
 ## Marine Life
 
-No site-specific marine life reports have been found for this wreck. The Alaska Peninsula region's cold, nutrient-dense waters support halibut, Pacific cod, rockfish, king crab, lingcod, and Steller sea lions. What species colonize this specific wreck is unconfirmed.
+No site-specific marine life reports were found for this wreck. The destination's regional cold-water fauna applies in general, but no species are named here because no source confirms sightings at this specific site.
 
 ## Dive Profile
 
@@ -45,11 +43,11 @@ No confirmed dive profile is available for this site. The 14-meter depth is acce
 
 ## Entry and Exit
 
-Sand Point is the nearest community with an airstrip. Access to the water would require a local boat or charter. No dive operators are known to serve this location regularly.
+Cold Bay is the nearest community with an airport. Access to the water would require a local boat or charter. No dive operators are known to serve this location regularly.
 
 ## Safety Considerations
 
 Extremely remote location on the Alaska Peninsula. Emergency response times are measured in hours. Wooden wrecks in cold Alaskan waters can be in an advanced state of structural deterioration — penetration is not recommended. Full cold-water dry suit and redundant gear required. Buddy diving mandatory.
 
 ---
-*Description based on OSM data and regional diving characteristics. No site-specific sources found. Re-checked 2026-07-10: Alaska Shipwrecks database and regional wreck sources re-searched; no new information found. Last updated 2026-07-10.*
+*Description based on OSM data. Alaska Shipwrecks (A) was checked for the nearby barge record noted above. No site-specific sources found. Last updated 2026-11-27.*

@@ -17,7 +17,7 @@ Alert Rock is an OSM/NOAA-charted submerged rock in the Dixon Entrance approache
 
 ## Overview
 
-Alert Rock lies in the Dixon Entrance approaches south of Ketchikan, Southeast Alaska, at approximately 54.18°N, 132.98°W, near the charted features Chanal Reef, Marchand Reef, and Testlatlints Rock. It is documented in OpenStreetMap as a `natural=reef` feature. A search of Ketchikan-area dive shops, ScubaBoard, and regional dive-site databases during this QA pass found no operator listing, forum thread, or diver log naming Alert Rock specifically. A prior version of this description asserted that wolf eels, Steller sea lions, and resident giant Pacific octopus were specifically present at this rock; none of those claims could be traced to any source and have been removed.
+Alert Rock lies in the Dixon Entrance approaches south of Ketchikan, Southeast Alaska, at approximately 54.18°N, 132.98°W, near the charted features Chanal Reef, Marchand Reef, and Testlatlints Rock. It is documented in OpenStreetMap as a `natural=reef` feature. A search of Ketchikan-area dive shops, ScubaBoard, and regional dive-site databases during this QA pass found no operator listing, forum thread, or diver log naming Alert Rock specifically.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Alert Rock lies in the Dixon Entrance approaches south of Ketchikan, Southeast A
 
 ## Marine Life
 
-No site-specific marine life reports have been found for Alert Rock. Southeast Alaska's Inside Passage generally supports lingcod, rockfish, giant Pacific octopus, wolf eels, anemones, sponges, and nudibranchs as regional fauna, but no source confirms any of these species at this specific rock.
+No site-specific marine life reports were found for this reef. The destination's regional cold-water fauna applies in general, but no species are named here because no source confirms sightings at this specific site.
 
 ## Entry and Exit
 
@@ -43,4 +43,4 @@ No established dive operator access is documented for this site. Any dive here w
 Treat this as an unconfirmed site. If attempted, standard Southeast Alaska precautions apply — dry suit, independently verified slack-tide timing, and a conservative, self-sufficient dive plan.
 
 ---
-*Description based on OSM/NOAA chart data and general Southeast Alaska regional characteristics. No site-specific sources found. Last updated 2026-07-10.*
+*Description based on OSM/NOAA chart data and general Southeast Alaska regional characteristics. No site-specific sources found. Last updated 2026-11-27.*

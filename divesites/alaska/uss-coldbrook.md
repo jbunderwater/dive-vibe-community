@@ -13,30 +13,28 @@ addedBy: osm_import
 
 ## USS Coldbrook
 
-**Note: The SS Coldbrook is not a dive site.** This wreck, located on Middleton Island in the Gulf of Alaska, was permanently lifted above sea level by the 1964 Alaska earthquake and now sits on dry land as a seabird nesting colony. It should be removed from the dive site database.
+**Note: The SS Coldbrook is not a dive site.** The wreck on Middleton Island in the Gulf of Alaska was lifted above sea level by the 1964 Alaska earthquake and now sits on land as a seabird nesting site.
 
 ## Overview
 
-The SS Coldbrook (often informally called the USS Coldbrook, though it was a civilian merchant vessel) was a 5,104-gross-ton, 390-foot steel-hulled cargo ship built in 1919 at the Hog Island Shipyard in Philadelphia. The vessel was operated by the American Mail Line and was taken under US Maritime Administration control during World War II.
+The SS Coldbrook (sometimes written USS Coldbrook, though sources describe her as a merchant ship) was a Hog Island-type cargo steamer. MARAD and Alaska Shipwrecks both list her as 390 feet long and 5,104 gross tons, operated by the American Mail Line (MARAD) or owned by the US Maritime Commission (Alaska Shipwrecks). Sources differ on the build year: MARAD and Wikipedia give 1919, Alaska Shipwrecks gives 1920.
 
-On June 16, 1942, the Coldbrook ran aground on Middleton Island in the Gulf of Alaska during a wartime transit. According to Wikipedia, the captain deliberately beached the ship to save his crew when chased by a Japanese submarine. Multiple US Navy salvage attempts led by the USS Discoverer (ARS-3) failed to refloat the vessel, and it was declared a total loss in August 1942. The ship was stripped of reusable materials and abandoned.
+She was lost on Middleton Island in 1942. Alaska Shipwrecks gives June 16, 1942, while MARAD gives June 3, 1942. Accounts of the cause also differ: MARAD says she ran aground in a snowstorm while traveling from Chernofski, Alaska to Seattle; Wikipedia says she was chased ashore by a Japanese submarine and her captain beached her to save the crew; Alaska Shipwrecks lists the cause as enemy action and notes that some reports say she grounded and an unsuccessful salvage was attempted. MARAD and Alaska Shipwrecks both place the loss about 75 miles south of Cordova.
 
-The wreck remained partially submerged for over two decades until the Good Friday Earthquake of March 27, 1964 raised Middleton Island by approximately 12 feet (some sources report up to 15 feet). This seismic uplift permanently grounded the ship above sea level. The vessel now sits entirely above the high-tide line on the island's beach, where it has become a nesting colony for thousands of seabirds including kittiwakes, cormorants, puffins, ravens, and bald eagles. Researchers have monitored the bird colony at this site for decades.
-
-**This is not an underwater dive site.** The wreck is above water and accessible only via Middleton Island, which has no regular transportation services and is visited primarily by wildlife researchers.
+Wikipedia and a Middleton Island research blog both report that the 1964 earthquake raised the island by 12 feet (3.7 m), leaving the hull out of the surf zone. Wikipedia describes thousands of nesting seabirds on the hull, and the blog lists kittiwakes, cormorants, puffins, ravens and eagles.
 
 ## Site Information
 
-- **Location**: Middleton Island, Gulf of Alaska (approximately 80 miles south of Cordova)
-- **Status**: Above water — NOT a dive site
+- **Location**: Middleton Island, Gulf of Alaska (about 75 miles south of Cordova)
+- **Status**: Above water, not a dive site
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Current Condition**: Deteriorating land-based wreck serving as a seabird colony; public access is limited to protect nesting birds
+- **Current Condition**: Rusting hull on land serving as a seabird nesting site; the island is visited mainly by researchers
 
 ## Data Quality Note
 
-This entry in the alaska dive site database is erroneous. The SS Coldbrook's coordinates (59.43°N, 146.36°W) correctly locate it on Middleton Island, but it has not been an underwater wreck since 1964. This record should be removed from the dive site database or replaced with a genuine dive site in the region.
+This entry is retained in the database for reference only. The coordinates (59.43°N, 146.36°W) locate the wreck on Middleton Island, but it has been out of the water since 1964 and cannot be dived.
 
 ---
-*Sources: [Wikipedia — Middleton Island](https://en.wikipedia.org/wiki/Middleton_Island), [Middleton Island Shipwreck — This Job is for the Birds!](https://sydneymiddletonisland.wordpress.com/2016/06/01/middleton-island-shipwreck/), [Flickr — USS Coldbrook Middleton Island](https://www.flickr.com/photos/42594431@N06/30674478221). Re-confirmed 2026-07-10: still not a dive site; still recommended for removal. Last updated 2026-07-10.*
+*Sources: [Wikipedia, Middleton Island](https://en.wikipedia.org/wiki/Middleton_Island), [MARAD Vessel History, Coldbrook](https://vesselhistory.marad.dot.gov/ShipHistory/Detail/7434), [Alaska Shipwrecks (C)](https://alaskashipwreck.com/shipwrecks-a-z/alaska-shipwrecks-c/), [This Job is for the Birds!](https://sydneymiddletonisland.wordpress.com/2016/06/01/middleton-island-shipwreck/). Last updated 2026-11-27.*

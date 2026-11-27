@@ -17,7 +17,7 @@ Gatenby Rock is an OSM/NOAA-charted submerged rock in the southern approaches to
 
 ## Overview
 
-Gatenby Rock lies in the southern approaches to Ketchikan, Southeast Alaska, at approximately 54.12°N, 133.14°W. It is documented in OpenStreetMap as a `natural=reef` feature. A search of Ketchikan-area dive shops, ScubaBoard, and regional dive-site databases during this QA pass found no operator listing, forum thread, or diver log naming Gatenby Rock specifically. A prior version of this description stated that giant Pacific octopus were "resident, most active at dawn and dusk" here; that claim could not be traced to any source and has been removed.
+Gatenby Rock lies in the southern approaches to Ketchikan, Southeast Alaska, at approximately 54.12°N, 133.14°W. It is documented in OpenStreetMap as a `natural=reef` feature. A search of Ketchikan-area dive shops, ScubaBoard, and regional dive-site databases during this QA pass found no operator listing, forum thread, or diver log naming Gatenby Rock specifically.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Gatenby Rock lies in the southern approaches to Ketchikan, Southeast Alaska, at 
 
 ## Marine Life
 
-No site-specific marine life reports have been found for Gatenby Rock. Southeast Alaska's Inside Passage generally supports lingcod, rockfish, giant Pacific octopus, anemones, and sponges as regional fauna, but no source confirms these species at this specific rock.
+No site-specific marine life reports were found for this reef. The destination's regional cold-water fauna applies in general, but no species are named here because no source confirms sightings at this specific site.
 
 ## Entry and Exit
 
@@ -43,4 +43,4 @@ No established dive operator access is documented for this site. Any dive here w
 Treat this as an unconfirmed site. If attempted, standard Southeast Alaska precautions apply — dry suit, independently verified slack-tide timing, and a conservative, self-sufficient dive plan.
 
 ---
-*Description based on OSM/NOAA chart data and general Southeast Alaska regional characteristics. No site-specific sources found. Last updated 2026-07-10.*
+*Description based on OSM/NOAA chart data and general Southeast Alaska regional characteristics. No site-specific sources found. Last updated 2026-11-27.*

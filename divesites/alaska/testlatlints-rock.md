@@ -17,7 +17,7 @@ Testlatlints Rock is an OSM/NOAA-charted submerged rock in the Dixon Entrance ap
 
 ## Overview
 
-Testlatlints Rock lies in the Dixon Entrance approaches south of Ketchikan, Southeast Alaska, at approximately 54.19°N, 133.00°W, near the charted features Alert Rock, Chanal Reef, and Harvey Rock. It is documented in OpenStreetMap as a `natural=reef` feature. A prior version of this description asserted the name derives from the Haida language; that etymology could not be independently verified during this QA pass and is not repeated here as fact. A search of Ketchikan-area dive shops, ScubaBoard, and regional dive-site databases found no operator listing, forum thread, or diver log naming Testlatlints Rock specifically.
+Testlatlints Rock lies in the Dixon Entrance approaches south of Ketchikan, Southeast Alaska, at approximately 54.19°N, 133.00°W, near the charted features Alert Rock, Chanal Reef, and Harvey Rock. It is documented in OpenStreetMap as a `natural=reef` feature.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Testlatlints Rock lies in the Dixon Entrance approaches south of Ketchikan, Sout
 
 ## Marine Life
 
-No site-specific marine life reports have been found for Testlatlints Rock. Southeast Alaska's Inside Passage generally supports lingcod, rockfish, giant Pacific octopus, anemones, sea stars, and nudibranchs as regional fauna, but no source confirms these species at this specific rock.
+No site-specific marine life reports were found for this reef. The destination's regional cold-water fauna applies in general, but no species are named here because no source confirms sightings at this specific site.
 
 ## Entry and Exit
 
@@ -43,4 +43,4 @@ No established dive operator access is documented for this site. Any dive here w
 Treat this as an unconfirmed site. If attempted, standard Southeast Alaska precautions apply — dry suit, independently verified slack-tide timing, and a conservative, self-sufficient dive plan given the area's remoteness from emergency services.
 
 ---
-*Description based on OSM/NOAA chart data and general Southeast Alaska regional characteristics. No site-specific sources found. Last updated 2026-07-10.*
+*Description based on OSM/NOAA chart data and general Southeast Alaska regional characteristics. No site-specific sources found. Last updated 2026-11-27.*

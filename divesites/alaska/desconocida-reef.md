@@ -32,7 +32,7 @@ Desconocida Reef ("desconocida" is Spanish for "unknown") lies among the outer i
 
 ## Marine Life
 
-No site-specific marine life reports have been found for Desconocida Reef. Southeast Alaska's outer coast generally supports lingcod, rockfish, sea stars, and encrusting invertebrates as regional fauna, but no source confirms these species — or any giant Pacific octopus, which a prior version of this description speculated were "likely residents" — at this specific reef.
+No site-specific marine life reports were found for this reef. The destination's regional cold-water fauna applies in general, but no species are named here because no source confirms sightings at this specific site.
 
 ## Entry and Exit
 
@@ -43,4 +43,4 @@ No established dive operator access is documented for this site. Any dive here w
 Treat this as an unconfirmed site in a remote location with long emergency-response times. If attempted, standard Southeast Alaska precautions apply — dry suit, independently verified slack-tide timing, and a conservative, self-sufficient dive plan with backup surface signaling.
 
 ---
-*Description based on OSM/NOAA chart data and general Southeast Alaska regional characteristics. No site-specific sources found. Last updated 2026-07-10.*
+*Description based on OSM/NOAA chart data and general Southeast Alaska regional characteristics. No site-specific sources found. Last updated 2026-11-27.*

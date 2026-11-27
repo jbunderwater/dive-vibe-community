@@ -13,47 +13,43 @@ addedBy: osm_import
 
 ## M/V Oduna
 
-The M/V Oduna is a large WWII-era cargo vessel that stranded on the rocks at Cape Pankof on Unimak Island's south coast on November 26, 1965, now a seldom-visited wreck on one of Alaska's most remote and storm-battered coastlines.
+The M/V Oduna was a Liberty-type cargo ship that stranded on the rocks at Cape Pankof, Unimak Island, on November 26, 1965 and was lost.
 
 ## Overview
 
-The Oduna was built in 1945 at South Portland, Maine, as a Liberty-type cargo ship. The vessel measured 422 feet in length and 57 feet in breadth, with a gross tonnage of 7,252 tons. It carried several former names before reaching Alaska — launched as *Francis A. Retka*, then renamed *Liberty Bell*, *I.R. Lashins*, and *Southport* through a series of sales — before the Alaska Steamship Company acquired it and renamed it Oduna in 1964, modifying it to carry refrigerated shipping containers.
+The Oduna was built at South Portland, Maine, by New England Shipbuilding Corporation; Alaska Shipwrecks and MARAD give 1945 as the build year, while CoastView gives 1944 (with a 1945 launch). Sources differ on her size. Alaska Shipwrecks lists 422.8 feet in length, 57 feet in breadth and 7,252 gross tons; CoastView gives 422 feet; the MARAD vessel-history record (filed under her original name, Francis A. Retka) lists 441.5 feet, 56.8 feet and 7,176 gross tons. Alaska Shipwrecks lists earlier names Francis A Retka, Liberty Bell, I R Lashins and Southport. CoastView reports the Alaska Steamship Company acquired her and renamed her Oduna in 1964, modifying her to carry refrigerated containers.
 
-On November 26, 1965, the Oduna stranded in heavy seas on the wave-cut rock platform at the base of sea cliffs at Cape Pankof, at the eastern tip of the Ikatan Peninsula on Unimak Island (54°40'N, 163°04'W) — approximately 18 miles southeast of False Pass, Alaska. The vessel's radar had become inoperative, and strong currents swept the ship onto the rocks. The crew was evacuated by breeches buoy and helicopter to the Cutter Storis and tug Adeline Foss. During salvage operations, 200,000 pounds of frozen crab were recovered by cutting large holes in the starboard hull. The vessel was declared a total loss.
+On November 26, 1965 she stranded at Cape Pankof on the east side of Unimak Island (Alaska Shipwrecks gives 54°40'N, 163°04'W). Her radar had failed and strong currents set her onto a wave-cut platform at the base of sea cliffs on the south coast (CoastView, Alaska Shipwrecks); Alaska Shipwrecks adds that the chief mate was at the helm and was blamed for the stranding. The crew was removed by breeches buoy and helicopter to the Coast Guard cutter Storis and the tug Adeline Foss. About 200,000 pounds of frozen crab were salvaged by cutting large holes in the starboard hull. The vessel was lost.
 
-The Oduna now rests in shallow water at approximately 12 meters depth with portions visible at both high and low tide. The site is among the most logistically challenging wreck dives in North America — located on the south shore of Unimak Island in the Bering Sea approaches, with no regular transportation infrastructure and weather conditions that can deteriorate rapidly and severely. Access, if feasible, would require a well-equipped charter vessel from Dutch Harbor (approximately 148 miles to the northeast) or a dedicated offshore expedition.
+No dive report was found. The 12 meter depth in the data file is not confirmed by a dive source; OpenStreetMap tags the hull as visible at both high and low tide.
 
 ## Site Information
 
-- **Location**: Cape Pankof, Ikatan Peninsula, Unimak Island, southwest Alaska (approximately 18 miles SE of False Pass)
+- **Location**: Cape Pankof, Ikatan Peninsula, Unimak Island, southwest Alaska
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: Unknown — no recreational dive reports found
-- **Current**: Strong tidal and oceanic currents typical of Unimak Pass approaches
-- **Water Temperature**: 3–8°C (37–46°F) — among the coldest recreational dive conditions in Alaska
-- **Best Time**: Summer months only; weather window is narrow and unpredictable
+- **Typical Visibility**: Unknown, no dive reports found
+- **Current**: Strong currents are reported in the grounding accounts; no dive-specific data
+- **Water Temperature**: Unknown for this site; cold-water diving
+- **Best Time**: Unknown
 
 ## Marine Life
 
-No site-specific marine life reports have been found for this wreck. The cold, nutrient-dense waters of the Unimak Pass area are among the most productive in the North Pacific, supporting large populations of king crab, halibut, cod, and Steller sea lions. What species actually colonize the wreck structure itself is unconfirmed by any available dive source.
+No site-specific marine life reports were found for this wreck. The destination's regional cold-water fauna applies in general, but no species are named here because no source confirms sightings at this site.
 
 ## Dive Profile
 
-No recreational dive profile information is available for this site. The wreck is at shallow depth (to approximately 12 meters) but the combination of extreme remoteness, cold water, and unpredictable Bering Sea/Pacific swell makes this an expedition-level undertaking requiring full logistical self-sufficiency.
+No dive profile has been published for this site.
 
 ## Entry and Exit
 
-There is no established access infrastructure for this site. The nearest communities are False Pass (approximately 18 miles NW) and King Cove (approximately 50 miles NE). Dutch Harbor is the closest significant port at approximately 148 miles. An expedition approach using an ocean-capable charter vessel is the only realistic option. The south coast of Unimak Island is completely exposed to North Pacific swell.
+No dive operator or access infrastructure is documented for this site. It is on the exposed south coast of Unimak Island, and any visit would be an expedition requiring a seaworthy vessel and full self-sufficiency.
 
 ## Safety Considerations
 
-This is one of the most remote and exposed dive environments in Alaska. Emergency response would take many hours. Weather in the Unimak Pass area is notoriously severe and unpredictable. This site should only be approached by well-equipped expedition teams with extensive cold-water and remote diving experience. Abort protocols and emergency evacuation plans must be established before any dive attempt.
-
-## Photography
-
-No confirmed dive photographs from this site exist in publicly available sources. The wreck's scale (a 422-foot vessel) and the dramatic sea cliff setting of Cape Pankof would make for exceptional underwater and aerial imagery for any expedition capable of reaching the site.
+Remote and exposed location with long emergency response times. Wreck penetration requires specific training and equipment and is not recommended at a steel wreck battered by surf. Establish abort and evacuation plans before any attempt. Dry suit and buddy diving are mandatory.
 
 ---
-*Sources: [Alaska Shipwrecks — O](https://alaskashipwreck.com/shipwrecks-a-z/alaska-shipwrecks-o/), [CoastView — Cape Pankof, Ikatan Peninsula](https://coastview.org/2026/05/02/cape-pankof-unimak-island/), [ScubaBoard — Wreck diver dragged down and pinned, False Pass, Alaska](https://scubaboard.com/community/threads/wreck-diver-dragged-down-and-pinned-false-pass-alaska.567663/). Re-audited 2026-07-10: corrected former-vessel-name typo ("Francia" to "Francis") and added the vessel's full former-name chain and 1964 renaming date per Alaska Shipwrecks. Last updated 2026-07-10.*
+*Sources: [Alaska Shipwrecks (O)](https://alaskashipwreck.com/shipwrecks-a-z/alaska-shipwrecks-o/), [CoastView, Cape Pankof](https://coastview.org/2026/05/02/cape-pankof-unimak-island/), [MARAD Vessel History, Francis A. Retka](https://vesselhistory.marad.dot.gov/ShipHistory/Detail/1690). Last updated 2026-11-27.*

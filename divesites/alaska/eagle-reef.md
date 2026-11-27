@@ -32,7 +32,7 @@ Eagle Reef lies in the waterways south of Juneau, Southeast Alaska, at approxima
 
 ## Marine Life
 
-No site-specific marine life reports have been found for Eagle Reef. Juneau-area waters generally support lingcod, cabezon, rockfish, giant Pacific octopus, Dungeness and tanner crabs, and anemones as regional fauna, but no source confirms these species at this specific reef. A prior version of this description claimed "local divers report regular encounters" with octopus here; that claim could not be traced to any source and has been removed.
+No site-specific marine life reports were found for this reef. The destination's regional cold-water fauna applies in general, but no species are named here because no source confirms sightings at this specific site.
 
 ## Entry and Exit
 
@@ -43,4 +43,4 @@ No established dive operator access is documented for this site. Any dive here w
 Treat this as an unconfirmed site. If attempted, standard Southeast Alaska precautions apply — dry suit, independently verified slack-tide timing, and awareness that glacial outflow can reduce visibility unpredictably in this area.
 
 ---
-*Description based on OSM/NOAA chart data and general Southeast Alaska regional characteristics. No site-specific sources found. Last updated 2026-07-10.*
+*Description based on OSM/NOAA chart data and general Southeast Alaska regional characteristics. No site-specific sources found. Last updated 2026-11-27.*

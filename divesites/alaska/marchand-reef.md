@@ -17,7 +17,7 @@ Marchand Reef is an OSM/NOAA-charted submerged reef in the Dixon Entrance approa
 
 ## Overview
 
-Marchand Reef lies in the Dixon Entrance approaches south of Ketchikan, Southeast Alaska, at approximately 54.18°N, 133.02°W, near the charted features Alert Rock, Chanal Reef, and Testlatlints Rock. It is documented in OpenStreetMap as a `natural=reef` feature. A search of Ketchikan-area dive shops, ScubaBoard, and regional dive-site databases during this QA pass found no operator listing, forum thread, or diver log naming Marchand Reef specifically. A prior version of this description attributed giant Pacific octopus, wolf eels, and cabezon sightings to local divers at this site; none of those reports could be traced to any source and have been removed.
+Marchand Reef lies in the Dixon Entrance approaches south of Ketchikan, Southeast Alaska, at approximately 54.18°N, 133.02°W, near the charted features Alert Rock, Chanal Reef, and Testlatlints Rock. It is documented in OpenStreetMap as a `natural=reef` feature. A search of Ketchikan-area dive shops, ScubaBoard, and regional dive-site databases during this QA pass found no operator listing, forum thread, or diver log naming Marchand Reef specifically.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Marchand Reef lies in the Dixon Entrance approaches south of Ketchikan, Southeas
 
 ## Marine Life
 
-No site-specific marine life reports have been found for Marchand Reef. Southeast Alaska's Inside Passage generally supports lingcod, rockfish, giant Pacific octopus, wolf eels, anemones, sea stars, and sea urchins as regional fauna, but no source confirms any of these species at this specific reef.
+No site-specific marine life reports were found for this reef. The destination's regional cold-water fauna applies in general, but no species are named here because no source confirms sightings at this specific site.
 
 ## Entry and Exit
 
@@ -43,4 +43,4 @@ No established dive operator access is documented for this site. Any dive here w
 Treat this as an unconfirmed site. If attempted, standard Southeast Alaska precautions apply — dry suit, independently verified slack-tide timing, and a conservative, self-sufficient dive plan.
 
 ---
-*Description based on OSM/NOAA chart data and general Southeast Alaska regional characteristics. No site-specific sources found. Last updated 2026-07-10.*
+*Description based on OSM/NOAA chart data and general Southeast Alaska regional characteristics. No site-specific sources found. Last updated 2026-11-27.*

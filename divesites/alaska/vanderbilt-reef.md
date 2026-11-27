@@ -5,7 +5,7 @@ lng: -135.0190567
 difficulty: Advanced
 maxDepth: 26
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: 1035594535
 addedBy: osm_import
@@ -13,55 +13,43 @@ addedBy: osm_import
 
 ## Vanderbilt Reef
 
-Vanderbilt Reef is a rocky shoal at the junction of Favorite Channel and Lynn Canal, approximately 30 miles northwest of Juneau, historically significant as the site of the 1918 sinking of the SS Princess Sophia.
+Vanderbilt Reef is a rocky outcrop in Lynn Canal, Southeast Alaska, where the steamship SS Princess Sophia was lost on October 25, 1918; divers visit the wreck on the side of the reef.
 
 ## Overview
 
-Vanderbilt Reef is a rocky outcropping in Lynn Canal that breaks the surface at low tide and is marked with a navigation beacon. The reef was named in 1880 by Captain L. A. Beardslee, U.S. Navy, for Captain J. M. Vanderbilt of the Northwest Trading Company, who first charted it. The reef occupies a position in one of Southeast Alaska's major marine traffic corridors.
+Vanderbilt Reef is a rocky outcropping in Lynn Canal whose tip is visible just above the surface and carries a navigation beacon (Wikipedia). Pacific Yachting describes it as the tip of an underwater mountain rising from the bottom of Lynn Canal.
 
-The reef is most known as the location where the SS Princess Sophia grounded on the night of October 23–24, 1918, during a heavy snowstorm. The Canadian Pacific steamship — 245 feet long, 2,320 gross tons, launched in 1911 — departed Skagway southbound with a complement most commonly reported as 75 crew, though total persons aboard is reported inconsistently across sources: Wikipedia gives 364 total (75 crew and about 268–289 passengers, itself inconsistent within that source), while the National Park Service gives 353 total aboard. At 2:00 AM on October 24, the ship struck Vanderbilt Reef while running at approximately 11–12 knots in near-zero visibility. The vessel remained lodged on the reef for nearly 40 hours while rescue ships stood by in deteriorating conditions. On the evening of October 25, a severe storm caused the ship to slide off the reef and sink. All aboard perished except a single dog, rescued days later near Auke Bay — making it the worst maritime disaster in the history of British Columbia and Alaska. Sources report death tolls ranging from 343 (a contemporary 1918 newspaper estimate) to 364 (the commonly cited modern figure); the precise passenger count was never definitively established, so the exact toll remains uncertain.
+The Princess Sophia was a Canadian Pacific steamship, launched in 1911 and completed in 1912 (Wikipedia; Pacific Yachting gives 1912). Wikipedia and NUMA give her as 245 feet long and 2,320 gross tons. She left Skagway on October 23, 1918 and grounded on the reef at about 2:00 a.m. on October 24 at about 11 knots (NPS; Wikipedia gives 02:00 in one place and 02:10 in another). She stayed lodged for about 40 hours, then slid off and sank between about 5:30 and 6:00 p.m. on October 25 after a storm (NPS). Nobody aboard survived. The number aboard is reported inconsistently: Wikipedia gives about 343 in one section and 364 elsewhere, NPS says 353, Pacific Yachting says 343 with a disputed count of up to 354, and NUMA says 353 lives were lost. The only survivor was a dog, described as an English setter found oiled near Tee Harbor or Auke Bay by Wikipedia and NPS, and as an Irish setter by NUMA.
 
-Underwater, Vanderbilt Reef descends to 26 meters and supports the typical cold-water community of the Lynn Canal. The reef structure provides habitat for cold-water invertebrates and the reef fish species common throughout Southeast Alaska.
+Pacific Yachting reports the wreck lies in pieces on the side of the reef at depths from 40 to 120 feet (about 12 to 37 meters), on its starboard side, and that a 2009 survey was supervised by James Delgado. NUMA gives the depth as 80 to 100 feet and reports good visibility of 25 to 50 feet with strong currents. NUMA says boilers remain in the sand among steel plating and beams; Pacific Yachting reports the engine room devastated by the sinking.
 
 ## Site Information
 
-- **Location**: Junction of Favorite Channel and Lynn Canal, 30 miles NW of Juneau, Southeast Alaska (58°35'N, 135°01'W)
+- **Location**: Vanderbilt Reef, Lynn Canal, Southeast Alaska (about 58°35'N, 135°01'W)
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 26 meters
-- **Typical Visibility**: 6–15 meters (20–50 feet)
-- **Current**: Strong — slack tide required
-- **Water Temperature**: 4–10°C (39–50°F)
-- **Best Time**: May–September
+- **Typical Visibility**: 25 to 50 feet reported by NUMA
+- **Current**: Strong currents reported by NUMA
+- **Water Temperature**: Unknown for this site; cold-water diving
+- **Best Time**: Unknown
 
 ## Marine Life
 
-No dive-specific marine life reports have been confirmed for Vanderbilt Reef itself. The Lynn Canal system supports lingcod, rockfish, aggregating anemones, plumose anemones, Dungeness crabs, giant Pacific octopus, and sea urchins as regional fauna typical of Southeast Alaska rocky reefs. Humpback whales, Steller sea lions, and harbor porpoises are regularly encountered at the surface in Lynn Canal. Whether remnants of the Princess Sophia remain at diveable depths has not been confirmed in available sources.
+Pacific Yachting reports the engine room covered by abundant white anemones, and NUMA reports the wreck covered by white sea anemones and sea lions frequenting the wreck to feed on fish sheltering in the debris. No other species are confirmed at this site.
 
 ## Dive Profile
 
-Dive the reef structure during slack tide. Lynn Canal generates significant tidal flow and the reef should not be dived in active current. The upper zone (8–16 meters) typically carries the highest invertebrate density; deeper sections approach 26 meters. Plan ascent before current builds and conduct a 3-minute safety stop at 5 meters.
+The wreckage is scattered down the reef flank between roughly 12 and 37 meters according to Pacific Yachting, with boilers and plating reported at the lower end. Strong currents are reported, so plan around slack water.
 
 ## Entry and Exit
 
-Charter dive access from Juneau is the practical option — approximately 30 miles from Juneau by boat. Lynn Canal is a major commercial and ferry traffic corridor. An SMB deployed at the start of ascent is essential. Confirm the day's slack tide timing with the skipper.
-
-## Tips and Recommendations
-
-- Research the Princess Sophia disaster before diving — the historical context adds depth to the experience
-- Lynn Canal crossing can be rough in southerly or northerly winds — check marine forecasts carefully
-- Glacially influenced visibility can drop in summer — ask Juneau operators for current site conditions
-- The navigation beacon on the reef is visible above water — useful for orientation
-- Cold temperatures (as low as 4°C at depth) require a high-specification dry suit undergarment
+Reaching the site requires a boat in Lynn Canal, a major vessel corridor. Pacific Yachting and NUMA do not describe an established dive operator; confirm charters and mooring options with a Juneau-area operator.
 
 ## Safety Considerations
 
-Lynn Canal tidal currents are among the strongest in Southeast Alaska — slack-tide discipline is non-negotiable. Commercial ferry and vessel traffic is significant in this corridor. Always surface with a deployed SMB and communicate your position to the dive boat. Cold temperatures make hypothermia a risk if dive duration is excessive.
-
-## Photography
-
-The historically charged location and cold-water invertebrate life offer strong photographic material. Wide-angle shots of the reef face with natural light from above work in good visibility. Macro subjects — nudibranchs, encrusting sponges, and anemones — benefit from strobe lighting to reveal color at depth.
+This is a mass-casualty site and the wreck is broken up, with sharp plating and debris. Wreck penetration requires specific training and equipment and is not recommended here. Strong currents, vessel traffic and cold water require a dry suit, slack-tide planning and an SMB.
 
 ---
-*Sources: [Wikipedia — Vanderbilt Reef](https://en.wikipedia.org/wiki/Vanderbilt_Reef), [Wikipedia — SS Princess Sophia](https://en.wikipedia.org/wiki/SS_Princess_Sophia), [National Park Service — The Princess Sophia](https://www.nps.gov/articles/khns-princess-sophia.htm). Re-audited 2026-07-10: passenger/death-toll figures corrected to reflect the range actually reported across these sources (353–364 aboard; 343–364 died) rather than a single unsupported "343 aboard" figure. Last updated 2026-07-10.*
+*Sources: [Wikipedia, Vanderbilt Reef](https://en.wikipedia.org/wiki/Vanderbilt_Reef), [Wikipedia, SS Princess Sophia](https://en.wikipedia.org/wiki/SS_Princess_Sophia), [National Park Service, The Princess Sophia](https://www.nps.gov/articles/khns-princess-sophia.htm), [Pacific Yachting, Sinking of the Princess Sophia](https://boattest.com/article/sinking-princess-sophia), [NUMA, Princess Sophia](https://numa.net/2021/05/ss-princess-sophia-oil-soaked-dog-was-the-only-survivor/). Last updated 2026-11-27.*

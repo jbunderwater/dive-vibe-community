@@ -32,7 +32,7 @@ Table Rock is located in the waters of the Alaska Peninsula near the Cold Bay/Sh
 
 ## Marine Life
 
-No site-specific marine life reports have been found for Table Rock. The Alaska Peninsula's cold, nutrient-dense waters generally support halibut, Pacific cod, rockfish, lingcod, king crab, and Steller sea lions as regional fauna, but no source confirms which of these, if any, occur at this specific rock. Any prior claim that sea lions "occasionally investigate divers" here was unsupported and has been removed.
+No site-specific marine life reports were found for this reef. The destination's regional cold-water fauna applies in general, but no species are named here because no source confirms sightings at this specific site.
 
 ## Entry and Exit
 
@@ -43,4 +43,4 @@ No established dive operator access is documented for this site. Access would re
 This is one of the most remote and weather-affected corners of Alaska; emergency response would be measured in hours to days. Treat this as an unconfirmed site — no dive profile, visibility data, or operator guidance exists. Any attempt would require full logistical self-sufficiency, conservative planning, and cold-water expedition experience.
 
 ---
-*Description based on OSM/NOAA chart data and general regional characteristics. No site-specific sources found. Last updated 2026-07-10.*
+*Description based on OSM/NOAA chart data and general regional characteristics. No site-specific sources found. Last updated 2026-11-27.*
