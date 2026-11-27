@@ -13,13 +13,15 @@ addedBy: osm_import
 
 ## SS Antilla Wreck
 
-The SS Antilla is a 398-foot German cargo freighter deliberately scuttled on May 10, 1940, and is widely regarded as the largest shipwreck accessible to recreational divers in the Caribbean.
+The SS Antilla is a German cargo freighter scuttled by her crew on 10 May 1940 and now lies on her port side in Malmok Bay, one of the largest wrecks accessible to recreational divers in the Caribbean.
 
 ## Overview
 
-Built in 1939 by Deutsche Werft in Hamburg for the Hamburg America Line (HAPAG), the Antilla (4,363 GRT) was anchored off Aruba when Germany invaded the Netherlands on May 10, 1940. Rather than allow capture by Dutch marines who attempted to board the vessel, Captain Ferdinand Schmidt ordered the crew to open the seacocks and set fires in the engine room and holds. The ship burned for several days before sinking. A post-sinking inspection in 1940 confirmed the hull was intact when she went down — the common story that boiler explosions broke her in two is false. A storm in 1953 eventually broke the hull in two amidships.
+Wikipedia records the Antilla as a Hamburg America Line cargo ship launched on 21 March 1939 and completed on 11 July 1939 at Deutsche Werft in Hamburg. Pure Diving Aruba and Divernet also place her construction in Hamburg in 1939. Wikipedia lists her at 4,363 GRT and 2,164 NRT; Divernet gives 2,164 tons.
 
-Today the wreck lies on her port side in Malmok Bay, with the shallowest point approximately 5 meters below the surface and the deepest section — around the propeller — at approximately 18 meters. The sheer scale of the wreck means a single dive can only cover a fraction of the site: the bow section, the engine room, individual cargo holds, or the stern — each constitutes a separate dive in its own right. The steel hull is heavily encrusted with orange cup corals, tube sponges, and anemones. The wreck has deteriorated significantly over 80-plus years, and some sections are considered unsafe to enter.
+When Germany invaded the Netherlands in May 1940, Dutch marines moved to seize the ship at Aruba. Wikipedia and Divernet report that her crew opened the seacocks and set fires; Pure Diving Aruba describes the captain having the ship set on fire and flooded. Wikipedia gives the date as 10 May 1940 (its shipwreck list gives 11 May), and Divernet also gives 10 May. Accounts differ on what finally sank her: Divernet attributes the sinking to a boiler explosion when cold water met hot boilers, while Wikipedia describes the popular boiler-explosion story as false because Dutch divers found the wreck intact in 1940. Wikipedia reports that storm damage had broken the hull in two amidships by 1953, and Divernet also describes storm damage to the wreck.
+
+Published lengths vary: Wikipedia and Divernet give about 121 metres (398 feet), Frommer's 394 feet, Pure Diving Aruba about 130 metres (400 feet), and JADS Aruba about 144 metres (430 feet). The wreck lies mostly on her port side in Malmok Bay; Wikipedia gives depths of up to 18 metres, Pure Diving Aruba 5 metres at the shallowest to 17 metres at the propeller, and JADS Aruba a maximum of 16.5 metres. Pure Diving Aruba notes that saltwater corrosion has caused parts of the wreck to collapse, so the site changes over the years.
 
 ## Site Information
 
@@ -28,40 +30,14 @@ Today the wreck lies on her port side in Malmok Bay, with the shallowest point a
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 15–30 meters
-- **Current**: Generally light; conditions vary by season
-- **Best Time**: Year-round; December to April for calmest conditions
 
 ## Marine Life
 
-Documented species at this site include green sea turtles, moray eels, stingrays, octopus, scorpionfish, margates, and — occasionally — yellow frogfish. Large schools of glassy sweepers and silversides fill the interior chambers; pelicans congregate above the surface portions to feed on the baitfish. Angelfish, bluehead wrasse, yellowtail snappers, damselfish, and four-eye butterflyfish are consistently reported on the exterior hull. The wreck's size and variety of habitats — from shallow encrusted plating to deeper interior passages — support diverse populations of both resident and transient species.
+Pure Diving Aruba lists green turtles, moray eels, stingrays, octopus, margates and scorpionfish at this wreck, with an occasional frogfish. Wikipedia reports lobsters, hawksbill turtles, moray eels and blue tang, and a large Atlantic goliath grouper reported in the forward section in 2010. Frommer's mentions angelfish, moray eels and an occasional octopus.
 
-Note: "nurse sharks, reef sharks, and eagle rays" are occasionally cited at Aruba wrecks generally but are not consistently reported as resident at this specific site.
+## Penetration and Safety
 
-## Dive Profile
-
-Descend the mooring line to the top of the hull (approximately 5–8 meters). Most divers explore the exterior along the hull, working toward the stern and propeller at 18 meters. The engine room and cargo holds offer potential penetration but require a torch and proper wreck training — conditions inside are silty and some areas have deteriorated significantly. A typical dive covers 50–80 meters of the wreck's length before air budget requires ascent. Safety stop at 5 meters.
-
-## Entry and Exit
-
-Boat dive from local operators; the pickup point is typically at Hadicurari pier. Giant stride or back roll entry. Deploy SMB during safety stop for boat pickup.
-
-## Tips and Recommendations
-
-- A torch is essential for exploring darker interior sections
-- Maintain proper buoyancy to avoid stirring silt inside the wreck
-- Do not attempt interior penetration without proper wreck training and equipment
-- The wreck's metal has deteriorated significantly; some overhangs are unstable
-- The site is diveable by Open Water certified divers, but wreck experience is recommended
-- Book morning dives for best light on the exterior hull
-
-## Safety Considerations
-
-Some interior sections are considered unsafe to enter due to structural deterioration. Always dive within your certification and experience limits. Be aware of boat traffic near the mooring area.
-
-## Photography
-
-The hull's scale and the density of coral encrustation make this one of Aruba's best wide-angle subjects. A torch reveals brilliant colours in the cup corals and tube sponges on interior surfaces. Glassy sweeper schools filling doorways and portholes are classic composition subjects.
+Sources disagree on interior access. Palm Beach Divers describes large cargo compartments that allow swim-throughs, JADS Aruba states the wreck is not penetrated, and Wikipedia notes that continued storm damage has led some divers to consider it unsafe to enter. Any overhead-environment diving requires appropriate wreck training and equipment. Check current wreck condition and access with a local operator.
 
 ---
-*Sources: [Wikipedia - SS Antilla (1939)](https://en.wikipedia.org/wiki/SS_Antilla_(1939)), [Pure Diving Aruba](https://www.puredivingaruba.com/diving-aruba/wrecks/antilla/), [RushKult](https://rushkult.com/eng/scubamagazine/antilla-wreck-aruba/), [Aruba Unleashed](https://arubaunleashed.com/antilla-shipwreck-in-aruba/). Last updated 2026-07-10 (re-audited).*
+*Sources: [Wikipedia - SS Antilla (1939)](https://en.wikipedia.org/wiki/SS_Antilla_(1939)), [Pure Diving Aruba](https://www.puredivingaruba.com/diving-aruba/wrecks/antilla/), [Divernet - Aruba: Isle of Wrecks](https://divernet.com/world-dives/europe/aruba-isle-of-wrecks/), [JADS Aruba](https://www.jadsaruba.com/dive-sites), [Palm Beach Divers Aruba](https://www.palmbeachdiversaruba.com/dive-sites/), [Frommer's](https://www.frommers.com/destinations/aruba/things-to-do/best-snorkeling-and-diving/). Last updated 2026-11-27.*

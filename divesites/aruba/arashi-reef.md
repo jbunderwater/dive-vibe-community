@@ -3,7 +3,7 @@ name: Arashi Reef
 lat: 12.6099
 lng: -70.0566
 difficulty: Beginner
-maxDepth: 11
+maxDepth: 16
 entryType: boat
 siteType: reef
 ref: null
@@ -13,51 +13,27 @@ addedBy: osm_import
 
 ## Arashi Reef
 
-Arashi Reef is a shallow, colorful reef at Aruba's northwestern tip with a dedicated turtle cleaning station and the scattered wreckage of a Lockheed Lodestar aircraft at approximately 12 meters depth.
+Arashi Reef is a shallow reef off Arashi Bay at Aruba's northwestern tip, known for frequent turtle sightings and for scattered wreckage of a Lockheed Lodestar aircraft.
 
 ## Overview
 
-Situated at the sheltered northwestern corner of Aruba, Arashi Reef is consistently ranked among the island's best beginner sites and one of its most reliable spots for turtle encounters. The reef extends to approximately 16 meters at its deepest (per JADS Aruba) and supports both the Lockheed Lodestar aircraft debris and an active turtle cleaning station where young green and hawksbill turtles gather repeatedly to be tended by small wrasses.
+Duikersgids describes Arashi Reef as a pleasant dive site with pieces of a Lockheed Lodestar aircraft scattered at about 12 metres, suitable for inexperienced divers and snorkelers thanks to shallow, calm water and good visibility. Frommer's and Palm Beach Divers also describe the Lodestar wreckage at roughly 11 to 12 metres (about 40 feet).
 
-The aircraft components — fuselage sections, wings, and engine parts — are distributed across the sandy reef bottom at around 11–12 meters. Over the decades since the plane sank, coral and invertebrates have colonized the metal, making it a focal point for reef fish. The site's calm, protected conditions and lack of significant current make it accessible to Open Water divers and even confident snorkelers.
+Reported depths vary: JADS Aruba and Duikersgids give a maximum of 16 metres, Aruba.com 15 metres, and Palm Beach Divers 12 metres (40 feet). JADS Aruba describes it as a young, flat reef known for turtle sightings, and Guide to Caribbean Vacations mentions brain coral, large star corals and sea fans.
 
 ## Site Information
 
-- **Location**: Northwestern Aruba, Arashi Bay
+- **Location**: Arashi Bay, northwestern Aruba
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 11 meters
-- **Typical Visibility**: 15–25 meters
-- **Current**: Minimal — a protected northwest corner
-- **Best Time**: Year-round
+- **Maximum Depth**: 16 meters
+
+Duikersgids says the site is reached by boat and lists limited current.
 
 ## Marine Life
 
-Documented species at this site include green turtles, hawksbill turtles (regular — the cleaning station draws them repeatedly), lionfish, lobsters, moray eels, octopus, and stingrays. Parrotfish, angelfish, and rays are also commonly reported. The site functions as a genuine feeding and cleaning station for turtles; most dives produce turtle encounters. Happy Divers Aruba, which operates regularly here, describes it as filled with "the most diverse marine life."
-
-## Dive Profile
-
-Descend to the reef and navigate to the turtle cleaning station — operators typically know the exact coral heads where turtles gather. The Lockheed Lodestar debris is nearby and worth exploring; the scattered components are identifiable as aircraft parts though significantly encrusted. Depth throughout the main dive area is 11–12 meters. A leisurely, non-linear exploration suits the site well. Safety stop at 5 meters.
-
-## Entry and Exit
-
-Boat dive from local operators in the Malmok / Palm Beach area. Giant stride or back roll. Deploy SMB for safety stop and pickup.
-
-## Tips and Recommendations
-
-- Approach turtles slowly from the side — they are habituated to divers but don't chase or corner them
-- Ask your operator about the current status of the turtle cleaning station location — it shifts with coral growth
-- Excellent site for macro photography around the aircraft components
-- Diveable by confident snorkelers as well as Open Water divers
-
-## Safety Considerations
-
-Standard precautions for boat diving apply. No significant hazards — good conditions prevail most of the year at this protected site.
-
-## Photography
-
-The turtle cleaning station is the primary photographic draw — divers regularly get close approaches from habituated individuals. Wide-angle shots of turtles against the aircraft wreck components are a classic Aruba composition. Natural light is good given the shallow depth.
+Turtles are reported by JADS Aruba, Duikersgids and Palm Beach Divers ("the home of the turtles"); Duikersgids describes the area as a feeding and cleaning area for sea turtles but does not name the species. Palm Beach Divers lists parrotfish, angelfish and rays. Frommer's lists angelfish, parrotfish, sergeant majors, yellowtail snappers, Caesar grunts, gray chromis and blue tang.
 
 ---
-*Sources: [Happy Divers Aruba - Arashi Reef](https://happydiversaruba.com/diving-spots/arashi-reef/), [Divers Guide - Arashi Reef](https://www.divers-guide.com/en/arashi-reef), [JADS Aruba - Dive Sites](https://jadsaruba.com/scuba/dive-sites/), [Palm Beach Divers Aruba](https://www.palmbeachdiversaruba.com/dive-sites/). Last updated 2026-07-10 (re-audited).*
+*Sources: [Duikersgids - Arashi Reef](https://www.duikersgids.nl/en/arashi-reef), [JADS Aruba](https://www.jadsaruba.com/dive-sites), [Palm Beach Divers Aruba](https://www.palmbeachdiversaruba.com/dive-sites/), [Frommer's](https://www.frommers.com/destinations/aruba/things-to-do/best-snorkeling-and-diving/), [Guide to Caribbean Vacations](https://guidetocaribbeanvacations.com/aruba/dive_sites.html), [Aruba.com](https://www.aruba.com/nl/blog/duiken-op-aruba-10x-de-mooiste-riffen). Last updated 2026-11-27.*
