@@ -13,56 +13,48 @@ addedBy: osm_import
 
 ## Twilight Zone
 
-Twilight Zone is Ambon Bay's most famous muck dive — a shallow, debris-laden slope beneath a working jetty near Laha village where an astonishing density of rare macro subjects has made it a global destination for critter photographers.
+Twilight Zone is a shallow muck slope on the north-west side of Ambon Bay near the airport, widely described as one of Ambon's most famous critter sites.
 
 ## Overview
 
-Twilight Zone is centred around the Pertamina aviation fuel jetty at Laha, on the northwest side of Ambon Bay close to the airport. The dive area is a sheltered bay roughly 100 meters of sloping sandy shoreline, with depths ranging from the shallows to around 20 meters. The site is genuinely shallow; descriptions of it as a "deep dark slope" are inaccurate — the name refers to the eerie, debris-strewn atmosphere under the jetty rather than significant depth.
+Starfish calls Twilight Zone "the most well known dive site" in Ambon and places it near the airport on the north side of the bay, close to Maluku Divers; it describes slopes with stones, sponges and soft corals. DiveHappy calls it "Ambon's most famous muck site", a shallow slope with murky visibility that repays repeat visits. DivePlanit describes a sandy slope with lots of rubble, and reports four freckled frogfish hiding in corals on a derelict boat. Neptune Liveaboards uses "Laha (Twilight Zone)" as alternative names, while Bottles Up Diving lists "Rhino City / Twilight Zone" as one entry and Indo Pacific Images lists Twilight Zone as a separate page on the western side of the bay. The sections of this stretch of coast are therefore named and divided differently by different operators.
 
-The substrate is a mix of dark sand, rubble, fishing debris, tires, and organic waste that creates a classic muck environment. Beneath the jetty, sunlight filters through gaps in the structure, creating at midday a distinctive interplay of shafts of light through the murk.
+Starfish also states that the psychedelic frogfish was found at Twilight Zone, while Wikipedia places the 2008 holotype collection at "Laha I" at Maluku Divers. See the Psychedelic Frogfish Site entry for sighting status.
 
-On re-verification, the psychedelic frogfish discovery story (January 2008, Maluku Divers guides, 2009 species description) is confirmed on Wikipedia, which ties the discovery specifically to "Laha I" — Wikipedia does not mention "Twilight Zone" by name in connection with the discovery. DiveHappy's page for Twilight Zone, checked directly, does not contain the discovery narrative either. The prior version of this entry attributed the discovery story partly to DiveHappy; that attribution has been corrected — the discovery facts trace only to Wikipedia. Independent sources (starfish.ch, bottles-up-diving.com, dive-the-world.com) describe "Twilight Zone," "Rhino City," and "Laha" as contiguous, overlapping sections of the same north-bay muck slope rather than sharply separate sites, though DiveHappy treats "Twilight Zone" as its own distinctly named site with a shallow, trash-strewn slope and murky visibility.
-
-Dive Happy describes it as "Ambon's most famous muck site" and notes it "repays repeat visits." Visibility is typically reduced close to the jetty due to sediment disturbance from boat traffic.
+No source reviewed gives a maximum depth for Twilight Zone specifically; the 20 m listed below is an approximate database value.
 
 ## Site Information
 
-- **Location**: Laha village, northwest Ambon Bay, near Ambon airport
+- **Location**: North-west Ambon Bay, near the airport and Laha village
 - **Entry Type**: Shore entry
 - **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5–15 meters (sediment-affected, especially under the jetty)
-- **Current**: Minimal inside the sheltered bay
-- **Best Time**: Dry season (October to April); mornings before boat traffic peaks
+- **Typical Visibility**: Described as murky (DiveHappy)
+- **Current**: Not described in the sources reviewed
 
 ## Marine Life
 
-The following species have been confirmed at the Twilight Zone / Laha jetty area by multiple independent sources: wonderpus octopus, clown frogfish, painted frogfish, warty frogfish, Coleman shrimp, stonefish, seahorses, ghost pipefish, leaf fish (demon stinger / waspfish), mantis shrimp, reptilian snake eels, snowflake morays, honeycomb moray eels, flamboyant cuttlefish, boxer crabs, longhorn cowfish, sea moths (Pegasus), bigfin reef squid, nudibranchs, and algae octopus. The psychedelic frogfish (Histiophryne psychedelica) was discovered in this broader Laha-jetty muck complex and remains the rarest species associated with the area, though it is very infrequently reported in recent years — treat any sighting as exceptional rather than expected. Feeding frenzies of catfish occur when fish waste is discarded from boats overhead.
+- **DivePlanit**: reptilian snake eels, snowflake morays, porcupinefish, stonefish, harlequin shrimps, boxer crabs carrying eggs, saw-painted frogfish, warty frogfish, whiteface waspfish, sea snakes, longhorn cowfish, mantis shrimps, flamboyant cuttlefish, algae octopus, sea moths, seahorses and bigfin reef squid laying eggs.
+- **DiveHappy**: wonderpus, clown frogfish, Coleman shrimp, stonefish, seahorses, ghost pipefish, demon stinger, leaf fish, mantis shrimp, reptilian eel, honeycomb moray, cowfish, nudibranchs, and cleaner shrimp and fish.
+- **Starfish**: rhinopias, frogfish, seahorses, stonefish, ghost pipefish, pegasus sea moths, mandarin fish, nudibranchs, harlequin and Coleman shrimps, kauri snails, wonderpus, mimic and flamboyant cuttlefish.
 
 ## Dive Profile
 
-Shore entry from the jetty area — check with guides for the specific entry point and whether boat traffic overhead is active. The sandy slope descends gradually from 1–2 meters beneath the jetty to around 20 meters. The richest critter concentrations are typically in the 5–15 meter range. Keep pace slow and work the substrate carefully; guides use tank-banging to alert other divers to discoveries. Night dives here are especially productive.
+DiveHappy describes easy dives on a shallow slope; DivePlanit describes a rubble slope. Sources give no prescribed route.
 
 ## Entry and Exit
 
-Wade or step in from the shore adjacent to the jetty following guide instructions. Boat traffic overhead makes it important to stay close to the substrate and not ascend directly under active vessels. Exit from the same entry point; allow time for sediment to settle after busy periods.
+The sources reviewed do not describe the entry point. The database lists the site as shore entry; confirm access with your operator.
 
 ## Tips and Recommendations
 
-- Dive with a local guide — critter spotting at this site depends heavily on site knowledge
-- Move slowly across the substrate; many subjects are completely camouflaged
-- Night dives consistently produce different species than daytime dives
-- A focus light or small torch helps reveal cryptic subjects in debris piles
-- Book with operators based at Laha (e.g., Laha Dive Packer, Spice Island Divers) who know the site intimately
+- Go with a local guide; DiveHappy notes the site repays repeat visits.
+- Expect reduced visibility, which DiveHappy describes as murky.
 
 ## Safety Considerations
 
-Boat traffic overhead is the primary safety consideration — always surface away from the jetty and under guide supervision. Strong currents are not typical in this sheltered bay, but visibility can deteriorate suddenly when sediment is stirred. Always dive with a buddy.
-
-## Photography
-
-This site is among Indonesia's premier macro photography destinations. Natural light beneath the jetty creates challenging but rewarding conditions; artificial light (strobes) is essential for colour accuracy on the dark substrate. Work in the 60–105mm macro range for most subjects; the occasional wide-angle shot is possible when the midday light shafts appear through the jetty structure.
+No site-specific hazards are described in the sources reviewed. Use a surface marker and watch for boat traffic in Ambon Bay.
 
 ---
-*Sources: [DiveHappy — Ambon Twilight Zone](https://divehappy.com/indonesia/ambon-scuba-diving-the-twilight-zone/), [DivePlanit — Diving into Ambon (Nigel Marsh)](https://www.diveplanit.com/dive-destination/diving-into-ambon/), [Wikipedia — Psychedelic frogfish](https://en.wikipedia.org/wiki/Psychedelic_frogfish), [Starfish — Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html). indopacificimages.com, previously cited, has gone offline (404) and was dropped as a source on re-verification. Last updated 2026-07-10.*
+*Sources: [Starfish](https://www.starfish.ch/dive/Ambon.html), [DiveHappy](https://divehappy.com/indonesia/ambon-scuba-diving-the-twilight-zone/), [DivePlanit](https://www.diveplanit.com/dive-destination/diving-into-ambon/), [Bottles Up Diving](https://www.bottles-up-diving.com/EN-pages/BU_divingother_ambon_EN.html), [Indo Pacific Images - east and north bay](https://indopacificimages.com/?p=6818), [Neptune Liveaboards](https://www.neptuneliveaboards.com/blog/ambon-diving/). Last updated 2026-11-27.*

@@ -13,56 +13,54 @@ addedBy: osm_import
 
 ## Duke of Sparta Wreck
 
-The Duke of Sparta — officially the SS Aquila — is a 134-meter British cargo ship lying on the silty floor of Ambon Bay, sunk in 1958 during a Cold War CIA covert operation.
+The Duke of Sparta wreck is the cargo ship SS Aquila, bombed in 1958 in a covert operation and now lying on a slope in northern Ambon Bay with the stern at roughly 12-15 m and the bow at roughly 35 m or deeper.
 
 ## Overview
 
-The wreck known locally as the Duke of Sparta is the Italian-flagged cargo vessel SS Aquila, launched 9 July 1940 as the SS Duke of Sparta by William Gray & Company at West Hartlepool, UK, for Trent Maritime Co Ltd. The ship was sold to Grimaldi Brothers of Naples in 1951 and renamed Aquila. In late April 1958 — Wikipedia states the exact date is uncertain, giving either 28 April (one source) or 1–2 May (another) — a CIA-contracted pilot (identified by Wikipedia as Allen Lawrence Pope) flying a Douglas B-26 Invader as part of "Operation Haik," a covert US effort against President Sukarno's government targeting foreign merchant shipping, bombed and damaged the vessel. The ship remained afloat for approximately one month before sinking on 27 May 1958. "Operation Haik" is independently corroborated as a real CIA covert-action program by academic/historical sources beyond dive-tourism sites, not merely local dive lore.
+The wreck is known locally as the Duke of Sparta. According to Wikipedia, the ship was built by William Gray and Company at West Hartlepool in 1940 as the Duke of Sparta, was sold in 1951 to Grimaldi Brothers of Naples and renamed Aquila. Coralia Liveaboard, Starfish and Indo Pacific Images agree on the 1940 West Hartlepool build and the 1951 sale to Grimaldi of Naples. (Indo Pacific Images spells the later name "Aquilo".)
 
-**Unresolved discrepancy**: Wikipedia's own account of pilot Allen Lawrence Pope notes that at least one historical source places the 28 April 1958 attack on the Aquila (along with two other vessels) off Donggala in Central Sulawesi — more than 500 miles (800 km) from Ambon — while the wreck itself was identified at Ambon. This location/timing inconsistency has not been reconciled in available sources and is presented here as an open question rather than a settled fact.
+Wikipedia and Coralia Liveaboard report that in April 1958, while anchored off Ambon City, the ship was bombed and damaged by a Douglas B-26 Invader as part of a covert CIA operation in support of Permesta rebels against President Sukarno's government; Indo Pacific Images calls this Operation Haik. All three report that she stayed afloat for about a month and sank on 27 May 1958. The exact date of the attack is uncertain: Wikipedia gives 28 April or 1-2 May 1958 depending on the source, and Coralia gives only April 1958. Wikipedia also notes that an older source placed the attack off Donggala, Sulawesi, but says this "now seems to be incorrect" given the identification of the wreck at Ambon, and its article on pilot Allen Lawrence Pope likewise records the conflict between the Donggala placement and the Ambon wreck. Wikipedia's wording that the aircraft was "ostensibly" operated by Permesta rebels differs from the CIA attribution given by Coralia and Indo Pacific Images; sources reviewed do not reconcile this.
 
-The wreck was not positively identified until October 2009, when divers penetrating the engine room recovered a maker's plate from one of the water heaters, tracing the vessel to her West Hartlepool shipyard of origin. Sources disagree on the hull length: Wikipedia gives a registered length of 441.1 ft (134.4 m), beam 57.8 ft (17.6 m), and 5,397 GRT; starfish.ch reports the wreck itself measures 137 m; coralia-liveaboard.com states only that it "spans over 100 metres." No live source reconciles the 134 m registered length against the 137 m in-water measurement — both figures are presented here rather than a single guessed value.
+Identification: the wreck was identified in October 2009 after divers entered the engine room and recovered a maker's plate. Sources differ on the item: Wikipedia and Starfish say a water heater, while Coralia Liveaboard and Indo Pacific Images say a boiler. Coralia names the divers as Andreas de Beer and Marcel Hagendijk.
 
-The wreck lies on a slope facing down the harbor gradient. Wikipedia, coralia-liveaboard.com, and starfish.ch — the three currently-live sources for this site — describe a simple two-point depth profile: stern at approximately 15 meters, bow at approximately 35 meters. (An earlier version of this entry cited a more granular profile from indopacificimages.com giving a 12–15 m stern buoy, 32 m foredeck, and 40+ m bow; that page is no longer live and could not be re-verified, so it has been removed in favor of the consistent, currently-sourced 15–35 m range.) The hull is intact and heavily encrusted with coral and sponge growth. Visibility in the busy harbor is typically 5–15 meters, improving somewhat on incoming tides.
+Dimensions: sources differ on length. Wikipedia gives 441.1 ft (134.4 m) with a beam of 57.8 ft (17.6 m) and 5,397 GRT; Divernet also gives 5,397 tons. Indo Pacific Images gives 134 m and 17 m beam after Marcel Hagendijk's measurements, but also mentions 100 m; Starfish gives 137 m; Coralia says "over 100 metres". Sources therefore report a length between about 100 m and 137 m, with 134 m the most frequently cited figure.
+
+Depth: Wikipedia, Coralia and Starfish give the stern at about 15 m and the bow at about 35 m. Bottles Up Diving and Indo Pacific Images give a mooring buoy at the stern at about 12 m, the foredeck at about 32 m and the bow at over 40 m. The wreck lies sloping down the harbour floor. Visibility is typically 5-15 m (Bottles Up Diving, Indo Pacific Images), usually best on an incoming tide (Indo Pacific Images).
 
 ## Site Information
 
-- **Location**: Northern Ambon Bay, near the main harbor
+- **Location**: Northern Ambon Bay, near the main harbour
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 5–15 meters (harbor conditions)
-- **Current**: Mild to moderate; tidal influence
-- **Best Time**: Incoming tide for clearest water
+- **Typical Visibility**: 5-15 meters
+- **Current**: Not described in the sources reviewed
 
 ## Marine Life
 
-Coralia-liveaboard.com confirms moray eels, nudibranchs, frogfish, shrimps, and juvenile fish such as boxfish and emperor angelfish on and around the wreck structure, with the hull colonised by hard and soft coral and sponges. Starfish.ch's Ambon listing does not provide fauna details for this wreck specifically. Earlier versions of this entry also named lionfish, scorpionfish, and fimbriated moray eels at cleaning stations — none of these could be re-confirmed against a current live source, so they have been removed rather than repeated on the strength of an unverifiable prior claim. No site-specific reports of manta rays, whale sharks, or reef sharks have been found in independent sources; these species are associated with Ambon's outer coast, not the inner harbor.
+- **Coralia Liveaboard**: moray eels, nudibranchs, frogfish, shrimps, and juvenile boxfish and emperor angelfish, with hard and soft corals and sponges on the hull.
+- **Indo Pacific Images**: a fimbriated moray eel on the top deck with cleaner shrimp.
+- **Neptune Liveaboards**: weedy scorpionfish and hunting lionfish in the surrounding sand, with corals and sponges on the hull.
+- **Bluewater Dive Travel**: the mast is "full of critters"; invertebrates, large octopuses and lionfish.
+- **Bottles Up Diving**: deep pink and purple soft corals, many fish, and cleaning stations with wrasse and shrimp.
 
 ## Dive Profile
 
-The wreck is best approached from the stern mooring, which sits at around 15 meters. From here divers can work forward along the superstructure toward the bow, which lies at approximately 35 meters — a depth suitable only for certified advanced divers. The interior is penetrable in the holds and superstructure but always requires a torch, line, and proper wreck training; penetration is never risk-free regardless of experience level. Visibility and silt conditions make buoyancy control essential throughout.
+Bottles Up Diving and Indo Pacific Images describe a mooring buoy at the stern, with much of the interesting structure (stern area, aft deckhouse) shallow, and the wreck descending along the slope toward the bow. Divers have entered the engine room (Wikipedia), but penetration requires proper wreck training, lighting and guideline.
 
 ## Entry and Exit
 
-Access is exclusively by boat from local Ambon operators; no shore entry is possible. Descent via the mooring line is recommended given harbor vessel traffic. Deploy a surface marker buoy before ascending and coordinate pickup with the boat crew.
+A mooring buoy is attached at the stern per Bottles Up Diving and Indo Pacific Images. The sources reviewed do not otherwise describe access; the database lists a boat dive. Confirm the mooring and descent plan with your operator.
 
 ## Tips and Recommendations
 
-- Bring a primary and backup dive torch — visibility drops sharply inside the structure
-- Maintain strict buoyancy; the harbor floor is heavily silted and easily disturbed
-- Do not attempt penetration without proper wreck diving training and equipment
-- Schedule the dive for incoming tide to maximise visibility
-- Book with operators familiar with the site; local knowledge of the mooring and descent route is essential
+- Plan for the deepest figure sources report (over 40 m at the bow) if you intend to go beyond the midship.
+- Silt and busy-harbour conditions reduce visibility; incoming tide is recommended by Indo Pacific Images.
 
 ## Safety Considerations
 
-Harbor boat traffic is an active hazard at the surface. The wreck's depth (bow at approximately 35 meters) means strict NDL management for recreational divers. Interior penetration always requires redundant lighting, a guideline, and proper overhead-environment training — characterising it as safe or routine would be inaccurate. Never attempt deep penetration solo or without wreck diving certification.
-
-## Photography
-
-The encrusted mast and superstructure offer strong wide-angle subjects when visibility cooperates. The macro opportunities on the hull — juvenile fish, nudibranchs, shrimp on cleaning stations — are the most consistently productive. A torch is essential for revealing colours inside the dark cavities.
+The wreck lies in a busy harbour near an oil pier (Divernet), so boat traffic is a surface hazard. Depths at the bow reach 35 m or more depending on the source, so manage no-decompression limits carefully. Wreck penetration is never risk-free and requires training, redundant lighting and a guideline.
 
 ---
-*Sources: [Wikipedia — SS Aquila (1940)](https://en.wikipedia.org/wiki/SS_Aquila_(1940)), [Wikipedia — Allen Lawrence Pope](https://en.wikipedia.org/wiki/Allen_Lawrence_Pope), [Coralia Liveaboard — SS Duke of Sparta](https://www.coralia-liveaboard.com/ss-duke-of-sparta-wreck-in-ambon/), [Starfish — Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html). indopacificimages.com, previously cited for depth/length detail, has gone offline (404) and was dropped as a source on re-verification. Last updated 2026-07-10.*
+*Sources: [Wikipedia - SS Aquila (1940)](https://en.wikipedia.org/wiki/SS_Aquila_(1940)), [Wikipedia - Allen Lawrence Pope](https://en.wikipedia.org/wiki/Allen_Lawrence_Pope), [Coralia Liveaboard](https://www.coralia-liveaboard.com/ss-duke-of-sparta-wreck-in-ambon/), [Starfish](https://www.starfish.ch/dive/Ambon.html), [Bottles Up Diving](https://www.bottles-up-diving.com/EN-pages/BU_divingother_ambon_EN.html), [Indo Pacific Images - Ambon shipwreck](https://indopacificimages.com/index.php/indonesia/maluku-province-the-ambon-shipwreck/), [Neptune Liveaboards](https://www.neptuneliveaboards.com/blog/ambon-diving/), [Bluewater Dive Travel](https://www.bluewaterdivetravel.com/destination/ambon-diving), [Divernet](https://divernet.com/2018/04/01/ambon-inside-and-out/). Last updated 2026-11-27.*
