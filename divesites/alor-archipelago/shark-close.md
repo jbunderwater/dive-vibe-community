@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Shark Close
 
-Shark Close is a wall dive site in the Alor Archipelago, East Nusa Tenggara, Indonesia — a current-exposed wall rated Advanced due to its conditions.
+Shark Close is listed in this database as a wall site in the Alor Archipelago; its name could not be matched to any published dive site.
 
 ## Overview
 
-Shark Close is listed in curated Alor dive site records as a wall dive to 32 metres in the Pantar Strait area. The name is similar to but distinct from "Sharks Galore," a documented site off eastern Pura Island where grey reef sharks and dogtooth tuna are reported. No independent dive operator or published guide has been found that uses the specific name "Shark Close" — it may be a local or liveaboard-specific designation not widely documented online. The site type (wall) and difficulty (Advanced) are consistent with typical diving conditions in the Alor Strait area.
+No operator or guide reviewed lists a site called Shark Close. The nearest named entry found is Sharks Galore on the east coast of Pura, which Starfish.ch describes as an attractive anemone landscape where the author saw no sharks. The location, type and depth shown here are unconfirmed.
 
 ## Site Information
 
@@ -26,35 +26,18 @@ Shark Close is listed in curated Alor dive site records as a wall dive to 32 met
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 32 meters
-- **Typical Visibility**: Not confirmed by independent sources
-- **Current**: Variable; typical of Alor wall sites
-- **Best Time**: April to November
 
 ## Marine Life
 
-No site-specific marine life reports were found for a site called Shark Close. Alor's wall sites generally support grey reef sharks, whitetip reef sharks, fusiliers, surgeonfish, and reef fish communities, but specific species at this site cannot be confirmed without independent sources.
+No site-specific marine-life reports were found for this site. The destination's regional fauna applies, but no species are attributed to this site here.
 
 ## Dive Profile
 
-Dive profile information is not confirmed by independent sources. As an Advanced-rated wall dive, standard Alor wall diving procedures apply: enter up-current, descend the wall face, ascend gradually, and exit by drift pickup with SMB.
-
-## Entry and Exit
-
-Boat access. Deploy SMB before surfacing. Specific entry and exit details are not confirmed by independent sources.
-
-## Tips and Recommendations
-
-- Ask your liveaboard guide about conditions before the dive — currents in the Pantar Strait area are highly variable
-- Carry a reef hook if strong currents are expected
-- Deploy your SMB well before surfacing
+No dive profile information is available.
 
 ## Safety Considerations
 
-Alor wall dives in this area frequently involve strong currents; dive with an experienced guide who knows the local conditions. Carry an SMB at all times.
-
-## Photography
-
-Wall sites in this area of Alor typically support wide-angle photography of the wall face and reef fish communities.
+Treat conditions as unknown and dive only with a local guide. Always dive with a guide and carry a surface marker buoy; currents in the Alor area are described as strong at several sites.
 
 ---
-*Description based on curated site records. No site-specific sources were found for a site named "Shark Close" in published dive guides. Last updated 2026-07-10.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-11-27.*
