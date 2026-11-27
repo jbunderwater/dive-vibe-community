@@ -13,50 +13,51 @@ addedBy: osm_import
 
 ## Duncan's Wreck
 
-Duncan's Wreck is the SS Inchkeith, a British steel-hulled steam cargo vessel built in 1923 that struck rocks near Duncan Island in March 1955 and now rests on the sandy seabed as one of the Andamans' most atmospheric wreck dives.
+Duncan's Wreck is the SS Inchkeith, a steel cargo steamer built in 1923 that struck an uncharted rock off Port Meadows, near Duncan Island, on 2 March 1955 and is now dived west of Havelock Island.
 
 ## Overview
 
-The vessel now known as the SS Inchkeith was launched in 1923 by J. Priestman & Co. Ltd, Sunderland, UK, as the "Barbara Marie," a 4,290 GRT steel-hulled steam cargo ship. This build year, builder, and tonnage are confirmed independently by both Havelock dive-operator sources and theshipslist.com, a maritime-history reference site — the tonnage figure was previously flagged as unconfirmed but now has independent corroboration outside the diving industry. The ship changed hands and names repeatedly over the following decades: renamed Portsea (1925), then Cipro under Italian ownership (1933), then Stella (1937). During the Second World War she was captured by HMS Circassia on 14 August 1941 off Cape Verde and taken into British Ministry of War Transport service as Empire Planet. In 1947 she was sold to Williamson & Co of Hong Kong and renamed Inchkeith. On 2 March 1955, while on a voyage from Calcutta to Bombay carrying coal and timber, the ship struck an uncharted rock in bad weather near Duncan Island (also described as near "Port Meadows") and was declared a total loss. Multiple dive-operator sources cite dimensions of 111 metres long and 16 metres wide. The wreck lies at 6–22 metres depth with the bow tilted to starboard, making the hatch covers and cargo hold clearly visible. The stern section sits more upright, with the massive bronze propeller at around 18 metres serving as a focal point. After seven decades on the seabed the wreck is covered in rust, algae, anemones, and patches of fan coral, with characteristically low visibility of 4–12 metres lending the site an atmospheric quality particularly suited to macro photography. Coal pieces from the original 1955 cargo still scatter the seabed around the bow.
+Wikipedia's list of Empire ships records the vessel as a 4,290 GRT cargo ship built by J. Priestman & Co. Ltd of Sunderland and launched in 1923 as Barbara Marie. Her later names were Portsea (1925), Cipro (1933, Italian owners), and Stella (1937). She was captured by HMS Circassia in August 1941 and transferred to the Ministry of War Transport as Empire Planet, then sold in 1947 to Williamson & Co of Hong Kong and renamed Inchkeith. Wikipedia's list of shipwrecks in 1955 records that on 2 March 1955 the Hong Kong-flagged Inchkeith struck an uncharted rock in the Bay of Bengal off Port Meadows, Andaman Islands, and was abandoned as a total loss. Private Scuba gives the same build year, builder and tonnage and adds a cargo of coal and timber on a Calcutta to Bombay voyage; Frogman and Seahawks Scuba confirm the March 1955 loss and a cargo of coal and timber (Seahawks Scuba). Frogman, Seahawks Scuba and Private Scuba all report a length of about 111 metres; Private Scuba adds a width of 16 metres.
+
+Sources differ on the layout. Frogman describes the stern upright on sand at about 18 metres with the bow on its side at roughly 5-10 metres, while Seahawks Scuba places the bow at 18-20 metres resting on its starboard side. Reported depth ranges are 5-22 metres (Frogman), 18-22 metres (Seahawks Scuba), and an average bottom around 20 metres (Private Scuba). Visibility is reported as 5-15 metres (Frogman) and 4-12 metres (Seahawks Scuba, averaging 6-8 metres). The wreck is covered in soft coral, sponges and feather stars (Seahawks Scuba).
 
 ## Site Information
 
-- **Location**: West of Havelock Island (Swaraj Dweep), approximately 20 km from Duncan Island
+- **Location**: About 20 km west of Havelock Island (Swaraj Dweep), towards Port Meadows, 45-60 minutes by speedboat
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 4–12 meters (wreck-typical low visibility)
-- **Current**: Variable
-- **Best Time**: November to April
+- **Typical Visibility**: 4-15 meters, depending on source
+- **Current**: Weak to moderate (Frogman); moderate (Seahawks Scuba)
+- **Best Time**: November to April (Frogman); October to May (Seahawks Scuba)
 
 ## Marine Life
 
-Confirmed resident species include giant groupers, great barracuda, scorpionfish, cleaner shrimp, ghost pipefish in feather stars, nudibranchs across corroded surfaces, bannerfish, triggerfish, rainbow wrasses, angelfish, pufferfish, lionfish, clownfish, boxfish, octopus, and moray eels. The bow area and cargo hold harbour dense encrusting communities. Torchlight reveals colours on the soft coral and sponge growth throughout the structure.
+Species named for this wreck by at least two of the dive sources consulted (Barefoot Scuba, Frogman, Private Scuba, Seahawks Scuba) include giant groupers, great barracuda, scorpionfish, and ornate ghost pipefish. Frogman and Seahawks Scuba also report stingrays, and Seahawks Scuba and Barefoot Scuba report cleaner shrimp. Seahawks Scuba additionally lists batfish, crocodilefish and trevally.
 
 ## Dive Profile
 
-Entry by boat; descend to the bow at 5–10 metres where the starboard tilt exposes the hatch covers. Follow the hull aft to the stern section and propeller at approximately 18 metres. Maximum depth of 22 metres at the deepest points. Begin ascent with adequate reserve for a 5-metre safety stop. Low visibility — carry a dive torch.
+Operators plan the dive around slack water. Descend towards the hull, which comes into view from about 10 metres (Seahawks Scuba), and follow it to the stern and propeller at about 18 metres, with the sandy bottom at about 22 metres. Begin ascent with adequate reserve for a safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from Havelock Island operators. Entry via giant stride or back roll. Deploy an SMB during ascent for pickup.
+Access is by dive boat from Havelock operators, about 45-60 minutes each way. Deploy an SMB during ascent for pickup.
 
 ## Tips and Recommendations
 
-- Carry a dive torch — visibility is typically 4–12 metres and the wreck rewards careful illumination
-- Maintain neutral buoyancy to avoid disturbing silt, which can reduce visibility rapidly
+- Carry a dive torch, as visibility can be low and green
+- Maintain neutral buoyancy to avoid disturbing silt
 - Do not attempt hull penetration without proper wreck diving training and equipment
-- Macro photographers will find exceptional subjects: nudibranchs, ghost pipefish, scorpionfish, and cleaner shrimp
-- Allow extra air for a comfortable ascent and safety stop given the low-viz conditions
+- Dives are scheduled around slack water; confirm timing with your operator
 
 ## Safety Considerations
 
-Dive within your certification limits. Low visibility is a constant at this site — always maintain buddy contact. Strong currents are occasionally present. Carry an SMB.
+Dive within your certification limits. Visibility is limited and current is weak to moderate depending on tide. Maintain buddy contact and carry an SMB.
 
 ## Photography
 
-The wreck excels for macro work: corroded surfaces host nudibranchs, cleaner shrimp, and camouflaged scorpionfish. Wide-angle compositions of the bow section and propeller work well with a torch for illumination.
+Seahawks Scuba and Frogman both list small subjects such as ornate ghost pipefish, scorpionfish and cleaner shrimp, so macro work suits the site.
 
 ---
-*Sources: [Frogman - SS Inchkeith Wreck](https://frogman.in/dive-sites-in-havelock/ss-inchkeith-wreck/), [Private Scuba - Inchkeith Wreck](https://www.private-scuba.com/destinations/asia/india/andamans/havelock-island/inchkeith-wreck.html), [Seahawks Scuba - SS Inchkeith](https://seahawksscuba.in/ss-inchkeith-wreck-havelock-island/), [TheShipsList - Inch Steamship Co. fleet list](https://www.theshipslist.com/ships/lines/inch.shtml). The pre-wreck history (Barbara Marie / Portsea / Cipro / Stella / Empire Planet / Inchkeith) is new to this update, added on the strength of the independent TheShipsList maritime-history source. Last updated 2026-07-10.*
+*Sources: [Wikipedia - List of Empire ships (P)](https://en.wikipedia.org/wiki/List_of_Empire_ships_(P)), [Wikipedia - List of shipwrecks in 1955](https://en.wikipedia.org/wiki/List_of_shipwrecks_in_1955), [Private Scuba - Inchkeith Wreck](https://www.private-scuba.com/destinations/asia/india/andamans/havelock-island/inchkeith-wreck.html), [Frogman - SS Inchkeith Wreck](https://frogman.in/dive-sites-in-havelock/ss-inchkeith-wreck/), [Seahawks Scuba - SS Inchkeith](https://seahawksscuba.in/ss-inchkeith-wreck-havelock-island/), [Barefoot Scuba - Dive Sites in Andaman](https://www.barefootscuba.in/dive-sites/dive-sites-in-andaman.html). Last updated 2026-11-27.*

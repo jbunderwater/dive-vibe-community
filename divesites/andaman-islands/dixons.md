@@ -13,50 +13,48 @@ addedBy: osm_import
 
 ## Dixon's
 
-Dixon's Pinnacle (also known as Dickson's Pinnacle) is three deep underwater rock pinnacles arranged in a triangle approximately 19 kilometres east of Havelock Island, regarded as one of the finest dive sites in India and the first of the Karen brothers' sites to be mapped.
+Dixon's Pinnacle (also spelled Dickson's) is a set of three rock pinnacles about 16-19 kilometres from Havelock Island, a well-known advanced site and a cleaning station.
 
 ## Overview
 
-Dixon's Pinnacle was discovered by a local Karen community dive guide named Dickson (surname rendered as Poayesay or Poayasay depending on source) and first placed on the Havelock diving map in 2006, with Johnny's Gorge and Jackson's Bar following soon after. The Karen people — a Burmese community brought to the Andaman Islands by the British in the 1920s and 30s — lent their names to three of the best dive sites in the area: Dickson's Pinnacle, Johnny's Gorge, and Jackson's Bar. All three brothers worked with DIVEIndia, the Andamans' first dive shop, whose founder Vandit Kalia (known as "Vinnie") started the operation in Havelock in December 2003. The three pinnacles at Dixon's rise from around 35–40 metres and are covered in yellow soft corals, hard and soft coral formations, and giant barrel sponges. The site sits 19 kilometres from Havelock and requires a boat ride of 45–60 minutes or more, meaning it is only visited when seas are calm and conditions are favourable. The pinnacle tops function as an active cleaning station, drawing large aggregations of fish and making this a site of remarkable biological activity.
+Dive Andaman and Frogman describe three giant rock pinnacles rising from deeper water, about 19 km from Havelock (Frogman gives 16-19 km, 45-60 minutes by boat; Dive Andaman gives 30-40 minutes). Reported depths are 16-35 metres (both operators), and Frogman places the pinnacle tops at roughly 18-23 metres with sandy valleys between them and a bottom past 40 metres. The pinnacles are covered in yellow soft coral and barrel sponges, and both operators describe the tops as a cleaning station that draws large fish. Scuba Diving magazine reports that the site was named for Dickson, a member of Havelock's Karen community who worked with DIVEIndia (founded by Vandit Kalia), and that it was the first of the three brothers' sites (with Johnny's Gorge and Jackson's Bar) to be added to the Havelock dive map, in 2006. Spelling of the family name varies by source (Poayesay or Poayasay).
 
 ## Site Information
 
-- **Location**: East of Havelock Island (Swaraj Dweep), approximately 19 km offshore
+- **Location**: East/southeast of Havelock Island (Swaraj Dweep), about 16-19 km offshore
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: Up to 40 meters in season
-- **Current**: Can be strong; site requires calm sea conditions
-- **Best Time**: Mid-January to May (avoids monsoon and chop)
+- **Typical Visibility**: 15-30 meters (Frogman); Dive Andaman notes lower visibility at depth
+- **Current**: Moderate (Frogman)
+- **Best Time**: November to April (Frogman); November to March (Dive Andaman)
 
 ## Marine Life
 
-The pinnacle tops draw schooling barracuda, giant trevally, Napoleon wrasse families, Bengal snappers, paddle tail snappers, batfish, surgeonfish, bannerfish, glass fish, and juvenile emperor angelfish. Larger species including white-tip reef sharks and sea turtles are regular visitors. Giant groupers are seen at the cleaning stations. Moray eels inhabit crevices throughout the structure, and scorpionfish are present on the pinnacle surfaces. The base and sides of the pinnacles are coated in yellow soft corals and giant barrel sponges.
+Both Dive Andaman and Frogman report giant groupers at the cleaning stations, whitetip reef sharks, Napoleon wrasse, giant trevally, barracuda, snappers, turtles, and manta rays (Frogman notes mantas appear on some days in season). Moray eels are listed by Dive Andaman, and stingrays and batfish by Dive Andaman, with Frogman listing spotted eagle rays. Frogman notes that sightings are not guaranteed.
 
 ## Dive Profile
 
-Begin descent over the pinnacle tops at 16 metres, where cleaning station activity is most intense. Work down the sides to 25–35 metres to explore the barrel sponge and soft coral-covered flanks. Monitor depth carefully — the pinnacles are surrounded by deep water and it is easy to drift deep in current. Begin ascent with generous air reserve given the distance from shore and the need for a full safety stop. Poor visibility (5 feet or less) can occur on choppy days; abort the dive if visibility is dangerously reduced on descent.
+Operators describe starting at the pinnacle tops, where the cleaning-station activity is concentrated, and working down the sides, with a maximum around 35 metres. The pinnacles are surrounded by deeper water, so monitor depth and gas carefully.
 
 ## Entry and Exit
 
-Access by boat only; journey of 45–60+ minutes from Havelock Island depending on conditions. Entry via giant stride or back roll. The site is only operated in flat, calm conditions. Deploy an SMB during ascent — this is a remote site and boat pickup is essential.
+Access is by boat only, 30-60 minutes from Havelock depending on the operator and conditions. Deploy a delayed surface marker buoy (DSMB) on ascent; this is an offshore site and boat pickup is essential.
 
 ## Tips and Recommendations
 
-- Only attempt in calm conditions — choppy seas both impair the dive and increase the boat journey risk
-- Advanced certification required; experience with current and deep dives recommended
-- Morning departures give the best chance of calm conditions and optimal visibility
-- Watch for the cleaning station activity at the pinnacle tops — this is the highlight of the site
-- Bring a delayed surface marker buoy (DSMB) — essential at a remote offshore site
+- Operators recommend the site for advanced divers; Dive Andaman does not recommend it for beginners
+- Dive in settled sea conditions, as the site is offshore
+- Bring a DSMB
 
 ## Safety Considerations
 
-This is an offshore, deep site with potential strong currents and significant distance from shore. Only advanced divers with current experience should attempt this site. Always carry an SMB. Abort if visibility is too poor on descent — conditions at this exposed offshore site can deteriorate quickly.
+This is an offshore, deep site with current and a significant distance from shore. Dive within your certification limits and carry an SMB.
 
 ## Photography
 
-Wide-angle opportunities abound with schooling fish, sharks, and turtles against blue water or the soft-coral-covered pinnacle faces. The cleaning station activity at the tops makes for compelling fish-portrait shots.
+Yellow soft coral and barrel sponge-covered pinnacles and the cleaning-station activity are the features operators highlight.
 
 ---
-*Sources: [Dive Andaman - Dixon's Pinnacle](https://www.diveandaman.com/dixon-s-pinnacle-havelock-island), [Frogman - Dixon's Pinnacle](https://frogman.in/dive-sites-in-havelock/dixons-pinnacle/), [Scuba Diving Magazine - How Three Brothers Put Havelock Island Diving on the Map](https://www.scubadiving.com/how-three-brothers-put-havelock-island-diving-map). Note: the previously-cited diveindia.com URL for this discovery story has since gone dead (404); replaced with the Scuba Diving Magazine feature, which independently corroborates the same account. Last updated 2026-07-10.*
+*Sources: [Dive Andaman - Dixon's Pinnacle](https://www.diveandaman.com/dixon-s-pinnacle-havelock-island), [Frogman Adventures - Dixon's Pinnacle](https://frogman.in/dive-sites-in-havelock/dixons-pinnacle/), [Scuba Diving - How Three Brothers Put Havelock Island Diving on the Map](https://www.scubadiving.com/how-three-brothers-put-havelock-island-diving-map). Operators differ on boat time (30-60 minutes) and pinnacle-top depth. Last updated 2026-11-27.*

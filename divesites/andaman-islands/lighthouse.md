@@ -3,7 +3,7 @@ name: Lighthouse
 lat: 12.049892
 lng: 92.9641702
 difficulty: Beginner
-maxDepth: 20
+maxDepth: 23
 entryType: boat
 siteType: reef
 ref: null
@@ -13,50 +13,48 @@ addedBy: osm_import
 
 ## Lighthouse
 
-Lighthouse is a circular fringing reef surrounding a small lighthouse near Havelock Island's jetty, one of the most accessible beginner sites in the Andamans and one of the few where night diving is permitted.
+Lighthouse is a sloping fringing reef around a small lighthouse on Havelock Island's west coast, a beginner-level site and one of the few in the Andamans where night diving is permitted.
 
 ## Overview
 
-Lighthouse reef is located approximately 3 kilometres west of Havelock Island's main ferry jetty. The underwater topography is an oval-shaped reef encircling the base of a small lighthouse, with the sloping reef running from around 3 metres on the shallowest sections down to approximately 20 metres on the sandy bottom. The site is renowned for its variety of hard and soft corals and consistently calm conditions, making it the primary training and introductory dive site for Havelock Island operators. Night dives are offered here — unusually for the Andamans — because the site's proximity to shore and predictable layout make it manageable after dark for experienced divers.
+Lighthouse is on the western coast of Havelock, in the channel between Havelock and Peel Island, about 2.5-3 km from the main ferry jetty (Frogman gives 2.5 km, Seahawks Scuba 3 km), a 10-15 minute boat ride. Seahawks Scuba and Frogman describe an along-shore sloping reef running from about 3 metres to a sandy bottom at about 23 metres, with the lighthouse structure dividing the reef; Dive Andaman gives a range of 6-20 metres. Frogman and Seahawks Scuba use a fixed mooring buoy over the reef. The site is used for introductory dives and, according to Seahawks Scuba and Dive Andaman, for night dives by experienced divers.
 
 ## Site Information
 
-- **Location**: Western coast of Havelock Island (Swaraj Dweep), ~3 km from ferry jetty
+- **Location**: Western coast of Havelock Island (Swaraj Dweep), about 2.5-3 km from the ferry jetty
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: Up to 25 meters
-- **Current**: Generally mild
-- **Best Time**: November to April
+- **Maximum Depth**: 23 meters
+- **Typical Visibility**: 10-25 meters, depending on source and season
+- **Current**: Mild (under 0.5 knots per Frogman)
+- **Best Time**: October to April (Seahawks Scuba); November to March (Frogman)
 
 ## Marine Life
 
-Confirmed resident species include lionfish, angelfish, triggerfish, pufferfish, unicornfish, fusiliers, trumpetfish, humpback parrotfish, Moorish idols, moray eels, nudibranchs, Kuhl's stingrays, Jenkins' stingrays, and octopuses. Lobsters emerge after dark, making this one of the better night dive options in the Andamans. Green sea turtles are also reported here, most commonly February through April, along with reef sharks (frogman.in).
+Species named for this site by at least two of Dive Andaman, Seahawks Scuba and Frogman include fusiliers, unicornfish, lionfish, moray eels, stingrays, octopus, lobsters and nudibranchs. Dive Andaman also lists humpback parrotfish, Moorish idols, angelfish and pufferfish. Frogman reports green sea turtles most often from February to April.
 
 ## Dive Profile
 
-The reef slopes gently from 3 metres at the shallowest point to approximately 20 metres at the sandy bottom edge. Begin the dive exploring the shallower sections and work progressively deeper. The 5–13 metre range has the densest coral coverage and fish activity. Return to shallower depths for the safety stop.
+Frogman describes the reef as 3-5 metres at the entry with shallow coral, a coral garden at 5-12 metres where most fish life is found, a reef slope at 12-18 metres, and sandy bottom at 18-23 metres. Divers working at 12 metres or shallower will see most of the reef.
 
 ## Entry and Exit
 
-Access by boat from Havelock Island operators. Entry via giant stride or back roll. Night dives require prior arrangement with the operator and are restricted to experienced divers. Deploy an SMB during ascent.
+Access is by boat from Havelock operators, with a mooring buoy at the site. Night dives are booked separately, and Dive Andaman states they are for experienced divers. Deploy an SMB on ascent.
 
 ## Tips and Recommendations
 
-- Ideal as a first dive in the Andamans — calm, shallow, easy navigation
-- Night dives available through select operators; confirm in advance
-- The shallow reef top is excellent for new divers and underwater photography
-- Plastic waste is strictly prohibited at this site — reef-safe sunscreen required
-- Prescription dive masks available at some Havelock operators if needed
+- Described by operators as a good first dive in the Andamans
+- Night dives are available through operators; confirm in advance
+- Dive Andaman states that littering with plastic is prohibited and waste must be carried back; Seahawks Scuba asks for reef-safe sunscreen
 
 ## Safety Considerations
 
-Currents are generally mild but can increase with tidal changes. Night dives require experience and must be conducted with a qualified guide. Always carry an SMB.
+Current is mild but can vary with the tide. Night dives require experience and a qualified guide. Carry an SMB.
 
 ## Photography
 
-The shallow, calm reef provides ideal conditions for both wide-angle reef photography and macro shots of nudibranchs and small reef fish. Natural light penetrates well in the shallows during morning hours.
+Frogman lists macro subjects such as nudibranchs and shrimps, and Dive Andaman notes good clarity for night dives.
 
 ---
-*Sources: [Dive Andaman - Lighthouse](https://www.diveandaman.com/lighthouse-havelock-island), [Seahawks Scuba - Lighthouse](https://seahawksscuba.in/light-house-havelock-island/), [Frogman Adventures - Lighthouse](https://frogman.in/dive-sites-in-havelock/lighthouse/). Note: the previously-cited diveindia.com URLs for this site are now dead (404); replaced with Frogman Adventures, which is live and corroborates the 3-23m slope. Dive Andaman's own page has an internal inconsistency (main text says 6-20m, its FAQ says ~12m average) not fully resolved by other sources. Last updated 2026-07-10.*
+*Sources: [Dive Andaman - Lighthouse](https://www.diveandaman.com/lighthouse-havelock-island), [Seahawks Scuba - Lighthouse](https://seahawksscuba.in/light-house-havelock-island/), [Frogman Adventures - Lighthouse](https://frogman.in/dive-sites-in-havelock/lighthouse/). Operators differ on depth (20-23 m) and visibility (10-25 m). Last updated 2026-11-27.*
