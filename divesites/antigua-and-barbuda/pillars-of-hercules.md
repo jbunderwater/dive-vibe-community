@@ -13,47 +13,40 @@ addedBy: osm_import
 
 # Pillars of Hercules
 
-A scenic boulder and reef dive at the entrance to English Harbour — large coral-covered rock formations teeming with fish and invertebrate life, with a historic 17th-century anchor resting among the structures.
+A boulder and reef site at the entrance to English Harbour, named for the pillar-shaped formations carved by erosion on the adjacent cliff face.
 
 ## Overview
 
-Pillars of Hercules sits at the entrance to English Harbour within Nelson's Dockyard National Park on Antigua's southeast coast. The site takes its name from the pillar-shaped eroded cliff formations visible above the waterline. Underwater, the landscape is dominated by large coral-covered boulders rather than a vertical wall — the rock structures descend from just below the surface, with cracks, crevices, and swim-throughs running throughout. Sources disagree on maximum depth: DiveCarib records 4–15 metres and PADI's site page lists a 15-metre maximum, while xtremespots reports a shallower average of 3 metres and maximum of 8 metres — this database uses 15 metres, the figure supported by two of the three sources. A historic anchor lies among the formations, a reminder of the harbour's long maritime history; DiveCarib dates it to the 17th century, but PADI's current site page describes it as 18th-century — sources conflict and neither has been independently confirmed, so the exact century is left unresolved here. The site also hosts a coral nursery program established in 2021. Visibility is variable, ranging 5–15 metres depending on conditions, as the site is exposed to some southerly swell. Water temperature is 25–28°C year-round.
+Pillars of Hercules lies at the entrance to English Harbour on Antigua's south coast, within Nelson's Dockyard National Park. DiveCarib describes coral-covered boulders and the erosion-carved pillar formations on the cliff face rather than a vertical wall; Xtreme Spots describes weather-carved rocks that form swim-through passages. The site is described as suitable for certified divers of all levels and for snorkellers.
+
+Reported depths differ by source. DiveCarib gives 4 to 15 metres (13 to 50 feet), California Diver says the site starts shallow and drops to about 12 metres (40 feet), PADI lists a 15-metre maximum, and Xtreme Spots reports an average of about 3 metres and a maximum of about 8 metres. This page uses 15 metres as the upper figure.
+
+An old anchor is reported at the site. DiveCarib describes it as 17th-century, while PADI describes it as 18th-century; the sources conflict and the century is not resolved here. PADI also describes a coral nursery programme that began in 2021 and states that dive operators based within the National Park hold private moorings at the site.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 2–15 m |
+| Depth Range | 2-15 m |
 | Difficulty | Beginner |
 | Entry Type | Boat |
 | Site Type | Reef (boulder formations) |
-| Visibility | 5–15 m |
-| Current | Light to moderate |
-| Water Temp | 25–28°C |
+| Visibility | 5-10 m (Xtreme Spots) |
+| Current | Not reported |
+| Water Temp | About 25°C (Xtreme Spots) |
 
 ## Marine Life
 
-Sources confirm the following marine life at Pillars of Hercules: spotted eagle rays are regular sightings among the boulder formations; green turtles and hawksbill turtles are frequently encountered. Peacock flounders, black durgons, pufferfish, trumpetfish, blue tangs, sergeant majors, barracuda, snappers, moray eels, and spiny lobster have been reported here. The crevices and base of the boulders provide habitat for invertebrates including octopus. Specific species abundances documented at other Antigua sites (such as French angelfish, horse-eye jacks) have not been independently confirmed at Pillars of Hercules specifically.
+Species named at Pillars of Hercules by the sources reviewed:
 
-## Dive Profile
+- DiveCarib: spotted eagle rays, green turtles and hawksbill turtles.
+- California Diver: flounders, black durgons, green sea turtles and southern stingrays.
+- The Moorings: peacock flounders, spotted eagle rays, pufferfish and black durgons.
+- Xtreme Spots: blue tang, sergeant majors, barracuda, snappers, moray eels, eagle rays, lobsters, reef sharks and turtles, with dolphins occasionally seen.
 
-Descent around the outer boulder structures, then exploration of the passages and swim-throughs between formations. Most of the interesting structure sits in the 5–12 metre range, with the base of the deeper boulders reaching 15 metres. The 17th-century anchor is worth locating — dive operators typically know its position. The exposed, southerly-facing site can experience surge; the deepest sections between boulders provide some shelter. Safety stop is comfortably taken in the shallows between the rock structures.
+## Access and Conditions
 
-## Entry and Exit
-
-Boat dive. DiveCarib and other south-side operators hold private moorings at this site. The site is accessed on suitable weather days — southerly swell makes it uncomfortable. Entry by giant stride or backward roll.
-
-## Tips and Recommendations
-
-Pillars of Hercules is accessible to all certified divers and is also a recommended snorkelling site in calm conditions. Bring a torch to illuminate the colours inside the boulder crevices and to look for lobster and octopus. The 17th-century anchor is a distinctive photographic subject. The coral nursery program frames are visible on the rock structures. Best conditions are December–April when southerly swells are less frequent.
-
-## Safety Considerations
-
-Surge can develop quickly at this exposed site. Avoid the boulder base during surgy conditions. DSMB required for ascent. Current between rock formations can be unexpected. The Nelson's Dockyard National Park status means no collecting or touching marine life.
-
-## Photography
-
-The boulder formations provide excellent wide-angle subjects. Spotted eagle rays in the open water above the boulders create strong images. The historic anchor among the encrusted rock is a distinctive shot. Macro subjects on boulder faces include flamingo tongue snails, nudibranchs, and encrusting invertebrates. Split-level photography from above the boulder tops shows the rock emerging from the water in calm conditions.
+This is a boat dive; PADI notes that local operators in the National Park hold private moorings here. Xtreme Spots lists December to April as the best season and notes rough weather from July to October. Check conditions with a local operator.
 
 ---
-*Sources: [DiveCarib - Antigua Dive Sites](https://www.divecarib.com/dive-sites/), [PADI - The Pillars of Hercules](https://www.padi.com/dive-site/antigua-and-barbuda/the-pillars-of-hercules/), [Xtreme Spots - Pillars of Hercules](https://www.xtremespots.com/water-sports/scuba-diving/pillars-of-hercules-antigua-antigua-and-barbuda-2/). Last updated 2026-07-10.*
+*Sources: [DiveCarib - Antigua Dive Sites](https://www.divecarib.com/dive-sites/), [Xtreme Spots - Pillars of Hercules](https://www.xtremespots.com/water-sports/scuba-diving/pillars-of-hercules-antigua-antigua-and-barbuda-2/), [California Diver Magazine - Scuba Diving Antigua](https://californiadiver.com/scuba-diving-antigua-lord-horatio-nelsons-island-1209/), [The Moorings - Best Diving in Antigua](https://www.moorings.com/blog/best-diving-in-antigua), [PADI - The Pillars of Hercules](https://www.padi.com/dive-site/antigua-and-barbuda/the-pillars-of-hercules/). Last updated 2026-11-27.*

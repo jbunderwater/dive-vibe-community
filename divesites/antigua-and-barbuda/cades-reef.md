@@ -13,47 +13,39 @@ addedBy: osm_import
 
 # Cades Reef
 
-Antigua's premier dive destination — a two-mile barrier reef on the southwest coast protected within the Cades Bay Marine Reserve, with named dive spots, excellent hard coral diversity, and consistent encounters with nurse sharks, hawksbill turtles, and eagle rays.
+A barrier reef of about two miles on Antigua's southwest coast, partly within a protected marine area, with inner and outer sections and several named dive spots.
 
 ## Overview
 
-Cades Reef is the flagship dive destination of Antigua and one of the most consistently visited sites in the northeastern Caribbean. Running for approximately two miles (about 3 km) along Antigua's southwest coast, this barrier reef is now partly contained within the Cades Bay Marine Reserve. The reserve protects mangrove wetlands, seagrass beds, and turtle nesting beaches as well as the reef itself. The reef has both inner and outer sections accessible to divers, with the outer edge reaching approximately 15 metres and various named spots offering distinct experiences: Bush Gardens, Bluff Cut, Snapper Ledge, and Monk's Head are among the regularly dived sections. Reported depths vary considerably by source and by which section of the 2-mile reef is being dived — DiveCarib and California Diver describe depths from roughly 6 to 21 metres depending on section, while one Zentacle dive log lists a shallower 5-metre maximum, likely reflecting a dive confined to the inner protected section rather than the reef's full range. This database uses 15 metres as a representative outer-reef figure. Visibility is typically good in the dry season. Water temperature is 26–28°C year-round. Evidence of coral bleaching has been noted in recent reports; live coral coverage remains significant but conditions vary by section.
+Cades Reef runs for about two miles (roughly 3 km) along Antigua's southwest coast. Lemongrass Antigua describes it as a protected marine park with calm inner water carrying hard and soft coral and an outer edge with deeper drops, suitable for divers of all levels; Antigua and Barbuda's tourism site says the reef is partly contained in a designated underwater park. California Diver describes an outer section with stronger wave action and a more sheltered inner section, about 20 minutes by boat from Jolly Beach.
+
+Named spots mentioned by California Diver are Bush Gardens, Bluff Cut, Snapper Ledge and Monk's Head. The Moorings notes a fair amount of bleached coral on the reef.
+
+The sources reviewed do not give a single site-specific maximum depth for the reef as a whole; the 15-metre figure used in this database is approximate and varies by section.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 3–15 m |
+| Depth Range | Varies by section (about 15 m used here) |
 | Difficulty | Beginner |
 | Entry Type | Boat |
 | Site Type | Reef |
-| Visibility | 15–30 m (variable) |
-| Current | Light |
-| Water Temp | 26–28°C |
+| Visibility | Not reported |
+| Current | Inner reef calm, outer edge more wave action (California Diver) |
+| Water Temp | Not reported |
 
 ## Marine Life
 
-The following marine life has been confirmed at Cades Reef by multiple dive sources: nurse sharks rest in the sandy pockets along the reef; hawksbill turtles feed on the reef sponges; spotted eagle rays pass along the reef face; barracuda and moray eels are common throughout; angelfish are abundant. Parrotfish, trumpetfish, lobster, and spotted drum have also been reported at specific named sections. An octopus was observed at Monk's Head by a California Diver correspondent. Reef sharks have been reported at the reef by multiple divers. The reef fish community is diverse across the two-mile length.
+Species named at Cades Reef by the sources reviewed:
 
-## Dive Profile
+- California Diver: barracuda, moray eels, an occasional eagle ray, nurse sharks under ledges, reef sharks on coral heads, angelfish and spotted drum on the inner reef, and an octopus seen in daylight at Monk's Head.
+- Lemongrass Antigua: parrotfish, spotted eagle rays, moray eels and occasional nurse sharks.
+- The Moorings: trumpetfish, nurse sharks, barracuda and moray eels, with octopuses possible.
 
-Multiple dive entry points exist across the two-mile reef. Most operators focus on a 300–400 metre section relevant to the named spot for that dive. Descent to the reef crest, then navigation along the outer face at 10–15 metres to the planned turnaround. Inner reef sections are shallower and good for extended bottom time and safety stops. Total dive typically 50–60 minutes.
+## Access and Conditions
 
-## Entry and Exit
-
-Boat dive. Multiple operators visit Cades Reef daily, including DiveCarib, Indigo Divers, and Jolly Dive. The reef is approximately 15–20 minutes by dive boat from English Harbour, and 20–30 minutes from Jolly Harbour. Permanent mooring buoys prevent anchor damage. DSMB recommended.
-
-## Tips and Recommendations
-
-Cades Reef dives best in the morning when visibility is at its peak. Ask operators which section they plan to dive — Snapper Ledge and Bluff Cut have distinct characters compared to Bush Gardens. The outer reef face in 10–15 metres generally carries the largest coral formations. Fire coral is present on the shallow reef crest; avoid contact.
-
-## Safety Considerations
-
-Cades Reef is exposed to some southwest swell in winter months — check conditions before diving. The Cades Bay Marine Reserve is a no-take zone: collecting, fishing, and touching the reef are prohibited. Do not stand on coral. DSMB recommended.
-
-## Photography
-
-Cades Reef is an excellent wide-angle reef photography site with good ambient light at accessible depths. Nurse shark portraits at the sandy base pockets, hawksbill turtles at the reef crest, and eagle ray flyby shots are the most sought-after images. The named spots each have distinct character — Monk's Head and Snapper Ledge offer different compositions from the open reef sections.
+This is a boat dive. California Diver gives the travel time as about 20 minutes from Jolly Beach. Dive with a local operator and ask which section of the reef is planned.
 
 ---
-*Sources: [DiveCarib - Antigua Dive Sites](https://www.divecarib.com/dive-sites/), [California Diver Magazine - Scuba Diving Antigua](https://californiadiver.com/scuba-diving-antigua-lord-horatio-nelsons-island-1209/), [Zentacle - Cades Reef](https://www.zentacle.com/Beach/5088/cades-reef). Last updated 2026-07-10.*
+*Sources: [California Diver Magazine - Scuba Diving Antigua](https://californiadiver.com/scuba-diving-antigua-lord-horatio-nelsons-island-1209/), [Lemongrass Antigua - Best Scuba Diving Sites](https://www.lemongrassantigua.com/post/best-scuba-diving-sites-antigua-2026), [The Moorings - Best Diving in Antigua](https://www.moorings.com/blog/best-diving-in-antigua), [Antigua and Barbuda Official Tourism](https://www.antigua-barbuda.org/Agdive01.htm). Last updated 2026-11-27.*
