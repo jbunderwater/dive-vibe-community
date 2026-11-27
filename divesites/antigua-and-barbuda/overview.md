@@ -4,41 +4,23 @@ addedBy: osm_import
 
 ## Antigua and Barbuda
 
-Pillars of Hercules rock formations, Cades Reef marine park with wall dives and drift diving, and historic shipwrecks in the waters near Nelson's Dockyard.
+Boulder and reef sites near English Harbour, the Cades Reef barrier reef, a south-coast wall at Sunken Rock, a shallow wreck in Deep Bay, and the little-dived reefs and wrecks of Barbuda.
 
 ## Description
 
-Antigua and Barbuda offers diverse dive sites ranging from 8 to 30 meters depth, with most diving concentrated around Antigua's south and west coasts. Cades Reef, the island's premier dive area, provides a range from beginner-friendly shallow reef sites at 10-12 meters to deeper wall dives at 25-30 meters. The waters near English Harbour and Nelson's Dockyard hold historic wrecks, while Barbuda's remote reefs remain largely unexplored and uncrowded.
+Dive sites in this collection are concentrated on Antigua's south and west coasts, with one general entry for Barbuda. Sites include the Pillars of Hercules boulder formations at the entrance to English Harbour, the two-mile Cades Reef on the southwest coast, Sunken Rock (described by DiveCarib as Antigua's only known wall dive), the shallow Andes wreck in Deep Bay, and offshore sites such as Ariadne Shoal. Antigua and Barbuda's tourism site says Barbuda is encircled by reefs containing many wrecks, most yet to be explored.
 
-### Diving Opportunities
+### Dive Operators and Access
 
-- **Boat Diving**: Boat-accessible sites across Cades Reef, the south coast, and Barbuda
-- **Shore Diving**: Shore-accessible site
-- **Wreck Diving**: Wreck sites including the Andes Wreck and other vessels in the historic English Harbour approaches
-- **Wall Diving**: Wall sites at Cades Reef including deeper sections like Snapper Ledge and The Abyss (25-30m)
-- **Drift Diving**: Drift dive site with currents along the reef edge
-- **Reef Diving**: Reef sites including the Aquarium, Coral Garden, Pillars, and Passage at Cades Reef — popular for beginners at 10-12 meters depth
+DiveCarib is one Antigua operator that publishes a dive-site guide covering Pillars of Hercules, Sunken Rock and Carpenter's Rock. Barbudaful.net states there is no diving centre on Barbuda, so diving there is arranged locally or through Antigua-based operators.
 
-### Accessibility
+### Marine Life
 
-- **Getting There**: V.C. Bird International Airport (ANU) receives direct flights from Miami, New York, Toronto, London, and inter-Caribbean connections. Barbuda is accessible by ferry or small aircraft from Antigua.
-- **Dive Operators**: Several operators including Deep Bay Divers in St. John's (convenient for cruise ship visitors), Dockyard Divers near English Harbour, and resort-affiliated dive centers along the west coast
-- **Accommodation**: Range from all-inclusive resorts (Sandals, Jumby Bay) to boutique hotels in English Harbour and guesthouses in St. John's. Barbuda has limited eco-lodge options.
-- **Transportation**: Rental cars and taxis available on Antigua. Dive operators typically provide transport from hotels to departure points. Short boat rides to most sites from the west coast.
-- **Facilities**: PADI-certified dive centers with full equipment rental. Cruise ship-friendly operators offer half-day packages.
+No destination-wide species list is given here. Species are listed only on individual site pages where a source reports them at that site.
 
-### Marine Life & Environment
+### Seasons
 
-- **Water Conditions**: Water temperature 26-28°C year-round, visibility commonly 25-30 meters during dry season (December-May), calm Caribbean conditions on the leeward west coast
-- **Marine Biodiversity**: Tropical reef fish including angelfish, parrotfish, and sergeant majors; southern stingrays, nurse sharks, barracudas, lobsters, moray eels, sea turtles, and colorful sponge formations along the reef walls
-- **Conservation**: Cades Reef is a protected marine area. Antigua has implemented mooring buoy systems to reduce anchor damage on popular dive sites.
-
-## Additional Information
-
-- **Best Time to Visit**: December to May for the driest weather, calmest seas, and best visibility (25-30m). Diving is available year-round. Hurricane season runs June to November.
-- **Currency**: Eastern Caribbean Dollar (XCD); US dollars widely accepted
-- **Language**: English
-- **Safety**: No recompression chamber on Antigua; nearest facilities on Guadeloupe or Sint Maarten. DAN insurance recommended. Conditions are generally mild with most sites suitable for Open Water certified divers.
+Xtreme Spots lists December to April (Pillars of Hercules) and mid-December to mid-May (Carpenter's Hole) as the best seasons, and notes rough weather from July to October. The Atlantic-exposed south-coast sites require calm conditions.
 
 ---
-*Sources: [CaribbeanDiveGuide - Antigua](https://www.caribdiveguide.com/Antigua.htm), [PADI - Antigua and Barbuda](https://www.padi.com/diving-in/antigua-and-barbuda/), [ZuBlu - Antigua and Barbuda](https://www.zubludiving.com/destination/lesser-antilles/leeward-islands/antigua-barbuda), [DiveIn - Best Dive Sites in Antigua and Barbuda](https://www.divein.com/diving/destination/diving-in-antigua-and-barbudo/). Last updated 2026-04-05.*
+*Sources: [DiveCarib - Antigua Dive Sites](https://www.divecarib.com/dive-sites/), [Antigua and Barbuda Official Tourism](https://www.antigua-barbuda.org/Agdive01.htm), [Barbudaful - Diving](https://barbudaful.net/the-barbudaful-community/barbudaful-sports/diving/), [Xtreme Spots - Pillars of Hercules](https://www.xtremespots.com/water-sports/scuba-diving/pillars-of-hercules-antigua-antigua-and-barbuda-2/). Last updated 2026-11-27.*

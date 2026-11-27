@@ -32,7 +32,7 @@ La Perouse Reef lies in the tidal corridors south of Ketchikan, Southeast Alaska
 
 ## Marine Life
 
-No site-specific marine life reports have been found for La Perouse Reef. Southeast Alaska's Inside Passage generally supports lingcod, rockfish, giant Pacific octopus, anemones, sea stars, and nudibranchs as regional fauna, but no source confirms these species at this specific reef.
+No site-specific marine life reports were found for this reef. The destination's regional cold-water fauna applies in general, but no species are named here because no source confirms sightings at this specific site.
 
 ## Entry and Exit
 
@@ -43,4 +43,4 @@ No established dive operator access is documented for this site. Any dive here w
 Treat this as an unconfirmed site. The 27-meter charted depth would require attention to no-decompression limits if dived, but no confirmed dive profile exists. Standard Southeast Alaska precautions apply — dry suit, independently verified slack-tide timing, and a conservative, self-sufficient dive plan.
 
 ---
-*Description based on OSM/NOAA chart data and general Southeast Alaska regional characteristics. No site-specific sources found. Last updated 2026-07-10.*
+*Description based on OSM/NOAA chart data and general Southeast Alaska regional characteristics. No site-specific sources found. Last updated 2026-11-27.*

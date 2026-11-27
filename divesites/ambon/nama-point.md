@@ -13,53 +13,47 @@ addedBy: osm_import
 
 ## Nama Point
 
-Nama Point (Pantai Nama Wall) is a coral-rich wall on the inner Ambon Bay shore where large sponges, gorgonian fans, and black coral bushes reward divers who also scan the blue for pelagic species passing the point.
+Nama Point is listed in the database for the Pantai Nama area, which sources describe as a coral-covered wall with large sponges and an adjacent rubble slope.
 
 ## Overview
 
-Pantai Nama Wall is described by bottles-up-diving.com as "a very nice wall covered in lots of corals and large sponges." The wall drops through impressive coral formations, with a notable section completely covered by black coral bushes harbouring small damselfish, longnose hawkfish, and butterflyfish. Another area features a large outcropping on a mild current where butterflyfish and other species aggregate.
+The sources reviewed describe "Pantai Nama Wall" and "Pantai Nama Slope" rather than "Nama Point"; the match between the two names is an assumption in the database, and the exact position is not given in the sources. Bottles Up Diving describes the wall as a very nice wall covered in lots of corals and large sponges; Starfish reports coral and large sponges, black coral bushes holding damselfish, longnose hawkfish and butterflyfish, and an outcrop with some current that attracts butterflyfish. Both also describe a neighbouring slope with less coral and more rubble.
 
-Bottles-up-diving.com also describes a memorable find on this wall: a large giant (Commerson's) frogfish resting on the leaf of a soft coral — a specific, sourced detail corrected here from an earlier version of this entry that placed the frogfish in an "elephant ear sponge field," a description not supported by the source. A nearby slope section (Pantai Nama Slope), separately documented by starfish.ch, transitions from the wall to a rubble-heavy slope with ghost pipefish, ornate ghost pipefish, sea cucumbers carrying emperor shrimps, and other critters.
-
-The site is positioned on the inner Ambon Bay south shore and offers the combination of a coral wall, pelagic exposure at the point, and a critter slope — making it one of the more versatile dive sites in the bay.
+No source reviewed gives a depth for this site; the 18 m in the database is an approximate value pending a sourced figure.
 
 ## Site Information
 
-- **Location**: Tanjung Nama headland, inner south shore of Ambon Bay
+- **Location**: South shore of inner Ambon Bay (database coordinates; not confirmed by the sources reviewed)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10–20 meters
-- **Current**: Variable at the point; mild along the wall
-- **Best Time**: October to April
+- **Typical Visibility**: Not given in the sources reviewed
+- **Current**: "Some current" at an outcrop on the wall (Starfish)
 
 ## Marine Life
 
-Confirmed species at Pantai Nama Wall and its immediate vicinity include: large groupers, hawksbill turtles, sea snakes, damselfish (in black coral bushes), longnose hawkfish, butterflyfish, shrimps, nudibranchs, orangutan crabs in bubble corals, a giant/Commerson's frogfish found resting on a soft coral leaf, ornate ghost pipefish, sea cucumbers with emperor shrimps, and decorator spidercrabs. At the point itself, starfish.ch records mackerel and fusilier schools passing in the blue on suitable current conditions. Looking out from the wall into the blue is specifically recommended by multiple sources when current is present.
+- **Starfish, wall**: damselfish, longnose hawkfish and butterflyfish in black coral bushes; juvenile batfish, mackerel, fusiliers, a sea snake, large groupers, nudibranchs, orangutan crabs in bubble coral, and shrimp.
+- **Starfish, slope**: frogfish, ornate ghost pipefish, and sea cucumbers with emperor shrimp.
+- **Bottles Up Diving, wall**: groupers, hawksbill turtle, sea snake, damselfish, longnose hawkfish, butterflyfish, nudibranchs and orangutan crabs.
+- **Bottles Up Diving, slope**: frogfish, ornate ghost pipefish, sea cucumbers with emperor shrimp, and Commerson's frogfish.
 
 ## Dive Profile
 
-Boat approach from Ambon Bay operators. Descend along the wall from the reef top in shallower water, working down to 15–18 meters where the main coral formations are concentrated. Navigate along the wall, spending time in the black coral bush section and at the current-exposed point before transitioning to the adjacent Pantai Nama Slope for a macro phase. Allow air for a shallow safety stop.
+The sources describe a wall transitioning to a slope with more rubble. They do not give depths or a route.
 
 ## Entry and Exit
 
-Boat dive only; no shore entry. Entry by giant stride or back roll; follow guide for descent direction. Surface with SMB for boat pickup.
+Not described in the sources reviewed; the database lists the site as a boat dive. Confirm with your operator.
 
 ## Tips and Recommendations
 
-- Look closely in the black coral bushes for longnose hawkfish — they are small and cryptic
-- At the point, occasionally look away from the wall into the blue for passing mackerel and jacks
-- Check soft coral leaves closely — a giant frogfish has been found resting on one here, and the species relies entirely on camouflage
-- Combine with a critter dive on the adjacent slope for maximum variety
+- Look into the black coral bushes for small fish such as longnose hawkfish (Starfish, Bottles Up Diving).
+- The adjacent slope is described as the place for frogfish and ghost pipefish.
 
 ## Safety Considerations
 
-Current at the point can strengthen on tidal changes — time your arrival at the exposed section with local operator advice. Wall dives can lead to unintentional depth increases; monitor gauge regularly. Always deploy SMB before ascending in open water.
-
-## Photography
-
-The black coral bush section with hawkfish is a strong macro subject, as is the well-camouflaged giant frogfish documented resting on a soft coral leaf. Looking back at a diver silhouetted against the wall coral structures creates dramatic compositions. When pelagics pass the point, switch to a wider lens setting quickly.
+Starfish mentions some current at an outcrop on the wall. Monitor depth on wall dives and use a surface marker.
 
 ---
-*Sources: [Starfish — Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Bottles Up Diving — Ambon](https://www.bottles-up-diving.com/EN-pages/BU_divingother_ambon_EN.html). indopacificimages.com, previously cited, has gone offline (404) and was dropped as a source on re-verification. Last updated 2026-07-10.*
+*Sources: [Starfish](https://www.starfish.ch/dive/Ambon.html), [Bottles Up Diving](https://www.bottles-up-diving.com/EN-pages/BU_divingother_ambon_EN.html). Only two sources could be matched to this site; a third has not been found. Last updated 2026-11-27.*

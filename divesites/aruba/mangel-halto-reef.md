@@ -3,7 +3,7 @@ name: Mangel Halto Reef
 lat: 12.4653
 lng: -69.9712
 difficulty: Beginner
-maxDepth: 17
+maxDepth: 30
 entryType: shore
 siteType: reef
 ref: null
@@ -13,51 +13,27 @@ addedBy: osm_import
 
 ## Mangel Halto Reef
 
-Mangel Halto is a sheltered shore-entry dive on Aruba's southeastern coast combining a coral reef slope with the small Kappel tugboat wreck — a well-preserved artificial reef sunk in November 2009 at 15 meters in the sandy lagoon bowl.
+Mangel Halto is a shore dive with a shallow sandy bowl for training dives, a small tugboat wreck, and an outer reef that slopes to deeper water.
 
 ## Overview
 
-Mangel Halto sits in a protected bay on Aruba's quieter southeastern side, away from the busy Palm Beach corridor. The shore entry leads through a bowl-shaped shallow area, then out over a coral slope that drops from about 15 meters (inner bowl) down to a pronounced slope reaching 90 feet (27 meters) or more on the outer section, with an extensive mix of brain coral, deep-water gorgonians, tube sponges, and vase sponges at depth.
+JADS Aruba describes Mangel Halto as a shallow sandy bowl, ideal for training dives and discovery scuba dives, with an inner reef at about 17.5 metres, the Kappel wreck at up to 15 metres, and an outer reef to about 30 metres. Wikipedia describes the Kappel as an old tugboat at about 12 metres in a bowl-shaped site, suitable for beginner snorkelers. Guide to Caribbean Vacations says the name refers to the mangroves on the nearby beach.
 
-The standout feature for most divers is the Kappel — a 51-foot (15-meter) tugboat intentionally sunk in November 2009 by JADS Dive Center in the sandy bowl at approximately 12–15 meters (35–45 feet). It is Aruba's most recently sunk wreck and is steadily becoming colonized by corals and invertebrates. The bowl also functions as a turtle cleaning station, drawing green and hawksbill turtles regularly. The site is used for training dives by multiple operators due to its calm, protected conditions.
+The outer reef lies beyond the coastal reef. Duikersgids reports a steady current there that can become strong in high winds, with a listed depth of 25 metres, and notes access through the cuts in the reef; Aruba.com lists a maximum of 33 metres. Wikipedia notes that the area was designated a marine reserve in 2019.
 
 ## Site Information
 
-- **Location**: Mangel Halto, southeastern Aruba
+- **Location**: Near Pos Chikito, southern Aruba
 - **Entry Type**: Shore entry
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 17 meters
-- **Typical Visibility**: Good — protected bay conditions
-- **Current**: Generally calm in the bowl; can increase on outer slope
-- **Best Time**: Year-round
+- **Maximum Depth**: 30 meters
+
+The Beginner rating applies to the sandy bowl; the outer reef is deeper and can have current.
 
 ## Marine Life
 
-Documented species: green and hawksbill turtles at the cleaning station, juvenile fish, arrow crabs, feather-duster worms, grunts, damselfish, butterflyfish, and sergeant majors around the Kappel wreck. The outer reef slope hosts seahorses, octopus, and brain coral typical of deeper Caribbean reef sections. JADS Aruba lists this as a site with "soft/hard corals" and diverse fish. The relatively low dive traffic compared to north coast sites keeps fish behaviour less habituated.
-
-## Dive Profile
-
-Shore entry through the shallow sandy bowl. Locate the Kappel wreck at 12–15 meters — it is the primary focal point for most dives. From there, divers can extend to the outer slope at 17–27 meters for additional coral coverage. The inner bowl is well-suited to beginners; the outer slope is better suited to intermediate divers. Return along the reef top and exit at the entry point.
-
-## Entry and Exit
-
-Shore entry. The surface may look rougher than the underwater conditions — the bowl is typically calm once underwater. Navigate back using the bowl shape as a landmark.
-
-## Tips and Recommendations
-
-- The turtle cleaning station location within the bowl is well-known to local operators — ask for the current position
-- The Kappel wreck is very shallow and accessible for confident snorkelers
-- The outer slope is a genuinely different dive from the inner bowl — consider a two-dive visit
-- Seahorses have been documented on the outer reef; ask operators if they are currently active
-
-## Safety Considerations
-
-The bowl's protected nature makes this one of Aruba's safest shore dives. On the outer slope, be aware of depth creep along the gorgonian-covered walls. Always carry an SMB for ascent.
-
-## Photography
-
-The Kappel wreck provides a compact, well-lit subject at modest depth — ideal for natural-light photography. Turtle portraits at the cleaning station are a highlight. Macro subjects (arrow crabs, feather-duster worms, juvenile fish) are plentiful in and around the wreck.
+Wikipedia reports octopuses, green moray eels, sea turtles and barracudas on the outer reef. Duikersgids names green moray, ray and turtle. Guide to Caribbean Vacations lists gorgonians, sea anemones, tube and vase sponges, octopus, seahorses and yellowtail snapper, and Aruba.com mentions soft corals, anemones, sponges, octopuses and seahorses.
 
 ---
-*Sources: [JADS Aruba - Dive Sites](https://jadsaruba.com/scuba/dive-sites/), [Divein.com - Diving Aruba](https://www.divein.com/diving/destination/diving-aruba/), [Yellow Cunucu - Scuba Diving Aruba Guide](http://www.yellowcunucu.com/blog/scuba-diving-in-aruba). Last updated 2026-07-10 (re-audited).*
+*Sources: [JADS Aruba](https://www.jadsaruba.com/dive-sites), [Wikipedia - Mangel Halto](https://en.wikipedia.org/wiki/Mangel_Halto), [Duikersgids - Mangel Halto Buiten](https://www.duikersgids.nl/en/mangel-halto-buiten), [Guide to Caribbean Vacations](https://guidetocaribbeanvacations.com/aruba/dive_sites.html), [Aruba.com](https://www.aruba.com/nl/blog/duiken-op-aruba-10x-de-mooiste-riffen). Last updated 2026-11-27.*

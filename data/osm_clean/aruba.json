@@ -8,7 +8,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "wikipedia.org,puredivingaruba.com,rushkult.com,arubaunleashed.com",
+    "validation_source": "wikipedia.org,puredivingaruba.com,divernet.com,jadsaruba.com,palmbeachdiversaruba.com,frommers.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
@@ -16,61 +16,63 @@
       "wreck_length_ft": 398,
       "wreck_length_m": 121,
       "wreck_tonnage_grt": 4363,
-      "wreck_type": "German cargo freighter (HAPAG Hamburg America Line)",
-      "sinking_method": "scuttled by crew (seacocks opened, fires set)",
-      "note": "Lies on port side, depth 5-18m. Broken in two amidships by 1953 storm. Largest wreck accessible to divers in Caribbean.",
-      "last_qa_date": "2026-07-10"
+      "wreck_type": "German cargo freighter (Hamburg America Line)",
+      "sinking_method": "scuttled by crew (seacocks opened, fires set) per Wikipedia and Pure Diving; boiler-explosion account disputed",
+      "note": "Lies on port side in Malmok Bay; shallowest about 5m, deepest at propeller about 16.5-18m (Wikipedia 18m, Pure Diving 17m, JADS 16.5m). Storm damage had broken the hull amidships by 1953 (Wikipedia; Divernet also describes storm damage). Length conflict: Wikipedia 121.4m/398.3ft, Divernet 121m, Frommer's 394ft, Pure Diving 130m/400ft, JADS about 144m/430ft. Tonnage: Wikipedia lists 4,363 GRT and 2,164 NRT; Divernet gives 2,164 tons. Sinking: scuttled by crew 10 May 1940 as Dutch marines approached (Wikipedia, Pure Diving, Divernet; Wikipedia's shipwreck list gives 11 May). Cause conflict: Divernet attributes the sinking to a boiler explosion, Wikipedia states the boiler-explosion account is false.",
+      "last_qa_date": "2026-11-27",
+      "wreck_length_sources_conflict": "121m (Wikipedia, Divernet) to about 144m (JADS)",
+      "wreck_tonnage_nrt": 2164
     }
   },
   {
     "name": "Mangel Halto Reef",
     "lat": 12.4653,
     "lon": -69.9712,
-    "depth": 17,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "jadsaruba.com,divein.com,yellowcunucu.com",
+    "validation_source": "jadsaruba.com,en.wikipedia.org,duikersgids.nl,guidetocaribbeanvacations.com,aruba.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "note": "Inner bowl 55ft/17m, outer reef slope to 90ft/27m. Kappel tugboat wreck (51ft/15m) sunk November 2009 on sandy bottom adjacent to reef. Shore entry.",
-      "last_qa_date": "2026-07-10"
+      "note": "Shallow sandy bowl (inner reef about 17.5m per JADS) plus outer reef; outer reef max 25m (Duikersgids), 30m (JADS), 33m (Aruba.com). Kappel tugboat wreck at about 12-15m (Wikipedia 12m, JADS 15m). Shore entry; outer reef can have current in wind (Duikersgids).",
+      "last_qa_date": "2026-11-27"
     }
   },
   {
     "name": "Boca Catalina",
     "lat": 12.6059,
     "lon": -70.0528,
-    "depth": 6,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "divers-guide.com,zentacle.com,jadsaruba.com",
+    "validation_source": "duikersgids.nl,tropicalsnorkeling.com,enrichingpursuits.com,aruba.com,zentacle.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "note": "Shallow 15-35ft, seagrass/sand areas transitioning to coral patches. Calm bay, minimal current. Green sea turtles common.",
-      "last_qa_date": "2026-07-10"
+      "note": "Sandy bay near Malmok, shore entry via steps (Aruba.com) and sandy beach (Duikersgids). Depth conflict: Duikersgids 15m; Tropical Snorkeling gives 2-5ft for the adjacent Catalina Cove snorkel area. Snorkel guides report little to see directly off the beach and more life toward Catalina Cove.",
+      "last_qa_date": "2026-11-27"
     }
   },
   {
     "name": "Arashi Reef",
     "lat": 12.6099,
     "lon": -70.0566,
-    "depth": 11,
+    "depth": 16,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "happydiversaruba.com,divers-guide.com,jadsaruba.com,palmbeachdiversaruba.com",
+    "validation_source": "jadsaruba.com,duikersgids.nl,palmbeachdiversaruba.com,frommers.com,guidetocaribbeanvacations.com,aruba.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "note": "Scattered Lockheed Lodestar aircraft wreck at ~12m depth. Turtle feeding and cleaning station for green and hawksbill turtles. Max 50ft/16m per JADS.",
-      "last_qa_date": "2026-07-10"
+      "note": "Reef max 16m (JADS, Duikersgids), 12m per Palm Beach Divers, 15m per Aruba.com. Scattered Lockheed Lodestar wreckage at about 11-12m (Duikersgids, Frommer's). Known for turtles; Duikersgids describes a turtle feeding and cleaning area. Boat dive per Duikersgids.",
+      "last_qa_date": "2026-11-27"
     }
   },
   {
@@ -82,21 +84,20 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "wikipedia.org,puredivingaruba.com,willemsubmerged.wordpress.com",
+    "validation_source": "wikipedia.org,puredivingaruba.com,willemsubmerged.wordpress.com,divernet.com,palmbeachdiversaruba.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
       "year_sunk": 1942,
-      "year_built": 1938,
-      "wreck_length_ft": 355,
       "wreck_tonnage_grt": 4317,
       "wreck_type": "Lake oil tanker (Lago Shipping/Esso)",
       "attack_date": "February 16, 1942",
       "u_boat": "U-156, Kapitanleutnant Werner Hartenstein",
       "operation": "Operation Neuland",
       "casualties": 8,
-      "note": "Only the midsection remains at 25ft/8m. Fore and aft sections were salvaged, joined, and rebuilt in Baltimore (renamed Esso Pedernales 1957, Katendrecht 1958, scrapped Rotterdam 1959). Midsection used post-war as Dutch Navy target practice before becoming dive site. Re-audit 2026-07-10: confirmed single torpedo fired by U-156 at 01:31 on Feb 16 1942, and 8-of-26 crew casualties, cross-referenced against Wikipedia's Attack on Aruba article and ww2db.com in addition to the SS Pedernales Wikipedia page.",
-      "last_qa_date": "2026-07-10"
+      "note": "Only the midsection remains, about 7.6-8m depth (Wikipedia 25ft/7.6m, Pure Diving 25ft, Palm Beach Divers 8m). Fore and aft sections were joined and the ship sailed to Baltimore; scrapped 1959 (Divernet, Willemsubmerged). Midsection fate is a source conflict: Wikipedia says used as Dutch Navy bombing target, Willemsubmerged says that is unconfirmed and munitions found suggest US Army Air Force practice. Length (355ft) appears in one source only and is not used.",
+      "last_qa_date": "2026-11-27",
+      "year_built": 1938
     }
   },
   {
@@ -108,53 +109,54 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "puredivingaruba.com,willemsubmerged.wordpress.com,dreamwrecks.com",
+    "validation_source": "puredivingaruba.com,willemsubmerged.wordpress.com,dreamwrecks.com,duikersgids.nl,jadsaruba.com,divernet.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
       "wreck_length_ft": 190,
       "wreck_length_m": 57,
-      "wreck_tonnage": 749,
       "wreck_type": "Cement freighter",
       "year_built": 1959,
       "year_sunk": 1988,
       "sinking_date": "September 4, 1988",
-      "note": "Intentionally scuttled as artificial reef. Bow at 18m, propeller at 27m. Upright on sandy bottom. Previously named Blackthorn (1959), Rudyard (1976), Jane Sea (1980), then renamed Jane C. Cocaine-bust story vs. Ports Authority engine-failure/embargo record is an explicit, source-acknowledged conflict (willemsubmerged.wordpress.com); official record considered more likely per that source but not certain.",
-      "last_qa_date": "2026-07-10"
+      "note": "Cement freighter launched 1959 as Blackthorn, later Jane Sea (locally Jane C); sunk 4 September 1988 as an artificial reef. Upright; bow about 18m, propeller 27-28m (Pure Diving, Duikersgids, JADS); Divernet reports propeller at 30m. No penetration per JADS; current medium to strong per Duikersgids. Length conflict: Pure Diving/Willemsubmerged 57m (190ft), DreamWrecks 170ft, Divernet 76m. Abandonment story conflict: cocaine seizure vs engine trouble/unpaid dues and embargo (Willemsubmerged records Ports Authority archives for the latter). Tonnage (749) appears in one source only and is not used.",
+      "last_qa_date": "2026-11-27",
+      "wreck_length_sources_conflict": "52m (170ft, DreamWrecks) to 76m (Divernet)",
+      "year_built_note": "launched 1959 as Blackthorn"
     }
   },
   {
     "name": "Skalahein Reef",
     "lat": 12.4706,
     "lon": -69.9868,
-    "depth": 23,
+    "depth": 25,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "jadsaruba.com,scubaboard.com,yellowcunucu.com",
+    "validation_source": "jadsaruba.com,aruba.com,diveplannerpro.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "note": "Hard coral reef, max 75ft/25m per JADS. Schools of jacks, snapper, occasional barracuda. Southern coast with good visibility. Re-confirmed 2026-07-10 via live re-fetch of jadsaruba.com (still lists 75ft/25m, hard corals + schooling fish).",
-      "last_qa_date": "2026-07-10"
+      "note": "Hard coral reef max about 25m per JADS; Aruba.com lists max 36m with strong deep currents and rates it challenging for advanced divers; Diveplannerpro rates it Advanced. Aruba.com reports large barracuda and horse mackerel (jacks).",
+      "last_qa_date": "2026-11-27"
     }
   },
   {
     "name": "Malmok Reef",
     "lat": 12.598,
     "lon": -70.0624,
-    "depth": 5,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "divers-guide.com,zentacle.com,yellowcunucu.com",
+    "validation_source": "duikersgids.nl,guidetocaribbeanvacations.com,aruba.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "note": "Shallow 2-5m, crystal clear calm water. Brain and leaf coral, stingrays, turtles on sandy bottom. Good macro site. Training and certification dives. Visibility 25m.",
-      "last_qa_date": "2026-07-10"
+      "note": "Duikersgids lists a 12m shore dive with 20-30m visibility and limited current. Depth conflict: Aruba.com max 21m; Guide to Caribbean Vacations describes Malmok Reef and Debbie II at about 70ft roughly 2 miles off the coast (possibly a separate boat site with the same name).",
+      "last_qa_date": "2026-11-27"
     }
   },
   {
@@ -166,12 +168,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "puredivingaruba.com,palmbeachdiversaruba.com,scuba.com,atlasandboots.com",
+    "validation_source": "puredivingaruba.com,palmbeachdiversaruba.com,scuba.com,atlasandboots.com,jadsaruba.com,divernet.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "note": "Two aircraft: (1) Convair 240 (some sources say DC-3/unspecified twin-prop) - scattered by storms incl. Hurricane Lenny 1999, wing tip 14m/46ft to cockpit 22m/72ft per Pure Diving Aruba (Scuba.com reports ~14m/24m instead - minor conflict); (2) Air Aruba NAMC YS-11 - intact, upright, cockpit 16m/52ft to tail 27m/90ft per Pure Diving Aruba (Scuba.com reports ~14m/23m instead - depth conflict noted, using operator figure for planning). No Beech 18. YS-11 sunk 2004 by Aruba Water Sports Association. Location: in front of Renaissance Island. Unconfirmed drug-bust history for the Convair reported by Scuba.com/worldshipwrecks blog but not by primary operator source.",
-      "last_qa_date": "2026-07-10"
+      "note": "Two aircraft off Renaissance Island: an older twin-prop Convair (model conflict: Convair 240 per Pure Diving; Convair 340 per Palm Beach Divers and JADS; Convair 240 or DC-3 per Scuba.com and Atlas & Boots) scattered by storms/Hurricane Lenny 1999 (Scuba.com, Divernet), and an Air Aruba NAMC YS-11 sunk 2004 (Scuba.com, Divernet), intact with nose up. Depths: Pure Diving and Palm Beach Divers Convair 14-22m, YS-11 cockpit 16m to tail 27m; Scuba.com YS-11 about 14m to 23m and Convair moved to about 24m. Drug-seizure history of the Convair reported by Scuba.com and Divernet only (not by operator pages). Seats and doors removed from YS-11 before sinking.",
+      "last_qa_date": "2026-11-27"
     }
   },
   {
@@ -183,46 +185,46 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "jadsaruba.com,yellowcunucu.com,scubaboard.com",
+    "validation_source": "jadsaruba.com,aruba.com,divebuddy.com,scubadiving.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "note": "Reef slope transitioning to wall drop-off reaching ~100ft/33m per JADS. Hard and soft coral. Advanced due to depth potential. Re-confirmed 2026-07-10 via live re-fetch of jadsaruba.com (still lists 100ft/33m).",
-      "last_qa_date": "2026-07-10"
+      "note": "Slope reaching about 100ft/33m (JADS), max 30m (Aruba.com); search-result summaries from DiveBuddy and Scuba Diving describe a drop-off to 110-130ft. Site type wall retained on the basis of drop-off descriptions; JADS and Aruba.com describe a slope/coral shelf. DiveBuddy and scubadiving.com evidence is from search-result snippets only.",
+      "last_qa_date": "2026-11-27"
     }
   },
   {
     "name": "Mike's Reef",
     "lat": 12.4687,
     "lon": -69.9869,
-    "depth": 15,
+    "depth": 27,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "jadsaruba.com,yellowcunucu.com,visitaruba.com",
+    "validation_source": "visitaruba.com,frommers.com,aruba.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "note": "Depths 20-60ft. Enormous gorgonian sea fans, brain and star corals, brilliant purple/orange sponges. Barracuda common above reef top.",
-      "last_qa_date": "2026-07-10"
+      "note": "Depth 25-90ft (Visit Aruba), max 27m (Aruba.com). Large gorgonian clusters, brain, flower and star corals, purple and orange sponges; barracuda reported by Visit Aruba and Frommer's. Location: near Mangel Halto per Visit Aruba; off De Palm Island per Frommer's. Level Beginner per Visit Aruba.",
+      "last_qa_date": "2026-11-27"
     }
   },
   {
     "name": "De Palm Slope",
     "lat": 12.4657,
     "lon": -69.9851,
-    "depth": 20,
+    "depth": 37,
     "site_type": "reef",
-    "entry_type": "boat",
+    "entry_type": "both",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "duikersgids.nl,arubadive4life.com,in-aruba.com",
+    "validation_source": "duikersgids.nl,visitaruba.com,guidetocaribbeanvacations.com,zentacle.com,wikipedia.org",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "note": "Coral slope off De Palm Island, 15-120ft depth range. Cessna 414 wreck intentionally sunk as artificial reef. Moray eels, parrotfish, nurse sharks, great barracuda. Drift diving possible. 10 min by boat.",
-      "last_qa_date": "2026-07-10"
+      "note": "Coral slope off De Palm Island, 15-120ft (Visit Aruba, Guide to Caribbean Vacations); Duikersgids lists 20m. Drift diving; Intermediate per Visit Aruba. Boat dive, also reachable from shore once on Palm Island (Duikersgids). A Cessna 414 wreck lies off Palm Island (Duikersgids, Wikipedia).",
+      "last_qa_date": "2026-11-27"
     }
   },
   {
@@ -236,7 +238,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "scubaboard.com,divers-guide.com,in-aruba.com",
+    "validation_source": "scubaboard.com,wikipedia.org,divers-guide.com",
     "tags": {
       "historic": "wreck",
       "name": "California",
@@ -244,10 +246,10 @@
       "wreck:date_sunk": "September 23, 1891",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "wreck_type": "British wooden steamship (West India and Pacific Steamship Company)",
+      "wreck_type": "British steamship",
       "year_sunk": 1891,
-      "note": "North/windward coast. Depth 10-14m (30-45ft). Rarely dived - no regular dive operator schedule due to rough seas and strong currents. Little remains of original wooden structure. September-October offer best chance of calm conditions. Re-audit 2026-07-10: identity as SS California (1891) corroborated by California Lighthouse naming history + ScubaBoard + In-Aruba.com; one operator (Divers Guide) instead calls it an unidentified wreck. Divers Guide's claim of bull sharks/hammerheads at this site is uncorroborated elsewhere and was NOT added to markdown (regionally implausible, single-source).",
-      "last_qa_date": "2026-07-10"
+      "note": "SS California, British steamship wrecked 23 September 1891 (Wikipedia California Lighthouse article; ScubaBoard thread quoting Aruba Bound). Northeast coast, max depth 14m (Wikipedia, Divers Guide), strong currents. Divers Guide calls it an unidentified wreck nicknamed SS California. Divers Guide lists bull and hammerhead sharks; no other source corroborates, so no species are named in the markdown.",
+      "last_qa_date": "2026-11-27"
     }
   },
   {
@@ -261,7 +263,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "wikipedia.org,puredivingaruba.com,rushkult.com,arubaunleashed.com",
+    "validation_source": "wikipedia.org,puredivingaruba.com,divernet.com,jadsaruba.com,palmbeachdiversaruba.com,frommers.com",
     "tags": {
       "historic": "wreck",
       "name": "Antilla Shipwreck",
@@ -271,8 +273,9 @@
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "note": "OSM polygon of the same SS Antilla wreck as the SS Antilla Wreck entry (curated). Coordinates differ slightly (OSM polygon centroid vs curated point). Both reference the same 398ft/121m German freighter scuttled May 10, 1940. Hull visible at low tide.",
-      "last_qa_date": "2026-07-10"
+      "note": "Near-duplicate: OSM polygon of the same SS Antilla wreck as the curated SS Antilla Wreck entry; coordinates differ slightly (OSM polygon centroid vs curated point). See SS Antilla Wreck note for length and sinking-cause source conflicts. Not removed; flagged for dedupe.",
+      "last_qa_date": "2026-11-27",
+      "duplicate_of": "SS Antilla Wreck"
     }
   }
 ]

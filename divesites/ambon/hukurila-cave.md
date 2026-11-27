@@ -13,15 +13,13 @@ addedBy: osm_import
 
 ## Hukurila Cave
 
-Hukurila Cave is the most famous dive site on Ambon's south coast — a honeycombed headland with twisting chimney passages, multiple swim-throughs, and walls draped in gorgonian sea fans and colourful sponges.
+Hukurila Cave is a cave and swim-through site on Ambon's south coast, reached by boat, with a chimney entrance from the top and walls covered in sponges, sea fans and soft corals.
 
 ## Overview
 
-Hukurila Cave is located on the headland at Hukurila on Ambon's south coast, further east along the coastline from Pintu Kota. It is one of the most visited dive sites in the Ambon region. The headland is honeycombed with twisting chimneys, passages, and caverns; indonesia-tourism.com describes several entrances including "a big hole and two small holes that serve a way out," and starfish.ch describes entering "from the top through a hole or chimney" with a choice of several swim-throughs beyond it. Indonesia-tourism.com gives the entrance width as roughly two to three meters — narrower figures cited in earlier versions of this entry could not be confirmed against a live source and have been removed.
+Hukurila lies on Ambon's southern coast in the Hukurila Beach area. Indo Pacific Images describes a honeycombed headland with a twisting chimney and three exits at the bottom, best entered from the top, reached on a day boat trip; Starfish likewise describes entering "from the top through a hole or chimney" and then choosing between several swim-throughs. Divernet describes crevasses and canyons in the shallow reef leading to three arches lined with gorgonians, whip corals and soft corals. Dive the World describes a "large, shallow cave system" with an entrance at about 12 m and a skylight letting light into the chamber. Bottles Up Diving calls it the most famous and liked dive site on the south side and describes twisting passages, caverns and canyons.
 
-On re-verification, no currently-live source (indonesia-tourism.com or bottles-up-diving.com) actually describes the cave's geological formation as volcanic/lava rock; a prior version of this entry asserted a "lava cave" consensus that isn't supported by either page's text. That specific geological claim has been removed rather than repeated; the cave's formation mechanism is not confirmed by available sources, though the surrounding coastline is volcanic in origin generally.
-
-Bottles-up-diving.com describes it as "the most famous and liked dive site on the south side" with "twisting passages, caverns and canyons," and states visibility here can reach up to 28 meters. Indonesia-tourism.com separately states a depth around 20 meters. (An earlier version of this entry conflated the 28-meter visibility figure with depth; that error has been corrected here — sources give depth around 20m and visibility up to 28m as two different figures.)
+Sources differ on depth and entrance size. Indonesia Tourism says divers can navigate the cave to about 20 m and describes one entrance as a narrow slit about two to three metres wide, with a big hole and two small holes serving as exits; Dive the World gives the entrance depth as about 12 m; a dive-site directory listing seen in search results gives a maximum depth of 35 m. Bluewater Dive Travel notes that entry is through tight gaps. The 20 m in the database is the figure from Indonesia Tourism. Bottles Up Diving gives visibility of up to 28 m; Indonesia Tourism does not give visibility. None of the sources reviewed states how the cave formed.
 
 ## Site Information
 
@@ -30,36 +28,33 @@ Bottles-up-diving.com describes it as "the most famous and liked dive site on th
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: Up to 28 meters
-- **Current**: Can be strong outside the cave; sheltered inside
-- **Best Time**: Dry season (October to April); calm south-coast conditions required
+- **Typical Visibility**: Up to 28 meters (Bottles Up Diving)
+- **Current**: Not described in the sources reviewed
 
 ## Marine Life
 
-The cave walls are covered in large red, pink, and orange gorgonian sea fans, barrel sponges, and whip corals. Multiple sources confirm the presence of cardinalfish, damselfish, gobies, groupers, snappers, and fusiliers swimming inside the cavern. Moray eels, stonefish, cuttlefish, and Ambon scorpionfish have been reported in the cave environment. The outer reef on the south coast — benefiting from Indian Ocean water quality — is home to reef fish in good numbers; larger pelagic encounters are possible on the reef outside the cave entrance. No site-specific confirmed records of manta rays or sharks inside the cave were found; such encounters, if they occur, are on the outer reef.
+- **Starfish**: walls covered in sponges, soft corals and sea fans; "normally good visibility and lots of fish life".
+- **Dive the World**: sweepers and soldierfish sheltering in the cave; sponges and soft corals on the walls.
+- **Divernet**: long-nosed hawkfish among the gorgonians; shrimps and gobies on the whip corals.
+- **Indo Pacific Images**: large sponges and luxuriant gorgonian fans and sea whips at one exit.
+- **Bottles Up Diving**: barrel sponges, huge sea fans and table corals.
 
 ## Dive Profile
 
-Boat dive from Ambon City or the inner bay; the south coast trip takes approximately one hour and is weather-dependent. The main entry is a chimney/hole from the top, descending into the honeycombed passages to one of several exit openings. The cave can be navigated in a loop, emerging from different openings. Overall site depth runs to approximately 20 meters. Good buoyancy control is important in the narrow sections to avoid disturbing coral growth on the walls. A dive torch is recommended to reveal the colours of the gorgonians inside.
+Sources describe a descent through a chimney or hole in the reef top into passages with several swim-throughs and exits (Starfish, Indo Pacific Images). No source gives a standard route or timings.
 
 ## Entry and Exit
 
-Boat mooring or drift approach from the surface. Divers descend into the chimney entry from the top. Follow guide instructions for the chosen route through the passages — the cave has multiple exits, and staying with a guide prevents disorientation. Exit to the outer reef and ascend for boat pickup; deploy SMB before ascending in open water.
+Reached by boat, about an hour along the south coast from the harbour entrance per Indo Pacific Images (the same article describes the route to Pintu Kota). The chimney is best entered from the top. Confirm sea conditions and the route with your operator.
 
 ## Tips and Recommendations
 
-- Bring a torch to illuminate the gorgonian walls inside the cave — the colours are brilliant under artificial light
-- The south coast is only accessible in calm conditions — check sea state before committing
-- Often paired with Pintu Kota for a full south-coast dive day
-- Good buoyancy is essential in the narrow chimney sections to avoid contact with cave walls
+- Bring a torch; the walls are described as heavily colonised with sponges and sea fans.
+- Often visited together with Pintu Kota on south-coast day trips (Indo Pacific Images).
 
 ## Safety Considerations
 
-Entrance openings are reported at roughly two to three meters wide — narrow enough to require good buoyancy and streamlined equipment configuration. Strong currents are possible outside the cave entrance on the open south coast; time your entry between surges. This is not a full cave dive requiring cave certification (the passages are well-lit cavern sections), but divers should be comfortable with overhead environments. A torch is important for safety as well as aesthetics.
-
-## Photography
-
-The gorgonian-draped walls with natural blue-water light framing through the cave openings are the defining photographic opportunity. Wide-angle with a torch to paint light on the fans creates the classic Hukurila shot. The fish life inside the cavern suits mid-range and macro approaches. Shoot toward the cave openings for dramatic silhouette and backlit compositions.
+This is an overhead environment with narrow gaps (Bluewater Dive Travel, Indonesia Tourism). Neptune Liveaboards says it is suitable for qualified divers. Dive only with appropriate training and equipment, and follow your guide through the exits.
 
 ---
-*Sources: [Indonesia Tourism — Hukurila Cave](https://www.indonesia-tourism.com/maluku/hukurila_cave.html), [Starfish — Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Bottles Up Diving — Ambon](https://www.bottles-up-diving.com/EN-pages/BU_divingother_ambon_EN.html). indopacificimages.com, previously cited, has gone offline (404) and was dropped as a source on re-verification. Last updated 2026-07-10.*
+*Sources: [Indonesia Tourism - Hukurila Cave](https://www.indonesia-tourism.com/maluku/hukurila_cave.html), [Starfish](https://www.starfish.ch/dive/Ambon.html), [Bottles Up Diving](https://www.bottles-up-diving.com/EN-pages/BU_divingother_ambon_EN.html), [Dive the World](https://www.dive-the-world.com/diving-sites-indonesia-ambon.php), [Indo Pacific Images - south coast](https://indopacificimages.com/?p=6891), [Divernet](https://divernet.com/2018/04/01/ambon-inside-and-out/). Last updated 2026-11-27.*

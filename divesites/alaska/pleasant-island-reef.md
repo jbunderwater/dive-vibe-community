@@ -17,7 +17,7 @@ Pleasant Island Reef is an OSM/NOAA-charted submerged reef in Icy Strait — no 
 
 ## Overview
 
-Pleasant Island Reef lies in Icy Strait, the waterway connecting Glacier Bay to the rest of Southeast Alaska's Inside Passage, at approximately 58.31°N, 135.66°W near Pleasant Island. Icy Strait is a well-documented wildlife corridor — humpback whales, Steller sea lions, and orcas are regularly reported at the surface in the strait by whale-watching operators and researchers, independent of any dive-specific source. However, a search of Gustavus/Hoonah/Juneau-area dive operators, ScubaBoard, and regional dive-site databases during this QA pass found no operator listing, forum thread, or diver log describing Pleasant Island Reef itself as a dive site, and no source confirms that the surface wildlife activity in the strait translates to sightings at this specific submerged reef.
+Pleasant Island Reef lies in Icy Strait, the waterway connecting Glacier Bay to the rest of Southeast Alaska's Inside Passage, at approximately 58.31°N, 135.66°W near Pleasant Island. A search of Gustavus/Hoonah/Juneau-area dive operators, ScubaBoard, and regional dive-site databases during this QA pass found no operator listing, forum thread, or diver log describing Pleasant Island Reef itself as a dive site.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Pleasant Island Reef lies in Icy Strait, the waterway connecting Glacier Bay to 
 
 ## Marine Life
 
-No site-specific marine life reports have been found for Pleasant Island Reef itself. Icy Strait is a well-documented surface wildlife corridor for humpback whales, Steller sea lions, and orcas, and the wider region's rocky reefs generally support lingcod, rockfish, anemones, and sea stars — but no source confirms any of these species, including the whales and sea lions, at this specific submerged reef. A prior version of this description stated sea lions "may interact with divers in the water" here; that claim has been removed as unsupported.
+No site-specific marine life reports were found for this reef. The destination's regional cold-water fauna applies in general, but no species are named here because no source confirms sightings at this specific site.
 
 ## Entry and Exit
 
@@ -43,4 +43,4 @@ No established dive operator access is documented for this site. Any dive here w
 Treat this as an unconfirmed site. If attempted, standard Southeast Alaska precautions apply — dry suit, independently verified slack-tide timing (Icy Strait tidal exchange is powerful), and awareness of heavy fishing/tour vessel traffic in the strait.
 
 ---
-*Description based on OSM/NOAA chart data and general Southeast Alaska regional characteristics (Icy Strait surface wildlife activity is independently well-documented; reef-specific sightings are not). No site-specific sources found. Last updated 2026-07-10.*
+*Description based on OSM/NOAA chart data and general Southeast Alaska regional characteristics. No site-specific sources found. Last updated 2026-11-27.*

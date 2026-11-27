@@ -3,7 +3,7 @@ name: Laha
 lat: -3.7058
 lng: 128.1037
 difficulty: Beginner
-maxDepth: 15
+maxDepth: 30
 entryType: shore
 siteType: muck
 ref: null
@@ -13,54 +13,55 @@ addedBy: osm_import
 
 ## Laha
 
-Laha is the crown jewel of Ambon Bay muck diving — three contiguous shore-entry sites on the northern bay shore near the airport, where black volcanic sand and rubble produce one of Indonesia's highest densities of rare macro critters.
+Laha is a shore-accessible muck site on the north side of Ambon Bay, near the airport, described by several sources as Ambon's best-known macro dive.
 
 ## Overview
 
-Laha sits on the north coast of Ambon Bay, inside the bay approximately 3 km from the harbour entrance, and is divided into three sections: Laha 1 (Mandarin Point), Laha 2, and Laha 3. Each occupies a section of the same sandy slope and can produce the same species, though not always simultaneously across all three sites.
+Laha is a sloping sandy-rubble bottom with scattered stones, sponges and small corals, and a jetty with fishing debris. Dive the World calls it "the best macro dive site in Ambon", and Neptune Liveaboards calls it Ambon's most famous muck diving spot. Starfish and Bottles Up Diving treat "Laha" as a series of numbered sections (Laha 1, 2 and 3), and Starfish places the neighbouring Twilight Zone and Rhino City on the same stretch of coast. Operators and guides divide and name the slope differently, so the boundaries between these entries are approximate.
 
-Laha 1 is associated with harlequin shrimps among stones and rubble, and is particularly known for its mandarin fish (Synchiropus splendidus), which emerge at evening dives. Laha 2 features a stone and sponge-covered slope with frogfish, nudibranchs, flamboyant cuttlefish, and ghost pipefish. Laha 3 is the site most associated with rhinopias scorpionfish — multiple colour variants (blue, yellow, brown) are found here, with the fish occasionally descending to 30 meters but relocating seasonally to shallower water. Territorial disputes and interactions between individuals have been documented at Laha 3.
+Depth figures in the sources vary by section and visit. Dive the World says the slope starts at about 2 m and levels off at 12 m; Bottles Up Diving also describes the slope levelling off at 12 m before continuing down. X-Ray Mag reports Laha 1 down to 22 m and Laha 2 at 17 m. Starfish reports a first dive at Laha 3 at 30 m, noting that the rhinopias there later moved to shallower water. Neptune Liveaboards describes deeper parts below 25 m. This entry lists 30 m as the deepest reported figure for the complex; most critter diving described by sources is shallower. DivePlanit reports visibility of about 12 m at Laha 2.
 
-Laha 1 is also the site where the psychedelic frogfish (Histiophryne psychedelica) was first photographed in January 2008 by Maluku Divers (now Spice Island Divers) guides, and where the species' holotype was collected in April 2008. On re-verification, this remains an extremely rare species: the most recent specific sighting report located is a February 2019 ScubaBoard discussion of a single small individual, and posters there note no further confirmed updates since. Treat any sighting as a rare bonus rather than an expectation.
+Laha 1 (written "Laha I" on Wikipedia) is where the psychedelic frogfish was photographed in January 2008 by Maluku Divers guides, and where the holotype was collected on 2 April 2008. See the separate Psychedelic Frogfish Site entry for current sighting information: a recent ScubaBoard post reports no verified sightings since 2018.
 
 ## Site Information
 
-- **Location**: North Ambon Bay, near Ambon airport and Laha village
+- **Location**: North Ambon Bay, near the airport and Laha village
 - **Entry Type**: Shore entry
 - **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 5–20 meters (varies by time of day and tidal activity)
-- **Current**: Minimal in inner bay; long-shore currents can reduce visibility at times
-- **Best Time**: October to April
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: About 12 meters reported at Laha 2 (DivePlanit)
+- **Current**: Not described in the sources reviewed
 
 ## Marine Life
 
-The following species are confirmed across the Laha site complex by multiple independent sources: rhinopias scorpionfish (weedy / Rhinopias frondosa and Eschmeyer's / R. eschmeyeri in multiple colour variants), flamboyant cuttlefish, mandarin fish (evening dives at Laha 1), harlequin shrimps, frogfish (multiple species including psychedelic frogfish at Laha 1), ghost pipefish, nudibranchs, mimic octopus, blue-ringed octopus, moray eels, stonefish, inimicus, thorny seahorses, pygmy seahorses, and sea moths. Starfish.ch specifically documents rhinopias territorial interactions at Laha 3 and harlequin shrimp transporting starfish at Laha 1.
+Species below are those named for Laha in individual sources; no single dive will show all of them.
+
+- **Dive the World (Laha)**: black-saddled toby, ringtail cardinalfish, orange painted frogfish, shrimpfish, white cockatoo waspfish, moray eels, lionfish, stonefish, striped fangblennies, catfish, fingered dragonets, sandperches, orbicular porcupinefish, trumpetfish, pink thorny seahorses and mandarinfish (around 10 m).
+- **Starfish**: Laha 1 - harlequin shrimps in groups of two or three, and evening mandarin fish dives; Laha 2 - frogfish, nudibranchs, sea slugs, jawfish, gobies, small crabs, shrimp, ghost pipefish and sometimes flamboyant cuttlefish; Laha 3 - three rhinopias (blue, yellow and a smaller brownish one), including two seen fighting.
+- **DivePlanit (Laha 2)**: harlequin, mantis, sawblade and Coleman shrimps, morays, zebra crabs, demon stingers, fingered dragonets, tobies, porcupinefish, cuttlefish, razorfish, shrimpfish, jawfish, nudibranchs, bent stick pipefish and a pair of Honshu pipefish.
+- **X-Ray Mag**: Laha 1 - snake eels, seahorses, scorpionfish, pygmy lionfish, emperor shrimp on sea cucumbers, cowfish, flying gurnards and frogfish (the author could not find harlequin shrimps on that visit); Laha 2 - jawfish, flamboyant cuttlefish, stargazers, blennies, cockatoo waspfish and frogfish (no rhinopias seen on that visit).
+- **Neptune Liveaboards**: frogfish, seahorses and ghost pipefish in the shallows; wonderpus, mimic octopus and flamboyant cuttlefish at mid-depth; rhinopias deeper.
+
+Sightings vary between visits, as the X-Ray Mag and Starfish accounts show.
 
 ## Dive Profile
 
-Shore entry from the beach or via steps near the operator facilities. Descend the sandy slope gradually, working at the pace set by your guide. Laha 1 and 2 are best at 5–15 meters; Laha 3 rhinopias sightings are often deeper (15–30m) and require careful depth management. Evening dives at Laha 1 are the best opportunity for mandarin fish. Multiple consecutive dives are typical here — the sites are inexhaustible for patient macro searchers.
+Sources describe a sloping dive across sand and rubble, with most critter reports from the shallow and mid-depth sections. Rhinopias reports at Laha 3 include depths of 30 m (Starfish), which requires appropriate certification and gas planning. Starfish lists Laha 1 as a site for early-evening mandarin fish dives.
 
 ## Entry and Exit
 
-Shore entry from Laha village — the exact access point varies by operator (Spice Island Divers, Laha Dive Packer, Critter Junkies all operate in this area). All entries are straightforward on a calm, sheltered shore. Exit at the same point.
+The sources reviewed do not describe the entry point in detail. The database lists the site as shore entry; confirm access, entry point and exit with your operator.
 
 ## Tips and Recommendations
 
-- Evening dives at Laha 1 for mandarin fish are a Ambon highlight — time your dive for dusk
-- Slow down — most critters here are completely camouflaged against the dark substrate
-- Multiple dives over multiple days are needed to work through all three sections
-- Rhinopias at Laha 3 may require a deeper dive — ensure you have the certification and air for 25–30 meters
-- Night dives across all three sections produce different species again
+- Work the slope slowly with a local guide; sources repeatedly describe cryptic, camouflaged subjects.
+- Sightings differ between sections and visits, so several dives across the sections are a common approach.
+- If targeting rhinopias at Laha 3, check current reports with your operator and plan depth accordingly.
 
 ## Safety Considerations
 
-Inner bay conditions are generally calm with minimal current. The main hazard is boat and jetty traffic — always surface with awareness of overhead vessels and coordinate with your dive boat. Follow guide instructions throughout.
-
-## Photography
-
-Laha is consistently rated among the top five macro photography destinations in the world. The dark volcanic substrate provides clean backgrounds for critter portraits. Strobes are essential. Most subjects are found in the 10–100mm range; bring both macro and mid-range options. Rhinopias at Laha 3 can be framed with wider compositions. Mandarin fish at dusk require patience and low-light macro technique.
+Dive the World describes a jetty with fishing debris at Laha, so boat and fishing activity may be overhead. Surface under guide supervision with a surface marker, and keep depth in check when following rhinopias deeper.
 
 ---
-*Sources: [Starfish — Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Neptune Liveaboards — Ambon Diving](https://www.neptuneliveaboards.com/blog/ambon-diving/), [DivePlanit — Diving into Ambon (Nigel Marsh)](https://www.diveplanit.com/dive-destination/diving-into-ambon/), [Wikipedia — Psychedelic frogfish](https://en.wikipedia.org/wiki/Psychedelic_frogfish), [ScubaBoard — Psychedelic frogfish still in Ambon?](https://scubaboard.com/community/threads/psychedelic-frogfish-still-in-ambon.649445/). Last updated 2026-07-10.*
+*Sources: [Starfish](https://www.starfish.ch/dive/Ambon.html), [Dive the World](https://www.dive-the-world.com/diving-sites-indonesia-ambon.php), [DivePlanit](https://www.diveplanit.com/dive-destination/diving-into-ambon/), [Neptune Liveaboards](https://www.neptuneliveaboards.com/blog/ambon-diving/), [X-Ray Mag](https://old.xray-mag.com/node/5732), [Wikipedia - Psychedelic frogfish](https://en.wikipedia.org/wiki/Psychedelic_frogfish), [ScubaBoard - Psychedelic frogfish still in Ambon?](https://scubaboard.com/community/threads/psychedelic-frogfish-still-in-ambon.649445/). Last updated 2026-11-27.*

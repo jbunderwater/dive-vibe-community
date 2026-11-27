@@ -13,53 +13,27 @@ addedBy: osm_import
 
 ## California
 
-The California is a wooden British steamship that wrecked on Aruba's exposed northern coast on September 23, 1891, resting at 10–14 meters in conditions that prevent regular dive operations.
+The California wreck is the scattered remains of a British steamship lost on 23 September 1891, lying at up to 14 metres on Aruba's rough northeast coast and rarely dived.
 
 ## Overview
 
-The SS California was a vessel of the West India and Pacific Steamship Company, sailing from Liverpool to the Americas, when she ran aground and wrecked off Aruba's northwestern tip on the night of September 23, 1891. The ship's engineer was the sole fatality. Much of the cargo — said to include clothing, provisions, and furniture — was tossed overboard and collected by locals. The wreck gave its name to the area, and the California Lighthouse was built on the nearby headland between 1914–1916 specifically to prevent similar disasters.
+Wikipedia's California Lighthouse article reports that the lighthouse takes its name from the British steamship S.S. California, which sank on 23 September 1891 sailing from Liverpool to the Americas; a ScubaBoard thread quoting the Aruba Bound FAQ gives the same date and describes the ship as a steamship wrecked on this coast at night. Both report that cargo of clothing, provisions and furniture was thrown overboard and washed ashore, and ScubaBoard adds that the ship's engineer died.
 
-The California was wooden-hulled, and little of the original structure survives after more than 130 years. What remains has been moved and scattered by storms. The wreck rests at approximately 10–14 meters on a rocky bottom, but it is the conditions rather than the depth that make this Advanced: the site is on Aruba's windward coast, exposed to Atlantic tradewinds, and no dive operator dives this site on a regular schedule. Dives occur only when ocean conditions are calm enough — sources note September and October as the most likely window. Strong currents and rough seas are the norm.
-
-Note on "iron-ribbed hull" claim: The California was wooden-hulled, not iron-ribbed. This erroneous characterization has been removed.
-
-Note on identity: The California Lighthouse naming history, ScubaBoard, and In-Aruba.com all identify this wreck as the 1891 SS California. Divers Guide, an operator listing, instead describes it more cautiously as an "unidentified" century-old wreck. Given two independent historical sources (the lighthouse-naming record and multiple diving guides) corroborate the SS California identification, that name is used here, but readers should be aware at least one operator source does not confirm the identity. Re-audit also checked Divers Guide's claim of "green moray, eagle rays, bull sharks, and hammerhead sharks" at this site — no other source corroborates bull sharks or hammerheads at Aruba generally, so this unconfirmed, regionally-implausible claim was not added to the Marine Life section below.
+Wikipedia places the wreck at a maximum depth of 14 metres on the northeast coast, in an area of strong currents, and says it has broken into scattered fragments. Divers Guide also gives 14 metres. Identity is not uniform across sources: Divers Guide lists the site as an unidentified wreck of roughly a century old, nicknamed SS California. ScubaBoard posters report that little of the wreck remains and that operators rarely go because the sea is rough, with September and October suggested as the best chances for calm conditions.
 
 ## Site Information
 
-- **Location**: Northwestern Aruba, Hudishibana / California headland area (windward coast)
+- **Location**: Northeast coast of Aruba, near the California Lighthouse headland
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 14 meters
-- **Typical Visibility**: Up to 25 meters when conditions permit
-- **Current**: Strong; strong currents and rips documented
-- **Best Season**: September–October offer the best chance of diveable conditions
+
+Divers Guide reports strong current, visibility of 15 to 30 metres (average 20 metres) and recommends a surface buoy. It describes the wreck as suitable only for experienced divers.
 
 ## Marine Life
 
-No site-specific marine life documentation found for the California wreck. The wooden structure has been described as hosting coral formations and reef fish typical of Aruba's northern coast reefs, but no detailed species reports are available in published sources. Attributing specific species (nurse sharks, parrotfish, barracuda) to this site without source confirmation is not warranted.
-
-*Description based on documented site conditions; no site-specific marine life sources found.*
-
-## Dive Profile
-
-Boat dive to the wreck site on a calm-day opportunity. Depths run from approximately 10 to 14 meters. The wreck is scattered and what remains sits on a rocky bottom. Surge can be significant even on calmer days — stay close to the bottom and be prepared to abort if conditions deteriorate. No penetration possible — nothing structural remains.
-
-## Entry and Exit
-
-No regularly scheduled dive trips operate to this site. Ask dive operators in Aruba about calm-day opportunity dives; conditions are the limiting factor, not the site itself.
-
-## Tips and Recommendations
-
-- Check forecast carefully — this site is only accessible on rare calm days
-- Consider September or October when tradewind swells tend to diminish
-- The California Lighthouse above makes for a good topside complement to the dive
-- Dive with an operator who knows the local conditions well
-
-## Safety Considerations
-
-Strong currents and rough seas are the primary hazard. Only experienced divers with current management skills should attempt this site. Always evaluate conditions on the day — abort if sea state has changed from the forecast. Carry a surface marker buoy and alert your boat crew to current direction before descending.
+No species are named here. One operator listing describes a variety of fish at the site, but its specific claims are not supported by other sources, and the other sources consulted report no site-specific marine life. Aruba's regional fauna applies, but no corroborated site-specific reports were found.
 
 ---
-*Sources: [ScubaBoard - California Wreck Aruba](https://scubaboard.com/community/threads/california-wreck-aruba.219219/), [Divers Guide - California Wreck](https://www.divers-guide.com/en/california-wreck), [In-Aruba.com - California Wreck](https://www.in-aruba.com/activities/watersports/scubadivingonaruba/californiawreck). Last updated 2026-07-10 (re-audited).*
+*Sources: [Wikipedia - California Lighthouse](https://en.wikipedia.org/wiki/California_Lighthouse), [ScubaBoard - California Wreck Aruba](https://scubaboard.com/community/threads/california-wreck-aruba.219219/), [Divers Guide - California Wreck](https://www.divers-guide.com/en/california-wreck). Last updated 2026-11-27.*

@@ -13,53 +13,43 @@ addedBy: osm_import
 
 ## MV Leschi
 
-The MV Leschi is a historic steam ferry launched in 1913 that capsized near Whittier in the 1980s and now rests in the shallows of Shotgun Cove in Prince William Sound, with the hull visible at low tide.
+The Leschi is a ferry launched in 1913 whose hulk lies on the shore of Shotgun Cove (Neptune Cove) in Passage Canal, Prince William Sound, near Whittier.
 
 ## Overview
 
-The Leschi was launched on December 6, 1913, built by J. F. Duthie & Company in Seattle. It measured 169 feet (51.5 meters) in length with a gross tonnage of 433 tons. It began its career as a side-wheel steam ferry on Lake Washington before transitioning to propeller drive in 1931. In 1967 the vessel was sold to the Cape St. Elias Ocean Products Company and converted to a floating fish and crab cannery after a refit. It was subsequently operated as a cannery off Cordova and Valdez in Prince William Sound.
+The Leschi was launched on December 6, 1913 by J. F. Duthie & Company of Seattle as a side-wheel ferry for Lake Washington. In 1931 the side-wheels were removed and she was converted to propeller drive (Wikipedia, Evergreen Fleet). Sources differ on her size: Wikipedia gives 169 feet (51.5 m) and 433 gross tons, while Evergreen Fleet lists 170 x 50 x 9 and 336 gross tons. Wikipedia says she was sold in 1967 to Cape St. Elias Ocean Products Company and refitted in 1969 as a floating cannery operating off Cordova and Valdez; Evergreen Fleet gives the sale as 1969.
 
-The vessel came to rest in Shotgun Cove, an arm of Passage Canal in Prince William Sound. Sources conflict on both the date and the manner of loss: the Alaska Shipwrecks database records the vessel grounding in Shotgun Cove on December 30, 1979, while other summaries describe the ferry capsizing near Whittier as late as 1986 after continued service as a cannery. This QA pass found no source reconciling the two accounts, so both are noted here rather than picking one. The wreck is documented at 60°48'05"N 148°32'30"W in Neptune Cove within Shotgun Cove, where the hull remains visible at low tide and has been described as a popular dive site accessible from Whittier.
+Sources disagree on when and how she was lost. Evergreen Fleet and a Progressive Alaska post report that she was blown ashore in an autumn storm in 1978. Alaska Shipwrecks (citing the 2011 BOEM list) records December 30, 1979 at Shotgun Cove, at 60°48'05"N, 148°32'30"W, with the vessel coming to rest in shallow water. Wikipedia says she capsized near Whittier in 1986, a date the Progressive Alaska post disputes. The Progressive Alaska post places her on the east shore of Neptune Cove and says the wreck has been slowly rotting away; Evergreen Fleet says the wooden hull collapsed over time and that the hulk was still visible on the beach as of 2014.
+
+Alaska Shipwrecks describes the wreck as a popular dive site, but no dive report was found, and the other sources describe a beached hulk. How much of the vessel is underwater, and at what depth, is unconfirmed; the 17 meter figure in the data file is not supported by a dive source.
 
 ## Site Information
 
-- **Location**: Shotgun Cove (Neptune Cove), Passage Canal, Prince William Sound — accessible from Whittier, Alaska
+- **Location**: Shotgun Cove (Neptune Cove), Passage Canal, Prince William Sound, near Whittier, Alaska
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 17 meters
-- **Typical Visibility**: 8–15 meters (26–49 feet); better October–May, reduced in summer
-- **Current**: Moderate, tidal
-- **Water Temperature**: 4–14°C (39–57°F) — coldest in winter
-- **Best Time**: October–May for best visibility
+- **Typical Visibility**: Unknown for this site
+- **Current**: Unknown for this site
+- **Water Temperature**: Unknown for this site; Prince William Sound is cold-water diving
+- **Best Time**: Unknown for this site
 
 ## Marine Life
 
-No site-specific marine life reports confirmed for this wreck. Prince William Sound waters in general support lingcod, rockfish, giant Pacific octopus, plumose anemones, and nudibranchs. The hull structure in shallow water may attract various rockfish and invertebrate species. No site-specific diver reports were found to confirm species at this location.
+No site-specific marine life reports were found for this wreck. The destination's regional cold-water fauna applies in general, but no species are named here because no source confirms sightings at this site.
 
 ## Dive Profile
 
-The hull is visible at low tide and the wreck sits in relatively shallow water (to approximately 17 meters). The capsized orientation means divers explore what was originally the vessel's side. The shallower sections can be affected by surge and surface conditions in Passage Canal.
+No dive profile has been published for this site. Because the hull is reported to have collapsed and lies at or near the shoreline, expect scattered structure rather than an intact vessel, and check current conditions with a Whittier operator.
 
 ## Entry and Exit
 
-Access from Whittier, approximately 60 miles southeast of Anchorage via the Whittier Tunnel. Water taxi or charter dive boat from Whittier Harbor. DiveAlaska operates in Prince William Sound and may offer access to this site. Passage Canal conditions vary — check weather before departure.
-
-## Tips and Recommendations
-
-- Whittier is the primary access point — the Anton Anderson Memorial Tunnel toll road connects it to the highway
-- Smitty's Cove in Whittier is a nearby shore dive if conditions prevent the boat trip to Shotgun Cove
-- Best visibility typically in winter/spring before summer plankton blooms
-- The hull shows at low tide — time your arrival for a tidal overview before descending
-- Dry suit is essential in Prince William Sound water temperatures
+Shotgun Cove is an arm of Passage Canal near Whittier. No source describing dive access to the site was found; confirm access and conditions locally. Smitty's Cove in Whittier is a separate, better-documented dive location.
 
 ## Safety Considerations
 
-Cold-water wreck in Prince William Sound. The capsized hull presents unusual interior geometry — penetration of a wooden cannery conversion vessel with uncertain structural integrity is not recommended without specific wreck training and knowledge of the site's current condition. Dry suit and buddy diving mandatory. Always carry SMB for ascent in boat traffic areas.
-
-## Photography
-
-The hull at low tide creates above-water photo opportunities before the dive. Underwater, the overturned structure and encrusting growth on the historic wooden hull offer distinctive wide-angle shots. Cold-water invertebrate life on and around the hull provides macro subjects.
+Cold-water site with a deteriorating wooden hulk. Wreck penetration requires specific training and equipment and is not recommended at a structure of unknown condition. Dry suit and buddy diving are mandatory. Carry an SMB for ascent.
 
 ---
-*Sources: [Wikipedia — Leschi (steam ferry)](https://en.wikipedia.org/wiki/Leschi_(steam_ferry)), [Alaska Shipwrecks — L](https://alaskashipwreck.com/shipwrecks-a-z/alaska-shipwrecks-l/), [Progressive Alaska — Carcass of the Ferry Leschi](http://progressivealaska.blogspot.com/2012/07/carcass-of-ferry-leschi-in-shotgun-cove.html). Re-audited 2026-07-10: flagged that sources conflict on both date (1979 vs. 1986) and mechanism (grounded vs. capsized) rather than resolving to one account. Last updated 2026-07-10.*
+*Sources: [Wikipedia, Leschi (steam ferry)](https://en.wikipedia.org/wiki/Leschi_(steam_ferry)), [Alaska Shipwrecks (L)](https://alaskashipwreck.com/shipwrecks-a-z/alaska-shipwrecks-l/), [Evergreen Fleet, Leschi](https://evergreenfleet.com/leschi/), [Progressive Alaska](http://progressivealaska.blogspot.com/2012/07/carcass-of-ferry-leschi-in-shotgun-cove.html). Last updated 2026-11-27.*

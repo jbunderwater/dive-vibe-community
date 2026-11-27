@@ -34,7 +34,7 @@ Setting the geographic question aside, Escape Reefs is documented in OpenStreetM
 
 ## Marine Life
 
-No site-specific marine life reports have been found for Escape Reefs. The broader BC/Southeast Alaska border region generally supports lingcod, rockfish, giant Pacific octopus, anemones, and sea stars as regional fauna, but no source confirms these species at this specific reef cluster.
+No site-specific marine life reports were found for this reef. The destination's regional cold-water fauna applies in general, but no species are named here because no source confirms sightings at this specific site.
 
 ## Entry and Exit
 
@@ -45,4 +45,4 @@ No established recreational dive operator access is documented for this site.
 Treat this as an unconfirmed site of uncertain jurisdiction. If attempted, standard cold-water precautions apply — dry suit, independently verified slack-tide timing, and a conservative, self-sufficient dive plan given the remote, mixed-traffic waters near the international border.
 
 ---
-*Description based on OSM/NOAA chart data and general regional characteristics. No site-specific sources found. Geographic placement flagged for review. Last updated 2026-07-10.*
+*Description based on OSM/NOAA chart data and general regional characteristics. No site-specific sources found. Geographic placement flagged for review. Last updated 2026-11-27.*

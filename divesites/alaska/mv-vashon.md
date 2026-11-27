@@ -13,13 +13,15 @@ addedBy: osm_import
 
 ## MV Vashon
 
-The MV Vashon is a wooden passenger and automobile ferry that ran aground at Johnson Cove on Prince of Wales Island in June 1986, now resting in shallow water and serving as an artificial reef in Southeast Alaska.
+The MV Vashon was a former Washington State ferry that ran aground at Johnson Cove on Prince of Wales Island, Southeast Alaska, on June 6, 1986; sources disagree on how much of the wreck remains.
 
 ## Overview
 
-The MV Vashon was built in 1930 at the Lake Washington Shipyard in Houghton, Washington, measuring 200 feet long, 58 feet wide, and 12 feet deep, with a gross tonnage of 641 tons. It served Washington State ferry routes for decades — including Vashon Island, the San Juan Islands, and Hood Canal — and was the last wooden ferry in Washington State Ferries service when it made its final run in December 1980. Sold in 1982, it was eventually brought to Alaska for use as a supply boat. On June 6, 1986, the vessel ran aground at the head of Johnson Cove on Prince of Wales Island, approximately 55 miles north of Ketchikan. The hull rolled onto its side and was declared a total loss. Wreckage remains at the site, with portions visible at low tide.
+The Vashon was a wooden passenger and automobile ferry built in 1930 at Houghton, Washington (the Lake Washington Shipyard, per Evergreen Fleet). Alaska Shipwrecks and Evergreen Fleet both give her dimensions as 200 x 58 x 12 (length x breadth x depth; Alaska Shipwrecks gives the units as feet). Evergreen Fleet records her service on Washington's Vashon Island, San Juan Islands and Hood Canal routes, her last run for Washington State Ferries in December 1980, and a sale in 1982 followed by one summer as a hostel in Port Townsend. Her owner then took her to Alaska to be used as a supply boat. NOAA IncidentNews describes her as a former Washington State ferry listed on the National Register of Historic Places.
 
-The wreck lies at approximately 20 meters depth and has been colonized by the cold-water invertebrate communities typical of Inside Passage sites. Access is by boat from Ketchikan-area operators.
+Alaska Shipwrecks dates the loss to June 6, 1986 at Johnson Cove, Prince of Wales Island, and records no casualties; NOAA IncidentNews logs the incident as June 7, with the Coast Guard in Ketchikan notified at about 2000 on June 6 that the vessel had run aground roughly four hours earlier at the head of Johnson Cove. None of the sources give a cause for the grounding. Evergreen Fleet reports that she leaked oil, sank into the sand and rolled onto her side, and was declared a total loss and abandoned.
+
+Current condition is unclear. Alaska Shipwrecks says remains are still on site. Evergreen Fleet says the remains were visible at low tide for a few years, that a 2007 satellite photo showed very little left, and that later imagery showed nothing. No dive report describing the wreck underwater was found, so the depth in the data file (20 meters) and the state of the structure are unconfirmed. Published coordinates also differ: Alaska Shipwrecks gives approximately 55°00'30"N, 132°06'W, NOAA IncidentNews gives approximately 55°35.9'N, 133°27.5'W, and the coordinates used on this page come from OpenStreetMap.
 
 ## Site Information
 
@@ -28,38 +30,26 @@ The wreck lies at approximately 20 meters depth and has been colonized by the co
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 8–15 meters (26–49 feet)
-- **Current**: Moderate, tidal
-- **Water Temperature**: 6–12°C (43–54°F)
-- **Best Time**: June–September
+- **Typical Visibility**: Unknown, no dive reports found
+- **Current**: Unknown
+- **Water Temperature**: Unknown for this site; Southeast Alaska is cold-water diving
+- **Best Time**: Unknown
 
 ## Marine Life
 
-No site-specific marine life reports have been found for this wreck. The cold waters of the Inside Passage around Prince of Wales Island support rockfish, lingcod, giant Pacific octopus, anemones, nudibranchs, and sea stars as regional fauna, which likely colonize the hull structure. Site-specific species confirmation requires diver reports from the location.
+No site-specific marine life reports were found for this wreck. The destination's regional cold-water fauna applies in general, but no species are named here because no source confirms sightings at this site.
 
 ## Dive Profile
 
-Descend to the wreck structure and explore the exterior. The hull lies on its side, creating a distinctive dive profile along the port or starboard side. Plan for conservative bottom time in cold water. Ascend on a line or reference the hull to the shallows.
+No dive profile has been published. Confirm with a local operator whether any of the hull remains accessible underwater before planning a dive.
 
 ## Entry and Exit
 
-Access by boat from Ketchikan-area dive operators. Johnson Cove is approximately 55 nautical miles north of Ketchikan near Prince of Wales Island. No permanent mooring lines are established. Use GPS coordinates and a descent line. Always deploy an SMB on ascent.
-
-## Tips and Recommendations
-
-- Contact Ketchikan-based operators for current access conditions and bottom state of the wreck
-- Dry suit with adequate undergarment is mandatory — water temperatures are consistently cold
-- A dive torch is useful for examining the hull underside and any openings
-- The wreck is in an increasingly deteriorated state — penetration is not recommended
-- Prince of Wales Island can be reached from Ketchikan by floatplane or ferry
+No dive operator is known to run trips to this site. Any visit would need a private or custom boat charter with GPS positioning verified against more than one source, given the differing published coordinates.
 
 ## Safety Considerations
 
-Cold-water wreck in a remote setting. Penetration of this wooden-hulled wreck is not recommended — the structural integrity of a vessel sunk in 1986 in cold Alaskan waters is unpredictable. Buddy diving is mandatory. Deploy SMB before ascending. Cold water requires attention to thermal protection throughout the dive.
-
-## Photography
-
-The wooden hull structure and encrusting growth provide wide-angle wreck subjects. Natural light penetration is limited at depth in Southeast Alaska waters — an artificial light source is essential for bringing out colors and revealing detail in crevices.
+Cold-water wreck in a remote setting, with the hull reported to have collapsed onto its side. Wreck penetration requires specific training and equipment and is not recommended at a wooden wreck of unknown condition. Dry suit and buddy diving are mandatory. Deploy an SMB on ascent.
 
 ---
-*Sources: [Alaska Shipwrecks — V](https://alaskashipwreck.com/shipwrecks-a-z/alaska-shipwrecks-v/), [Evergreen Fleet — MV Vashon](https://evergreenfleet.com/vashon/), [NOAA IncidentNews — M/V Vashon](https://incidentnews.noaa.gov/incident/6365). Re-audited 2026-07-10: facts (dimensions, build date, grounding date/location, no loss of life) re-confirmed against current source content; no corrections needed. Last updated 2026-07-10.*
+*Sources: [Alaska Shipwrecks (V)](https://alaskashipwreck.com/shipwrecks-a-z/alaska-shipwrecks-v/), [Evergreen Fleet, Vashon](https://evergreenfleet.com/vashon/), [NOAA IncidentNews, M/V Vashon](https://incidentnews.noaa.gov/incident/6365). Last updated 2026-11-27.*

@@ -13,53 +13,48 @@ addedBy: osm_import
 
 ## Air Manis
 
-Air Manis is a working-jetty muck dive in Ambon Bay where fishing-boat infrastructure and accumulated substrate debris create a layered critter habitat with consistently high species density.
+Air Manis is a working-jetty muck site in Ambon Bay with boat traffic overhead, rubbish on the bottom and a wide range of small critters.
 
 ## Overview
 
-Air Manis is centred on a working fishing jetty in Ambon Bay — an active site where boats load and unload fish overhead during dives. The seabed transitions from a gravel slope near the jetty base to dark mud littered with accumulated debris further out, creating the classic muck combination of shade, artificial structure, and maximum substrate complexity. Multiple sources (bluewaterdivetravel.com, neptuneliveaboards.com, starfish.ch) describe the pier pilings as productive cleaning stations and critter habitats, with schools of fish circling beneath the structure.
+Starfish describes Air Manis (listed alongside an "Air Manis Jetty" entry) as muck diving at a working jetty, visible from the dive resort, with boats passing overhead and rubbish on the bottom but many critters. Bottles Up Diving describes a working pier with rubbish, soft coral patches and rocks, and "massive schools of fish circling under the pier". Neptune Liveaboards describes a pier whose man-made structures form an artificial reef, and Bluewater Dive Travel calls it "a wonderful muck diving site". Divernet describes a jetty site known for frogfish, including a large one among the pier legs. DivePlanit, which spells the name "Air Manus Jetty", describes a night dive on a black sand slope with no jetty in sight.
 
-DivePlanit's Nigel Marsh account (which refers to the site as "Air Manus Jetty" — likely the same location as "Air Manis" with a spelling variant between sources) confirms a night dive here producing longarm octopus, coconut octopus, starry night octopus, and Berry's bobtail squid alongside juvenile broadclub cuttlefish and two flamboyant cuttlefish. The jetty environment transforms after dark as nocturnal hunters emerge from the substrate. The site has been compared to Lembeh Strait for critter variety, a comparison found in bluewaterdivetravel.com's Ambon destination guide.
-
-On re-verification, an earlier version of this entry stated the DivePlanit account recorded "11 frogfish in a single dive" — this specific figure could not be located in the source and does not match its actual tone, which describes the psychedelic frogfish specifically as "a little hard to fill" (i.e., difficult to find). That unconfirmed statistic has been removed.
+No source reviewed gives a depth or entry description for Air Manis; the 20 m maximum and shore entry in the database are approximate values to be confirmed with an operator.
 
 ## Site Information
 
-- **Location**: Ambon Bay (south/inner bay shore, near fishing jetty)
+- **Location**: Ambon Bay (jetty visible from the dive resort, per Starfish)
 - **Entry Type**: Shore entry
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: Variable; 5–15 meters near the jetty
-- **Current**: Minimal inside the bay
-- **Best Time**: October to April; night dives particularly productive
+- **Typical Visibility**: Not given in the sources reviewed
+- **Current**: Not described in the sources reviewed
 
 ## Marine Life
 
-Species confirmed at Air Manis / Air Manus Jetty by independent sources: longarm octopus, coconut octopus, starry night octopus, and Berry's bobtail squid (all on night dives, DivePlanit), juvenile broadclub cuttlefish and flamboyant cuttlefish (DivePlanit), blue-ringed octopus, devil scorpionfish, and harlequin shrimp (neptuneliveaboards.com, describing the surrounding sand). Multiple sources describe the pier pilings as productive cleaning-station habitat, though specific attending species (e.g., moray eels, cleaner shrimp) at this exact pier could not be independently re-confirmed and have been described more generally below. The "11 frogfish in a single dive" and specific lionfish/scorpionfish claims from an earlier version of this entry could not be re-verified and have been removed.
+- **Starfish**: yellowhead dwarfgobies and a lined fire worm about 20 cm long.
+- **Bottles Up Diving**: frogfish, flamboyant cuttlefish, eels, pipefish, ghost pipefish, batfish, nudibranchs and crinoid crabs.
+- **Neptune Liveaboards**: moray eels and groupers at pier cleaning stations; blue-ringed octopus, devil scorpionfish and harlequin shrimp in the surrounding sand.
+- **DivePlanit** (night dive, "Air Manus Jetty"): longarm, coconut and starry night octopus, Berry's bobtail squid, juvenile broadclub cuttlefish, flamboyant cuttlefish, ghost pipefish, warty frogfish, scorpionfish, lionfish and flatheads.
+- **Divernet**: frogfish, including a large one among the pier legs.
 
 ## Dive Profile
 
-Shore entry adjacent to the jetty. The productive diving ranges from the shallows beneath the pier structure (2–5m, where overhead boat activity must be monitored) down to approximately 20 meters on the sloping substrate. Day dives focus on the gravel-to-mud transition zone; night dives are particularly rewarding as nocturnal octopus species emerge. Guide-recommended: the site's productivity depends heavily on knowing where to look in the debris and rubble.
+Sources describe the pier structure and the sand and rubble around it; none gives a prescribed route or depths.
 
 ## Entry and Exit
 
-Shore entry with guide supervision. Always be aware of active fishing boats using the jetty — do not ascend directly under moving vessels. Surface away from active boat traffic and coordinate with your guide for a safe exit location.
+Not described in the sources reviewed. Confirm entry with your operator.
 
 ## Tips and Recommendations
 
-- Night dives at Air Manis are among the best in Ambon Bay for octopus and cuttlefish diversity
-- The working jetty means boat activity overhead — dive with a guide who monitors this
-- Slow down in the debris and rubble — cryptic species are easily overlooked
-- Harlequin shrimp have been reported in the surrounding sand; look carefully among the rubble
+- DivePlanit reports a productive night dive here.
+- Slow down in the rubble and around the pier legs, where sources report most critter sightings.
 
 ## Safety Considerations
 
-Active boat traffic using the jetty is the primary safety concern — never ascend directly beneath the structure when boats are operating. Visibility can be poor near the jetty base when silt is disturbed. Dive with an experienced local guide who monitors the surface situation.
-
-## Photography
-
-Air Manis is exceptional for both macro and fisheye/ultra-wide shots of fish aggregations beneath the pier. The octopus diversity on night dives is a highlight. Bring a good focus light for nocturnal photography; strobes are essential. The darker conditions under the pier on day dives also reward wide-angle techniques when schools of fish are present.
+Boats pass overhead (Starfish, Bottles Up Diving). Surface away from the pier with a surface marker and under guide supervision.
 
 ---
-*Sources: [DivePlanit — Diving into Ambon (Nigel Marsh)](https://www.diveplanit.com/dive-destination/diving-into-ambon/), [Bluewater Dive Travel — Ambon Diving](https://www.bluewaterdivetravel.com/destination/ambon-diving), [Neptune Liveaboards — Ambon Diving](https://www.neptuneliveaboards.com/blog/ambon-diving/). Last updated 2026-07-10.*
+*Sources: [Starfish](https://www.starfish.ch/dive/Ambon.html), [Bottles Up Diving](https://www.bottles-up-diving.com/EN-pages/BU_divingother_ambon_EN.html), [Neptune Liveaboards](https://www.neptuneliveaboards.com/blog/ambon-diving/), [Bluewater Dive Travel](https://www.bluewaterdivetravel.com/destination/ambon-diving), [DivePlanit](https://www.diveplanit.com/dive-destination/diving-into-ambon/), [Divernet](https://divernet.com/2018/04/01/ambon-inside-and-out/). Last updated 2026-11-27.*

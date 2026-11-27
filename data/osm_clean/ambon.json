@@ -3,7 +3,7 @@
     "name": "Laha",
     "lat": -3.7058,
     "lon": 128.1037,
-    "depth": 15,
+    "depth": 30,
     "site_type": "muck",
     "entry_type": "shore",
     "difficulty": "Beginner",
@@ -11,10 +11,10 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "starfish.ch,neptuneliveaboards.com,diveplanit.com,en.wikipedia.org,scubaboard.com",
+      "validation_source": "starfish.ch,dive-the-world.com,bottles-up-diving.com,diveplanit.com,neptuneliveaboards.com,xray-mag.com,en.wikipedia.org,scubaboard.com",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-07-10",
-      "qa_note": "Re-audited 2026-07-10: sources re-verified live and consistent. Added recency caution on psychedelic frogfish sightings (no confirmed report found since Feb 2019 per ScubaBoard)."
+      "last_qa_date": "2026-11-27",
+      "qa_note": "Re-audited 2026-11-27 against live sources. Max depth raised 15 -> 30: Starfish reports a first Laha 3 dive at 30 m, X-Ray Mag Laha 1 to 22 m, Neptune deeper parts below 25 m; Dive the World/Bottles Up show slope levelling at 12 m. Species list rewritten per source/sub-site. Unsourced details removed (Mandarin Point label, operator names, best-season claim). Psychedelic frogfish status updated: ScubaBoard post 2026-11-10 reports no verified sightings since 2018."
     }
   },
   {
@@ -29,11 +29,11 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "starfish.ch,dive-the-world.com,bottles-up-diving.com",
+      "validation_source": "starfish.ch,dive-the-world.com,bottles-up-diving.com,indopacificimages.com,diveplanit.com",
       "coordinates_note": "West of Laha along same coastline per dive guides",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-07-10",
-      "qa_note": "Re-audited 2026-07-10: removed Rhinopias aphanes claim (starfish.ch states this species does not occur in Indonesia, only PNG/Australia). Removed a 28m depth figure that on re-check belongs to a different nearby site ('Laha 3') on starfish.ch, not Rhino City."
+      "last_qa_date": "2026-11-27",
+      "qa_note": "Re-audited 2026-11-27. indopacificimages.com is live again (reports up to six resident rhinopias; earlier audit found it 404) and added as 4th source. No source gives a Rhino City depth; 20 m kept as an unconfirmed database estimate. Moray eel claim removed (not in Rhino City source lists). Rhinopias aphanes not present in Indonesia per starfish.ch. Entry type (shore) not stated by sources reviewed."
     }
   },
   {
@@ -51,8 +51,8 @@
       "validation_source": "en.wikipedia.org,starfish.ch,neptuneliveaboards.com,scubaboard.com",
       "coordinates_note": "Laha I area (Maluku Divers/Spice Island Divers) where psychedelic frogfish was first photographed January 2008",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-07-10",
-      "qa_note": "Re-audited 2026-07-10: confirmed no independent source names this as a distinct dive-shop-recognized site name; it is a descriptive label for the historic 'Laha I' discovery location within the Laha complex. Added recency caution -- most recent confirmed sighting found is a Feb 2019 ScubaBoard report. Stripped regional species list not specifically confirmed at this sub-location."
+      "last_qa_date": "2026-11-27",
+      "qa_note": "Re-audited 2026-11-27. Descriptive label for Laha I (Wikipedia: holotype 2 Apr 2008 at Laha I, Maluku Divers); starfish.ch says species found at Twilight Zone. Removed 'within 100 m of jetty' (not in Wikipedia) and unsourced anatomy/behaviour details. Added ScubaBoard 2026-11-10 post: dive manager at Spice Island Divers not aware of verified sightings since 2018; recent operator photo was a re-posted 2018 image. Feb 2019 post names no site."
     }
   },
   {
@@ -67,10 +67,10 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "diveplanit.com,bluewaterdivetravel.com,neptuneliveaboards.com",
+      "validation_source": "starfish.ch,bottles-up-diving.com,diveplanit.com,bluewaterdivetravel.com,neptuneliveaboards.com,divernet.com",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-07-10",
-      "qa_note": "Re-audited 2026-07-10: removed unconfirmed '11 frogfish in a single dive' claim (not found in DivePlanit source; page's actual tone suggests frogfish are hard to find here). Removed lionfish/scorpionfish claims that could not be re-verified. Noted 'Air Manus Jetty' as a name variant used by DivePlanit. Dropped starfish.ch citation -- could not confirm it covers this specific site."
+      "last_qa_date": "2026-11-27",
+      "qa_note": "Re-audited 2026-11-27. starfish.ch confirmed (Air Manis jetty, working jetty muck; yellowhead dwarfgobies, lined fire worm) and re-added; bottles-up-diving.com and divernet.com added. Moray/grouper cleaning stations now confirmed by neptuneliveaboards.com; lionfish/scorpionfish confirmed in DivePlanit night-dive list. Depth, entry type (shore) and Intermediate difficulty are not stated by any source reviewed and remain database estimates."
     }
   },
   {
@@ -85,11 +85,11 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "indonesia-tourism.com,starfish.ch,bottles-up-diving.com",
+      "validation_source": "indonesia-tourism.com,starfish.ch,bottles-up-diving.com,dive-the-world.com,indopacificimages.com,divernet.com",
       "coordinates_note": "South coast of Ambon Island",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-07-10",
-      "qa_note": "Re-audited 2026-07-10: removed unsupported 'lava cave' geological claim -- not stated by any currently-live source. Corrected depth: 28m was bottles-up-diving.com's VISIBILITY figure mistaken for depth in a prior pass; indonesia-tourism.com's ~20m is the only sourced depth figure, so depth corrected from 28 to 20. Removed unsourced '1.5m wide / 10m deep / 3-way split' chimney detail. indopacificimages.com (previously cited) is now a dead link (404) and was dropped."
+      "last_qa_date": "2026-11-27",
+      "qa_note": "Re-audited 2026-11-27. indopacificimages.com live again; dive-the-world.com and divernet.com added. Sources conflict on depth: entrance ~12 m (dive-the-world), navigable to ~20 m (indonesia-tourism.com, kept), a directory listing gives 35 m. Visibility up to 28 m (bottles-up-diving.com). Species list restricted to per-source site-specific records; unsourced cardinalfish/snapper/moray list removed. 'Not a full cave dive' reassurance removed as unsourced."
     }
   },
   {
@@ -107,8 +107,8 @@
       "validation_source": "starfish.ch,bottles-up-diving.com",
       "coordinates_note": "South shore of inner Ambon Bay opposite Laha per dive guides",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-07-10",
-      "qa_note": "UNRESOLVED (see summary): only 2 of 3 previously-cited domains re-confirmed live -- indopacificimages.com is now a dead link (404) and no replacement third independent source was found on this pass. Left validated=true unchanged per re-audit policy (do not flip on source attrition alone) but flagging for future work. Also corrected: the 'elephant ear sponge field with giant frogfish' claim was not supported by bottles-up-diving.com's actual text (frogfish was on a soft coral leaf, not a sponge field)."
+      "last_qa_date": "2026-11-27",
+      "qa_note": "UNRESOLVED 2026-11-27: only 2 domains (starfish.ch, bottles-up-diving.com) confirm this site, and only under the name Pantai Nama Wall/Slope; no third independent source verified (a scubago.com page could not be confirmed on fetch). Depth 18 m, boat entry and location unsourced. validated left as-is per instruction. Md rewritten to report only what these two sources state."
     }
   },
   {
@@ -123,18 +123,18 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "en.wikipedia.org,coralia-liveaboard.com,starfish.ch",
+      "validation_source": "en.wikipedia.org,coralia-liveaboard.com,starfish.ch,bottles-up-diving.com,indopacificimages.com,neptuneliveaboards.com,bluewaterdivetravel.com,divernet.com",
       "coordinates_note": "Northern Ambon Bay near main harbor",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-07-10",
-      "qa_note": "Re-audited 2026-07-10 (wreck deep-dive research): corrected depth from 40m to 35m -- the 3 currently-live sources (Wikipedia, coralia-liveaboard.com, starfish.ch) consistently describe a stern~15m/bow~35m profile; the more granular 12-15/32/40+ profile traced to indopacificimages.com, now a dead link. Length remains a genuine cross-source disagreement (Wikipedia 134.4m vs starfish.ch 137m vs coralia 'over 100m') -- presented as a range, not resolved. Added a new flagged discrepancy: Wikipedia's own Allen Lawrence Pope article notes one source places the actual April 1958 bombing off Donggala, Central Sulawesi (500+ miles from Ambon), unreconciled with the wreck's identification at Ambon. Removed unconfirmed marine-life claims (lionfish, scorpionfish, fimbriated moray cleaning stations) not supported by any live source. 'Operation Haik' and CIA involvement independently corroborated via academic/historical sources (DTIC, ProQuest listings), not just dive-tourism lore."
+      "last_qa_date": "2026-11-27",
+      "qa_note": "Re-audited 2026-11-27 (wreck deep-dive). Conflicts flagged in md: length 100/134/134.4/137 m; stern 12 vs 15 m, bow 35 vs 40+ m (bottles-up-diving.com and indopacificimages.com, both live, give 12/32/40+); attack date 28 Apr vs 1-2 May 1958; identification plate water heater (Wikipedia, starfish) vs boiler (coralia, indopacificimages); name spelled Aquilo on indopacificimages. Sinking 27 May 1958 (Wikipedia, coralia, indopacificimages). Launch date 9 Jul 1940 and Trent Maritime owner left out (single source). Pilot attribution to Allen Pope omitted (single source, which Wikipedia itself doubts). Marine life now per source: moray/nudibranch/frogfish/shrimp/juvenile boxfish+emperor angelfish (coralia), fimbriated moray (indopacificimages), weedy scorpionfish/lionfish (neptune), lionfish/octopus (bluewater). JSON depth kept at 35 (3 sources) though 2 sources report bow 40+ m."
     }
   },
   {
     "name": "Pintu Kota",
     "lat": -3.771,
     "lon": 128.1508,
-    "depth": 20,
+    "depth": 30,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -142,10 +142,10 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "starfish.ch,bottles-up-diving.com,bluewaterdivetravel.com",
+      "validation_source": "starfish.ch,bottles-up-diving.com,dive-the-world.com,indopacificimages.com,divernet.com,bluewaterdivetravel.com,neptuneliveaboards.com",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-07-10",
-      "qa_note": "Re-audited 2026-07-10: arch depth (15-17m) and visibility (30+m) reconfirmed on starfish.ch and bottles-up-diving.com. Overall 20m max depth is an approximation -- no source gives a precise site max beyond the arch itself. Noted a conflicting muck-diving description found on bluewaterdivetravel.com's current page, judged to be an error/mix-up given consistent arch/wall descriptions elsewhere. indopacificimages.com (previously cited) is now a dead link (404) and was replaced with bluewaterdivetravel.com."
+      "last_qa_date": "2026-11-27",
+      "qa_note": "Re-audited 2026-11-27. Arch at 15-17 m (starfish.ch, bottles-up-diving.com, indopacificimages.com 17 m); dive-the-world.com describes an outer-coast wall dropping over 30 m, so max depth raised 20 -> 30. Type conflict: arch (4 sources), wall (dive-the-world, neptune), muck (bluewaterdivetravel.com, treated as outlier). Napoleon wrasse and sometimes mantas per bottles-up-diving.com; snapper/fusilier/jack claim removed as unsourced."
     }
   },
   {
@@ -160,11 +160,11 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "divehappy.com,diveplanit.com,en.wikipedia.org,starfish.ch",
+      "validation_source": "divehappy.com,diveplanit.com,starfish.ch,bottles-up-diving.com,indopacificimages.com,neptuneliveaboards.com",
       "coordinates_note": "Jetty area near Laha village / Pertamina fuel jetty, northwestern Ambon Bay near airport",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-07-10",
-      "qa_note": "Re-audited 2026-07-10: corrected mis-attribution -- the psychedelic frogfish discovery story was previously partly credited to divehappy.com, which on direct re-check does not contain that narrative. Discovery facts trace only to Wikipedia (tied to 'Laha I'). Noted per starfish.ch/bottles-up-diving.com/dive-the-world.com that Twilight Zone, Rhino City, and Laha are described as a contiguous overlapping muck slope, though divehappy.com treats Twilight Zone as its own distinct site. indopacificimages.com (previously cited) is now a dead link (404) and was replaced with starfish.ch."
+      "last_qa_date": "2026-11-27",
+      "qa_note": "Re-audited 2026-11-27. Wikipedia dropped from sources (does not mention Twilight Zone). Unsourced details removed: Pertamina jetty, 100 m shoreline, catfish feeding frenzies, tank-banging, operator names. Species restated per source (diveplanit, divehappy, starfish). Name/boundary overlap with Laha and Rhino City documented (neptune, bottles-up, starfish). No source gives a depth; 20 m is a database estimate."
     }
   },
   {
@@ -179,11 +179,11 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "starfish.ch,bottles-up-diving.com",
+      "validation_source": "starfish.ch,bottles-up-diving.com,indopacificimages.com",
       "coordinates_note": "Eastern Ambon Bay near Amahusu/Amahusa village",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-07-10",
-      "qa_note": "UNRESOLVED (see summary): only 2 of 3 previously-cited domains re-confirmed live -- bluewaterdivetravel.com's current page does not mention Amahusu Reef at all. No replacement third independent source found. Left validated=true unchanged per re-audit policy. Also corrected: removed mica-flecked sand detail (starfish.ch attributes this to a different site, 'Tirta Point', not Amahusu/Devion Point). Removed unconfirmed pygmy seahorse and schooling jacks/snappers/fusiliers/barracudas claims -- not found in any live source. 25m/40m depth figures could not be re-confirmed as site-specific (a similar 25m/40m figure found in searches describes Ambon reef/wall diving generally, not this site specifically) -- retained as an estimate pending better sourcing, not presented as confirmed."
+      "last_qa_date": "2026-11-27",
+      "qa_note": "Re-audited 2026-11-27. Third source found: indopacificimages.com (Amahusu, east side, steep bay slope, resident Saron shrimp colony) - now 3 domains. Sources use variant names (Devion Point/Amahusa on starfish.ch, Amahusa on bottles-up-diving.com); equivalence with 'Amahusu Reef' is an assumption. No source gives depth (25 m is a database estimate), entry type, or visibility."
     }
   }
 ]

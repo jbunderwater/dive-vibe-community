@@ -17,9 +17,9 @@ The F/V Lily is an OSM-documented fishing vessel wreck in the waters of the Alas
 
 ## Overview
 
-The F/V Lily is an OSM-tagged wreck (historic=wreck, seamark:type=wreck) at approximately 55.22°N, 161.36°W, which places it in the waters near the Cold Bay area on the western Alaska Peninsula — not in the Ketchikan area as incorrectly stated in the previous description. This location is in the remote southwestern Alaska Peninsula near the Bering Sea / North Pacific approaches. No vessel-specific history confirming the identity, build date, sinking date, or cause of loss for the F/V Lily at this location was found in any source searched during this QA pass.
+The F/V Lily is an OSM-tagged wreck (historic=wreck, seamark:type=wreck) at approximately 55.22°N, 161.36°W, which places it in the waters near the Cold Bay area on the western Alaska Peninsula. This location is in the remote southwestern Alaska Peninsula near the Bering Sea / North Pacific approaches. No vessel-specific history confirming the identity, build date, sinking date, or cause of loss for the F/V Lily at this location was found.
 
-The Cold Bay area is extremely remote, with cold water (4–8°C year-round), strong currents, and no established recreational dive infrastructure. Access would require a charter from Cold Bay or King Cove.
+The Cold Bay area is remote, and no established recreational dive infrastructure was found. Access would require a charter from Cold Bay or King Cove.
 
 ## Site Information
 
@@ -29,13 +29,13 @@ The Cold Bay area is extremely remote, with cold water (4–8°C year-round), st
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: Unknown — no recreational dive reports found
-- **Current**: Strong tidal and oceanic currents
-- **Water Temperature**: 4–8°C (39–46°F)
+- **Current**: Unknown for this site
+- **Water Temperature**: Unknown for this site
 - **Best Time**: June–August (narrow weather window)
 
 ## Marine Life
 
-No site-specific marine life reports have been found for this wreck. The Alaska Peninsula waters support halibut, Pacific cod, rockfish, Atka mackerel, lingcod, and Steller sea lions as regional fauna. No species are attributed to this specific site.
+No site-specific marine life reports were found for this wreck. The destination's regional cold-water fauna applies in general, but no species are named here because no source confirms sightings at this specific site.
 
 ## Entry and Exit
 
@@ -46,4 +46,4 @@ Cold Bay has a regional airport and serves as the nearest accessible community. 
 Extremely remote location in some of Alaska's most challenging marine conditions. Emergency response is severely limited. Dry suit and full cold-water gear mandatory. Buddy diving required. This is an expedition-level site.
 
 ---
-*Description based on OSM data and regional diving characteristics. No site-specific sources found. Re-checked 2026-07-10: Alaska Shipwrecks database and regional wreck/casualty sources re-searched (a distinct, unrelated vessel "Lily Jean" lost off Massachusetts in 2026 was ruled out as a false match); no new information found for this Alaska Peninsula site. Last updated 2026-07-10.*
+*Description based on OSM data. No site-specific sources found. Last updated 2026-11-27.*
